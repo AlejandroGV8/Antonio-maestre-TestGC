@@ -94,6 +94,27 @@ API por defecto en `http://localhost:4000`.
 - `GET /api/themes/:themeId/questions`
 - `POST /api/themes/:themeId/questions`
 
+## CI/CD a AWS S3 (GitHub Actions)
+
+El repositorio incluye un workflow en [.github/workflows/deploy-s3.yml](.github/workflows/deploy-s3.yml) que:
+
+1. Instala dependencias.
+2. Ejecuta `npm run build`.
+3. Sube `dist/` al bucket S3.
+4. Opcionalmente invalida CloudFront.
+
+Se ejecuta automáticamente en cada push a `main` y también manualmente desde la pestaña Actions.
+
+### Secrets necesarios en GitHub
+
+Configura estos secrets en GitHub Repository Settings > Secrets and variables > Actions:
+
+- `AWS_ACCESS_KEY_ID`
+- `AWS_SECRET_ACCESS_KEY`
+- `AWS_REGION` (por ejemplo `eu-west-1`)
+- `S3_BUCKET_NAME`
+- `CLOUDFRONT_DISTRIBUTION_ID` (opcional)
+
 ## Flujo recomendado de uso
 
 1. Seleccionar temas a reforzar.
