@@ -111,6 +111,7 @@ Configura estos secrets en GitHub Repository Settings > Secrets and variables > 
 
 - `AWS_ACCESS_KEY_ID`
 - `AWS_SECRET_ACCESS_KEY`
+- `AWS_SESSION_TOKEN` (solo si usas credenciales temporales de AWS)
 - `AWS_REGION` (por ejemplo `eu-west-1`)
 - `S3_BUCKET_NAME`
 - `CLOUDFRONT_DISTRIBUTION_ID` (opcional)
