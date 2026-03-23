@@ -1,0 +1,1402 @@
+[
+  {
+    "pregunta": "1. Derecho Civil. ¿Qué determina la filiación?",
+    "opciones": [
+      "a) Los apellidos.",
+      "b) El nombre.",
+      "c) El nombre y los apellidos.",
+      "d) El nombre y el primer apellido."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "2. Derecho Civil. ¿Cómo puede acreditarse la filiación? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Por presunción de paternidad matrimonial.",
+      "b) Por la posesión de estado.",
+      "c) Por inscripción en el registro civil.",
+      "d) Por incapacidad material de conseguirla."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "3. Derecho Civil. ¿Qué plazo tendrá el marido para impugnar la paternidad?",
+    "opciones": [
+      "a) Tres años desde la inscripción de la filiación en el Registro Civil.",
+      "b) Un año desde la inscripción de la filiación en el Registro Civil.",
+      "c) Dos años desde la inscripción de la filiación en el Registro Civil.",
+      "d) Cinco años desde la inscripción de la filiación en el Registro Civil."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "4. Derecho Civil. ¿Quién podrá impugnar la paternidad en interés del menor?",
+    "opciones": [
+      "a) El representante legal.",
+      "b) El Ministerio Fiscal.",
+      "c) La madre que ostente la patria potestad.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "5. Derecho Civil. ¿Cuándo se incluyen entre los alimentos los gastos del parto?",
+    "opciones": [
+      "a) En todos los casos.",
+      "b) Cuando sean reclamados y autorizados por el Juez de Paz.",
+      "c) Cuando no estén cubiertos de otro modo.",
+      "d) Los gastos de parto se incluyen de manera obligatoria."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "6. Derecho Civil. ¿Quién ocupa el tercer puesto en el orden de personas obligadas a prestar alimentos, si son 2 o más personas?",
+    "opciones": [
+      "a) Los ascendientes del grado más próximo.",
+      "b) Los descendientes del grado más lejano.",
+      "c) Los hermanos uterinos.",
+      "d) El representante legal del reclamante, cuando los progenitores o familiares no fueren hallados."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "7. Derecho Civil. ¿Por qué motivos de los que se citan, no cesa la obligación de dar alimentos?",
+    "opciones": [
+      "a) Por la muerte del alimentista.",
+      "b) Si el alimentista ha cometido alguna falta que dé lugar a la desheredación.",
+      "c) Si el obligado es descendiente del alimentista y la necesidad proviene de mala conducta.",
+      "d) Si el alimentista puede ejercer un oficio y no le es necesaria la pensión alimenticia para subsistir."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "8. Derecho Civil. ¿Con respeto a qué se ejerce la patria potestad?",
+    "opciones": [
+      "a) A los intereses del hijo.",
+      "b) A las leyes fundamentales del cuidado de la infancia.",
+      "c) A los derechos del hijo, su integridad física y mental.",
+      "d) A su personalidad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "9. Derecho Civil. ¿Con respeto a qué principio dictará el juez la medida de prohibición de aproximarse al menor?",
+    "opciones": [
+      "a) Al principio de universalidad.",
+      "b) Al principio de proporcionalidad.",
+      "c) Al principio de territorialidad.",
+      "d) Al principio de humus in fogus."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "10. Derecho Civil. ¿A quién oirá el juez, en todo caso, para decidir con qué progenitor quedan los hijos menores de edad, si aquellos viven separados?",
+    "opciones": [
+      "a) A los menores de 12 años.",
+      "b) A los mayores de edad.",
+      "c) A los mayores de 12 años.",
+      "d) A los menores de edad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "11. Derecho Civil. ¿En qué actos no representarán legalmente a los hijos de los padres que ostenten la patria potestad?",
+    "opciones": [
+      "a) Los representarán en todos los casos.",
+      "b) En aquellos que se dicten por orden o bajo vigilancia judicial.",
+      "c) En los relativos a los derechos de la personalidad del hijo.",
+      "d) En aquellos que exista conflicto de intereses entre los padres y el hijo."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "12. Derecho Civil. Término de la patria potestad. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Por la adopción del hijo.",
+      "b) Por decisión judicial o administrativa.",
+      "c) Por muerte de los padres.",
+      "d) Por muerte del hijo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "13. Derecho Civil. ¿A quién corresponde la superior vigilancia de la tutela de los menores?",
+    "opciones": [
+      "a) Al Ministerio Fiscal.",
+      "b) Al representante legal del menor.",
+      "c) Al tutor de menor.",
+      "d) A los progenitores del menor."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "14. Derecho Civil. ¿Qué edad será necesaria para que una persona pueda adoptar?",
+    "opciones": [
+      "a) Ser mayor de 25 años.",
+      "b) Ser mayor de 23 años.",
+      "c) Ser mayor de 21 años.",
+      "d) Ser mayor de 18 años."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "15. Derecho Civil. ¿Cuál de los siguientes tiene la obligación de promover la declaración de ausencia legal?",
+    "opciones": [
+      "a) El cónyuge del ausente separado legalmente.",
+      "b) El Ministerio Fiscal de oficio.",
+      "c) Cualquier persona relacionada con el desaparecido y que así lo reclame.",
+      "d) Los parientes consanguíneos hasta el 5º grado."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "16. Derecho Civil. ¿En qué plazo procede la declaración de fallecimiento, si pasado dicho plazo, el desaparecido hubiere cumplido 75 años?",
+    "opciones": [
+      "a) Pasado 1 año.",
+      "b) Pasados 6 meses.",
+      "c) Pasados 5 años.",
+      "d) Pasados 10 años."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "17. Derecho Civil. ¿En qué plazo procede la declaración de fallecimiento de los que se acredite que se encontraban a bordo de una aeronave cuyo siniestro se ha verificado y no haya evidencias racionales de supervivientes?",
+    "opciones": [
+      "a) Pasado un mes.",
+      "b) Pasados ocho días.",
+      "c) Pasados dos años.",
+      "d) No se indica plazo para este supuesto."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "18. Derecho Civil. ¿Dónde se harán constar las declaraciones de ausencia legal?",
+    "opciones": [
+      "a) En las delegaciones de Interior del lugar donde se produjo la ausencia.",
+      "b) En el Registro Civil.",
+      "c) En el juzgado competente en cada caso.",
+      "d) En el Ministerio Fiscal, mediante auto."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "19. Derecho Civil. ¿Cómo quedará determinada la filiación matrimonial materna y paterna?",
+    "opciones": [
+      "a) Por la inscripción del nacimiento junto con la del matrimonio de los padres.",
+      "b) a) y c) son correctas.",
+      "c) Por sentencia firme.",
+      "d) a) y c) son correctas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "20. Derecho Civil. ¿Mediante cuál de las siguientes no se realizará la guardia y protección de bienes de los menores?",
+    "opciones": [
+      "a) Curatela.",
+      "b) Defensor judicial.",
+      "c) Tutela.",
+      "d) Mediación."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "21. Derecho Civil. ¿Cuál de los siguientes está sujeto a tutela?",
+    "opciones": [
+      "a) Los incapacitados.",
+      "b) Los menores.",
+      "c) Los sujetos a la patria potestad prorrogada, al cesar esta, salvo que proceda curatela.",
+      "d) Ninguno de los anteriores."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "22. Derecho Civil. ¿Cómo es la acción de reclamación de la filiación matrimonial?",
+    "opciones": [
+      "a) Imprescriptible.",
+      "b) Irrevocable.",
+      "c) Irrelevante.",
+      "d) Subsidiaria."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "23. Derecho Civil. ¿A qué principios deberán ajustarse las medidas de apoyo a las personas mayores de edad o menores emancipadas?",
+    "opciones": [
+      "a) A los principios de necesidad y menor onerosidad.",
+      "b) A los principios de necesidad y proporcionalidad.",
+      "c) A los principios de proporcionalidad y menos onerosidad.",
+      "d) A los principios de necesidad y no discriminación."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "24. Derecho Civil. ¿Cuáles son las medidas de apoyo de naturaleza voluntaria?",
+    "opciones": [
+      "a) La guarda de hecho.",
+      "b) Las establecidas por la persona con discapacidad, en las que designa quién debe prestarle apoyo y con qué alcance.",
+      "c) La curatela y el defensor judicial.",
+      "d) a) y c) son correctas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "25. Derecho Civil. ¿En qué plazo se deberá alegar la causa de excusa para la tutela?",
+    "opciones": [
+      "a) No es posible alegar ningún tipo de excusa.",
+      "b) En el de 20 días desde que tenga conocimiento del nombramiento.",
+      "c) En el de 30 días desde que tenga conocimiento del nombramiento.",
+      "d) En el de 15 días desde que tenga conocimiento del nombramiento."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "26. Derecho Civil. ¿Ante quién deberá rendir cuenta general justificada de su administración el tutor, al cesar en sus funciones?",
+    "opciones": [
+      "a) Ante la autoridad judicial.",
+      "b) Ante los progenitores del tutelado.",
+      "c) Ante el representante legal del tutelado.",
+      "d) Ante el tutelado."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "27. Derecho Civil. ¿Quién constituirá la curatela mediante resolución motivada cuando no exista otra medida de apoyo suficiente para la persona con discapacidad?",
+    "opciones": [
+      "a) El Ministerio Fiscal.",
+      "b) El Letrado de la Administración de Justicia.",
+      "c) La autoridad judicial.",
+      "d) El notario, entre otros."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "28. Derecho Civil. ¿A quién se nombrará para que ampare los intereses de un emancipado cuando el tutor o curador no desempeñen sus funciones hasta que se designe a otra persona para desempeñar el cargo?",
+    "opciones": [
+      "a) Al representante legal del incapacitado.",
+      "b) Al tutor o curador suplente o auxiliar.",
+      "c) Al defensor judicial.",
+      "d) Al albacea."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "29. Derecho Civil. ¿Qué es necesario para que tenga lugar la emancipación por concesión de los que ejerzan la patria potestad?",
+    "opciones": [
+      "a) Previa autorización del Ministerio Fiscal.",
+      "b) Que el tutor o curado, en informe remitido al Ministerio Fiscal, den su aprobación.",
+      "c) Que el menor tenga concedida el beneficio de la mayor edad.",
+      "d) Que el menor tenga 16 y lo consienta."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "30. Derecho Civil. ¿Quién concede el beneficio de la mayor edad?",
+    "opciones": [
+      "a) El Ministerio Fiscal.",
+      "b) Los progenitores, si están convida.",
+      "c) El Juez, previo informe del Ministerio Fiscal.",
+      "d) El defensor judicial."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "31. Derecho Civil. El derecho a los alimentos:",
+    "opciones": [
+      "a) Es renunciable, pero intransmisible a un tercero.",
+      "b) Es irrenunciable, pero transmisible a un tercero.",
+      "c) Puede compensarse con lo que el alimentista deba al que ha de presarlos.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "32. Derecho Civil. Los hijos deben en el ámbito personal:",
+    "opciones": [
+      "a) Obedecer a sus padres mientras permanezcan bajo su potestad, y respetarles siempre. Y contribuir equitativamente al levantamiento de las cargas de la familia mientras convivan con ella.",
+      "b) Obedecer a sus padres en todo momento, y respetarles siempre. Y contribuir equitativamente al levantamiento de las cargas de la familia mientras convivan con ella.",
+      "c) Obedecer a sus padres y respetarles mientras permanezcan bajo su potestad. Y contribuir equitativamente al levantamiento de las cargas de la familia mientras convivan con ella.",
+      "d) Obedecer a sus padres mientras permanezcan bajo su potestad, y respetarles siempre. Y contribuir simbólicamente al levantamiento de las cargas de la familiares en todo momento."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "33. Derecho Civil. Los padres que ostenten la patria potestad tienen la representación legal de sus hijos menores no emancipados, exceptuándose. Señale la proposición INCORRECTA:",
+    "opciones": [
+      "a) Los actos relativos a los derechos de la personalidad que el hijo, de acuerdo con su madurez pueda ejercitar por sí mismo.",
+      "b) Aquellos en que exista conflicto de intereses entre los padres y el hijo.",
+      "c) Los actos relativos relativos a los derechos de la personalidad que el hijo pueda ejercitar por sí mismo aunque estén referidos a los deberes de cuidado y asistencia.",
+      "d) Los relativos a bienes que estén excluidos de la administración de los padres."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "34. Derecho Civil. La vecindad civil determina la sujeción:",
+    "opciones": [
+      "a) Únicamente al derecho civil común.",
+      "b) Únicamente al derecho especial o foral.",
+      "c) Al derecho civil común o al especial o foral.",
+      "d) Al derecho civil especial o al general."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "35. Derecho Civil. De acuerdo con el artículo 172 ter apartado 2, del Código Civil, establece, entre otras cuestiones, que la situación del menor en relación con su familia de origen, tanto en lo que se refiere a su guarda como al régimen de visitas y otras formas de comunicación, será revisada, al menos:",
+    "opciones": [
+      "a) Cada 3 meses.",
+      "b) Cada 2 meses.",
+      "c) Cada 4 meses.",
+      "d) Cada 6 meses."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "36. Derecho Civil. En referencia a la guarda y acogimiento de menores, la resolución administrativa que declare la situación de desamparo y las medidas adoptadas se notificará en legal forma a los progenitores tutores o guardadores y al menor afectado, cuando:",
+    "opciones": [
+      "a) Tuviere suficiente madurez, y en todo caso, si fuere mayor de14 años, de forma inmediata sin que sobrepase el plazo máximo de 48 horas.",
+      "b) Tuviere suficiente madurez, y en todo caso, si fuere menor de 16 años, de forma inmediata sin que sobrepase el plazo máximo de 24 horas.",
+      "c) Tuviere suficiente madurez, y en todo caso, si fuere mayor de 12 años, de forma inmediata sin que sobrepase el plazo máximo de 48 horas.",
+      "d) Tuviere suficiente madurez, y en todo caso, si fuere menor de 18 años, de forma inmediata sin que sobrepase el plazo máximo de 24 horas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "37. Derecho Civil. Uno de los presupuestos personales del adoptante, según el artículo 175 del Código Civil es el deber de cumplir una edad para poder adoptar como regla general, ¿qué edad será?",
+    "opciones": [
+      "a) Debe haber cumplido 18 años de edad, si son dos adoptantes basta con que uno haya alcanzado la edad.",
+      "b) Debe haber cumplido 25 años de edad, si son dos adoptantes deben tener la edad ambos.",
+      "c) Debe haber cumplido 25 años de edad, si son dos adoptantes basta con que uno haya alcanzado la edad.",
+      "d) Debe haber cumplido 18 años de edad, si son dos adoptantes deben tener la edad ambos."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "38. Derecho Civil. La adopción se constituye por:",
+    "opciones": [
+      "a) Resolución administrativa.",
+      "b) Resolución Judicial.",
+      "c) Resolución notarial.",
+      "d) Certificación registral."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "39. Derecho Civil. ¿Cuándo se puede proponer el nombramiento de más de un curador?",
+    "opciones": [
+      "a) En cualquier caso.",
+      "b) En ningún caso.",
+      "c) Si la voluntad y necesidades de la persona que precisa el apoyo lo justifican.",
+      "d) Solo mediante resolución judicial."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "40. Derecho Civil. De acuerdo con el artículo 7 del Código Civil, se establece que los derechos deberán ejercitarse conforme a las exigencias de:",
+    "opciones": [
+      "a) La Buena práctica procesal.",
+      "b) La Buena fe.",
+      "c) El Código de buena conducta.",
+      "d) El Código deontológico del derecho."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "41. Derecho Civil. ¿Qué tribunal se relaciona con la jurisprudencia?",
+    "opciones": [
+      "a) El Tribunal Supremo.",
+      "b) Todos los Tribunales.",
+      "c) El Tribunal de Justicia de la Unión Europea.",
+      "d) El Tribunal Constitucional."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "42. Derecho Civil. ¿Por qué ley se regirá la publicidad de los bienes inmuebles?",
+    "opciones": [
+      "a) Por la ley personal del causante.",
+      "b) Por el Convenio Regulador de la Propiedad.",
+      "c) Por la ley del lugar donde el propietario tegna su residencia habitual.",
+      "d) Por la ley del lugar donde se hallen."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "43. Derecho Civil. El extranjero que adquiera la nacionalidad debe optar por un tipo de vecindad. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Por la del lugar del trabajo.",
+      "b) Por la de sus herederos, hasta segundo grado.",
+      "c) Por la última que haya optado.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "44. Derecho Civil. ¿Cuál es una causa de consolidación de la nacionalidad?",
+    "opciones": [
+      "a) La posesión y utilización continuada de la nacionalidad española por 5 años, con buena fe y basada en un título inscrito en el Registro Civil.",
+      "b) La posesión y utilización continuada de la nacionalidad española por 10 años, con buena fe y basada en un título inscrito en el Registro Civil.",
+      "c) La posesión y utilización continuada de la nacionalidad española por 15 años, con buena fe y basada en un título inscrito en el Registro Civil.",
+      "d) La posesión y utilización continuada de la nacionalidad española por 20 años, con buena fe y basada en un título inscrito en el Registro Civil."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "45. Derecho Civil. Requisitos para recuperar la nacionalidad perdida. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Anular su inscripción en registros de terceros países.",
+      "b) Inscribir la recuperación en el Registro Civil.",
+      "c) Ser residente legal en España, salvo excepciones.",
+      "d) Declarar ante el encargado del Registro Civil su voluntad de recuperarla."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "46. Derecho Civil. ¿Dónde tienen el domicilio las personas jurídicas para ejercer sus derechos, si ni la ley que las han creado o reconocido ni los estatutos o las reglas de fundación los fijan?",
+    "opciones": [
+      "a) Donde se concentren en mayor número de sus trabajadores.",
+      "b) Donde decida su junta directiva.",
+      "c) Donde ejerzan las principales funciones de su instituto.",
+      "d) Donde establezcan su residencia habitual."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "47. Derecho Civil. ¿Quién puede autorizar el matrimonio secreto?",
+    "opciones": [
+      "a) El juez del lugar donde se vaya a celebrar.",
+      "b) El Ministro de Justicia.",
+      "c) El Secretario Judicial.",
+      "d) El Ministro del Interior."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "48. Derecho Civil. ¿Qué requisitos son necesarios para la prestación del consentimiento matrimonial en la forma prevista por una confesión religiosa? Señala la INCORRECTA en todo caso:",
+    "opciones": [
+      "a) Que la confesión sea heterodoxa.",
+      "b) Que la inscripción de la confesión sea en los términos autorizados por la legislación del estado.",
+      "c) Que la confesión esté inscrita.",
+      "d) Que la inscripción de la confesión sean acordados por el Estado."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "49. Derecho Civil. ¿Por quién será firmada la escritura pública de la celebración del matrimonio?",
+    "opciones": [
+      "a) Por los contrayentes.",
+      "b) Por el encargado del Registro Civil.",
+      "c) Por el Juez de lo Penal.",
+      "d) Por tres testigos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "50. Derecho Civil. ¿Quién podrá ejercer la acción de nulidad del matrimonio en caso de miedo grave?",
+    "opciones": [
+      "a) El Ministerio de Justicia.",
+      "b) El cónyuge que ha sufrido el vicio.",
+      "c) En Secretario Judicial.",
+      "d) Aquel ante quien se hubo celebrado."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "51. Derecho Civil. ¿En qué plazo podrán los cónyuges acordar la separación de mutuo acuerdo?",
+    "opciones": [
+      "a) Transcurridos dos meses desde el matrimonio.",
+      "b) Transcurrido un año desde el matrimonio.",
+      "c) Transcurridos tres años desde el matrimonio.",
+      "d) Transcurridos tres meses desde el matrimonio."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "52. Derecho Civil. ¿Por qué motivo de los siguientes se extingue el divorcio?",
+    "opciones": [
+      "a) Por el matrimonio de uno de los cónyuges.",
+      "b) Por el convenio regulador aceptado por los cónyuges.",
+      "c) Por acuerdo de, al menos, uno de los cónyuges.",
+      "d) Por la muerte de cualquiera de los cónyuges."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "53. Derecho Civil. ¿Cómo actuará el Notario si, a su juicio, el acuerdo de nulidad del matrimonio formalizado por los cónyuges es gravemente perjudicial para uno de ellos?",
+    "opciones": [
+      "a) Dará por terminado el expediente.",
+      "b) Lo advertirá a los otorgantes.",
+      "c) a) y b) son correctas.",
+      "d) Dará por terminado el expediente, instando a los otorgantes a continuar por la vía de apremio."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "54. Derecho Civil. ¿Con informe de qué órgano podrá el juez acordar la guarda y custodia compartida, aunque no se cumplan todos los requisitos?",
+    "opciones": [
+      "a) Del Secretario Judicial.",
+      "b) Del encargado del Registro Civil.",
+      "c) Del Ministerio Fiscal.",
+      "d) Del representante de cualquiera de los cónyuges."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "55. Derecho Civil. ¿En qué caso tendrá derecho a una indemnización el cónyuge cuyo matrimonio haya sido declarado nulo?",
+    "opciones": [
+      "a) Si ha existido convivencia conyugal.",
+      "b) Si el cónyuge afectado no ha alcanzado la edad de jubilación.",
+      "c) En cualquier caso.",
+      "d) Siempre que se haya estipulado previamente en el convenio regulador."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "56. Derecho Civil. ¿Cómo puede tener lugar la filiación?",
+    "opciones": [
+      "a) Por capacidad o incapacidad.",
+      "b) Por adopción o por naturaleza.",
+      "c) Por matrimonio o no matrimonio.",
+      "d) Por la inscripción en el Registro Civil o Ley del mismo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "57. Derecho Civil. ¿En qué caso puede el marido destruir la presunción de su paternidad?",
+    "opciones": [
+      "a) Si los hijos son de distinta raza a la suya.",
+      "b) Si los hijos han nacido después del matrimonio.",
+      "c) Si los hijos han nacido antes de los 300 días desde la separación de los cónyuges.",
+      "d) Si los hijos han nacido dentro de los 180 días siguientes al matrimonio."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "58. Derecho Civil. ¿Cómo se puede impugnar la maternidad?",
+    "opciones": [
+      "a) No es posible impugnarla.",
+      "b) Justificando la mujer no ser cierta la identidad del hijo.",
+      "c) Mediante la celebración en contrario del menor.",
+      "d) Por impugnación legal, a partir de los cuatro años del parto."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "59. Derecho Civil. Alimentos: ¿A petición de quién ordena el juez con urgencia las medidas cautelares para asegurar los anticipos que haga una Entidad pública y proveer a las futuras necesidades?",
+    "opciones": [
+      "a) Del alimentista o del Ministerio Fiscal.",
+      "b) Del alimentador.",
+      "c) Del encargado del Registro Civil.",
+      "d) Del Ministerio Fiscal."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "60. Derecho Civil. ¿En qué casos ejercerá el menor no emancipado la patria potestad sobre sus hijos menores con la asistencia del Juez?",
+    "opciones": [
+      "a) En casos de urgente e imperiosa necesidad.",
+      "b) En casos de imposibilidad o desacuerdo.",
+      "c) El Juez puede asistir al menor, en cualquier caso.",
+      "d) En caso de que los progenitores del menor cedan ese derecho."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "61. Derecho Civil. ¿Qué bienes se exceptúan de la administración paterna?",
+    "opciones": [
+      "a) Los que los hijos mayores de 14 años han adquirido con su trabajo.",
+      "b) Los adquiridos por sucesión en que uno de los que ejercen la patria potestad ha sido justamente desheredado.",
+      "c) Los adquiridos por título gratuito cuando el disponente lo hubiere ordenado de manera expresa.",
+      "d) Los adquiridos por sucesión en que uno de los que ejercen la patria potestad no haya podido heredar por causas de infidelidad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "62. Derecho Civil. ¿Para quién se adoptará principalmente el acogimiento familiar de urgencia?",
+    "opciones": [
+      "a) Para menores de 3 años.",
+      "b) Para menores de 4 años.",
+      "c) Para menores de 5 años.",
+      "d) Para menores de 6 años."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "63. Derecho Civil. ¿Cuándo se considera a una persona en situación de ausencia legal, si ha dejado apoderado con facultad de administración de todos sus bienes?",
+    "opciones": [
+      "a) Pasados 6 meses desde su desaparición.",
+      "b) Pasado 1 año desde su desaparición.",
+      "c) Pasados 2 meses desde su desaparición.",
+      "d) Pasados 3 años desde su desaparición."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "64. Derecho Civil. ¿Dónde deben ser inscritas las resoluciones judiciales sobre el cargo de curador?",
+    "opciones": [
+      "a) En la Secretaría del Juzgado que haya dictado la resolución.",
+      "b) En el Registro Civil.",
+      "c) En la Fiscalía de Menores.",
+      "d) En el Ministerio Fiscal."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "65. Derecho Civil. ¿Desde cuándo están obligados a promover la constitución de la tutela los parientes llamados a ella?",
+    "opciones": [
+      "a) Desde el momento en que la acepten.",
+      "b) Desde el momento en que depositen los avales necesarios.",
+      "c) Desde el momento en que conozcan el hecho que la motive.",
+      "d) Desde el día siguiente al que la acepten."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "66. Derecho Civil. ¿Quiénes no podrán ser curadores?",
+    "opciones": [
+      "a) Quienes hayan sido excluidos por la persona que precise apoyo.",
+      "b) Quienes por resolución judicial estuvieran privados o suspendidos en el ejercicio de la patria potestad o, total o parcialmente, de los derechos de guarda y protección.",
+      "c) Quienes hubieren sido legalmente removidos de una tutela, curatela o guarda anterior.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "67. Derecho Civil. ¿Para qué necesita el tutor autorización judicial?",
+    "opciones": [
+      "a) Para repudiar las liberalidades.",
+      "b) Para la partición de la herencia.",
+      "c) Para ceder bienes en arrendamiento por más de 3 años.",
+      "d) Para la división de cosa común."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "68. Derecho Civil. El interesado que alegue causa de excusa de la curatela deberá hacerlo dentro del plazo de...",
+    "opciones": [
+      "a) 15 días a contar desde que tuviera conocimiento del nombramiento.",
+      "b) 60 días a contar desde que tuviera conocimiento del nombramiento.",
+      "c) 30 días a contar desde que tuviera conocimiento del nombramiento.",
+      "d) 90 días a contar desde que tuviera conocimiento del nombramiento."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "69. Derecho Civil. ¿Quién está obligado a hacer inventario del patrimonio de la persona en cuyo favor se ha establecido el apoyo?",
+    "opciones": [
+      "a) El curador.",
+      "b) Sus progenitores.",
+      "c) Los que ejerzan la patria potestad.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "70. Derecho Civil. ¿Qué se necesita para que el menor casado pueda gravar bienes inmuebles, si el otro cónyuge es menor?",
+    "opciones": [
+      "a) El consentimiento del Ministerio Fiscal o del Defensor Judicial, si éste ha sido nombrado.",
+      "b) El consentimiento de ambos cónyuges y de sus padres o defensor judicial.",
+      "c) El consentimiento de sus padres y del Secretario Judicial.",
+      "d) El registro de los gravámenes en el Registro Civil."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "71. Derecho Civil. ¿Cuándo entran en vigor las leyes, si no se dispone otra cosa?",
+    "opciones": [
+      "a) A los treinta días de su completa publicación en el BOE.",
+      "b) A los veinte días de su completa publicación en el BOE.",
+      "c) A los setenta días de su completa publicación en el BOE.",
+      "d) A los diez días de su completa publicación en el BOE."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "72. Derecho Civil. ¿Cómo deben ejercitarse los derechos?",
+    "opciones": [
+      "a) Conforma a las exigencias de la buena fe.",
+      "b) Conforma al principio de proporcionalidad.",
+      "c) Conforme a la ley y al derecho, por el principio de idoneidad.",
+      "d) Conforme a los estatutos del órgano ante quien se reclamen."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "73. Derecho Civil. ¿Por qué se regirá la sucesión por causa de muerte?",
+    "opciones": [
+      "a) Según el Convenio de La Haya.",
+      "b) Según el Protocolo de La Haya.",
+      "c) Según la ley nacional del causante en el momento del fallecimiento.",
+      "d) Según la ley de su residencia habitual."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "74. Derecho Civil. ¿Por qué ley se regirán las donaciones?",
+    "opciones": [
+      "a) Por la ley nacional del donante.",
+      "b) Por la ley nacional del que recibe la donación.",
+      "c) Por la ley internacional de donaciones.",
+      "d) Por la ley europea de donaciones."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "75. Derecho Civil. ¿Por cuál de las siguientes causas se adquiere la vecindad civil?",
+    "opciones": [
+      "a) Por nacimiento en la misma nación que los progenitores.",
+      "b) Por residencia en la nación de familiares hasta de 2º grado.",
+      "c) Por causa judicial.",
+      "d) Por residencia continuada durante dos años, siempre que sea la voluntad del interesado."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "76. Derecho Civil. Español de origen. Señala la INCORRECTA:",
+    "opciones": [
+      "a) El nacido en España de padres extranjeros, si ambos carecen de nacionalidad o si la legislación de ninguno de ellos atribuye al hijo una nacionalidad.",
+      "b) El nacido de padre o madre españoles.",
+      "c) El nacido de padres extranjeros cuyo país mantenga acuerdo de reciprocidad con España.",
+      "d) El nacido en España de padres extranjeros, si, al menos uno de ellos ha nacido en España, salvo los hijos de funcionario consular acreditado en España."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "77. Derecho Civil. ¿Desde cuándo adquiere la nacionalidad española un extranjero menor de 18 años adoptado?",
+    "opciones": [
+      "a) Pasados dos años desde la adopción.",
+      "b) Desde el sexto mes de haber sido adoptado.",
+      "c) Desde que el país de origen dé su consentimiento.",
+      "d) Desde el momento de la adopción."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "78. Derecho Civil. ¿Cuál de los siguientes no tiene derecho a optar por la nacionalidad española?",
+    "opciones": [
+      "a) Aquellos cuya madre hubiera sido originariamente española y nacida en España.",
+      "b) Los mayores de 18 años cuya filiación se produzca después de los 18 años, en un plazo de 3 años.",
+      "c) Los extranjeros menores de 18 años adoptados por español.",
+      "d) Aquellos cuya determinación de nacimiento se produzca después de los 18 años."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "79. Derecho Civil. ¿Cuál de los siguientes podrá formular la solicitud al Ministerio de Justicia para la concesión de la nacionalidad?",
+    "opciones": [
+      "a) Los padres del emancipado.",
+      "b) El mayor de 14 años asistido por su representante legal.",
+      "c) El representante legal del mayor de 14 años, con autorización del Ministerio Fiscal.",
+      "d) El incapacitado asistido por su representante legal con autorización del Ministerio Fiscal."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "80. Derecho Civil. ¿En qué caso, los españoles que no lo sean de origen, pierden su nacionalidad?",
+    "opciones": [
+      "a) Si entran voluntariamente en servicio de armas en un estado extranjero contra la expresa prohibición del Gobierno.",
+      "b) Si entran a ejercer un cargo político en un estado extranjero.",
+      "c) Si utilizan la nacionalidad a la que han renunciado al adquirir la española.",
+      "d) Si durante dos años utilizan exclusivamente la nacionalidad a la que han renunciado al adquirir la española."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "81. Derecho Civil. ¿Quién debe ejercer la acción de nulidad de la nacionalidad española?",
+    "opciones": [
+      "a) El Ministro de Justicia.",
+      "b) El Ministerio Fiscal.",
+      "c) El Ministerio del Interior.",
+      "d) El Gobierno."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "82. Derecho Civil. Nacimiento:",
+    "opciones": [
+      "a) Se adquiere con el nacimiento por vida.",
+      "b) La opción a) y una vez producido en entero desprendimiento del seno materno.",
+      "c) Determina la nacionalidad.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "83. Derecho Civil. Domicilio para cumplimiento de obligaciones civiles:",
+    "opciones": [
+      "a) Si ninguna ley, estatuto o regla fija el de las personas jurídicas, serán donde ejerzan las principales funciones de su instituto.",
+      "b) El de las personas naturales será el que determine la ley de enjuiciamiento criminal.",
+      "c) El de las personas jurídicas será, como su propio nombre indica, el determinado por los jueces.",
+      "d) El de los diplomáticos residentes por razón de su cargo en el extranjero, que no gocen de derecho de extraterritorialidad, será el último que hayan tenido en territorio español."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "84. Derecho Civil. Como norma general, ¿quién será competente para celebrar el matrimonio?",
+    "opciones": [
+      "a) El funcionario consular encargado del Registro Civil en el extranjero.",
+      "b) El alcalde del municipio donde resida uno de los cónyuges.",
+      "c) El notario designado por la autoridad civil del lugar donde se celebre.",
+      "d) El concejal en quien delegue el juez de paz del municipio donde se celebre."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "85. Derecho Civil. No pueden contraer matrimonio entre sí. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Los colaterales por consanguinidad hasta el tercer grado.",
+      "b) Los parientes el línea recta por consanguinidad o adopción.",
+      "c) Los condenados por haber participado en la muerte dolosa de la persona con la que haya estado unida por análoga relación de afectividad a la conyugal.",
+      "d) Los procesados por haber participado en la muerte dolosa del cónyuge."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "86. Derecho Civil. ¿Qué requerirá para su celebración el matrimonio en peligro de muerte?",
+    "opciones": [
+      "a) La previa tramitación del expediente matrimonial.",
+      "b) Dictamen médico sobre la capacidad de los contrayentes, en todos los casos.",
+      "c) La presencia de dos testigos mayores de edad.",
+      "d) Dictamen del juez de paz de su localidad de origen de la previa convivencia de, al menos, dos años."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "87. Derecho Civil. ¿Qué preguntará el alcalde a los dos contrayentes del matrimonio después de leer los artículos 66 al 68 del código civil?",
+    "opciones": [
+      "a) Si desea besar a la novia.",
+      "b) Si alguien tiene algún impedimento.",
+      "c) Si desean respetarse y amarse hasta que la muerte los separe, en la salud y en la enfermedad.",
+      "d) Si efectivamente contraen matrimonio en dicho acto."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "88. Derecho Civil. ¿Qué se solicitará si alguno de los contrayentes del matrimonio está afectado por deficiencias sensoriales?",
+    "opciones": [
+      "a) Parte médico del forense del partido donde se celebre el matrimonio.",
+      "b) Dictamen médico sobre la aptitud para el consentimiento.",
+      "c) Parte pericial del psicólogo forense.",
+      "d) Dictamen de las autoridades civiles sobre el conocimiento de dicha afección."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "89. Derecho Civil. ¿Cómo debe acreditarse la condición de ministro de culto?",
+    "opciones": [
+      "a) Mediante el expediente académico por el ministro ha conseguido su cultura.",
+      "b) No es necesario que los ministros de culto acrediten tal condición.",
+      "c) Mediante certificación expedida por las autoridades en Educación y Ciencia nacionales.",
+      "d) Mediante certificación expedida por la Iglesia que haya obtenido reconocimiento de notorio arraigo en España, de conformidad con la Federación que haya solicitado dicho reconocimiento."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "90. Derecho Civil. ¿Quién podrá solicitar la nulidad del matrimonio, como norma general? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Los parientes colaterales de cualquiera de los cónyuges hasta segundo grado inclusive.",
+      "b) El Ministerio Fiscal.",
+      "c) Cualquier persona con interés legítimo y directo.",
+      "d) Los cónyuges."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "91. Derecho Civil. ¿Cuál de los siguientes matrimonios es nulo, cualquiera que sea su forma de celebración?",
+    "opciones": [
+      "a) El celebrado por error en el físico de los contrayentes.",
+      "b) El contraído con los testigos y con el juez de paz.",
+      "c) El contraído por miedo grave.",
+      "d) El contraído en el caso de dispensa."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "92. Derecho Civil. ¿Cómo podrán acordar los cónyuges su separación de mutuo acuerdo, transcurridos tres meses desde el matrimonio?",
+    "opciones": [
+      "a) Mediante la formulación de un convenio regulador ante el Secretario Judicial.",
+      "b) Mediante la formulación de un convenio regulador ante el Juez de Paz.",
+      "c) Mediante la formulación de un convenio regulador ante el Ministerio Fiscal.",
+      "d) Mediante la formulación de un convenio regulador ante los funcionarios diplomáticos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "93. Derecho Civil. Reconciliación. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Debe inscribirse, para su eficacia frente a terceros, en el Registro Civil.",
+      "b) Deberá formalizarse en escritura pública cuando la separación haya tenido lugar con intervención judicial.",
+      "c) Pone fin al procedimiento de separación.",
+      "d) En caso de reconciliación, serán mantenidas o modificadas las medidas en relación a los hijos, cuando exista causa justificada."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "94. Derecho Civil. El convenio regulador de divorcio, debe contener, siempre que fuera aplicable:",
+    "opciones": [
+      "a) La liquidación, cuando proceda, del régimen económico del matrimonio.",
+      "b) La atribución del uso de vivienda y empleo familiar.",
+      "c) Si se considera necesario, el régimen de visitas de los hijos con sus familiares hasta cuarto grado.",
+      "d) La pensión que corresponde a satisfacer por parte de las autoridades."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "95. Derecho Civil. ¿En qué caso podrá el juez no aprobar los acuerdos de separación presentados ante el órgano judicial?",
+    "opciones": [
+      "a) Cuando sean gravemente perjudiciales para uno de los cónyuges.",
+      "b) Cando lo soliciten cualquier persona con interés legítimo y directo.",
+      "c) Cuando sean dañosos para los hijos.",
+      "d) a) y c) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "96. Derecho Civil. ¿Por qué vía podrán hacerse efectivos los acuerdos desde la aprobación del convenio regulador de separación?",
+    "opciones": [
+      "a) Por la vía contenciosa administrativa.",
+      "b) Por la vía de apremio.",
+      "c) Por la vía civil.",
+      "d) Por la vía penal."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "97. Derecho Civil. ¿Por el cumplimiento de qué derecho velará el juez al adoptar las medidas sobre la educación de los hijos menores?",
+    "opciones": [
+      "a) Por el de su derecho a la educación obligatoria y gratuita.",
+      "b) Por el de su derecho a ser oídos.",
+      "c) Por el de su derecho a elección de centro y religión a estudiar.",
+      "d) El de su derecho a una educación digna."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "98. Derecho Civil. ¿En qué fundará el juez acordar la guarda y custodia compartida, aunque no se cumplan todos los requisitos?",
+    "opciones": [
+      "a) En el consentimiento de los progenitores.",
+      "b) En que solo de esta forma se consigue la idoneidad da de las relaciones futuras entre los progenitores.",
+      "c) En que solo de esta forma se protege adecuadamente el interés superior del menor.",
+      "d) En la Declaración Universal de los Derechos Humanos y los pactos internacionales sobre la misma materias ratificados por España."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "99. Derecho Civil. ¿Por qué normas se regirá la separación?",
+    "opciones": [
+      "a) Por la aplicable a la celebración del matrimonio.",
+      "b) Por las españolas de Derecho nacional privado.",
+      "c) Por las de la Unión Europea.",
+      "d) Por las del derecho marital, si son de aplicación en el momento de la separación."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "100. Derecho Civil. ¿Cuándo podrá sustituirse la pensión por la constitución de una renta vitalicia?",
+    "opciones": [
+      "a) En cualquier momento.",
+      "b) Una vez transcurridos dos meses desde la separación.",
+      "c) No podrá sustituirse dicha pensión, al ser la renta vitalicia de mayor cuantía total.",
+      "d) Cuando se indique según lo estipulado por el convenio regulador."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "101. Derecho Civil. ¿Cuáles son las fuentes del ordenamiento jurídico español? Señala la INCORRECTA:",
+    "opciones": [
+      "a) La ley.",
+      "b) La Constitución.",
+      "c) La costumbre.",
+      "d) Los principios generales del derecho."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "102. Derecho Civil. En cuanto a lo que dice el Código Civil respecto a las fuentes del derecho español, señala la proposición que consideres INCORRECTA:",
+    "opciones": [
+      "a) Carecerán de validez las disposiciones que contradigan otra de rango inferior.",
+      "b) La costumbre sólo regirá en defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público, y que resulte probada.",
+      "c) Los principios generales del derecho se aplicarán en defecto de ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico.",
+      "d) La jurisprudencia complementará el ordenamiento jurídico con la doctrina que, de modo reiterado, establezca el tribunal supremo al interpretar y aplicar la ley, la costumbre y los principios generales del derecho."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "103. Derecho Civil. ¿Cuándo entrarán en vigor las leyes?",
+    "opciones": [
+      "a) Las leyes entrarán siempre en vigor a los 20 días de su completa publicación en el Boletín Oficial del Estado.",
+      "b) Las leyes entrarán en vigor a los 15 días de ser sancionadas por el Rey y publicadas en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa.",
+      "c) Las leyes entrarán en vigor a los 20 días de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa.",
+      "d) Las leyes entrarán en vigor a los 20 días de ser sancionadas por el Rey y publicadas en el Boletín Oficial del Estado."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "104. Derecho Civil. ¿Por qué tipo de leyes se derogan las leyes en vigor?",
+    "opciones": [
+      "a) Las leyes se pueden derogar por otras simultáneas o posteriores.",
+      "b) Las leyes sólo se derogan por otras anteriores.",
+      "c) Las leyes se pueden derogar por otras simultáneas o anteriores.",
+      "d) Las leyes sólo se derogan por otras posteriores."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "105. Derecho Civil. ¿Cuándo procederá la aplicación analógica de las normas?",
+    "opciones": [
+      "a) Cuando estas contemplen un supuesto específico y regulen otro semejante entre los que se aprecie identidad de sujeto.",
+      "b) Cuando estas no contemplen un supuesto específico, pero regulen otro semejante entre los que se aprecie identidad de razón.",
+      "c) Cuando estas no contemplen un supuesto específico, pero regulen otro semejante entre los que se aprecie identidad de sujeto.",
+      "d) Cuando estas no contemplen un supuesto específico, pero regulen otro semejante entre los que se aprecie identidad de razón."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "106. Derecho Civil. ¿Cuál será la finalidad que tendrán las medidas de apoyo a las personas mayores de edad o menores emancipadas que las precisen para el adecuado ejercicio de su capacidad jurídica?",
+    "opciones": [
+      "a) Permitir el desarrollo pleno de su personalidad.",
+      "b) Permitir su desenvolvimiento jurídico en condiciones de igualdad.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "107. Derecho Civil. ¿En qué deberán estar inspiradas las medidas de apoyo a las personas mayores de edad o menores emancipadas que las precisen para el adecuado ejercicio de su capacidad jurídica?",
+    "opciones": [
+      "a) Deberán estar inspiradas en el respeto a la igualdad de género.",
+      "b) Deberán estar inspiradas en la tutela de sus deberes fundamentales.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "108. Derecho Civil. Además de las medidas de apoyo de naturaleza, ¿cuáles son las demás medidas de apoyo para el ejercicio de la capacidad jurídica de las personas que lo precisen? Señala la INCORRECTA:",
+    "opciones": [
+      "a) La guarda de hecho.",
+      "b) La tutela.",
+      "c) La curatela.",
+      "d) El defensor judicial."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "109. Derecho Civil. ¿Cuáles son las medidas de apoyo de naturaleza voluntaria?",
+    "opciones": [
+      "a) Son las establecidas por la persona con discapacidad, en las que designa quién debe prestarle apoyo y con qué alcance.",
+      "b) Son las establecidas por la autoridad judicial, en las que designa quién debe prestarle apoyo y con qué alcance.",
+      "c) Son las establecidas por la persona con discapacidad, en las que designa la autoridad judicial que decide al respecto.",
+      "d) Son las establecidas por la autoridad judicial, en las que propone a la persona con discapacidad para designar quién debe prestarle apoyo y con qué alcance."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "110. Derecho Civil. Señala la INCORRECTA en cuanto a las medidas de apoyo formales e informales:",
+    "opciones": [
+      "a) La guarda de hecho es una medida informal de apoyo.",
+      "b) La curatela es una medida informal de apoyo.",
+      "c) El nombramiento de defensor judicial es una medida formal de apoyo.",
+      "d) No podrán ejercer ninguna de las medidas de apoyo quienes, en virtud de una relación contractual, presten servicios asistenciales, residenciales o de naturaleza análoga a la persona que precisa el apoyo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "111. Derecho Civil. Señala la INCORRECTA. ¿Son españoles de origen?",
+    "opciones": [
+      "a) Los nacidos de padre o madre españoles.",
+      "b) Los nacidos en España de padres extranjeros si, al menos, uno de ellos, hubiera nacido también en España.",
+      "c) Los nacidos en España de padres extranjeros, aunque alguno de ellos careciere de nacionalidad o si la legislación de ninguno de ellos atribuye al hijo una.",
+      "d) Los nacidos en España cuya filiación no resulte determinada."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "112. Derecho Civil. La filiación o el nacimiento en España, cuya determinación se produzca después de los 18 años, ¿serán por sí solos causa de adquisición de la nacionalidad española?",
+    "opciones": [
+      "a) Sí, en todos los casos.",
+      "b) No.",
+      "c) En los casos en que la determinación de esa filiación o nacimiento se produzca antes de la emancipación del individuo.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "113. Derecho Civil. En el caso de que se pudiera optar por la nacionalidad española de origen para las personas cuya determinación de filiación o nacimiento se hubiera determinado después de que esta alcanzara los 18 años, ¿Cuál es el plazo para poder optar a dicha nacionalidad?",
+    "opciones": [
+      "a) 2 años a contar desde esa determinación.",
+      "b) No se puede optar a la nacionalidad española de origen.",
+      "c) 2 años después de alcanzar la mayoría de edad.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "114. Derecho Civil. ¿Cuál es causa de consolidación de la nacionalidad?",
+    "opciones": [
+      "a) La posesión y utilización continuada de la nacionalidad española durante 5 años con buena fe y basada en un título inscrito en el Registro Civil, aunque se anule el título que la originó.",
+      "b) La posesión y utilización continuada de la nacionalidad española durante 10 años con buena fe y basada en un título inscrito en el Registro Civil, aunque no se anule el título que la originó.",
+      "c) La posesión y utilización continuada de la nacionalidad española durante 10 años con buena fe y basada en un título inscrito en el Registro Civil, aunque se anule el título que la originó.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "115. Derecho Civil. ¿Qué tipo de nacionalidad adquiere el extranjero adoptado, por un español, menor de 18 años, desde el momento de su adopción?",
+    "opciones": [
+      "a) Nacionalidad española de origen.",
+      "b) Nacionalidad española por opción.",
+      "c) Nacionalidad española por residencia.",
+      "d) Nacionalidad española por carta de naturaleza."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "116. Derecho Civil. ¿Quiénes tienen derecho a optar por la nacionalidad española?",
+    "opciones": [
+      "a) Las personas que estén o hayan estado sujetas a la patria potestad de un español.",
+      "b) Aquellas cuyo padre o madre hubiera sido originariamente español y nacido en España.",
+      "c) Los adoptados mayores de 18 años, una vez transcurridos 2 años desde la mayor edad.",
+      "d) Todos los anteriores tienen derecho a optar por la nacionalidad española."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "117. Derecho Civil. Señala la INCORRECTA. ¿Quién podrá realizar la declaración de optar por la nacionalidad española?",
+    "opciones": [
+      "a) El representante legal del menor de 14 años o incapacitado.",
+      "b) El propio interesado, sin necesidad de ser asistido por su representante legal, cuando aquél sea mayor de 14 años.",
+      "c) El interesado por sí solo, si está emancipado o es mayor de 18 años.",
+      "d) El interesado por sí solo, dentro de los 2 años siguientes a la recuperación de la plena capacidad."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "118. Derecho Civil. ¿Cuál es el límite de edad del ejercicio del derecho a opción de la nacionalidad española?",
+    "opciones": [
+      "a) El ejercicio del derecho de opción se podrá realizar a partir de la mayoría de edad.",
+      "b) El ejercicio del derecho de opción no estará sujeto a límite alguno de edad.",
+      "c) El ejercicio del derecho de opción estará reglamentariamente sujeto a límite edad.",
+      "d) El ejercicio del derecho de opción no estará sujeto a límite alguno de edad, salvo para los casos de opción por carta de naturaleza."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "119. Derecho Civil. Señala la INCORRECTA con respecto a la concesión de la nacionalidad por residencia:",
+    "opciones": [
+      "a) Se requiere que ésta haya durado 10 años.",
+      "b) Serán suficientes 5 años para los que hayan obtenido la condición de refugiado.",
+      "c) Serán suficientes 2 años cuando se trate de nacionales de origen de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal o de sefardíes.",
+      "d) Bastará con el tiempo de residencia de 1 año para el que al tiempo de solicitarlo lleve 1 año casado con español/a, aunque esté separado legalmente o de hecho."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "120. Derecho Civil. Características de la obtención de la nacionalidad por Carta de Naturaleza:",
+    "opciones": [
+      "a) Es otorgada discrecionalmente mediante Real Decreto, cuando en el interesado concurran circunstancias excepcionales.",
+      "b) La concesión de la nacionalidad española por Carta de Naturaleza caduca a los 180 días siguientes a su notificación.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "121. Derecho Civil. ¿Cuál será el objeto de las medidas de apoyo a las personas mayores de edad o menores emancipadas, que las precisen, para el adecuado ejercicio de su capacidad jurídica?",
+    "opciones": [
+      "a) Permitir el desarrollo pleno de su personalidad.",
+      "b) Permitir su desenvolvimiento jurídico en condiciones de igualdad.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "122. Derecho Civil. ¿En qué deberán estar inspiradas las medidas de apoyo a las personas mayores de edad o menores emancipadas, que las precisen, para el adecuado ejercicio de su capacidad jurídica?",
+    "opciones": [
+      "a) En el respeto a la dignidad de la persona.",
+      "b) En la tutela de sus derechos fundamentales.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "123. Derecho Civil. ¿A qué principios deberán ajustarse las medidas de apoyo a las personas mayores de edad o menores emancipadas, que las precisen, para el adecuado ejercicio de su capacidad jurídica?",
+    "opciones": [
+      "a) A los principios de congruencia y oportunidad.",
+      "b) A los principios de necesidad y menor onerosidad.",
+      "c) A los principios de oportunidad y proporcionalidad.",
+      "d) A los principios de necesidad y proporcionalidad."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "124. Derecho Civil. ¿Atendiendo a qué deberán actuar las personas que presenten apoyo de quien lo requiera?",
+    "opciones": [
+      "a) Atendiendo a su necesidad y preferencias.",
+      "b) Atendiendo a su necesidad, deseos y preferencias.",
+      "c) Atendiendo a su voluntad y deseos.",
+      "d) Atendiendo a su voluntad, deseos y preferencias."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "125. Derecho Civil. ¿Cuáles son las medidas de apoyo para el ejercicio de la capacidad jurídica de las personas que lo precisen, además de las de naturaleza voluntaria?",
+    "opciones": [
+      "a) La guarda de hecho",
+      "b) La curatela.",
+      "c) El defensor judicial.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "126. Derecho Civil. ¿Cuáles son las medidas de apoyo de naturaleza voluntaria?",
+    "opciones": [
+      "a) Las establecidas por la persona con discapacidad en las que designa quién debe prestarle apoyo y con qué alcance.",
+      "b) Las establecidas por la autoridad judicial en las que designa quién debe prestarle apoyo y con qué alcance.",
+      "c) Las establecidas por la persona con discapacidad en las que otorga a la autoridad judicial la capacidad de decidir sobre las mismas.",
+      "d) Las establecidas por la autoridad judicial en las que otorga a la persona con discapacidad la capacidad de decidir sobre las mismas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "127. Derecho Civil. Sobre las medidas de apoyo:",
+    "opciones": [
+      "a) La guarda de hecho es una medida formal de apoyo que puede existir cuando no haya medidas voluntarias o judiciales que se estén aplicando eficazmente.",
+      "b) La curatela es una medida formal de apoyo que se aplicará a quienes precisen el apoyo de modo continuado.",
+      "c) El nombramiento de defensor judicial como medida informal de apoyo procederá cuando la necesidad de apoyo se precise de forma ocasional aunque sea recurrente.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "128. Derecho Civil. ¿Qué prohiciones se impondrán a quien desempeñe alguna medida de apoyo?",
+    "opciones": [
+      "a) Recibir liberalidades de la persona que precisa el apoyo o de sus causahabientes cuando se haya aprobado definitivamente su gestión, incluso cuando se trate de regalos de costumbre o bienes de escaso valor.",
+      "b) Prestar medida de apoyo cuando en el mismo acto intervenga en nombre propio o de un tercero, aunque no existiera conflicto de intereses.",
+      "c) Adquirir o transmitirle por título oneroso bienes de la persona que precisa el apoyo.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "129. Derecho Civil. ¿Por quién se prestará el apoyo, de modo provisional, cuando una persona se encuentre en una situación que exija apoyo para el ejercicio de su capacidad jurídica de modo urgente y carezca de un guardador de hecho?",
+    "opciones": [
+      "a) Por la Entidad Pública.",
+      "b) Por el Ministerio Fiscal.",
+      "c) Por el cónyuge de la persona con discapacidad.",
+      "d) Por quien ejerza la patria potestad de la persona con discapacidad."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "130. Derecho Civil. De las medidas voluntarias de apoyo. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Cuando se prevea razonablemente en los 2 años anteriores a la mayoría de edad que un menor sujeto a patria potestad o a tutela pueda, después de alcanzada aquella, precisar de apoyo en el ejercicio de su capacidad jurídica, la autoridad judicial podrá acordar, si lo estima necesario, la procedencia de la adopción de la medida de apoyo que corresponda para cuando concluya la minoría de edad.",
+      "b) Estas medidas de apoyo se adoptarán si el mayor de 18 años no ha hecho sus propias previsiones para cuando alcance la mayoría de edad.",
+      "c) Cualquier persona mayor de edad o menor emancipada podrá prever o acordar en escritura pública medidas de apoyo relativas a su persona o bienes.",
+      "d) Solo en defecto o por insuficiencia de estas medidas de naturaleza voluntaria, y a falta de guarda de hecho que suponga apoyo suficiente, podrá la autoridad judicial adoptar otras supletorias o complementarias."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "131. Derecho Civil. ¿Cuáles son las fuentes del ordenamiento jurídico español?",
+    "opciones": [
+      "a) La Constitución.",
+      "b) La jurisprudencia.",
+      "c) La costumbre.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "132. Derecho Civil. ¿Cuándo regirá la costumbre?",
+    "opciones": [
+      "a) La costumbre sólo regirá en defecto de la jurisprudencia, siempre que no sea contraria a la moral o al orden público, y que resulte probada.",
+      "b) La costumbre sólo regirá en defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público, y que no resulte probada.",
+      "c) La costumbre sólo regirá en defecto de la jurisprudencia, siempre que sea contraria a la moral o al orden público, y que no resulte probada.",
+      "d) La costumbre sólo regirá en defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público, y que resulte probada."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "133. Derecho Civil. ¿Cuándo se aplicarán los principios generales del derecho?",
+    "opciones": [
+      "a) Los principios generales del derecho se aplicarán en defecto de jurisprudencia, sin perjuicio de su carácter informador del ordenamiento jurídico.",
+      "b) Los principios generales del derecho se aplicarán en defecto de ley o costumbre, careciendo de validez en el ordenamiento jurídico.",
+      "c) Los principios generales del derecho se aplicarán en defecto de ley o costumbre, careciendo de validez en el ordenamiento jurídico.",
+      "d) Los principios generales del derecho se aplicarán en defecto de ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "134. Derecho Civil. ¿Cuándo entrarán en vigor las leyes?",
+    "opciones": [
+      "a) A los 15 días de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa.",
+      "b) A los 20 días de su completa publicación en el Boletín Oficial del Estado, aunque en ellas se disponga otra cosa.",
+      "c) A los 15 días de su completa publicación en el Boletín Oficial del Estado, aunque en ellas se disponga otra cosa.",
+      "d) A los 20 días de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "135. Derecho Civil. ¿Cuándo procederá la aplicación analógica de las normas?",
+    "opciones": [
+      "a) Cuando estas contemplen un supuesto específico, y regulen otro semejante entre los que se aprecie identidad de razón.",
+      "b) Cuando estas no contemplen un supuesto genérico, pero regulen otro semejante entre los que se aprecie identidad de razón.",
+      "c) Cuando estas contemplen un supuesto genérico, y regulen otro semejante entre los que se aprecie identidad de razón.",
+      "d) Cuando estas no contemplen un supuesto específico, pero regulen otro semejante entre los que se aprecie identidad de razón."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "136. Derecho Civil. ¿Qué días se excluyen en el cómputo civil de los plazos?",
+    "opciones": [
+      "a) Los días inhábiles.",
+      "b) Los sábados, domingos y declarados festivos.",
+      "c) No se excluyen los días inhábiles.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "137. Derecho Civil. ¿En qué casos la ignorancia de las leyes excusa de su cumplimiento?",
+    "opciones": [
+      "a) Cuando se apliquen a supuestos y momentos distintos de los comprendidos expresamente en ellas.",
+      "b) Cuando se ejerciten conforme a las exigencias de la buena fe.",
+      "c) a) y b) son correctas.",
+      "d) En ningún caso."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "138. Derecho Civil. ¿Cómo se considerarán los actos realizados al amparo del texto de una norma que persigan un resultado prohibido por el ordenamiento jurídico, o contrario a él?",
+    "opciones": [
+      "a) Se considerarán ejecutados en fraude de ley.",
+      "b) Se considerarán nulos y sin efecto.",
+      "c) Se considerarán amparados por la ley, la costumbre y los principios generales del derecho.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "139. Derecho Civil. ¿Cuál es la ley personal correspondiente a las personas jurídicas?",
+    "opciones": [
+      "a) Es la determinada por su nacionalidad.",
+      "b) Es la determinada por su vecindad.",
+      "c) Es la determinada por su persona natural.",
+      "d) Es la determinada por su nacimiento."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "140. Derecho Civil. ¿En qué casos tendrá aplicación la ley extranjera cuando resulte contraria al orden público?",
+    "opciones": [
+      "a) Cuando no contraríen el interés o el orden público.",
+      "b) Cuando no perjudiquen a terceros.",
+      "c) a) y b) son correctas.",
+      "d) En ningún caso."
+    ],
+    "respuesta": "d"
+  }
+]

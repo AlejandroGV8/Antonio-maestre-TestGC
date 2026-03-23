@@ -1,0 +1,1202 @@
+[
+  {
+    "pregunta": "1. Derecho de la UE. Tratado de la Unión Europea. Sobre las competencias de la Unión, es cierto que:",
+    "opciones": [
+      "a) En los ámbitos que no sean de su competencia exclusiva, la Unión no podrá intervenir.",
+      "b) La Unión actúa dentro de los límites de las competencias que le atribuyen los Estados Miembros en los tratados internacionales.",
+      "c) Toda competencia no atribuida a la Unión corresponde a los Estados Miembros.",
+      "d) Los Estados Miembros no deben abstenerse de tomar una medida que pueda poner en peligro la consecución de los objetivos de la Unión."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "2. Derecho de la UE. Sobre los principios en los que se basa el funcionamiento de la Unión, señale la proposición CORRECTA:",
+    "opciones": [
+      "a) El ejercicio de competencias de la Unión se rige por los principios de atribución, subsidiariedad y proporcionalidad.",
+      "b) Las instituciones de la Unión aplicarán el principio de subsidiariedad de conformidad con el Protocolo sobre la aplicación de los principios de subsidiariedad y proporcionalidad.",
+      "c) La delimitación de competencias de la Unión se rige por el principio de subsidiariedad.",
+      "d) Conforme al principio de cooperación leal, las instituciones de la Unión mantendrán entre sí una cooperación leal."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "3. Derecho de la UE. Las instituciones de la Unión son:",
+    "opciones": [
+      "a) Parlamento Europeo, Consejo Europeo, Comisión Europea, Tribunal de Justicia de la Unión Europea, Banco Central Europeo y Tribunal de Cuentas.",
+      "b) Parlamento Europeo, Consejo Europeo, Comisión Europea, Tribunal de Justicia de la Unión Europea, y Banco Central Europeo.",
+      "c) Parlamento Europeo, Consejo Europeo, Consejo, Comisión y Tribunal de Justicia de la Unión Europea.",
+      "d) Parlamento Europeo, Consejo Europeo, Consejo, Comisión Europea, Tribunal de Justicia de la Unión Europea, Banco Central Europeo y Tribunal de Cuentas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "4. Derecho de la UE. En relación con las instituciones de la Unión:",
+    "opciones": [
+      "a) Las disposiciones relativas al Banco Central Europeo y al Tribunal de Cuentas figuran en el Tratado de la Unión Europea.",
+      "b) El Parlamento Europeo, el Consejo Europeo y la Comisión estarán asistidos por un Comité Económico y Social y por un Comité de las Regiones que ejercerán funciones consultivas.",
+      "c) El Consejo Europeo no ejercerá función legislativa alguna.",
+      "d) El Parlamento Europeo es el órgano encargado de ejercer de manera exclusiva la función presupuestaria."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "5. Derecho de la UE. Consejo. Señala la INCORRECTA:",
+    "opciones": [
+      "a) La mayoría cualificada se define como un mínimo del 65% de los miembros del Consejo que incluya al menos 16 de ellos.",
+      "b) El Consejo se reunirá en diferentes formaciones: el Consejo de Asuntos Generales y el Consejo de Asuntos Exteriores.",
+      "c) Una minoría de bloqueo estará compuesta por al menos 4 miembros del Consejo.",
+      "d) Un Comité de Representantes Permanentes de los Gobiernos de los Estados Miembros se encargará de preparar sus trabajos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "6. Derecho de la UE. Comisión. Señala la CORRECTA:",
+    "opciones": [
+      "a) El mandato de la Comisión será de 3 años.",
+      "b) El Consejo Europeo, por unanimidad, puede modificar el número de miembros de la Comisión.",
+      "c) Dará a la Unión los impulsos necesarios para su desarrollo y definirá sus orientaciones y prioridades políticas generales.",
+      "d) La Comisión está compuesta por un nacional de cada estado miembro, incluidos su presidente y el Alto Representante."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "7. Derecho de la UE. Agencia Europea de Defensa. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Todos los Estados Miembros que lo deseen podrán participar en ella.",
+      "b) El Consejo adoptará por mayoría cualificada su estatuto, su sede y su forma de funcionamiento.",
+      "c) Desempeñará sus funciones manteniéndose, en caso necesario, en contacto con la Comisión.",
+      "d) Asistirá a los Estados Miembros en la evaluación de la mejora de las capacidades militares."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "8. Derecho de la UE. En relación con los actos jurídicos de la UE:",
+    "opciones": [
+      "a) Cuando designe destinatarios, la decisión solo será obligatoria para estos.",
+      "b) La decisión obligará al Estado Miembro destinatario en cuanto al resultado que deba conseguirse, dejando, sin embargo, a las autoridades nacionales la elección de la forma y de los medios.",
+      "c) La directiva será obligatoria en todos sus elementos.",
+      "d) Los dictámenes son vinculantes."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "9. Derecho de la UE. ¿Por quién se realizará la adopción de medidas de seguridad social o protección social?",
+    "opciones": [
+      "a) Por el Parlamento por unanimidad.",
+      "b) Por el Consejo por unanimidad.",
+      "c) Por el Consejo por mayoría absoluta.",
+      "d) Por el Parlamento por mayoría absoluta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "10. Derecho de la UE. ¿Cada cuánto tiempo informará la Comisión al Parlamento Europeo, al Consejo y al Comité Económico y Social sobre las disposiciones reguladas en la segunda parte relativas a la no discriminación y a la ciudadanía de la Unión?",
+    "opciones": [
+      "a) Cada año.",
+      "b) Cada 6 meses.",
+      "c) Cada 3 años.",
+      "d) Cada mes."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "11. Derecho de la UE. Tratado de la UE. ¿En qué fecha entró en vigor el tratado de Maastricht?",
+    "opciones": [
+      "a) El 7 de febrero de 1992.",
+      "b) El 13 de octubre de 1973.",
+      "c) El 4 de julio de 1995.",
+      "d) El 1 de noviembre de 1993."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "12. Derecho de la UE. ¿En virtud de qué principio actúa la Unión dentro de los límites de las competencias que le atribuyen los Estados en los Tratados para lograr los objetivos que éstos determinan?",
+    "opciones": [
+      "a) Principio de proporcionalidad.",
+      "b) Principio de atribución.",
+      "c) Principio de cooperación leal.",
+      "d) Principio de subsidiariedad."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "13. Derecho de la UE. ¿De quién será competencia exclusiva la seguridad nacional?",
+    "opciones": [
+      "a) Del Parlamento Europeo.",
+      "b) Del Consejo Europeo.",
+      "c) De cada Estado.",
+      "d) De la Agencia Europea de Seguridad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "14. Derecho de la UE. ¿Dónde estarán representados los Estados miembros?",
+    "opciones": [
+      "a) En la Comisión Europea.",
+      "b) En el Consejo Europeo.",
+      "c) En el Parlamento Europeo.",
+      "d) En el Consejo de la Unión Europea."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "15. Derecho de la UE. ¿Dónde tiene su sede la Comisión Europea?",
+    "opciones": [
+      "a) En Bruselas.",
+      "b) En Luxemburgo.",
+      "c) En Estrasburgo.",
+      "d) En La Haya."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "16. Derecho de la UE. ¿Qué órgano da a la Unión Europea los impulsos necesarios para su desarrollo?",
+    "opciones": [
+      "a) La Comisión Europea.",
+      "b) El Consejo de la Unión Europea.",
+      "c) El Parlamento Europeo.",
+      "d) El Consejo Europeo."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "17. Derecho de la UE. ¿Cuándo será mayoría cualificada del 72% en las decisiones del Consejo de la Unión Europea?",
+    "opciones": [
+      "a) Cuando no actúe a propuesta del Alto Representante.",
+      "b) Cuando no actúe a propuesta del Consejo Europeo.",
+      "c) a) y b) son correctas.",
+      "d) Cuando actúe a propuesta de la Comisión Europea."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "18. Derecho de la UE. ¿Cómo establece el Parlamento Europeo las condiciones generales del ejercicio de las funciones de sus miembros?",
+    "opciones": [
+      "a) Por consenso.",
+      "b) Por mayoría absoluta.",
+      "c) Mediante reglamentos.",
+      "d) Mediante directivas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "19. Derecho de la UE. ¿A petición de qué mayoría del Parlamento Europeo puede constituirse una comisión temporal de investigación?",
+    "opciones": [
+      "a) De 2/3.",
+      "b) De 1/4.",
+      "c) De 1/10.",
+      "d) De 3/5."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "20. Derecho de la UE. ¿Quién propondrá al Parlamento Europeo, por mayoría cualificada, un candidato al cargo de Presidente de la Comisión?",
+    "opciones": [
+      "a) El Consejo.",
+      "b) El Consejo.",
+      "c) El Alto Representante.",
+      "d) El Consejo Europeo."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "21. Derecho de la UE. ¿Con qué condición adoptará el Consejo la decisión de autorizar una cooperación reforzada?",
+    "opciones": [
+      "a) Al menos 4 Estados.",
+      "b) Al menos 6 Estados.",
+      "c) Al menos 9 Estados.",
+      "d) Al menos 12 Estados."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "22. Derecho de la UE. ¿Bajo qué autoridad se encuentra la Agencia Europea de Defensa?",
+    "opciones": [
+      "a) Consejo Europeo.",
+      "b) OTAN.",
+      "c) Consejo de la Unión Europea.",
+      "d) Parlamento Europeo."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "23. Derecho de la UE. ¿En qué se apoyará la ejecución de misiones fuera de la UE destinadas a prevenir conflictos?",
+    "opciones": [
+      "a) Solidaridad y reciprocidad.",
+      "b) Cooperación real.",
+      "c) Propuesta del Alto Representante.",
+      "d) Capacidades civiles y militares aportadas por los Estados."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "24. Derecho de la UE. ¿Cómo actuará el Consejo si un Estado decide abandonar una cooperación estructurada permanente?",
+    "opciones": [
+      "a) Dará cuenta al Parlamento.",
+      "b) Comunicará fin en 3 meses.",
+      "c) Tomará nota.",
+      "d) Suspenderá participación."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "25. Derecho de la UE. ¿Qué órgano se pronuncia por unanimidad sobre la solicitud de ingreso de un Estado en la UE?",
+    "opciones": [
+      "a) Consejo de la Unión Europea.",
+      "b) Parlamento Europeo.",
+      "c) Comisión Europea.",
+      "d) Consejo Europeo."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "26. Derecho de la UE. ¿En qué fecha se firma el Tratado de Funcionamiento de la Unión Europea?",
+    "opciones": [
+      "a) 7 febrero 1992.",
+      "b) 25 marzo 1957.",
+      "c) 7 septiembre 1983.",
+      "d) 10 diciembre 1948."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "27. Derecho de la UE. Protección Civil:",
+    "opciones": [
+      "a) Competencia para apoyar, coordinar o complementar.",
+      "b) Competencia recurrente.",
+      "c) Competencia exclusiva.",
+      "d) Competencia compartida."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "28. Derecho de la UE. ¿Cómo regulan Parlamento y Consejo el derecho de acceso a documentos?",
+    "opciones": [
+      "a) Políticas sociales.",
+      "b) Parlamentos nacionales.",
+      "c) Mediante reglamentos.",
+      "d) Mediante directivas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "29. Derecho de la UE. Restricciones cuantitativas entre Estados miembros:",
+    "opciones": [
+      "a) Permitidas si benefician.",
+      "b) Permitidas según reglamentos.",
+      "c) Están prohibidas.",
+      "d) Permitidas según directivas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "30. Derecho de la UE. Libertad de establecimiento. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Acciones no asalariadas.",
+      "b) Actividades asalariadas.",
+      "c) Gestión de sociedades.",
+      "d) Constitución y gestión."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "31. Derecho de la UE. ¿Qué órgano garantiza la cooperación operativa en seguridad interior?",
+    "opciones": [
+      "a) Agencia Europea de Defensa.",
+      "b) Secretaría del Consejo.",
+      "c) Alto Representante.",
+      "d) Comité permanente."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "32. Derecho de la UE. ¿A qué se ajustará la política de asilo?",
+    "opciones": [
+      "a) Convención de Ginebra y tratados.",
+      "b) Principios de cooperación real.",
+      "c) Sentencias.",
+      "d) Reglamentos y directivas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "33. Derecho de la UE. ¿Quién establece medidas de derecho de familia con repercusión transfronteriza?",
+    "opciones": [
+      "a) Consejo Europeo.",
+      "b) Consejo de la Unión Europea.",
+      "c) Parlamento Europeo.",
+      "d) Comisión Europea."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "34. Derecho de la UE. ¿A quién consultan Parlamento y Consejo antes de decidir sobre medio ambiente?",
+    "opciones": [
+      "a) Comité de las regiones y Comité Económico y Social.",
+      "b) Agencia Europea de Medio Ambiente.",
+      "c) Comisión Europea.",
+      "d) Estados miembros."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "35. Derecho de la UE. ¿Qué órganos establecen las acciones de ayuda humanitaria?",
+    "opciones": [
+      "a) Comisión y Consejo Europeo.",
+      "b) Consejo Europeo y Consejo de la UE.",
+      "c) Consejo de la UE y Parlamento Europeo.",
+      "d) Parlamento Europeo y Comisión Europea."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "36. Derecho de la UE. Es obligatoria en todos sus elementos. Cuando designe destinatarios…",
+    "opciones": [
+      "a) Recomendaciones.",
+      "b) Directivas.",
+      "c) Dictámenes.",
+      "d) Decisiones."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "37. Derecho de la UE. ¿A propuesta de quién se adopta una directiva en el procedimiento ordinario?",
+    "opciones": [
+      "a) Consejo Europeo.",
+      "b) Tribunal de Justicia.",
+      "c) Comisión Europea.",
+      "d) Estados miembros."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "38. Derecho de la UE. Mayoría necesaria para revocar una delegación a la Comisión:",
+    "opciones": [
+      "a) Mayoría de sus miembros.",
+      "b) Mayoría cualificada.",
+      "c) Mayoría de presentes.",
+      "d) 2/3."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "39. Derecho de la UE. ¿Quién establece las dietas del Comité de las Regiones?",
+    "opciones": [
+      "a) Consejo Europeo.",
+      "b) Consejo de la UE.",
+      "c) El propio Comité.",
+      "d) No se aclara."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "40. Derecho de la UE. ¿Cómo se fijan las sedes de las instituciones de la UE?",
+    "opciones": [
+      "a) Cada institución la fija.",
+      "b) Gobiernos de los Estados.",
+      "c) Decisión del Consejo.",
+      "d) Decisión conjunta Consejo y Parlamento."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "41. Derecho de la UE. Competencias compartidas:",
+    "opciones": [
+      "a) Cohesión territorial.",
+      "b) Política comercial.",
+      "c) Cooperación administrativa.",
+      "d) Política monetaria."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "42. Derecho de la UE. Sesiones públicas del Consejo de la UE:",
+    "opciones": [
+      "a) Política monetaria.",
+      "b) Deliberaciones del orden del día.",
+      "c) Políticas aduaneras.",
+      "d) Deliberación y votación de un proyecto legislativo."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "43. Derecho de la UE. ¿Quién fija los aranceles aduaneros comunes?",
+    "opciones": [
+      "a) Consejo a propuesta del Parlamento.",
+      "b) Consejo a propuesta del Tribunal de Cuentas.",
+      "c) Consejo a propuesta de la Comisión.",
+      "d) Consejo a propuesta del BCE."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "44. Derecho de la UE. Competencia exclusiva de la UE:",
+    "opciones": [
+      "a) Política social.",
+      "b) Salud humana.",
+      "c) Conservación de recursos marinos.",
+      "d) Redes transeuropeas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "45. Derecho de la UE. Libre circulación de trabajadores implica:",
+    "opciones": [
+      "a) Permanecer tras empleo.",
+      "b) Ofrecer empleo.",
+      "c) Residir para buscar empleo.",
+      "d) Recurrir ante tribunales."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "46. Derecho de la UE. Liberalización de servicios bancarios:",
+    "opciones": [
+      "a) Con fondo de compensación.",
+      "b) Con liberalización de capitales.",
+      "c) Con cooperación leal.",
+      "d) Con los Estados parte."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "47. Derecho de la UE. ¿Cómo decidirán Parlamento y Consejo la liberalización de un servicio?",
+    "opciones": [
+      "a) Órdenes.",
+      "b) Directivas.",
+      "c) Recomendaciones.",
+      "d) Reglamentos."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "48. Derecho de la UE. Medidas de salvaguardia ante movimientos de capitales desde terceros países:",
+    "opciones": [
+      "a) Máx. 3 meses.",
+      "b) Máx. 6 meses.",
+      "c) Máx. 1 año.",
+      "d) Máx. 2 años."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "49. Derecho de la UE. ¿En qué se basará la política de inmigración?",
+    "opciones": [
+      "a) Igualdad.",
+      "b) Cooperación leal.",
+      "c) Declaración de DDHH.",
+      "d) Solidaridad."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "50. Derecho de la UE. ¿Qué principio garantiza la UE al facilitar la tutela judicial?",
+    "opciones": [
+      "a) Reconocimiento mutuo de resoluciones judiciales.",
+      "b) Justicia universal.",
+      "c) Solidaridad judicial.",
+      "d) Cooperación legal."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "51. Derecho de la UE. ¿Por qué se regirán las políticas sobre controles en las fronteras?",
+    "opciones": [
+      "a) Por el principio de uso proporcionado de la fuerza.",
+      "b) Por los valores y principios de la Unión en materia de extranjería.",
+      "c) Por las recomendaciones y reglamentos dictados por la Comisión Europea.",
+      "d) Por el principio de solidaridad y reparto equitativo de responsabilidades entre los Estados miembros."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "52. Derecho de la UE. ¿En qué principio se basa la cooperación judicial en materia penal?",
+    "opciones": [
+      "a) En el principio de solidaridad.",
+      "b) En el principio de reconocimiento mutuo de las sentencias y resoluciones judiciales.",
+      "c) En el principio de reconocimiento mutuo de resoluciones judiciales y extrajudiciales.",
+      "d) En el principio de cooperación legal penal."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "53. Derecho de la UE. Ámbitos delictivos para sanciones de dimensión transfronteriza. INCORRECTA:",
+    "opciones": [
+      "a) Tráfico ilícito de drogas.",
+      "b) Corrupción.",
+      "c) Terrorismo.",
+      "d) Explotación sexual de mujeres y ancianas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "54. Derecho de la UE. ¿Quién puede solicitar juicio por infracciones que perjudiquen los intereses financieros de la UE?",
+    "opciones": [
+      "a) Comisión Europea.",
+      "b) Tribunal de Justicia de la UE.",
+      "c) Fiscalía Europea.",
+      "d) Banco de Cuentas Europeo."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "55. Derecho de la UE. Objetivos de política medioambiental. INCORRECTA:",
+    "opciones": [
+      "a) Uso prudente y racional de recursos.",
+      "b) Protección de la salud.",
+      "c) Identificación de espacios naturales.",
+      "d) Conservación y mejora ambiental."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "56. Derecho de la UE. Objetivo principal en cooperación para el desarrollo:",
+    "opciones": [
+      "a) Erradicación de la pobreza.",
+      "b) Desarrollo sostenible.",
+      "c) Solidaridad entre razas y culturas.",
+      "d) Pleno empleo."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "57. Derecho de la UE. Principios de ayuda humanitaria:",
+    "opciones": [
+      "a) Neutralidad, no discriminación e imparcialidad.",
+      "b) Proporcionalidad, cooperación e igualdad.",
+      "c) Igualdad, cooperación e imparcialidad.",
+      "d) No discriminación, igualdad y cooperación."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "58. Derecho de la UE. Órgano para jóvenes en acciones humanitarias:",
+    "opciones": [
+      "a) Asociación de Jóvenes en Acción.",
+      "b) Agencia Europea de Jóvenes Emprendedores.",
+      "c) Asociación para la Juventud y Servicios Humanitarios.",
+      "d) Cuerpo Voluntario Europeo de Ayuda Humanitaria."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "59. Derecho de la UE. ¿Quién fija el estatuto del órgano anterior?",
+    "opciones": [
+      "a) Parlamento Europeo.",
+      "b) Parlamento y Consejo.",
+      "c) El propio órgano.",
+      "d) Comisión Europea."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "60. Derecho de la UE. Cláusula de solidaridad. INCORRECTA:",
+    "opciones": [
+      "a) Coordinación en el Consejo ante un ataque terrorista.",
+      "b) Informar al Parlamento sobre modalidades.",
+      "c) Movilizar instrumentos para prevenir amenazas.",
+      "d) Movilizar instrumentos a petición del Parlamento en catástrofe natural."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "61. Derecho de la UE. Acto que obliga al Estado miembro al resultado, pero deja la forma y medios:",
+    "opciones": [
+      "a) Recomendación.",
+      "b) Decisión.",
+      "c) Directiva.",
+      "d) Dictamen."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "62. Derecho de la UE. Actos jurídicos de la Unión. INCORRECTA:",
+    "opciones": [
+      "a) Decisión.",
+      "b) Orden.",
+      "c) Reglamento.",
+      "d) Dictamen."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "63. Derecho de la UE. Procedimiento legislativo ordinario consiste en:",
+    "opciones": [
+      "a) Directiva, orden o decisión.",
+      "b) Directiva, dictamen o decisión.",
+      "c) Directiva, reglamento o decisión.",
+      "d) Reglamento, dictamen o decisión."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "64. Derecho de la UE. ¿Qué expresión figura en los actos de ejecución?",
+    "opciones": [
+      "a) De ejecución.",
+      "b) Delegado.",
+      "c) Ejecutivo.",
+      "d) De delegación."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "65. Derecho de la UE. Máximo de miembros del Comité Económico y Social:",
+    "opciones": [
+      "a) 300.",
+      "b) 350.",
+      "c) 400.",
+      "d) 450."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "66. Derecho de la UE. Duración del mandato de suplentes del Comité de las Regiones:",
+    "opciones": [
+      "a) 2 años.",
+      "b) 3 años.",
+      "c) 4 años.",
+      "d) 5 años."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "67. Derecho de la UE. Órganos que establecen el Estatuto de los funcionarios de la UE:",
+    "opciones": [
+      "a) Consejo de la UE y Comisión.",
+      "b) Parlamento y Consejo de la UE.",
+      "c) Consejo de la UE y Consejo Europeo.",
+      "d) Consejo Europeo, Parlamento y Consejo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "68. Derecho de la UE. Modalidades de la cláusula de solidaridad:",
+    "opciones": [
+      "a) Reglamentos por unanimidad.",
+      "b) Dictámenes por unanimidad.",
+      "c) Decisiones por unanimidad.",
+      "d) Órdenes por unanimidad."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "69. Derecho de la UE. Proponen modalidades de aplicación de la cláusula de solidaridad:",
+    "opciones": [
+      "a) Consejo Europeo y Parlamento.",
+      "b) Alto Representante y Parlamento.",
+      "c) Comisión y Alto Representante.",
+      "d) Consejo de la UE y Parlamento."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "70. Derecho de la UE. Dictámenes. CORRECTA:",
+    "opciones": [
+      "a) No son vinculantes.",
+      "b) Obligatorios si designan destinatarios.",
+      "c) Son vinculantes.",
+      "d) Todas correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "71. Derecho de la UE. ¿Cada cuánto tiempo presenta el Defensor del Pueblo su informe al Parlamento Europeo?",
+    "opciones": [
+      "a) Cada 3 meses.",
+      "b) Cada 6 meses.",
+      "c) Cada año.",
+      "d) Cada 2 años."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "72. Derecho de la UE. Política ambiental (objetivo nivel elevado). Basada en:",
+    "opciones": [
+      "a) Principio de cautela y acción preventiva.",
+      "b) Principio de corrección de atentados.",
+      "c) Principio de quien contamina paga.",
+      "d) Todas las anteriores."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "73. Derecho de la UE. En votación del Consejo Europeo cada miembro:",
+    "opciones": [
+      "a) No puede representar a otros.",
+      "b) Puede representarse y representar a otro.",
+      "c) Puede representar a dos o más.",
+      "d) Puede representar a uno."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "74. Derecho de la UE. Sustitución de miembro de la Comisión dimisionado, cesado o fallecido:",
+    "opciones": [
+      "a) Sustituido por uno de la misma nacionalidad nombrado por el Consejo.",
+      "b) Sustituido por uno de cualquier nacionalidad nombrado por el Consejo.",
+      "c) Nombrado por la Comisión.",
+      "d) Nuevo mandato independiente de nacionalidad."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "75. Derecho de la UE. Competencia del TJUE en cuestión prejudicial:",
+    "opciones": [
+      "a) Normas internacionales y actos de la UE.",
+      "b) Tratados y actos adoptados por Estados miembros.",
+      "c) Tratados y actos de instituciones de la UE.",
+      "d) Tratados y actos inválidos de los Estados."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "76. Derecho de la UE. Recursos ante el TJUE:",
+    "opciones": [
+      "a) Siempre suspensivos.",
+      "b) No suspensivos, pero se puede ordenar suspensión.",
+      "c) Suspensivos salvo orden contraria.",
+      "d) Nunca suspensivos."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "77. Derecho de la UE. ¿Quién asiste a Parlamento, Consejo y Comisión?",
+    "opciones": [
+      "a) Comité Económico y Social y Comité de las Regiones.",
+      "b) Comité Público y Social.",
+      "c) Comité Económico y Civil.",
+      "d) Comité Jurídico y Administrativo."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "78. Derecho de la UE. Número máximo de miembros del Comité Económico y Social:",
+    "opciones": [
+      "a) 50.",
+      "b) 150.",
+      "c) 250.",
+      "d) 350."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "79. Derecho de la UE. Recurso contra resoluciones del Tribunal General:",
+    "opciones": [
+      "a) Revisión extraordinaria.",
+      "b) Recurso de casación ante el TJUE.",
+      "c) Recurso de casación ante el Tribunal General.",
+      "d) Ninguno."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "80. Derecho de la UE. Duración del mandato del Presidente del TJUE:",
+    "opciones": [
+      "a) 6 años.",
+      "b) 5 años.",
+      "c) 3 años.",
+      "d) 2 años y medio."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "81. Derecho de la UE. ¿Cuál NO es un órgano principal de la UE?",
+    "opciones": [
+      "a) Parlamento Europeo.",
+      "b) Asamblea General de la UE.",
+      "c) Tribunal de Cuentas.",
+      "d) Consejo de la Unión Europea."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "82. Derecho de la UE. ¿Quién prepara los trabajos del Consejo de la UE?",
+    "opciones": [
+      "a) Comité de Expertos.",
+      "b) Consejo de Suplentes.",
+      "c) Parlamento.",
+      "d) Comité de Representantes Permanentes."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "83. Derecho de la UE. Actuación del TJUE. INCORRECTA:",
+    "opciones": [
+      "a) En Sala.",
+      "b) Pleno.",
+      "c) Gran Sala.",
+      "d) Juez Único."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "84. Derecho de la UE. Valores de la UE:",
+    "opciones": [
+      "a) Respeto a la dignidad humana.",
+      "b) Estabilidad.",
+      "c) Bienestar de los pueblos.",
+      "d) Mercado interior."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "85. Derecho de la UE. Moneda de la unión económica y monetaria:",
+    "opciones": [
+      "a) ECU.",
+      "b) Oro.",
+      "c) Euro.",
+      "d) Libra."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "86. Derecho de la UE. Principio según el cual la UE interviene solo si los Estados no pueden alcanzar objetivos:",
+    "opciones": [
+      "a) Proporcionalidad.",
+      "b) Igualdad.",
+      "c) Cooperación leal.",
+      "d) Subsidiariedad."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "87. Derecho de la UE. Mayoría para constatar riesgo claro de violación de valores de la UE (Consejo):",
+    "opciones": [
+      "a) 2/3.",
+      "b) 3/5.",
+      "c) 4/5.",
+      "d) 1/3."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "88. Derecho de la UE. Mayoría para constatar violación grave y persistente de valores (Consejo Europeo):",
+    "opciones": [
+      "a) 2/3.",
+      "b) Unanimidad.",
+      "c) 3/5.",
+      "d) Mayoría simple."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "89. Derecho de la UE. Principio en que se basa el funcionamiento de la UE:",
+    "opciones": [
+      "a) Cooperación real.",
+      "b) Cooperación leal.",
+      "c) Democracia representativa.",
+      "d) Democracia parlamentaria."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "90. Derecho de la UE. Número de ciudadanos para una iniciativa ciudadana europea:",
+    "opciones": [
+      "a) Un millón.",
+      "b) Medio millón.",
+      "c) 300.000.",
+      "d) 100.000."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "91. Derecho de la UE. Finalidad del marco institucional de la UE:",
+    "opciones": [
+      "a) Bienestar ciudadano.",
+      "b) Fundar instituciones.",
+      "c) Garantizar eficacia de sus acciones.",
+      "d) Cooperar con estados no miembros."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "92. Derecho de la UE. Duración del mandato de la Comisión Europea:",
+    "opciones": [
+      "a) 3 años.",
+      "b) 4 años.",
+      "c) 5 años.",
+      "d) 6 años."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "93. Derecho de la UE. ¿Qué órgano cesa a un miembro de la Comisión que ya no reúne condiciones?",
+    "opciones": [
+      "a) Comisión.",
+      "b) Tribunal de Justicia.",
+      "c) Parlamento Europeo.",
+      "d) Consejo Europeo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "94. Derecho de la UE. Decisiones por mayoría simple del Consejo Europeo:",
+    "opciones": [
+      "a) Listas de formaciones del Consejo.",
+      "b) En todos los casos salvo tratados.",
+      "c) Presidencia de formaciones.",
+      "d) Procedimiento interno."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "95. Derecho de la UE. Duración del mandato del Presidente del Consejo Europeo:",
+    "opciones": [
+      "a) 5 años.",
+      "b) 2,5 años.",
+      "c) 4 años.",
+      "d) 3 años."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "96. Derecho de la UE. ¿Dónde está la sede de la Secretaría General del Parlamento Europeo?",
+    "opciones": [
+      "a) Luxemburgo.",
+      "b) La Haya.",
+      "c) Estrasburgo.",
+      "d) Bruselas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "97. Derecho de la UE. ¿Cada cuánto informa el Defensor del Pueblo Europeo al Parlamento?",
+    "opciones": [
+      "a) Cada dos años.",
+      "b) Cada año.",
+      "c) Cada semestre.",
+      "d) Cada tres años."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "98. Derecho de la UE. Actos del Consejo Europeo cuya legalidad controla el TJUE:",
+    "opciones": [
+      "a) Los que no sean recomendaciones.",
+      "b) Los que no sean dictámenes.",
+      "c) Actos legislativos.",
+      "d) Actos destinados a producir efectos jurídicos frente a terceros."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "99. Derecho de la UE. Órgano que controla las cuentas de la UE:",
+    "opciones": [
+      "a) Tribunal de Cuentas.",
+      "b) Banco Central Europeo.",
+      "c) Banco de Cuentas.",
+      "d) Banco de Inversiones Europeas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "100. Derecho de la UE. ¿Con qué bancos constituye el BCE el Eurosistema?",
+    "opciones": [
+      "a) Bancos centrales nacionales.",
+      "b) Bancos nacionales.",
+      "c) Bancos centrales nacionales cuya moneda es el euro.",
+      "d) Bancos nacionales cuya moneda es el euro."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "101. Derecho de la UE. Países y territorios no europeos asociados a la Unión. ¿Con quién mantienen relaciones especiales?",
+    "opciones": [
+      "a) Dinamarca, Italia, Alemania y Países Bajos.",
+      "b) Francia, Italia, Alemania y Reino Unido.",
+      "c) Dinamarca, Francia, Países Bajos y Reino Unido.",
+      "d) Francia, Países Bajos y Reino Unido."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "102. Derecho de la UE. Fin de la Asociación con países y territorios:",
+    "opciones": [
+      "a) Promoción del desarrollo económico y social y relaciones económicas estrechas con la Unión.",
+      "b) Prevención del desarrollo económico y social.",
+      "c) Promoción del desarrollo político y social.",
+      "d) Prevención del desarrollo económico, político y social."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "103. Derecho de la UE. Objetivos de la asociación:",
+    "opciones": [
+      "a) Régimen comercial aplicado entre sí por los Estados miembros.",
+      "b) Contribuir a las inversiones necesarias para el desarrollo progresivo.",
+      "c) Aplicar a sus intercambios el régimen del Estado europeo con quien tengan relación.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "104. Derecho de la UE. Beneficios para países y territorios en importaciones en los Estados miembros:",
+    "opciones": [
+      "a) Aplicación de derechos de aduana.",
+      "b) Prohibición de derechos de aduana.",
+      "c) Exención de derechos de aduana.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "105. Derecho de la UE. Libertad de circulación de trabajadores entre países y territorios y Estados miembros se regirá por:",
+    "opciones": [
+      "a) Artículo 201.",
+      "b) Artículo 202.",
+      "c) Artículo 203.",
+      "d) Artículo 204."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "106. Derecho de la UE. ¿A quién estarán abiertas las cooperaciones reforzadas?",
+    "opciones": [
+      "a) Solo a Estados del Parlamento con 55% población.",
+      "b) A todos los Estados de Europa.",
+      "c) A todos los Estados miembros.",
+      "d) Solo a Estados del Consejo con 55% población."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "107. Derecho de la UE. ¿Quién adopta la decisión de autorizar una cooperación reforzada?",
+    "opciones": [
+      "a) El Consejo.",
+      "b) El Parlamento Europeo.",
+      "c) Consejo y Parlamento.",
+      "d) La Comisión."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "108. Derecho de la UE. La política común de seguridad y defensa forma parte de:",
+    "opciones": [
+      "a) Política exterior y de seguridad común.",
+      "b) Protocolos de seguridad de la UE.",
+      "c) Actuaciones policiales estatales.",
+      "d) Directrices del Alto Representante."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "109. Derecho de la UE. Adopción por unanimidad de decisiones relativas a seguridad y defensa:",
+    "opciones": [
+      "a) A propuesta del Parlamento Europeo.",
+      "b) A propuesta de los Estados miembros.",
+      "c) A propuesta de la Comisión.",
+      "d) A propuesta del Alto Representante."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "110. Derecho de la UE. Autoridad sobre la Agencia Europea de Defensa:",
+    "opciones": [
+      "a) Parlamento Europeo.",
+      "b) Consejo.",
+      "c) Alto Representante.",
+      "d) Comisión."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "111. Derecho de la UE. ¿Quién puede participar en la Agencia Europea de Defensa?",
+    "opciones": [
+      "a) Todos los Estados miembros que lo deseen.",
+      "b) Estados miembros que cumplan requisitos.",
+      "c) Solo autorizados por el Consejo.",
+      "d) Solo autorizados por el Consejo propuestos por el Parlamento."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "112. Derecho de la UE. Estados que desean participar en cooperación estructurada permanente deben notificar a:",
+    "opciones": [
+      "a) Consejo.",
+      "b) Alto Representante.",
+      "c) a) y b) son correctas.",
+      "d) Ninguna."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "113. Derecho de la UE. Si un Estado abandona la cooperación estructurada permanente debe notificar a:",
+    "opciones": [
+      "a) Parlamento Europeo.",
+      "b) Consejo.",
+      "c) Alto Representante.",
+      "d) Comisión."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "114. Derecho de la UE. ¿Quién puede presentar proyectos de revisión de los Tratados al Consejo?",
+    "opciones": [
+      "a) Gobiernos de Estados miembros.",
+      "b) Parlamento Europeo.",
+      "c) Comisión.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "115. Derecho de la UE. ¿Quién puede presentar proyectos de revisión de los Tratados al Consejo Europeo?",
+    "opciones": [
+      "a) Gobiernos de Estados miembros.",
+      "b) Parlamento Europeo.",
+      "c) Comisión.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "116. Derecho de la UE. Comisión Europea. Señala la correcta:",
+    "opciones": [
+      "a) El Presidente puede exigir dimisión de un Comisario con aprobación de la Comisión.",
+      "b) La Comisión puede exigir dimisión por mayoría de dos tercios.",
+      "c) El Presidente puede exigir dimisión sin contar con la Comisión.",
+      "d) Solo el Presidente del Consejo puede exigir la dimisión."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "117. Derecho de la UE. Diferencia entre el Consejo y el Consejo Europeo:",
+    "opciones": [
+      "a) Consejo Europeo = jefes de Estado/Gobierno y presidente de la Comisión; Consejo = ministros con funciones legislativas y presupuestarias.",
+      "b) Consejo = jefes de Estado/Gobierno; Consejo Europeo = ministros.",
+      "c) Consejo = jefes de Estado/Gobierno; Consejo Europeo = órgano regional.",
+      "d) Son lo mismo."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "118. Derecho de la UE. ¿Cuándo se reunirá el Parlamento Europeo?",
+    "opciones": [
+      "a) Segundo martes de marzo con convocatoria.",
+      "b) Segundo martes de marzo sin convocatoria.",
+      "c) Segunda semana de enero con convocatoria.",
+      "d) Tercera semana de enero sin convocatoria."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "119. Derecho de la UE. ¿A quién corresponde ejecutar el presupuesto de la UE?",
+    "opciones": [
+      "a) Consejo Europeo.",
+      "b) Consejo de la Unión Europea.",
+      "c) Comisión Europea.",
+      "d) Parlamento Europeo."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "120. Derecho de la UE. Recomendaciones y dictámenes de la UE:",
+    "opciones": [
+      "a) No son vinculantes.",
+      "b) Son vinculantes.",
+      "c) De aplicación directa y obligatoria.",
+      "d) Obligatorias para el destinatario."
+    ],
+    "respuesta": "a"
+  }
+]

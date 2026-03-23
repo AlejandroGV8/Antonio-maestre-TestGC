@@ -1,0 +1,1502 @@
+[
+  {
+    "pregunta": "1. Derecho Penal. El Derecho penal objetivo se define como:",
+    "opciones": [
+      "a) Un conjunto de normas que se establecen para la investigación de los delitos y faltas.",
+      "b) El conjunto de normas jurídicas que definen los delitos y las faltas y señalan las penas y medidas de seguridad a imponer a los responsables de tales infracciones.",
+      "c) La facultad del Estado de establecer normas penales y aplicables a los infractores de las mismas.",
+      "d) El conjunto de normas establecidas para la investigación de los delitos y faltas y la detención de los autores."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "2. Derecho Penal. ¿Cuál de las respuestas señaladas a continuación coincide con la definición de derecho penal subjetivo?",
+    "opciones": [
+      "a) Conjunto de normas establecidas para investigar los delitos y las faltas y la detención de los sujetos autores de los mismos.",
+      "b) Conjunto de normas que se establecen para la persecución de los delitos y las faltas.",
+      "c) Facultad que tiene el Estado de establecer normas penales y aplicarlas a los infractores de las mismas.",
+      "d) Conjunto de normas jurídicas que definen los delitos y faltas y señalan las penas a aplicar a sus infractores."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "3. Derecho Penal. La madre que intencionadamente deja de alimentar a su hijo, causándole la muerte:",
+    "opciones": [
+      "a) Será irresponsable penalmente.",
+      "b) Comete un delito por comisión por omisión.",
+      "c) Comete un delito imprudente",
+      "d) Será castigada por provocación al delito."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "4. Derecho Penal. La garantía judicial derivada del principio de legalidad quiere decir que:",
+    "opciones": [
+      "a) No hay delito sin ley.",
+      "b) No hay pena sin ley.",
+      "c) No podrá ejecutarse pena alguna en virtud de sentencia firme.",
+      "d) No hay pena sin juicio legal."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "5. Derecho Penal. Cuando el Estado impone penas a los autores de los hechos delictivos, está haciendo uso de una potestad que se llama:",
+    "opciones": [
+      "a) Preventiva.",
+      "b) Punitiva.",
+      "c) Jurisdiccional.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "6. Derecho Penal. Con carácter general las leyes penales son:",
+    "opciones": [
+      "a) Retroactivas.",
+      "b) Irretroactivas.",
+      "c) Irretroactivas si favorecen al reo.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "7. Derecho Penal. Cuando hablamos del principio de legalidad nos estamos refiriendo a que:",
+    "opciones": [
+      "a) La ignorancia de la ley no exime de su cumplimiento.",
+      "b) No hay delito ni pena sin ley anterior a su perpetración.",
+      "c) A nadie se le puede imponer una pena distinta a la señalada en la ley.",
+      "d) En caso de duda hay que fallar a favor del reo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "8. Derecho Penal. ¿Qué principio se basa en que no es posible castigar más de una vez a una persona por un mismo hecho?",
+    "opciones": [
+      "a) Principio de intervención mínima.",
+      "b) Principio de hecho.",
+      "c) Principio non bis in idem.",
+      "d) Principio de culpabilidad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "9. Derecho Penal. En el supuesto de que en un proceso judicial exista duda sobre la culpabilidad del presunto autor de un delito:",
+    "opciones": [
+      "a) Se le deberá absolver.",
+      "b) El Juez podrá ordenar su prisión preventiva hasta obtener más pruebas.",
+      "c) Se le juzgará y se le impondrá una pena inferior a la que corresponda",
+      "d) Se le castiga como cómplice."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "10. Derecho Penal. Dentro del ordenamiento jurídico, la rama del mismo que tiene como objetivo la lucha contra el delito constituye lo que conocemos como:",
+    "opciones": [
+      "a) Proceso penal.",
+      "b) Ley de Enjuiciamiento Criminal.",
+      "c) Derecho penal.",
+      "d) Derecho procesal."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "11. Derecho Penal. ¿A quién expondrá el Juez o Tribunal las razones que le asisten para creer que alguna acción u omisión deber ser castigada, sin estar penada por la Ley?",
+    "opciones": [
+      "a) A las Cortes Generales.",
+      "b) Al Consejo de Ministros.",
+      "c) Al Tribunal Constitucional.",
+      "d) Al Gobierno."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "12. Derecho Penal. ¿Qué son delitos leves?",
+    "opciones": [
+      "a) Las infracciones que la ley castiga con pena leve.",
+      "b) Las infracciones que la ley castiga con pena administrativa.",
+      "c) Las infracciones que la ley castiga con pena menos leve.",
+      "d) Las infracciones que la ley castiga con pena grave."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "13. Derecho Penal. En caso de duda sobre la determinación de la Ley más favorable. ¿Qué medidas se tomarán?",
+    "opciones": [
+      "a) Se someterá a votación de las partes implicadas.",
+      "b) El juez resolverá mediante auto.",
+      "c) Se oirá al reo.",
+      "d) Decidirá el Tribunal Popular."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "14. Derecho Penal. ¿Cómo se realizará la ejecución de la pena o la medida de seguridad?",
+    "opciones": [
+      "a) Bajo el control de funcionarios de Vigilancia Penitenciaria.",
+      "b) Bajo el control del Ministerio Fiscal.",
+      "c) Bajo el control de los Jueces y Tribunales competentes.",
+      "d) Bajo el control de las Fuerzas y Cuerpos de Seguridad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "15. Derecho Penal. Obrar impulsado por miedo insuperable:",
+    "opciones": [
+      "a) Agravante.",
+      "b) Atenuante.",
+      "c) Eximente.",
+      "d) Mixta de parentesco."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "16. Derecho Penal. Dos o más personas se conciertan para la ejecución de un delito y resuelven ejecutarlo:",
+    "opciones": [
+      "a) Conspiración",
+      "b) Proposición.",
+      "c) Provocación",
+      "d) Apología."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "17. Derecho Penal. ¿Cómo se castigará, si a la provocación sigue la perpetración del delito?",
+    "opciones": [
+      "a) Como apología.",
+      "b) Como inducción.",
+      "c) Como tentativa.",
+      "d) Como proposición."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "18. Derecho Penal. Ejecutar el hecho con alevosía:",
+    "opciones": [
+      "a) Atenuante.",
+      "b) Agravante.",
+      "c) Eximente.",
+      "d) Mixta de parentesco."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "19. Derecho Penal. Ejecutar el hecho mediante disfraz:",
+    "opciones": [
+      "a) Agravante.",
+      "b) Atenuante.",
+      "c) Eximente.",
+      "d) Mixta de parentesco."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "20. Derecho Penal. Actuar el culpable a causa de su grave adicción a los estupefacientes:",
+    "opciones": [
+      "a) Agravante.",
+      "b) Circunstancia mixta de parentesco.",
+      "c) Eximente.",
+      "d) Atenuante."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "21. Derecho Penal. Haber colaborado en la investigación del hecho aportando pruebas, en cualquier momento del proceso, que fueran nuevas y decisivas para esclarecer las responsabilidades penales dimanantes de los hechos:",
+    "opciones": [
+      "a) Circunstancia atenuante para personas jurídicas.",
+      "b) Circunstancia mixta de parentesco.",
+      "c) Circunstancia agravante para personas físicas.",
+      "d) Circunstancia eximente para personas jurídicas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "22. Derecho Penal. ¿A cuál de los que se citan no serán aplicables las disposiciones relativas a la responsabilidad penal de las personas jurídicas?",
+    "opciones": [
+      "a) A las Administraciones privadas territoriales.",
+      "b) A las Entidades privadas empresariales.",
+      "c) A las organizaciones internacionales de derecho privado.",
+      "d) A los Organismos Reguladores."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "23. Derecho Penal. El error sobre el hecho de una circunstancia agravante:",
+    "opciones": [
+      "a) Se le aplicará la pena inferior en uno o dos grados.",
+      "b) Excluye la responsabilidad.",
+      "c) Impedirá su apreciación.",
+      "d) Se castigará como imprudente."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "24. Derecho Penal. El que por disposición inmediata de la ley participe en el ejercicio de funciones públicas:",
+    "opciones": [
+      "a) Persona física.",
+      "b) Persona jurídica.",
+      "c) Funcionario público.",
+      "d) Autoridad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "25. Derecho Penal. ¿Cuál de las siguientes es una medida privativa de libertad?",
+    "opciones": [
+      "a) La prisión preventiva.",
+      "b) La inhabilitación profesional.",
+      "c) La libertad vigilada.",
+      "d) El internamiento en un centro educativo especial."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "26. Derecho Penal. ¿En relación con quién ejercerá, el familiar que se designe, el cuidado y vigilancia de la persona sometida a la medida de custodia familiar?",
+    "opciones": [
+      "a) El Ministerio Fiscal.",
+      "b) El Juez de Vigilancia Penitenciaria.",
+      "c) El Juez de Instrucción.",
+      "d) El abogado del interesado."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "27. Derecho Penal. ¿Quién está obligado a elevar, al menos anualmente, una propuesta de mantenimiento, cese, sustitución o suspensión, cuando se trate de libertad vigilada que deba ejecutarse después de cumplir una pena privativa de libertad?",
+    "opciones": [
+      "a) El Ministerio Fiscal.",
+      "b) El Juez de Vigilancia Penitenciaria.",
+      "c) El Juez de Instrucción.",
+      "d) El abogado del interesado."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "28. Derecho Penal. ¿A qué dará lugar el quebrantamiento por una persona de una medida de internamiento?",
+    "opciones": [
+      "a) A que el juez ordene su reingreso en otro centro que corresponda a su estado.",
+      "b) A que se le apliquen las penas en su mitad superior.",
+      "c) A que el juez ordene su incomunicación en el mismo centro.",
+      "d) A la eliminación de las facilidades o ventajas penitenciarias."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "29. Derecho Penal. ¿Qué medida no se podrá aplicar al que, por sufrir alteraciones en la percepción desde la infancia, tenga alterada gravemente la conciencia de la realidad?",
+    "opciones": [
+      "a) Expulsión del territorio nacional de extranjeros no residentes legalmente en España.",
+      "b) Internamiento en centro educativo especial.",
+      "c) Internamiento en centro psiquiátrico.",
+      "d) Libertad vigilada."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "30. Derecho Penal. ¿Por qué tiempo podrá el juez imponer también al sujeto de la pregunta anterior la medida de custodia familiar?",
+    "opciones": [
+      "a) Por un tiempo de hasta diez años.",
+      "b) Por un tiempo no superior a diez años.",
+      "c) Por un tiempo de hasta cinco años.",
+      "d) Por un tiempo no superior a cinco años."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "31. Derecho Penal. Libertad vigilada. Señale la opción INCORRECTA:",
+    "opciones": [
+      "a) Prohibición de residir en determinados lugares.",
+      "b) Obligación de seguir tratamiento médico interno.",
+      "c) Obligación de estar siempre localizable mediante aparatos electrónicos.",
+      "d) Obligación de comunicar, en el plazo máximo y por el medio que el juez o tribunal señale a tal efecto, cada cambio del lugar de trabajo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "32. Derecho Penal. ¿En cuánto tiempo no podrá el extranjero regresar a España?",
+    "opciones": [
+      "a) En 2 años.",
+      "b) En 3 años.",
+      "c) En 5 años.",
+      "d) En 10 años."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "33. Derecho Penal. Libertad vigilada. Señale la opción CORRECTA:",
+    "opciones": [
+      "a) Prohibición de comunicarse con el autor de los hechos.",
+      "b) Obligación de seguir tratamiento médico interno.",
+      "c) Obligación de participar en programas de televisión.",
+      "d) Obligación de comunicar, en el plazo máximo y por el medio que el juez o tribunal señale a tal efecto, cada cambio del lugar de trabajo."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "34. Derecho Penal. ¿Quién podrá reducir la duración de la libertad vigilada?",
+    "opciones": [
+      "a) El Juez o Tribunal.",
+      "b) El Ministerio Fiscal.",
+      "c) El Defensor del Pueblo.",
+      "d) El Juez, previo informe del Ministerio Fiscal sobre la idoneidad de la reducción."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "35. Derecho Penal. En el supuesto de que el autor sea el relacionado en la pregunta 19, ¿qué otras medidas se le podrán imponer por un tiempo de hasta diez años? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Privación del derecho a la tenencia y porte de armas.",
+      "b) Custodia familiar.",
+      "c) Privación del derecho de conducir ciclomotores.",
+      "d) Libertad vigilada, cuando expresamente lo disponga el Código Penal."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "36. Derecho Penal. ¿Por qué tiempo podrá imponerse la pena de intervención judicial para salvaguardar los derechos de los trabajadores a las sociedades mercantiles públicas que presten servicios de interés público general?",
+    "opciones": [
+      "a) Por el tiempo que se estime necesario, que no podrá exceder de 20 años.",
+      "b) Por el tiempo que se estime necesario, que no podrá exceder de 5 años.",
+      "c) Por el tiempo que se estime necesario, que no podrá exceder de 10 años.",
+      "d) Por el tiempo que se estime necesario, que no podrá exceder de 15 años."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "37. Derecho Penal. ¿Quiénes son responsables de los delitos?",
+    "opciones": [
+      "a) Los coautores.",
+      "b) Los cómplices.",
+      "c) Los autores.",
+      "d) b) y c) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "38. Derecho Penal. ¿Cómo se considerará el delito cuando, por su extensión, la pena pueda considerarse como leve y menos grave?",
+    "opciones": [
+      "a) Muy grave.",
+      "b) Grave.",
+      "c) Menos grave.",
+      "d) Leve."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "39. Derecho Penal. Circunstancia que deben ocurrir para que se considere eximente la acción del que obre, en estado de necesidad, para evitar un mal propio y lesione un bien jurídico de otra persona. Señale la INCORRECTA:",
+    "opciones": [
+      "a) Que la situación de necesidad no haya sido provocada intencionalmente por el sujeto.",
+      "b) Que el necesitado no tenga, por su oficio o cargo, obligación de sacrificarse.",
+      "c) Que el mal causado no sea mayor que el que se trate evitar.",
+      "d) Necesidad racional del medio empleado para impedirla o repelerla."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "40. Derecho Penal. ¿Qué tipo de datos, hechos o narraciones debe expresar o incorporar un soporte material para que sea considerado documento?",
+    "opciones": [
+      "a) Con capacidad modificada judicialmente.",
+      "b) De carácter permanente.",
+      "c) De cualquier tipo de relevancia jurídica.",
+      "d) Con eficacia judicial."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "41. Derecho Penal. ¿Cuándo podrán aplicarse las medidas de seguridad?",
+    "opciones": [
+      "a) En caso de eximentes.",
+      "b) Cuando no carezcan de efecto retroactivo.",
+      "c) Cuando concurran los presupuestos establecidos previamente en la ley.",
+      "d) Cuando dos o más personas se concierten para la ejecución de un delito y no resuelven a ejecutarlo."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "42. Derecho Penal. ¿En qué se fundamentan las medidas de seguridad?",
+    "opciones": [
+      "a) En las circunstancias del delito.",
+      "b) En la peligrosidad criminal del sujeto al que se imponga.",
+      "c) En las pruebas presentadas por el acusador.",
+      "d) En los efectos aplicables en el tiempo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "43. Derecho Penal. ¿Cuándo se equiparará la acción a la omisión?",
+    "opciones": [
+      "a) Cuando el perjudicado tenga por su oficio obligación de sacrificarse.",
+      "b) En todos los casos en los que haya ofrecimiento de acciones.",
+      "c) Cuando el omitente haya creado una ocasión de riesgo para el bien jurídicamente protegido mediante una omisión precedente.",
+      "d) En cualquier caso, en acciones u omisiones imprudentes y dolosas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "44. Derecho Penal. ¿Hasta qué edad no se es responsable criminalmente con arreglo al Código Penal?",
+    "opciones": [
+      "a) Hasta los 16 años.",
+      "b) Hasta los 21 años.",
+      "c) Hasta los 18 años.",
+      "d) Hasta los 17 años."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "45. Derecho Penal. Exposición ante una concurrencia de personas, de ideas que ensalcen el crimen:",
+    "opciones": [
+      "a) Prevaricación.",
+      "b) Inducción.",
+      "c) Provocación.",
+      "d) Apología."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "46. Derecho Penal. Cuando el culpable ha sido condenado ejecutoriamente por un delito comprendido en el mismo Título del Código Penal, y sea de la misma naturaleza, se dice que:",
+    "opciones": [
+      "a) Actúa con premeditación.",
+      "b) Es autor material.",
+      "c) Es reincidente.",
+      "d) Se trata de un eximente."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "47. Derecho Penal. Cuando el culpable comete un delito contra las personas empleando en la ejecución medios que tiendan directamente a asegurarla, sin riesgo debido a la posible defensa del ofendido, actúa con:",
+    "opciones": [
+      "a) Premeditación.",
+      "b) Alevosía.",
+      "c) Tentativa.",
+      "d) Dolo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "48. Derecho Penal. Obrar con abuso de superioridad:",
+    "opciones": [
+      "a) Agravante.",
+      "b) Atenuante.",
+      "c) Alevosía.",
+      "d) Mixta."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "49. Derecho Penal. Existe delito en grado de tentativa cuando:",
+    "opciones": [
+      "a) Se han practicado parte de los actos que deberían producir el resultado y éste no se ha producido por causas independientes a la voluntad del autor.",
+      "b) se han practicado parte de los actos que objetivamente deberían producir el resultado y éste se ha producido por causas dependientes de la voluntad del autor.",
+      "c) Se han practicado todos los actos que deberían producir el resultado, pero la conducta no es delito ni falta.",
+      "d) Se han practicado los actos que deberían producir el resultado y éste no se ha producido por causas dependientes de la voluntad del autor."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "50. Derecho Penal. En los delitos cometidos utilizando medios o soportes de difusión mecánicos, no es responsable:",
+    "opciones": [
+      "a) El que realmente ha redactado el texto.",
+      "b) El propietario de la empresa distribuidora.",
+      "c) El director de la publicación.",
+      "d) El director de la empresa editora."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "51. Derecho Penal. En los delitos graves:",
+    "opciones": [
+      "a) Se castiga la tentativa.",
+      "b) Se castiga la tentativa y la consumación.",
+      "c) La ley los sanciona con pena menos leve.",
+      "d) Todas las anteriores son incorrectas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "52. Derecho Penal. Libertad vigilada:",
+    "opciones": [
+      "a) Se ejercerá en relación con el Juez de Vigilancia Penitenciaria.",
+      "b) Es una medida privativa de libertad.",
+      "c) Puede consistir en la prohibición de acudir a establecimientos.",
+      "d) Cesará en cualquier momento que decida la persona que acepte realizar la vigilancia."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "53. Derecho Penal. ¿Por qué plazo puede el Tribunal sentenciador dejar en suspenso la ejecución de la medida de seguridad?",
+    "opciones": [
+      "a) Por un plazo no superior a 2 años.",
+      "b) Por un plazo no inferior al dictado para la pena.",
+      "c) Pr un plazo no superior a 3 años.",
+      "d) Por un plazo no superior al que reste hasta el máximo señalado en la sentencia."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "54. Derecho Penal. ¿Cuándo cumplirá el condenado la medida de seguridad que le imponga si ha sido condenado a varias penas privativas de libertad que debe cumplir sucesivamente?",
+    "opciones": [
+      "a) Antes de cumplir las penas.",
+      "b) Después de cumplir todas las penas.",
+      "c) Si son varias penas privativas de libertad, estará exento de cumplir la medida.",
+      "d) Podrá elegir cumplir la medida de seguridad entre dos de las penas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "55. Derecho Penal. ¿Qué medida de seguridad podrá decretar el Juez si se ha cometido el delito con abuso del ejercicio de un oficio?",
+    "opciones": [
+      "a) Inhabilitación para el ejercicio del oficio de 5 a 10 años.",
+      "b) Inhabilitación para el ejercicio del oficio de 1 a 5 años.",
+      "c) Inhabilitación para el ejercicio del oficio de 6 meses a 1 año.",
+      "d) Inhabilitación para el ejercicio del oficio de 3 a 6 meses."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "56. Derecho Penal. ¿Cuál de los siguientes constituye un delito contra la libertad individual?",
+    "opciones": [
+      "a) La autoridad que, mediando causa por delito, acuerde cualquier privación de libertad de un sentenciado violando las garantías legales.",
+      "b) La autoridad que, mediando causa por delito y sin respetar las garantías legales entre en un domicilio sin consentimiento del titular.",
+      "c) La autoridad que, mediando causa por delito y sin respetar las garantías legales registre los papeles de una persona en su domicilio.",
+      "d) La autoridad que, mediando causa por delito y sin respetar las garantías legales intercepte cualquier correspondencia privada."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "57. Derecho Penal. El funcionario público que, a sabiendas y sin la debida autorización, acceda a documentos secretos cuya custodia le esté confiada, comete el delito de:",
+    "opciones": [
+      "a) Abuso en el ejercicio de su función.",
+      "b) Cohecho.",
+      "c) Infidelidad en la custodia de documentos.",
+      "d) Tráfico de influencias."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "58. Derecho Penal. ¿En cuál de los siguientes casos no se comete delito de desobediencia a la autoridad?",
+    "opciones": [
+      "a) Se niegue abiertamente a dar cumplimiento a órdenes de la autoridad superior, siendo legales.",
+      "b) Desobedezca las órdenes después de que los superiores hubieran desaprobado la suspensión de las mismas.",
+      "c) Se niegue abiertamente a dar cumplimiento a resoluciones judiciales, siendo legales.",
+      "d) No dé cumplimiento a un mandato que constituya una infracción manifiesta, clara y terminante de una ley."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "59. Derecho Penal. Podrá quedar exento el particular de la pena por delito de cohecho:",
+    "opciones": [
+      "a) Si el soborno mediare en causa criminal a favor del reo por parte de su cónyuge.",
+      "b) Si el soborno mediare en causa criminal a favor del reo por parte de algún hermano.",
+      "c) Si el particular ha accedido ocasionalmente a la solicitud de dádiva.",
+      "d) Si el soborno mediare en causa criminal a favor del reo por parte de algún ascendente o descendente."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "60. Derecho Penal. ¿En qué delito incurre el funcionario público que, abusando de su cargo, comete el delito de fraude de prestaciones del Sistema de Seguridad Social?",
+    "opciones": [
+      "a) Fraude y exacciones ilegales.",
+      "b) Malversación.",
+      "c) Prevaricación.",
+      "d) Infidelidad en la custodia de documentos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "61. Derecho Penal. ¿Qué delito comete el funcionario de un centro de corrección de menores que solicite sexualmente a una persona sujeta a su guarda?",
+    "opciones": [
+      "a) Delito de abusos en el ejercicio de su función.",
+      "b) Delito de negociaciones prohibidas.",
+      "c) Delito de acoso sexual.",
+      "d) Delitos de sedición."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "62. Derecho Penal. ¿Con qué delitos será castigado el Magistrado que se arrogue atribuciones administrativas de las que carece?",
+    "opciones": [
+      "a) Delitos contra las instituciones del Estado.",
+      "b) Delitos contra la Constitución.",
+      "c) Delitos contra la Corona.",
+      "d) Delitos relativos al ejercicio de los derechos fundamentales y las libertades públicas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "63. Derecho Penal. ¿Qué delito comete el que haga públicamente escarnio, por escrito, de quienes no profesan creencia alguna?",
+    "opciones": [
+      "a) No comenten delito al no profesar creencia alguna.",
+      "b) Delito contra la libertad de conciencia, los sentimientos religiosos y el respeto a los difuntos.",
+      "c) Delito contra la libertad de pensamiento.",
+      "d) Delito contra la libertad ideológica y de culto."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "64. Derecho Penal. ¿Qué delito comete el que declara la independencia del territorio nacional?",
+    "opciones": [
+      "a) Ninguno.",
+      "b) Delito contra la Corona.",
+      "c) Delito de Rebelión.",
+      "d) Delito contra las Garantías Constitucionales."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "65. Derecho Penal. ¿Cómo será castigada la proposición para cometer el delito de rebelión?",
+    "opciones": [
+      "a) Con la pena de multa establecida en el Código Penal.",
+      "b) Con la pena de prisión inferior en uno o dos grados.",
+      "c) Con las mismas penas que la tentativa para cometer la rebelión.",
+      "d) Con las penas en grado medio o superior, atendiendo a las circunstancias del hecho."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "66. Derecho Penal. ¿Qué delito comete el que impida a las Cortes Generales reunirse para nombrar la Regencia, al vacar la Corona?",
+    "opciones": [
+      "a) Delito contra las instituciones del Estado.",
+      "b) Delitos contra los deberes fundamentales y libertades públicas.",
+      "c) Delito contra las Cortes Generales.",
+      "d) Delito contra la Corona."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "67. Derecho Penal. Si el que comete el delito de privar al Rey de su libertad personal es castigado en algún precepto del Código Penal con 22 años, ¿qué delito comete?",
+    "opciones": [
+      "a) Delito contra las instituciones del Estado.",
+      "b) Delito contra la Corona.",
+      "c) Delitos cometidos por los funcionarios contra la libertad personal.",
+      "d) Al ser la pena mayor que la estipulada para esos supuestos contra la Corona, cometerá otro delito."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "68. Derecho Penal. El que ofenda de palabra a los símbolos de las Comunidades Autónomas, efectuándolo con publicidad:",
+    "opciones": [
+      "a) Delito contra las Comunidades Autónomas.",
+      "b) Delito contra la libertad de conciencia.",
+      "c) Delito contra las instituciones del Estado.",
+      "d) Ultrajes a España."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "69. Derecho Penal. ¿Qué delito cometerán los que presidan el grupo de los que, sin alzarse públicamente, portando instrumentos peligrosos, intenten penetrar en la sede del senado para presentar colectivamente peticiones al mismo?",
+    "opciones": [
+      "a) Delito de usurpación de atribuciones.",
+      "b) Delito contra las instituciones del Estado.",
+      "c) Delito de Rebelión.",
+      "d) Delito de ultrajes a las Cortes Generales."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "70. Derecho Penal. La autoridad que expropie a una persona de sus bienes fuera de los casos permitidos y sin cumplir los requisitos legales:",
+    "opciones": [
+      "a) Delitos cometidos por los funcionarios públicos contra otros derechos individuales.",
+      "b) Delitos cometidos por los funcionarios públicos contra la libertad individual.",
+      "c) Delitos cometidos por los funcionarios públicos contra la inviolabilidad domiciliaria.",
+      "d) Delitos cometidos por los funcionarios públicos contra las demás garantías de la intimidad."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "71. Derecho Penal. La autoridad o funcionario público que cometa el delito de administración desleal sobre el patrimonio público:",
+    "opciones": [
+      "a) Cohecho.",
+      "b) Fraude y exacciones ilegales.",
+      "c) Malversación.",
+      "d) Abandono de destino."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "72. Derecho Penal. La autoridad o funcionario público que exigiere, directamente, derechos, tarifas por aranceles o minutas que no sean debidas o en cuantía mayor a la legalmente señalada.",
+    "opciones": [
+      "a) Fraude y exacciones ilegales.",
+      "b) Cohecho.",
+      "c) Malversación.",
+      "d) Prevaricación."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "73. Derecho Penal. La autoridad o funcionario público que influyere en otro funcionario público o Autoridad prevaliéndose del ejercicio de las facultades de su cargo para conseguir una resolución que directamente le pueda genera un beneficio económico:",
+    "opciones": [
+      "a) Prevaricación.",
+      "b) Tráfico de influencias.",
+      "c) Cohecho.",
+      "d) Corrupción de transacciones comerciales."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "74. Derecho Penal. ¿Cuándo se consideran, el particular, afectados los intereses de los acreedores en el delito de malversación?",
+    "opciones": [
+      "a) Cuando superen la cantidad de 4000 euros.",
+      "b) Cuando dichos acreedores pertenezcan a una sociedad mercantil.",
+      "c) Cuando se cometa el delito de malversación con reincidencia.",
+      "d) Cuando de manera dolosa se altere el orden de pagos de créditos establecidos por la ley."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "75. Derecho Penal. La autoridad o funcionario público que, a sabiendas de su injusticia, dictare una resolución arbitraria en un asunto administrativo:",
+    "opciones": [
+      "a) Cohecho.",
+      "b) Prevaricación.",
+      "c) Tráfico de influencias.",
+      "d) Malversación."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "76. Derecho Penal. ¿A quién no serán extensivas las disposiciones del capítulo de la malversación?",
+    "opciones": [
+      "a) A los encargados de fondos de la Administración Pública.",
+      "b) A los particulares legalmente designados como depositarios de efectos públicos.",
+      "c) A los albaceas de caudales públicos, cualquiera que sea la Administración a la que pertenezcan.",
+      "d) A los depositarios de bienes embargados por autoridad pública pertenecientes a particulares."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "77. Derecho Penal. ¿Qué tipo de delitos NO cometen los funcionarios públicos contra las garantías constitucionales?",
+    "opciones": [
+      "a) Contra otros derechos individuales.",
+      "b) Contra la seguridad e igualdad.",
+      "c) Contra la inviolabilidad del domicilio.",
+      "d) Contra la libertad individual."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "78. Derecho Penal. La autoridad que, en el ejercicio de su competencia y a sabiendas de su ilegalidad, diere posesión de un cargo público a cualquier persona sin que concurran los requisitos legales para ello:",
+    "opciones": [
+      "a) Cohecho.",
+      "b) Malversación",
+      "c) Prevaricación.",
+      "d) Tráfico de influencias."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "79. Derecho Penal. La autoridad o funcionario que, en provecho propio, reciba dádiva para realizar un acto propio de su cargo:",
+    "opciones": [
+      "a) Malversación.",
+      "b) Prevaricación.",
+      "c) Tráfico de influencias.",
+      "d) Cohecho."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "80. Derecho Penal. ¿Qué multa se le impondrá al que consiga beneficios en el delito de tráfico de influencias?",
+    "opciones": [
+      "a) La del tanto del triplo del beneficio.",
+      "b) La del tanto del duplo del beneficio.",
+      "c) La del tanto de la mitad superior del beneficio.",
+      "d) La del tanto de la mitad inferior del beneficio."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "81. Derecho Penal. La autoridad que cometa el delito de apropiación indebida sobre el patrimonio público:",
+    "opciones": [
+      "a) Fraude.",
+      "b) Cohecho.",
+      "c) Prevaricación.",
+      "d) Malversación."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "82. Derecho Penal. ¿Qué delito comete el particular que influyere en un funcionario público o autoridad?",
+    "opciones": [
+      "a) Exacciones ilegales.",
+      "b) Tráfico de influencias.",
+      "c) Cohecho.",
+      "d) Prevaricación."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "83. Derecho Penal. ¿Qué delito comete el funcionario público que, requerido por la Autoridad competente, no prestare el auxilio debido a la Administración de Justicia?",
+    "opciones": [
+      "a) Abandono de destino.",
+      "b) Desobediencia y denegación de auxilio.",
+      "c) Omisión del deber de perseguir delitos.",
+      "d) Abusos en el ejercicio de su función."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "84. Derecho Penal. Quedará exento de la culpabilidad por el delito de cohecho...",
+    "opciones": [
+      "a) El que denunciare el hecho.",
+      "b) El que denunciare el hecho antes de diez días desde la fecha de los mismos.",
+      "c) El que denunciare el hecho antes de la apertura del procedimiento.",
+      "d) La c) antes de que hayan transcurrido más de dos meses desde la fecha de los hechos."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "85. Derecho Penal. ¿Qué delito comete la autoridad o funcionario público que, mediando causa por delito, prolongare cualquier privación de libertad de un preso, con violación de los plazos legales:",
+    "opciones": [
+      "a) Delito contra las demás garantías constitucionales.",
+      "b) Delito contra la intimidad personal.",
+      "c) Delito contra la inviolabilidad del domicilio.",
+      "d) Delito contra la libertad individual."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "86. Derecho Penal. ¿Qué requisito se debe cumplir para que los que sustraigan cualquier clase de fuerza a la obediencia del gobierno sean autores del delito de rebelión?",
+    "opciones": [
+      "a) Que el gobierno así lo declare.",
+      "b) Que los autores sean reincidentes.",
+      "c) Que los autores se alcen violenta y públicamente.",
+      "d) Que el delito sea cometido por un mínimo de 10 personas en reunión pública."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "87. Derecho Penal. ¿Qué delito comete la autoridad que no haya resistido una rebelión?",
+    "opciones": [
+      "a) Delito de rebelión.",
+      "b) Delito relativo al ejercicio de los derechos fundamentales y libertades públicas.",
+      "c) Delito contra las instituciones del estado.",
+      "d) Delito de abandono de destino."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "88. Derecho Penal. ¿Qué delito comete el que mate al Príncipe?",
+    "opciones": [
+      "a) Delito contra la Corona.",
+      "b) Delito contra las instituciones del estado y la división de poderes.",
+      "c) Delito contra los poderes públicos.",
+      "d) Delito contra la usurpación del poder Real."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "89. Derecho Penal. ¿Cómo se castigará la conspiración para causar lesiones a la Reina?",
+    "opciones": [
+      "a) Con multa de 3 a 5 años en institución penitenciaria militar.",
+      "b) Con la pena prevista para funcionarios públicos en atención a su estatus real.",
+      "c) Con pena inferior en uno o dos grados a las previstas para este delito.",
+      "d) Con multa del duplo del valor de los daños causados."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "90. Derecho Penal. ¿Qué pena será impuesta al que injurie gravemente a las Cortes Generales y pruebe dichas imputaciones?",
+    "opciones": [
+      "a) El código penal no recoge esta circunstancia.",
+      "b) Quedará exento.",
+      "c) Será castigado con la pena inferior en uno o dos grados.",
+      "d) Será inculpado por el delito de injurias leves."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "91. Derecho Penal. ¿Qué delito comete la autoridad que detenga a un miembro de una Asamblea Legislativa de una Comunidad Autónoma fuera de los supuestos o sin los requisitos establecidos por la ley?",
+    "opciones": [
+      "a) Delitos cometidos por los funcionarios públicos contra la libertad individual.",
+      "b) Delitos cometidos por los funcionarios públicos contra las garantías constitucionales.",
+      "c) Usurpación de atribuciones.",
+      "d) Delitos contra las instituciones del Estado."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "92. Derecho Penal. ¿Qué delito comete el funcionario público que, careciendo de atribuciones para ello, suspenda una ejecución:",
+    "opciones": [
+      "a) Cohecho.",
+      "b) Usurpación de atribuciones.",
+      "c) Delitos contra la Corona.",
+      "d) Delitos cometidos con ocasión del ejercicio de los derechos fundamentales y de las libertades públicas garantizados por la Constitución."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "93. Derecho Penal. Delitos cometidos con ocasión del ejercicio de los derechos fundamentales y de las libertades públicas garantizados por la Constitución. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Debe producirse públicamente.",
+      "b) Debe realizarse, la conducta de incitar al odio, directa o indirectamente.",
+      "c) Debe producirse contra un grupo o un número de personas superior a tres.",
+      "d) Debe ser, entre otros, por motivos relacionados con la orientación sexual."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "94. Derecho Penal. ¿En qué caso, relacionado con el delito de la pregunta anterior, se imponen penas en su mitad superior?",
+    "opciones": [
+      "a) Cuando los hechos se llevan a cabo en plazas o recintos de máxima capacidad.",
+      "b) Cuando los hechos se llevan a cabo a través del telégrafo, si lo hubiere.",
+      "c) Cuando los hechos se llevan a cabo transportes de servicio público.",
+      "d) Cuando los hechos se llevan a cabo a través o por medio de internet."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "95. Derecho Penal. Consideración de reuniones ilícitas. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Aquellas a las que concurran personas con pancartas ofensivas contra la Corona o los Poderes del Estado.",
+      "b) Aquellas a las que concurran personas con objetos peligrosos.",
+      "c) Aquellas que se celebren con el fin de cometer algún delito.",
+      "d) Aquellas a las que concurran personas con artefactos explosivos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "96. Derecho Penal. ¿A quién se considera/reputa promotor de las reuniones de la pregunta anterior?",
+    "opciones": [
+      "a) A los que presidan.",
+      "b) A los que dirijan.",
+      "c) A los que la reivindiquen.",
+      "d) A los que la conformen."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "97. Derecho Penal. Juez que legalmente requerido de inhibición, continúe procediendo sin esperar a que se decida el correspondiente conflicto jurisdiccional, salvo en los casos permitidos en la ley:",
+    "opciones": [
+      "a) Prevaricación.",
+      "b) Usurpación de atribuciones.",
+      "c) Delitos cometidos por funcionarios públicos contra otros derechos individuales.",
+      "d) Delitos cometidos con ocasión del ejercicio de los derechos fundamentales y de las libertades públicas garantizados por la Constitución."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "98. Derecho Penal. ¿A qué se consideran asociaciones ilícitas, según el Código Penal? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Las organizaciones de carácter paramilitar.",
+      "b) Las que tengan por objeto cometer algún delito.",
+      "c) Las que promuevan la comisión de un delito.",
+      "d) Las que se constituyan con objetos peligrosos."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "99. Derecho Penal. ¿Con qué animo debe actuar la persona que dañe las urnas funerarias, para ser considerado autor de un delito contra la libertad de conciencia, los sentimientos religiosos y el respeto a los difuntos?",
+    "opciones": [
+      "a) Con ánimo de falta de respeto.",
+      "b) Con ánimo de defensa.",
+      "c) Con ánimo de ultraje.",
+      "d) Con ánimo de ofensa."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "100. Derecho Penal. Delito contra la libertad de conciencia, los sentimientos religiosos y el respeto a los difuntos:",
+    "opciones": [
+      "a) El que, en lugar destinado a ceremonias religiosas ejecute actos de profanación en ofensa de los sentimientos religiosos legalmente tutelados.",
+      "b) Los que hagan públicamente escarnio por escrito de quienes no profesan creencia alguna.",
+      "c) El que, con vías de hecho perturbe las manifestaciones de las confesiones religiosas inscritas en el correspondiente registro público del Ministerio de Justicia e Interior.",
+      "d) Todos los hechos anteriores pueden ser constitutivos del delito citado."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "101. Derecho Penal. De homicidio y sus formas. ¿Quién será castigado como reo de homicidio?",
+    "opciones": [
+      "a) El que matare a otro con ensañamiento.",
+      "b) El que matare a otro.",
+      "c) Un sicario.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "102. Derecho Penal. Asesinato. Será castigado como reo de asesinato el que matare a otro concurriendo algunas de las siguientes circunstancias:",
+    "opciones": [
+      "a) Con ensañamiento, aumentando deliberada e inhumanamente el dolor del ofendido.",
+      "b) Con alevosía.",
+      "c) Por precio, recompensa o promesa",
+      "d) Todas las anteriores son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "103. Derecho Penal. De homicidio y sus formas. ¿Con qué será castigado el asesinato cuando el delito se hubiera cometido por quien perteneciere a un grupo y organización criminal?",
+    "opciones": [
+      "a) Con prisión permanente revisable.",
+      "b) Con prisión superior a 10 años.",
+      "c) Con libertad vigilada.",
+      "d) Con inhabilitación absoluta."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "104. Derecho Penal. De homicidio y sus formas. ¿Cómo qué será castigado el que por imprudencia grave causare la muerte de otro?",
+    "opciones": [
+      "a) De asesinato.",
+      "b) De homicidio imprudente.",
+      "c) De homicidio doloso.",
+      "d) De homicidio preterintencional."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "105. Derecho Penal. De homicidio y sus formas. Señala la INCORRECTA:",
+    "opciones": [
+      "a) El que induzca al suicidio de otro será castigado con la pena de prisión de 4 a 8 años.",
+      "b) Se impondrá la pena de prisión de 2 a 5 años al que coopere con actos necesarios al suicidio de una persona.",
+      "c) Sera castigado con la pena de prisión de 1 a 10 años si la cooperación llegara hasta el punto de ejecutar la muerte.",
+      "d) Incurrirá con responsabilidad penal quien causare o cooperare activamente a la muerte de otra persona cumpliendo con lo establecido en la Ley Orgánica Reguladora de la Eutanasia."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "106. Derecho Penal. De las lesiones. ¿Cuándo una persona podrá ser castigada como reo del delito de lesiones?",
+    "opciones": [
+      "a) Siempre que la lesión requiera objetivamente para su sanidad una primera asistencia facultativa.",
+      "b) Siempre que la lesión requiera objetivamente para su sanidad además de una primera asistencia facultativa, tratamiento médico o quirúrgico.",
+      "c) Siempre que la lesión requiera tratamiento quirúrgico.",
+      "d) Siempre que la lesión requiera revisión."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "107. Derecho Penal. De las lesiones. ¿Cuáles de las siguientes se consideran agravantes de lesiones?",
+    "opciones": [
+      "a) Si en la agresión se hubieren utilizado armas, instrumentos, objetos, medios, métodos o formas concretamente peligrosas para la vida o salud, física o psíquica, del lesionado.",
+      "b) Si hubiere mediado ensañamiento o alevosía.",
+      "c) Si la víctima fuere o hubiere sido esposa, o mujer que estuviere o hubiere estado ligada al autor por una análoga relación de afectividad, aun sin convivencia.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "108. Derecho Penal. De las lesiones. ¿Qué se regula en el artículo 150?",
+    "opciones": [
+      "a) La pérdida o inutilidad de miembro principal.",
+      "b) La pérdida o inutilidad de miembro no principal.",
+      "c) La provocación, conspiración y proposición.",
+      "d) Las lesiones por imprudencia."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "109. Derecho Penal. De las lesiones. Si la lesión por imprudencia es causada por utilizar arma de fuego, ¿qué pena adicional se impondrá a la persona?",
+    "opciones": [
+      "a) Inhabilitación especial para el ejercicio de la profesión.",
+      "b) Privación del derecho a conducir.",
+      "c) Privación del derecho al porte o tenencia de armas.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "110. Derecho Penal. De las lesiones. Quiénes riñeren entre sí, acometiéndose tumultuariamente, y utilizando medios o instrumentos que pongan en peligro la vida o integridad de las personas. ¿Con qué serán castigados?",
+    "opciones": [
+      "a) Con la pena de prisión de 3 meses a 1 año o con multa de 6 a 24 meses.",
+      "b) Con la pena de prisión de 6 meses a 1 año o con multa de 6 a 24 meses.",
+      "c) Con la pena de prisión de 3 meses a 1 año o con multa de 12 a 24 meses.",
+      "d) Con la pena de prisión de 3 meses a 1 año o con multa de 6 a 12 meses."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "111. Derecho Penal. De las lesiones. ¿En las lesiones consentidas, de quien no será válido el consentimiento otorgado?",
+    "opciones": [
+      "a) De un menor de edad.",
+      "b) De una persona con discapacidad.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "112. Derecho Penal. Delitos contra la libertad. ¿Qué se entiende por detención ilegal según el artículo 163?",
+    "opciones": [
+      "a) El particular que encerrare a otro, obstaculizando su libertad.",
+      "b) El particular que encerrare o detuviere a otro, privándole de su libertad.",
+      "c) El particular que instare a otro a probar su propia libertad.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "113. Derecho Penal. Delitos contra la libertad. Si las amenazas de un mal que constituyere delito fuesen dirigidas a atemorizar a los habitantes de una población, grupo étnico, cultural o religioso, o colectivo social o profesional, o a cualquier otro grupo de personas, ¿de qué delito estamos hablando?",
+    "opciones": [
+      "a) Secuestro.",
+      "b) Detención ilegal.",
+      "c) Amenazas.",
+      "d) Amenazas colectivas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "114. Derecho Penal. Delitos contra la libertad. Se impondrán las penas en su mitad superior cuando la coacción ejercida tuviera por objeto impedir...",
+    "opciones": [
+      "a) El legítimo disfrute de la vivienda.",
+      "b) Cualquier derecho fundamental.",
+      "c) El legítimo disfrute de la vida.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "115. Derecho Penal. Delitos contra la libertad. ¿Cuáles de las siguientes conductas forman parte del acoso a una persona?",
+    "opciones": [
+      "a) Que la vigile, la persiga o busque su cercanía física.",
+      "b) Que establezca o intente establecer contacto con ella a través de cualquier medio de comunicación, o por medio de terceras personas.",
+      "c) Que atente contra su libertad o contra su patrimonio, o contra la libertad o patrimonio de otra persona próxima a ella.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "116. Derecho Penal. De las torturas y otros delitos contra la integridad moral. ¿Cómo se calcula la habitualidad de un trato degradante?",
+    "opciones": [
+      "a) Se atenderá al número de actos de violencia que resulten acreditados.",
+      "b) Se atenderá a la proximidad temporal de los actos de violencia.",
+      "c) a) y b) son correctas.",
+      "d) Se atenderá el número de partes médicos comprendidos dentro de un determinado tiempo."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "117. Derecho Penal. De las torturas y otros delitos contra la integridad moral. Cuando hablamos de delitos contra la integridad moral, ¿qué entendemos?",
+    "opciones": [
+      "a) La autoridad o funcionario público que abusando de su cargo atentare contra la integridad moral de una persona.",
+      "b) La autoridad o funcionario público que abusando de su cargo atentare contra el bienestar de una persona.",
+      "c) La autoridad o funcionario público que abusando de su cargo atentare contra la población.",
+      "d) La autoridad o funcionario público que abusando de su cargo torturara a una persona."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "118. Derecho Penal. De las torturas y otros delitos contra la integridad moral. ¿Cuál se considera una finalidad de la trata de seres humanos? Señala la INCORRECTA:",
+    "opciones": [
+      "a) La explotación sexual, incluyendo la pornografía.",
+      "b) La explotación para realizar actividades delictivas.",
+      "c) La celebración de matrimonios forzados.",
+      "d) La conservación de sus órganos corporales."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "119. Derecho Penal. Delitos contra la libertad sexual. ¿Qué tienen que emplear los actos de contenido sexual para ser considerados una agresión sexual?",
+    "opciones": [
+      "a) Violencia.",
+      "b) Intimidación.",
+      "c) Abuso de superioridad o vulnerabilidad.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "120. Derecho Penal. Delitos contra la libertad sexual. Solicitar favores sexuales para sí o para un tercero, en el ámbito de una relación laboral, docente, de prestación de servicios o análoga, ¿con que delito estará acusado?",
+    "opciones": [
+      "a) Acoso.",
+      "b) Acoso sexual.",
+      "c) Violación.",
+      "d) Agresión sexual."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "121. Derecho Penal. Delitos contra la libertad sexual. ¿Quién podrá denunciar por delitos de agresiones sexuales y acoso sexual?",
+    "opciones": [
+      "a) La persona agraviada.",
+      "b) El representante legal de la persona agraviada.",
+      "c) Por querella del Ministerio Fiscal.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "122. Derecho Penal. Delitos contra las relaciones familiares. ¿Cuál de los siguientes artículos no queda enmarcado dentro de los delitos de matrimonios ilegales?",
+    "opciones": [
+      "a) Bigamia y poligamia.",
+      "b) Autorizar matrimonio inválido.",
+      "c) Acoso sexual.",
+      "d) Vender bebés robados."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "123. Derecho Penal. Delitos contra la comunidad internacional. ¿Con qué será castigada la persona que matare al Jefe de un Estado extranjero u otra persona internacionalmente protegida por un tratado?",
+    "opciones": [
+      "a) Con prisión permanente revisable.",
+      "b) La prisión superior a cinco años.",
+      "c) La inhabilitación absoluta.",
+      "d) La pena de localización permanente."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "124. Derecho Penal. Delitos contra la comunidad internacional. ¿Cuál de ellos no se considera un acto de los delitos de genocidio?",
+    "opciones": [
+      "a) Matar a alguno de sus miembros.",
+      "b) Agredir sexualmente a alguno de sus miembros o producir las lesiones.",
+      "c) Violar la inmunidad personal del Jefe de Estado.",
+      "d) Someter al grupo o a cualquiera de sus individuos a condiciones de existencia que pongan en peligro su vida o perturben gravemente su salud."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "125. Derecho Penal. Delitos contra la comunidad internacional. ¿Quiénes son reos de delitos de lesa humanidad?",
+    "opciones": [
+      "a) Los que cometan delitos contra las personas y bienes protegidos en caso de conflicto armado, como parte de un ataque generalizado o sistemático contra la población civil o contra una parte de ella.",
+      "b) Los que cometan delitos contra las personas y bienes protegidos en caso de conflicto armado, como parte de un ataque generalizado o sistemático contra el Jefe de Estado.",
+      "c) Los que cometan delitos contra las personas y bienes protegidos en caso de conflicto armado, como parte de un ataque generalizado o sistemático contra un Jefe de Estado del extranjero.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "126. Derecho Penal. Delitos contra la comunidad internacional. ¿Quiénes se entienden como personas protegidas?",
+    "opciones": [
+      "a) Los prisioneros de guerra protegidos por el III Convenio de Ginebra de 12 de agosto de 1949 o por el Protocolo I Adicional de 8 de junio de 1977.",
+      "b) Los parlamentarios y las personas que los acompañen protegidos por el Convenio II de La Haya de 29 de julio de 1899.",
+      "c) a) y b) son correctas.",
+      "d) El personal de la Unión Europea y personal asociado protegidos por la Convención sobre la Seguridad del Personal de las Naciones Unidas y del Personal Asociado, de 9 de diciembre de 1994."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "127. Derecho Penal. Delitos contra la comunidad internacional. Se entiende como delitos contra las personas protegidas el que con ocasión de un conflicto armado maltrato de obra o ponga en grave peligro....",
+    "opciones": [
+      "a) La vida y el trabajo de cualquier persona protegida.",
+      "b) La vida, la salud y la familia de cualquier persona protegida.",
+      "c) La salud y la integración de cualquier persona protegida.",
+      "d) La vida, la salud o la integridad de cualquier persona protegida."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "128. Derecho Penal. Delitos contra la comunidad internacional. ¿Cuál de ellos no se considera un ataque contra la población civil?",
+    "opciones": [
+      "a) Realice u ordene realizar ataques indiscriminados o excesivos o haga objeto a la población civil de ataques, represalias o actos o amenazas de violencia cuya finalidad principal sea aterrorizarla.",
+      "b) Obligue a un prisionero de guerra o persona civil a servir, en cualquier forma, en las fuerzas armadas de la parte adversa, o les prive de su derecho a ser juzgados regular e imparcialmente.",
+      "c) Realice, ordene realizar o mantenga, respecto de cualquier persona protegida, prácticas de segregación racial y demás prácticas inhumanas y degradantes basadas en otras distinciones de carácter desfavorable, que entrañen un ultraje contra la dignidad personal.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "129. Derecho Penal. Delitos contra la comunidad internacional. Atentar contra la libertad sexual de una persona protegida cometiendo actos de violación, esclavitud sexual, prostitución inducida o forzada, embarazo forzado, esterilización forzada o cualquier otra forma de agresión sexual. ¿Dentro de qué delito se enmarca?",
+    "opciones": [
+      "a) Diversos ataques contra la población civil.",
+      "b) Delitos contra el estado.",
+      "c) Delitos contra personas civiles protegidas.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "130. Derecho Penal. Delitos contra la comunidad internacional. El que, con violencia, intimidación o engaño, se apodere, dañe o destruya una aeronave, buque u otro tipo de embarcación o plataforma en el mar, o bien atente contra las personas, cargamento o bienes que se hallaren a bordo de las mismas, ¿Con qué delito será castigado?",
+    "opciones": [
+      "a) Delito de desobediencia.",
+      "b) Delito de piratería.",
+      "c) Delitos de resistencia.",
+      "d) Delitos contra personas protegidas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "131. Derecho Penal. ¿Cuándo serán criminalmente responsables los menores de 18 años con arreglo al Código Penal?",
+    "opciones": [
+      "a) Cuando estos menores cometan delitos calificados como graves.",
+      "b) Cuando tengan una edad comprendida entre 16 y 18 años.",
+      "c) No serán responsables con arreglo al Código Penal.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "132. Derecho Penal. ¿Cuántas circunstancias pueden llegar a modificar la responsabilidad criminal?",
+    "opciones": [
+      "a) 4. Eximentes, atenuantes, agravantes y mixta.",
+      "b) 3. Eximentes, atenuantes y agravantes.",
+      "c) 4. Exigentes, atenuantes, agravantes y familiares.",
+      "d) 3. Exigentes, atenuantes y agravantes."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "133. Derecho Penal. Señala la INCORRECTA. Estarán exentos de responsabilidad criminal:",
+    "opciones": [
+      "a) El que al tiempo de cometer la infracción penal, a causa de cualquier anomalía o alteración psíquica, no pueda comprender la ilicitud del hecho o actuar conforme a esa comprensión.",
+      "b) El que obre impulsado por miedo insuperable.",
+      "c) El que obre en el incumplimiento de un deber o en el ejercicio legítimo de un derecho, oficio o cargo.",
+      "d) El que, por sufrir alteraciones en la percepción desde el nacimiento o desde la infancia, tenga alterada gravemente la conciencia de la realidad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "134. Derecho Penal. ¿El trastorno mental transitorio podrá eximir de responsabilidad penal?",
+    "opciones": [
+      "a) Sí, en cualquier caso.",
+      "b) No, en ningún caso.",
+      "c) Sí, siempre que no hubiese sido provocado por el sujeto con el propósito de cometer el delito o hubiera previsto o debido prever su comisión.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "135. Derecho Penal. ¿Qué requisitos son necesarios para eximir de responsabilidad criminal al que obre en defensa de la persona o derechos propios o ajenos?",
+    "opciones": [
+      "a) Agresión Ilegítima.",
+      "b) Necesidad irracional del medio empleado para impedirla o repelerla.",
+      "c) Falta de provocación suficiente por parte del atacante.",
+      "d) Todos los requisitos anteriores deben darse para poder eximir de responsabilidad criminal."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "136. Derecho Penal. ¿Qué podemos considerar como agresión ilegítima en caso de defensa de los bienes?",
+    "opciones": [
+      "a) El ataque a los mismos que constituya delito y los ponga en grave peligro de deterioro o pérdida inminentes.",
+      "b) El ataque a los mismos, aunque no constituya delito y los ponga en grave peligro de deterioro o pérdida inminentes.",
+      "c) El ataque a los mismos, aunque no constituya delito y no los ponga en grave peligro de deterioro o pérdida inminentes.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "137. Derecho Penal. Requisitos necesarios para eximir de responsabilidad criminal al que, en estado de necesidad, para evitar un mal propio o ajeno lesione un bien jurídico de otra persona o infrinja un deber.",
+    "opciones": [
+      "a) Que el mal causado sea mayor que el que se trate de evitar.",
+      "b) Que la situación de necesidad haya sido provocada intencionadamente por el sujeto.",
+      "c) Que el necesitado no tenga, por su oficio o cargo, obligación de sacrificarse.",
+      "d) Todos los requisitos anteriores deben darse para poder eximir de responsabilidad criminal."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "138. Derecho Penal. De las siguientes, ¿cuáles son circunstancias atenuantes de la responsabilidad criminal?",
+    "opciones": [
+      "a) La de haber procedido el culpable a reparar el daño ocasionado a la víctima, o disminuir sus efectos en cualquier momento del procedimiento y con anterioridad a la celebración del acto del juicio oral.",
+      "b) La de obrar por causas o estímulos tan poderosos que hayan producido arrebato, obcecación u otro estado pasional de entidad semejante.",
+      "c) La de haber procedido el culpable, antes de conocer que el procedimiento judicial se dirige contra él, a confesar la infracción a las autoridades.",
+      "d) Todas las circunstancias anteriores son atenuantes de la responsabilidad criminal."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "139. Derecho Penal. Atendiendo al Código Penal, ¿qué podemos considerar como alevosía? Hay alevosía cuando el culpable...",
+    "opciones": [
+      "a) Comete cualquier delito empleando en la ejecución medios, modos o formas que tiendan directa o especialmente a asegurarla, sin el riesgo que para su persona pudiera proceder de la defensa por parte del ofendido.",
+      "b) Comete cualquiera de los delitos contra las personas empleando en la ejecución medios, modos o formas que tiendan directa o especialmente a asegurarla, con el riesgo que para su persona pudiera proceder de la defensa por parte del ofendido.",
+      "c) Comete cualquier delito empleando en la ejecución medios, modos o formas que tiendan directa o especialmente a asegurarla, con el riesgo que para su persona pudiera proceder de la defensa por parte del ofendido.",
+      "d) Comete cualquiera de los delitos contra las personas empleando en la ejecución medios, modos o formas que tiendan directa o especialmente a asegurarla, sin el riesgo que para su persona pudiera proceder de la defensa por parte del ofendido."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "140. Derecho Penal. ¿Cuál de las siguientes podemos considerar como circunstancia que agrava la responsabilidad criminal?",
+    "opciones": [
+      "a) Ejecutar el hecho mediante disfraz, con abuso de superioridad o aprovechando las circunstancias de lugar, tiempo o auxilio de otras personas que debiliten la defensa del delincuente o faciliten la impunidad del ofendido.",
+      "b) Ejecutar el hecho mediante precio, recompensa o promesa.",
+      "c) Obrar con absoluta confianza.",
+      "d) Prevalerse del carácter público que tenga la víctima."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "141. Derecho Penal. ¿Dónde se regulan en el Código Penal los Delitos Contra la Administración Pública?",
+    "opciones": [
+      "a) En el Título XX del Libro II del CP.",
+      "b) En el Título XIX del Libro I del CP.",
+      "c) En el Título XIX del Libro II del CP.",
+      "d) En el Título XXI del Libro II del CP."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "142. Derecho Penal. ¿Qué delito comete la autoridad o funcionario público que, a sabiendas de su injusticia, dictare una resolución arbitraria en un asunto administrativo?",
+    "opciones": [
+      "a) Delito de prevaricación de los funcionarios públicos y otros comportamientos injustos.",
+      "b) Delito de malversación.",
+      "c) Delito de tráfico de influencias.",
+      "d) No comete ningún delito."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "143. Derecho Penal. ¿Qué delito comete la autoridad o funcionario público que en el ejercicio de su competencia y a sabiendas de su ilegalidad, propusiere, nombrare o diere posesión para el ejercicio de un determinado cargo público a cualquier persona, sin que concurran los requisitos legalmente establecidos para ello?",
+    "opciones": [
+      "a) Delito de prevaricación de los funcionarios públicos y otros comportamientos injustos.",
+      "b) Delito de malversación.",
+      "c) Delito de tráfico de influencias.",
+      "d) No comete ningún delito."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "144. Derecho Penal. ¿Qué requisitos deben darse para que se cometa un delito de abandono de destino?",
+    "opciones": [
+      "a) Que el sujeto activo sea autoridad o funcionario público.",
+      "b) Que abandonare su destino.",
+      "c) Que el propósito fuera no impedir o no perseguir cualquiera de los delitos comprendidos en los Títulos XXI, XXII, XXIII y XXIV.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "145. Derecho Penal. ¿Qué delito comete La autoridad o funcionario que, sin faltar a la obligación de su cargo, dejare intencionadamente de promover la persecución de los delitos de que tenga noticia o de sus responsables?",
+    "opciones": [
+      "a) Delito de abandono de servicio.",
+      "b) Delito de omisión del deber de perseguir delitos.",
+      "c) Delito de omisión de socorro.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "146. Derecho Penal. ¿Cometen algún delito las autoridades o funcionarios públicos que meramente tomaren parte en el abandono colectivo o manifiestamente ilegal de un servicio público esencial?",
+    "opciones": [
+      "a) Sí, siempre y cuando cause algún perjuicio de este o de la comunidad.",
+      "b) No, puesto que para este tipo delictivo el sujeto activo debe ser un particular",
+      "c) Sí, siempre y cuando cause grave perjuicio de este o de la comunidad.",
+      "d) No, puesto que no es suficiente con la mera participación."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "147. Derecho Penal. ¿Qué delito cometen las autoridades o funcionarios públicos que se negaren abiertamente a dar el debido cumplimiento a resoluciones judiciales, decisiones u órdenes de la autoridad superior, dictadas dentro del ámbito de su respectiva competencia y revestidas de las formalidades legales?",
+    "opciones": [
+      "a) Delito de obstrucción a la justicia.",
+      "b) Delito de desobediencia.",
+      "c) Delito de omisión del deber de perseguir delitos.",
+      "d) Delito de denegación de auxilio."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "148. Derecho Penal. ¿Qué delito cometen las autoridades o funcionarios que no dan cumplimiento a un mandato que constituya una infracción manifiesta, clara y terminante de un precepto de ley o de cualquier otra disposición general?",
+    "opciones": [
+      "a) Delito de obstrucción a la justicia.",
+      "b) Delito de desobediencia.",
+      "c) Delito de omisión del deber de perseguir delitos.",
+      "d) No comenten ningún delito."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "149. Derecho Penal. ¿Qué delito comete el particular que, habiendo suspendido por cualquier motivo que no sea dar cumplimiento a un mandato contrario al ordenamiento legal, la ejecución de las órdenes de sus superiores, las desobedeciere después de que aquéllos hubieren desaprobado la suspensión?",
+    "opciones": [
+      "a) Delito de obstrucción a la justicia.",
+      "b) Delito de desobediencia.",
+      "c) Delito de omisión del deber de perseguir delitos.",
+      "d) No comenten ningún delito."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "150. Derecho Penal. ¿Quién comete un delito de infidelidad en la custodia de documentos? Señala la INCORRECTA:",
+    "opciones": [
+      "a) La autoridad o funcionario público que a sabiendas, sustrajere, destruyere, inutilizare u ocultare, total o parcialmente, documentos cuya custodia le esté encomendada por razón de su cargo.",
+      "b) La autoridad o funcionario público que por razón de su cargo, tenga encomendada la custodia de documentos respecto de los que la autoridad competente haya restringido el acceso, y que a sabiendas, destruya o inutilice los medios puestos para impedir ese acceso o consienta su destrucción o inutilización.",
+      "c) El particular que destruyere o inutilizare los medios a que se refiere el enunciado anterior.",
+      "d) La autoridad o funcionario público que accediere o permitiere acceder a documentos secretos cuya custodia le esté confiada por razón de su cargo."
+    ],
+    "respuesta": "d"
+  }
+]
