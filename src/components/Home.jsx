@@ -5,12 +5,15 @@ const Home = ({
   selectedThemes,
   onToggleTheme,
   onStartTest,
+  onOpenMonographicTests,
+  onBackToGeneralTests,
   questionCount,
   setQuestionCount,
   isLoggedIn,
   onLogout,
   totalAvailableQuestions,
-  canUseCustomQuestionCount
+  canUseCustomQuestionCount,
+  homeMode
 }) => {
   const totalPreguntas = themes
     .filter(theme => selectedThemes.includes(theme.id))
@@ -89,6 +92,21 @@ const Home = ({
                 onToggle={onToggleTheme}
               />
 
+              <div className="flex items-center justify-between rounded-xl border border-slate-200 bg-slate-50 p-3">
+                <p className="text-sm font-semibold text-slate-700">
+                  {homeMode === 'monografico' ? 'Mostrando test monograficos' : 'Mostrando test generales'}
+                </p>
+                {homeMode === 'monografico' ? (
+                  <button
+                    type="button"
+                    onClick={onBackToGeneralTests}
+                    className="text-sm font-semibold text-green-700 hover:text-green-900"
+                  >
+                    Volver a test generales
+                  </button>
+                ) : null}
+              </div>
+
               {canStart && (
                 <div className="bg-gradient-to-r from-green-50 to-yellow-50 border-2 border-green-200 rounded-xl p-5">
                   <div className="flex items-center justify-between">
@@ -132,10 +150,14 @@ const Home = ({
               </button>
 
               <div className="grid grid-cols-3 gap-3 pt-4 border-t border-gray-200">
-                <div className="text-center">
-                  <div className="text-2xl mb-1">⏱️</div>
-                  <p className="text-xs text-gray-600 font-medium">Sin limite de tiempo</p>
-                </div>
+                <button
+                  type="button"
+                  onClick={onOpenMonographicTests}
+                  className="text-center rounded-lg p-2 transition-colors hover:bg-green-50"
+                >
+                  <div className="text-2xl mb-1">📚</div>
+                  <p className="text-xs text-gray-700 font-semibold">Test monograficos</p>
+                </button>
                 <div className="text-center">
                   <div className="text-2xl mb-1">🔄</div>
                   <p className="text-xs text-gray-600 font-medium">Aleatorio</p>

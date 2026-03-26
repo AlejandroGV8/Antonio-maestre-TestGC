@@ -15,9 +15,11 @@ import derechoConsitucionalData from './data/derecho_constitucional.json';
 import derechosHumanosData from './data/derechos_humanos.json';
 import derechoCivilData from './data/derecho_civil.json';
 import derechoPenalData from './data/derecho_penal.json';
+import onuMonograficosData from './data/onu_monograficos';
 
 function App() {
   const API_BASE_URL = 'https://o190h5xj5e.execute-api.eu-west-1.amazonaws.com';
+  const MONOGRAFICO_THEME_ID = 'onu_monograficos';
 
   const loadThemeQuestionsFromApi = async (themeId) => {
     try {
@@ -44,42 +46,56 @@ function App() {
       {
         id: 'viogen',
         nombre: 'VIOGEN',
+        tipo: 'general',
         preguntas: viogenData
       },
       {
         id: 'prl',
         nombre: 'Prevención de Riesgos Laborales',
+        tipo: 'general',
         preguntas: prlData
       },
       {
         id: 'ue',
         nombre: 'Unión Europea',
+        tipo: 'general',
         preguntas: ueData
       },
       {
         id: 'igualdad',
         nombre: 'Igualdad',
+        tipo: 'general',
         preguntas: igualdadData
       },
       {
         id: 'derecho_constitucional',
         nombre: 'Derecho Constitucional',
+        tipo: 'general',
         preguntas: derechoConsitucionalData
       },
       {
         id: 'derechos_humanos',
         nombre: 'Derechos Humanos',
+        tipo: 'general',
         preguntas: derechosHumanosData
       },
       {
         id: 'derecho_civil',
         nombre: 'Derecho Civil',
+        tipo: 'general',
         preguntas: derechoCivilData
       },
       {
         id: 'derecho_penal',
         nombre: 'Derecho Penal',
+        tipo: 'general',
         preguntas: derechoPenalData
+      },
+      {
+        id: MONOGRAFICO_THEME_ID,
+        nombre: 'Carta de las Naciones Unidas',
+        tipo: 'monografico',
+        preguntas: onuMonograficosData
       }
     ];
   };
@@ -95,6 +111,7 @@ function App() {
   const [answers, setAnswers] = useState({});
   const [showModeModal, setShowModeModal] = useState(false);
   const [testMode, setTestMode] = useState('prueba');
+  const [homeMode, setHomeMode] = useState('general');
 
   const handleToggleTheme = (themeId) => {
     setSelectedThemes(prev =>
@@ -129,6 +146,18 @@ function App() {
   const handleStartTest = () => {
     if (selectedThemes.length === 0) return;
     setShowModeModal(true);
+  };
+
+  const handleOpenMonographicTests = () => {
+    setHomeMode('monografico');
+    setSelectedThemes([]);
+    setQuestionCount(30);
+  };
+
+  const handleBackToGeneralTests = () => {
+    setHomeMode('general');
+    setSelectedThemes([]);
+    setQuestionCount(30);
   };
 
   const startTestWithMode = async (mode) => {
@@ -200,14 +229,19 @@ function App() {
   const handleLogout = () => {
     setIsLoggedIn(false);
     setCurrentScreen('login');
+    setHomeMode('general');
     setSelectedThemes([]);
     setTestQuestions([]);
     setAnswers({});
     setLoginError('');
   };
 
+  const visibleThemes = themes.filter(theme =>
+    homeMode === 'monografico' ? theme.tipo === 'monografico' : theme.tipo !== 'monografico'
+  );
+
   const totalAvailableQuestions = themes
-    .filter(theme => selectedThemes.includes(theme.id))
+    .filter(theme => selectedThemes.includes(theme.id) && visibleThemes.some(visible => visible.id === theme.id))
     .reduce((sum, theme) => sum + theme.preguntas.length, 0);
 
   return (
@@ -222,16 +256,19 @@ function App() {
 
       {currentScreen === 'home' && (
         <Home
-          themes={themes}
+          themes={visibleThemes}
           selectedThemes={selectedThemes}
           onToggleTheme={handleToggleTheme}
           onStartTest={handleStartTest}
+          onOpenMonographicTests={handleOpenMonographicTests}
+          onBackToGeneralTests={handleBackToGeneralTests}
           questionCount={questionCount}
           setQuestionCount={setQuestionCount}
           isLoggedIn={isLoggedIn}
           onLogout={handleLogout}
           totalAvailableQuestions={totalAvailableQuestions}
           canUseCustomQuestionCount={true}
+          homeMode={homeMode}
         />
       )}
 
