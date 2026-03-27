@@ -290,16 +290,6 @@
     "respuesta": "c"
   },
   {
-    "pregunta": "30. Derecho Penal. ¿Por qué tiempo podrá el juez imponer también al sujeto de la pregunta anterior la medida de custodia familiar?",
-    "opciones": [
-      "a) Por un tiempo de hasta diez años.",
-      "b) Por un tiempo no superior a diez años.",
-      "c) Por un tiempo de hasta cinco años.",
-      "d) Por un tiempo no superior a cinco años."
-    ],
-    "respuesta": "d"
-  },
-  {
     "pregunta": "31. Derecho Penal. Libertad vigilada. Señale la opción INCORRECTA:",
     "opciones": [
       "a) Prohibición de residir en determinados lugares.",
@@ -930,32 +920,12 @@
     "respuesta": "c"
   },
   {
-    "pregunta": "94. Derecho Penal. ¿En qué caso, relacionado con el delito de la pregunta anterior, se imponen penas en su mitad superior?",
-    "opciones": [
-      "a) Cuando los hechos se llevan a cabo en plazas o recintos de máxima capacidad.",
-      "b) Cuando los hechos se llevan a cabo a través del telégrafo, si lo hubiere.",
-      "c) Cuando los hechos se llevan a cabo transportes de servicio público.",
-      "d) Cuando los hechos se llevan a cabo a través o por medio de internet."
-    ],
-    "respuesta": "d"
-  },
-  {
     "pregunta": "95. Derecho Penal. Consideración de reuniones ilícitas. Señala la INCORRECTA:",
     "opciones": [
       "a) Aquellas a las que concurran personas con pancartas ofensivas contra la Corona o los Poderes del Estado.",
       "b) Aquellas a las que concurran personas con objetos peligrosos.",
       "c) Aquellas que se celebren con el fin de cometer algún delito.",
       "d) Aquellas a las que concurran personas con artefactos explosivos."
-    ],
-    "respuesta": "a"
-  },
-  {
-    "pregunta": "96. Derecho Penal. ¿A quién se considera/reputa promotor de las reuniones de la pregunta anterior?",
-    "opciones": [
-      "a) A los que presidan.",
-      "b) A los que dirijan.",
-      "c) A los que la reivindiquen.",
-      "d) A los que la conformen."
     ],
     "respuesta": "a"
   },

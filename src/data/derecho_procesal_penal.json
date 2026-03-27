@@ -1,0 +1,1502 @@
+[
+  {
+    "pregunta": "1. Derecho Procesal Penal. ¿Qué rama del Derecho Público marca el proceso, los medios, el camino que deben seguir los órganos jurisdiccionales desde que se comete el hecho típico hasta que se concluye con su castigo?",
+    "opciones": [
+      "a) Derecho Penal.",
+      "b) Derecho Procesal.",
+      "c) Derecho Procedimental.",
+      "d) Derecho Administrativo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "2. Derecho Procesal Penal. ¿Cuál de las siguientes fuentes del Derecho Procesal no se considera escrita?",
+    "opciones": [
+      "a) La Constitución.",
+      "b) La Ley.",
+      "c) Los principios Generales del Derecho.",
+      "d) La jurisprudencia."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "3. Derecho Procesal Penal. ¿Qué Real Decreto aprobó la Ley de Enjuiciamiento Criminal?",
+    "opciones": [
+      "a) Real decreto de 14 de septiembre de 1882.",
+      "b) Real Decreto 19 de Mayo de 1982.",
+      "c) Real Decreto 20 de septiembre de 1892.",
+      "d) Real Decreto 10 de Septiembre de 1897"
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "4. Derecho Procesal Penal. ¿Qué disposición legal de las siguientes es la principal fuente del Derecho Procesal Penal?",
+    "opciones": [
+      "a) La Ley Orgánica del Poder Judicial.",
+      "b) La Ley de Enjuiciamiento Criminal.",
+      "c) La Ley de Procedimiento Penal y Procesal.",
+      "d) La Ley Orgánica de Ordenación Procedimental."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "5. Derecho Procesal Penal. NO tiene la consideración de primeras diligencias:",
+    "opciones": [
+      "a) Recoger y poner en custodia cuanto conduzca a la comprobación del delito y a la identificación del delincuente.",
+      "b) Consignar las pruebas del delito que pudieran desaparecer.",
+      "c) Localizar a los posibles testigos y tomarles declaración.",
+      "d) Proteger a los ofendidos o perjudicados por el mismo, a sus familiares o a otras personas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "6. Derecho Procesal Penal. ¿Qué diferencias hay entre denuncia y querella? Señala la INCORRECTA:",
+    "opciones": [
+      "a) La denuncia no convierte al denunciante como parte en el proceso penal.",
+      "b) La querella se realizará por escrito o verbalmente, bien personalmente o a través de mandatario con poder especial.",
+      "c) La querella exige la prestación de fianza en determinados casos.",
+      "d) La querella constituye al querellante como parte en el proceso."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "7. Derecho Procesal Penal. ¿En qué casos NO tiene obligación de proceder el órgano que recibe una denuncia?",
+    "opciones": [
+      "a) Si el hecho denunciado presenta caracteres de delito.",
+      "b) Si la denuncia presenta caracteres de delito leve.",
+      "c) Si la denuncia es presentada con fianza bastante.",
+      "d) Si la denuncia es manifiestamente falsa."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "8. Derecho Procesal Penal. La denuncia es una declaración de:",
+    "opciones": [
+      "a) Voluntad.",
+      "b) Conocimiento.",
+      "c) Ambas cosas.",
+      "d) Ninguna de las anteriores."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "9. Derecho Procesal Penal. ¿Quién es competente para la instrucción de los procedimientos para exigir responsabilidad penal por un delito de homicidio cometido por un marido sobre su esposa?",
+    "opciones": [
+      "a) El Juez de Instrucción.",
+      "b) Los Juzgados de Violencia sobre la Mujer.",
+      "c) La Audiencia Provincial.",
+      "d) El Juzgado Central de lo Penal."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "10. Derecho Procesal Penal. ¿De cuántas salas se compone la Audiencia Nacional? ¿Cuál es la primera?:",
+    "opciones": [
+      "a) Cuatro salas. Salas de Civil y Penal.",
+      "b) Cinco salas. Sala de lo Penal.",
+      "c) Tres salas. Sala de Apelación.",
+      "d) Cuatro salas. Sala de Apelación."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "11. Derecho Procesal Penal. Poder Judicial. Composición y atribuciones de los órganos jurisdiccionales en el orden penal. Señala la INCORRECTA:",
+    "opciones": [
+      "a) La Sala Cuarta del Tribunal Supremo se denomina Sala de lo Social.",
+      "b) La Sala Tercera de la Audiencia Nacional se denomina Sala de lo Contencioso - Administrativo.",
+      "c) Una de las salas que integran las Audiencias Provinciales se denomina Sala de lo Social.",
+      "d) La Sala Primera de los Tribunales Superiores de Justicia se denomina de lo Civil y Penal."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "12. Derecho Procesal Penal. Para que se inicie un proceso penal es necesario que existan dos partes en él, que aparecerán en posiciones contrarias o contrapuestas, el que acusaba y el acusado:",
+    "opciones": [
+      "a) Principio de dualidad.",
+      "b) Principio de necesidad.",
+      "c) Principio de inmutabilidad.",
+      "d) Principio de oficialidad."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "13. Derecho Procesal Penal. Respecto al Juicio del Jurado, según el artículo 83 de la LOPJ:",
+    "opciones": [
+      "a) Se celebra únicamente en el ámbito de las Audiencias Provinciales.",
+      "b) Su composición y competencia se regula en la Ley Orgánica del Poder Judicial.",
+      "c) Se celebra en el ámbito de la Audiencia Provincial u otros Tribunales, de acuerdo con la ley.",
+      "d) En España no tiene cabida en Juicio del Jurado."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "14. Derecho Procesal Penal. De la instrucción y enjuiciamiento de las causas contra el Defensor del Pueblo, conocerá:",
+    "opciones": [
+      "a) La Sala de lo Penal del Tribunal Supremo.",
+      "b) Tribunal Superior de Justicia de la correspondiente Comunidad Autónoma.",
+      "c) La Audiencia Nacional.",
+      "d) La Audiencia Provincial en la que se cometa el delito in fraganti."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "15. Derecho Procesal Penal. ¿Qué constituye la Policía Judicial Adscrita?",
+    "opciones": [
+      "a) Un apartado específico de las Unidades Orgánicas de Policía Específica.",
+      "b) Un apartado específico de las Unidades Orgánicas de Policía Especial.",
+      "c) Un apartado específico de las Unidades Orgánicas de la Policía Judicial.",
+      "d) Un apartado específico de las Unidades jerárquicas de Policía Especial."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "16. Derecho Procesal Penal. El procedimiento ordinario, se iniciará para enjuiciar aquellos delitos:",
+    "opciones": [
+      "a) Cuya pena a imponer sea de nueve años.",
+      "b) Cuya pena a imponer sea menor de nueve años.",
+      "c) Cuya pena a imponer sea mayor de nueve años.",
+      "d) Cuya pena sea superior a tres años."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "17. Derecho Procesal Penal. Los Jueces que instruyen los sumarios practicarán las diligencias que le propongan:",
+    "opciones": [
+      "a) El Ministerio Fiscal.",
+      "b) El Abogado acusador.",
+      "c) El Abogado defensor.",
+      "d) Cualquiera de las respuestas anteriores es correcta."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "18. Derecho Procesal Penal. Cuando en un procedimiento judicial se archiva la causa, se produce un:",
+    "opciones": [
+      "a) Sobreseimiento parcial.",
+      "b) Sobreseimiento provisional.",
+      "c) Sobreseimiento total.",
+      "d) La respuesta b y c son correctas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "19. Derecho Procesal Penal. De los siguientes, indique el órgano de la jurisdicción penal competente para conocer de los recursos de casación y revisión en materia penal:",
+    "opciones": [
+      "a) Audiencia Nacional.",
+      "b) Tribunales Superiores de Justicia.",
+      "c) Juzgados Centrales de lo Penal.",
+      "d) Tribunal Supremo."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "20. Derecho Procesal Penal. ¿Qué partes procesales podemos diferenciar en el procedimiento ordinario?",
+    "opciones": [
+      "a) Sentencia, juicio oral y sumario.",
+      "b) Sumario, sentencia y juicio oral.",
+      "c) Juicio oral, sentencia y fase intermedia.",
+      "d) Fase intermedia, instrucción y juicio oral."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "21. Derecho Procesal Penal. ¿Cuál será el ciclo en el que serán nombrados los Jueces de Paz?",
+    "opciones": [
+      "a) Cada 5 años.",
+      "b) Cada 3 años.",
+      "c) Cada 4 años.",
+      "d) Cada 4 años, por el Alcalde de la localidad correspondiente."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "22. Derecho Procesal Penal. ¿Qué órgano jurisdiccional es competente para el conocimiento y fallo por delitos menos graves?",
+    "opciones": [
+      "a) La Audiencia Provincial.",
+      "b) La Audiencia Nacional.",
+      "c) El Juez de lo Penal.",
+      "d) El tribunal Superior de Justicia"
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "23. Derecho Procesal Penal. ¿Qué Ley Orgánica regula el Tribunal del Jurado?",
+    "opciones": [
+      "a) La Ley Orgánica 5 / 95",
+      "b) La Ley Orgánica 6 / 96.",
+      "c) La Ley Orgánica 7 / 95.",
+      "d) La Ley Orgánica 7 / 96."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "24. Derecho Procesal Penal. ¿Qué pasaría si una disposición de la Ley de Enjuiciamiento Criminal vulnera un precepto de la Ley Orgánica que regula el Procedimiento Abreviado?",
+    "opciones": [
+      "a) Qué quedaría sin vigor el precepto de la L.O reguladora del procedimiento abreviado.",
+      "b) Qué se aplicarán supletoriamente ambas disposiciones legales.",
+      "c) Que quedaría sin vigor el precepto de la Ley de Enjuiciamiento Criminal.",
+      "d) Qué se procederá según estipule el Juez competente."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "25. Derecho Procesal Penal. ¿Cuál es el órgano competente para conocer del procedimiento de Habeas Corpus?",
+    "opciones": [
+      "a) Juzgado de Instrucción del lugar donde se encuentre el detenido.",
+      "b) Juzgado de Paz.",
+      "c) Juzgado de lo Penal.",
+      "d) Juzgado de Instrucción del lugar donde se hayan tenido las últimas noticias del paradero del detenido."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "26. Derecho Procesal Penal. ¿Cuál es el órgano competente para enjuiciar hechos que hayan sido tipificadas como faltas en el Código Penal?",
+    "opciones": [
+      "a) Los Jueces de Instrucción.",
+      "b) Los Jueces de lo Penal y los Jueces de Paz.",
+      "c) Los Juzgados de la Audiencia Provincial y los Jueces de Paz.",
+      "d) Los Juzgados de lo Penal."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "27. Derecho Procesal Penal. El Tribunal del jurado, para que declare la culpabilidad del sujeto juzgado deberá:",
+    "opciones": [
+      "a) Dar nueve votos condenando al reo.",
+      "b) Dar cinco votos condenatorios para el reo.",
+      "c) El reo será condenado si la mitad de los componentes del jurado dan voto condenatorio.",
+      "d) Ser condenado por siete de los nueve votos que existen en el jurado."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "28. Derecho Procesal Penal. Dentro del procedimiento abreviado, cuando la pena a imponer al presunto culpable del hecho típico sea de cuatro años, éste será juzgado por:",
+    "opciones": [
+      "a) La Audiencia Provincial.",
+      "b) El Juzgado de Paz.",
+      "c) El juzgado de lo Penal.",
+      "d) El Juez de Instrucción."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "29. Derecho Procesal Penal. Dentro del Procedimiento abreviado, cuando la pena a imponer al presunto culpable del hecho típico sea de seis años y un día, éste será juzgado por:",
+    "opciones": [
+      "a) La Audiencia Provincial.",
+      "b) El Juzgado de Paz.",
+      "c) El Juzgado de lo Penal.",
+      "d) El Juez de Instrucción."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "30. Derecho Procesal Penal. Cuando un órgano judicial inicie procedimiento penal sobre un Diputado:",
+    "opciones": [
+      "a) Deberá pedir autorización a las Cortes Generales para el inicio del proceso penal.",
+      "b) Deberá pedir autorización al Tribunal Supremo para el inicio del proceso penal.",
+      "c) Deberá pedir autorización al Congreso para el inicio del proceso penal.",
+      "d) Deberá pedir autorización al Tribunal Supremo para su procesamiento."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "31. Derecho Procesal Penal. La instrucción y procesamiento de un Senador corresponde:",
+    "opciones": [
+      "a) A la Sala de lo Penal de la Audiencia Nacional.",
+      "b) A la Sala de lo Civil del Tribunal Superior de Justicia de las Comunidades Autónomas.",
+      "c) A la Sala de lo Penal del Tribunal Supremo.",
+      "d) A la Sala de lo Penal del Tribunal Constitucional."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "32. Derecho Procesal Penal. ¿Qué órgano judicial será el competente para el enjuiciamiento de un parlamentario de la Comunidad Autónoma de Cantabria?",
+    "opciones": [
+      "a) La Sala de lo Penal de la Audiencia Nacional.",
+      "b) La Sala de lo Penal del Tribunal Supremo.",
+      "c) La Sala de lo Penal de la Audiencia Provincial de Cantabria.",
+      "d) El Tribunal Superior de Justicia de Cantabria."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "33. Derecho Procesal Penal. ¿Qué órgano judicial es competente para el enjuiciamiento del Defensor del Pueblo?",
+    "opciones": [
+      "a) La Sala de lo Penal de la Audiencia Nacional.",
+      "b) La Sala de lo Civil del Tribunal Superior de Justicia de las Comunidades Autónomas.",
+      "c) La Sala de lo Penal del Tribunal Supremo.",
+      "d) La Sala de lo Penal del Tribunal Constitucional."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "34. Derecho Procesal Penal. ¿Qué órgano es competente para resolver los conflictos de jurisdicción entre los Juzgados o Tribunales y la Administración?",
+    "opciones": [
+      "a) El Tribunal Superior de Conflictos Judiciales y Estatales.",
+      "b) El Tribunal Supremo en su sala tercera.",
+      "c) El tribunal Superior de Justicia de cada Comunidad Autónoma.",
+      "d) El Tribunal de Conflictos de Jurisdicción."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "35. Derecho Procesal Penal. ¿Cuál de los siguientes requisitos no es necesario para que las leyes penales españolas conozcan hechos delictivos cometidos por españoles en el extranjero?",
+    "opciones": [
+      "a) Que el hecho sea punible en el lugar de ejecución.",
+      "b) Que el Ministerio Fiscal español interponga querella ante los Tribunales extranjeros.",
+      "c) Que el delincuente no haya sido indultado en el país donde cometió el delito.",
+      "d) Que el delincuente no haya sido penado en el lugar donde se cometió el delito y no haya cumplido la condena."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "36. Derecho Procesal Penal. ¿De quién serán auxiliares los componentes de la Policía Judicial?",
+    "opciones": [
+      "a) Del Ministerio del Interior.",
+      "b) De los Jueces y del Ministerio Fiscal.",
+      "c) De los Tribunales.",
+      "d) b) y c) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "37. Derecho Procesal Penal. ¿De quién dependen funcionalmente los funcionarios de la Policía Judicial?",
+    "opciones": [
+      "a) Del Ministerio del Interior.",
+      "b) De los Jueces y del Ministerio Fiscal.",
+      "c) De los Tribunales.",
+      "d) b) y c) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "38. Derecho Procesal Penal. ¿Cuál de los siguientes constituyen la Policía Judicial? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Alcaldes.",
+      "b) Funcionarios del cuerpo especial de pensiones.",
+      "c) Serenos y celadores.",
+      "d) Guardas de montes, campos y sembrados, jurados o confirmados por la Administración."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "39. Derecho Procesal Penal. ¿Qué consideración tendrán los atestados que redacten los funcionarios de Policía Judicial?",
+    "opciones": [
+      "a) Consideración de diligencia.",
+      "b) Consideración de formulario.",
+      "c) Consideración de denuncia.",
+      "d) Consideración de declaraciones testificales."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "40. Derecho Procesal Penal. ¿Tendrán los funcionarios de Policía Judicial las mismas obligaciones cuando se trate de delitos perseguibles a instancia de parte?",
+    "opciones": [
+      "a) No, solo si lo autoriza el Ministerio del Interior.",
+      "b) Sí, si se les requiere para el efecto.",
+      "c) Sí, en todos los casos.",
+      "d) Sí, siempre, sean delitos públicos o privados."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "41. Derecho Procesal Penal. ¿Dónde plasmarán los funcionarios de Policía Judicial el atestado?",
+    "opciones": [
+      "a) En papel sellado o papel común.",
+      "b) En papel oficial o común.",
+      "c) En papel del común, dando inmediata cuenta al Juzgado de Instrucción de Guardia.",
+      "d) En papel sellado, a los solo efectos de su remisión al Ministerio Fiscal."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "42. Derecho Procesal Penal. ¿Quiénes tendrán el carácter de colaborador de las Fuerzas y Cuerpos de Seguridad del Estado en el cumplimiento de la función de Policía Judicial?",
+    "opciones": [
+      "a) Las policías provinciales.",
+      "b) Las policías locales.",
+      "c) Las policías del Ministerio del Interior.",
+      "d) Las policías de las Comunidades vecinales."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "43. Derecho Procesal Penal. Identidad supuesta. ¿Por cuánto tiempo será otorgada?",
+    "opciones": [
+      "a) Por 6 meses.",
+      "b) Por el tiempo que dure la investigación.",
+      "c) Por un año.",
+      "d) Por 3 meses."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "44. Derecho Procesal Penal. ¿De cuánto tiempo disponen los funcionarios de Policía Judicial para comunicar a la Autoridad Judicial las diligencias que hubiesen practicado, salvo fuerza mayor?",
+    "opciones": [
+      "a) No hay tiempo establecido.",
+      "b) 48 horas.",
+      "c) El que esté fijado en el requerimiento.",
+      "d) 24 horas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "45. Derecho Procesal Penal. ¿Cuándo participarán los funcionarios de Policía Judicial a la Autoridad Judicial el conocimiento de un delito público?",
+    "opciones": [
+      "a) En 24 horas.",
+      "b) En el tiempo fijado en el requerimiento.",
+      "c) Inmediatamente.",
+      "d) En 48 horas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "46. Derecho Procesal Penal. ¿Qué deberá hacer un funcionario de Policía Judicial cuando se presente otro de categoría superior en las actuaciones?",
+    "opciones": [
+      "a) Ponerse desde luego a mandarlo.",
+      "b) Darle conocimiento de cuanto hubiese practicado.",
+      "c) Entregarle los detenidos.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "47. Derecho Procesal Penal. ¿Cada cuánto tiempo enviarán los Jueces de Instrucción y los Fiscales la calificación razonada del comportamiento de los funcionarios de Policía Judicial que presten servicios bajo su instrucción?",
+    "opciones": [
+      "a) Cada 18 meses.",
+      "b) Cada año.",
+      "c) Cada 6 meses.",
+      "d) Cada 3 meses."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "48. Derecho Procesal Penal. ¿Quién otorgará la identidad supuesta?",
+    "opciones": [
+      "a) El Ministerio del Interior.",
+      "b) El Juez de Instrucción competente.",
+      "c) El Ministerio Fiscal, dando cuenta al Juez.",
+      "d) b) y c) son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "49. Derecho Procesal Penal. Cuando los funcionarios de Policía Judicial hubiesen practicado diligencias por orden o requerimiento de la Autoridad Judicial o Ministerio Fiscal, ¿de cuánto tiempo disponen para comunicar el resultado obtenido?",
+    "opciones": [
+      "a) Inmediatamente.",
+      "b) 24 horas.",
+      "c) 48 horas.",
+      "d) De los plazos que se hubiesen fijado en la orden o requerimiento."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "50. Derecho Procesal Penal. ¿Cómo actuarán los miembros de la Policía Judicial si hubieren recogido armas que pudieran tener relación con el delito y se hallen en otra parte conocida?",
+    "opciones": [
+      "a) No tendrán la obligación de actuar si se han hallado en otra parte ajena al lugar de los hechos.",
+      "b) Comunican al denunciante que, en caso de identificar al autor, podrá solicitar su entrega.",
+      "c) Extenderán diligencia expresiva del lugar, tiempo y ocasión en que se encontraren.",
+      "d) Cesarán las diligencias de prevención, iniciando el sumario."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "51. Derecho Procesal Penal. ¿En qué casos de los que se citan se enviará el atestado a la Autoridad Judicial, aun no habiendo autor conocido?",
+    "opciones": [
+      "a) Cuando se trate de delitos contra la indemnidad sexual.",
+      "b) Cuando se trate de delitos relacionados con la proporción.",
+      "c) Cuando el abogado de la parte agraviada solicite su remisión.",
+      "d) Cuando se practiquen diligencias antes de transcurridas 72 horas desde la apertura del atestado y hayan tenido algún resultado"
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "52. Derecho Procesal Penal. La Policía Judicial comunicará al denunciante que si en _____ no es identificado el autor, las actuaciones no se remitirán a la Autoridad Judicial.",
+    "opciones": [
+      "a) 48 horas.",
+      "b) 72 horas.",
+      "c) 12 horas.",
+      "d) 24 horas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "53. Derecho Procesal Penal. ¿Qué delitos de los que se citan se relacionan con la consideración de delincuencia organizada?",
+    "opciones": [
+      "a) Delitos de tráfico en vías de comunicación públicas.",
+      "b) Delitos contra la fauna o flora silvestre.",
+      "c) Delitos relativos a la corrupción.",
+      "d) Delitos contra la salud pública."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "54. Derecho Procesal Penal. ¿Cuántas personas deben asociarse y delinquir para para ser considerado el hecho como delincuencia organizada?",
+    "opciones": [
+      "a) Cuatro o más personas.",
+      "b) Tres o más personas.",
+      "c) Cinco o más personas.",
+      "d) Dos o más personas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "55. Derecho Procesal Penal. ¿Por qué razones se constituirán Unidades Orgánicas de Policía Judicial de ámbito que exceda el provincial?",
+    "opciones": [
+      "a) Por razones de carácter permanente y especial.",
+      "b) Por razones legales de denuncia o de declaración testificales.",
+      "c) Por razones de criminalidad o siniestralidad.",
+      "d) Por razones de especialización delictual o técnicas de investigación."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "56. Derecho Procesal Penal. ¿Qué carácter tendrán los funcionarios de las Unidades Orgánicas de la Policía Judicial en las actuaciones que lleven a cabo por encargo y bajo la supervisión de los Jueces?",
+    "opciones": [
+      "a) Encomendados a los jueces.",
+      "b) Agentes encubiertos.",
+      "c) Comisionados de los jueces.",
+      "d) Policía judicial fiscal."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "57. Derecho Procesal Penal. ¿Qué obligación tendrá siempre en receptor de la denuncia?",
+    "opciones": [
+      "a) Comprobar el hecho denunciado.",
+      "b) Todas son falsas.",
+      "c) Iniciar el sumario.",
+      "d) Tomar manifestación a los implicados."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "58. Derecho Procesal Penal. ¿Cuál de los siguientes no estará exento de prestar fianza en caso de querella por homicidio?",
+    "opciones": [
+      "a) Los padres del delincuente.",
+      "b) Los parientes colaterales del difunto hasta 3er grado inclusive.",
+      "c) El cónyuge del difunto.",
+      "d) Los herederos de la víctima."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "59. Derecho Procesal Penal. ¿En qué plazo darán cuenta los Jefes de Unidades Orgánicas de Policía Judicial contrales al Ministerio Fiscal de las autorizaciones otorgadas para la circulación de drogas tóxicas?",
+    "opciones": [
+      "a) En un plazo máximo de 24 horas.",
+      "b) En un plazo máximo de 48 horas.",
+      "c) En un plazo máximo de 72 horas.",
+      "d) Inmediatamente."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "60. Derecho Procesal Penal. Denuncia por escrito. Señala la INCORRECTA:",
+    "opciones": [
+      "a) La Autoridad que la reciba levantará un acta.",
+      "b) Se hará constar la identidad del denunciador.",
+      "c) El denunciante también podrá rubricarla.",
+      "d) Se entregará un resguardo al denunciante, si éste lo exige."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "61. Derecho Procesal Penal. ¿Qué NO expresará la querella?",
+    "opciones": [
+      "a) El nombre del querellante.",
+      "b) El juez ante quien se presenta.",
+      "c) La firma del querellado.",
+      "d) El nombre y apellidos del querellado."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "62. Derecho Procesal Penal. ¿Quién tiene la obligación de denunciar?",
+    "opciones": [
+      "a) Los impúberes.",
+      "b) Cualquiera que presencia un delito privado.",
+      "c) El que por razón de su cargo tenga noticia de algún delito público.",
+      "d) El cónyuge del delincuente."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "63. Derecho Procesal Penal. ¿En qué casos se acompañará a la querella la certificación que acredite haberse celebrado o intentado el acto de conciliación?",
+    "opciones": [
+      "a) En caso de querella por delito de los que solo pueden perseguirse a instancia de parte.",
+      "b) En caso de querella por rapto.",
+      "c) En caso de querella por violación.",
+      "d) b) y c) son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "64. Derecho Procesal Penal. ¿Cómo hará constar el funcionario que reciba una denuncia la identidad del denunciador?",
+    "opciones": [
+      "a) Por declaración de los testigos y peritos fiscales.",
+      "b) Por la cédula personal.",
+      "c) Por comprobación en la Agencia Tributaria.",
+      "d) Por juramento del denunciante."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "65. Derecho Procesal Penal. ¿Quiénes constituyen la Policía Judicial en sentido estricto?",
+    "opciones": [
+      "a) Las unidades orgánicas de los Cuerpos policiales de las Comunidades Autónomas.",
+      "b) Las unidades orgánicas de las Fuerzas y Cuerpos de Seguridad.",
+      "c) Las unidades orgánicas de los Cuerpos policiales de las Corporaciones Locales.",
+      "d) Las unidades orgánicas de las Fuerzas y Cuerpos de Seguridad del Estado."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "66. Derecho Procesal Penal. ¿En qué caso se entenderá también utilizada la acción civil, habiendo sido ejercida solo la penal?",
+    "opciones": [
+      "a) En todos los casos, salvo que se reserve expresamente para ejercerla después de terminado el juicio criminal.",
+      "b) En todos los casos.",
+      "c) En ningún caso.",
+      "d) En todos los casos, salvo que no se renuncie expresamente para ejercerla antes de terminado el juicio criminal."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "67. Derecho Procesal Penal. En procesos por delito de trata de seres humanos, ¿quién asegurará la comunicación a la víctima de los actos procesales que puedan afectar a su seguridad?",
+    "opciones": [
+      "a) El juez instructor.",
+      "b) El representante de la víctima.",
+      "c) El miembro de las Fuerzas y Cuerpos de Seguridad encargado del caso.",
+      "d) El Secretario Judicial."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "68. Derecho Procesal Penal. ¿A qué se limita la competencia de la jurisdicción ordinaria para prevenir las causas por delitos que cometan los aforados?",
+    "opciones": [
+      "a) A su conocimiento y fallo.",
+      "b) A su detención y enjuiciamiento.",
+      "c) Ante la autoridad judicial superior en su ámbito.",
+      "d) A instruir las primeras diligencias."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "69. Derecho Procesal Penal. ¿En qué casos no podrán enjuiciarse en una misma causa, a instancia del Ministerio Fiscal, delitos que no sean conexos, que hayan sido cometidos por la misma persona, tengan analogía, sean competencia del mismo órgano judicial, cuando la investigación y la prueba en conjunto de los hechos resulten convincentes para esclarecerlos y para determinar la responsabilidad procedente?",
+    "opciones": [
+      "a) Cuando las partes así lo soliciten expresamente, representadas por procurador y abogado.",
+      "b) Cuando el procedimiento y la adopción de medidas cautelares así lo exija.",
+      "c) Cuando supongan excesiva complejidad o dilación para el proceso.",
+      "d) En ningún caso."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "70. Derecho Procesal Penal. Intérprete judicial. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Su asistencia se podrá prestar por videoconferencia.",
+      "b) Debe respetar el carácter incidental.",
+      "c) Los acusados tienen derecho, si no hablan el castellano, a la interpretación de todas las actuaciones del juicio oral.",
+      "d) Es designado por entre los listados elaborados por la Administración competente."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "71. Derecho Procesal Penal. ¿Cómo se realizará la interpretación si no se puede disponer de interpretación simultánea?",
+    "opciones": [
+      "a) Mediante interpretación consecutiva.",
+      "b) Mediante interpretación anónima.",
+      "c) Mediante interpretación instantánea.",
+      "d) Mediante el subtitulado del texto original."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "72. Derecho Procesal Penal. ¿Cómo se practicará la comparecencia de la persona jurídica imputada?",
+    "opciones": [
+      "a) Con el abogado designado por la persona jurídica y el procurador de la misma.",
+      "b) Con el abogado, procurador, representante de la misma y el Secretario Judicial.",
+      "c) Con las pruebas y cuantos medios de defensa disponga la persona jurídica.",
+      "d) Con el representante de la persona jurídica, acompañado del abogado de la misma."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "73. Derecho Procesal Penal. ¿En cuánto tiempo se tendrá por abandonada la querella si muere el querellante y se da conocimiento a sus herederos?",
+    "opciones": [
+      "a) En 10 días desde la citación dándoles conocimiento, si no comparecen a sostenerla.",
+      "b) En 30 días desde la citación dándoles conocimiento, si no comparecen a sostenerla.",
+      "c) En 20 días desde la citación dándoles conocimiento, si no comparecen a sostenerla.",
+      "d) En 60 días desde la citación dándoles conocimiento, si no comparecen a sostenerla"
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "74. Derecho Procesal Penal. ¿En qué tipo de denuncia se extenderá un acta por el funcionario que la reciba?",
+    "opciones": [
+      "a) En las denuncias verbales.",
+      "b) En las denuncias por escrito.",
+      "c) En las denuncias presenciales.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "75. Derecho Procesal Penal. La interceptación, apertura de envíos postales y sustitución de la droga interior, se lleva a cabo respetando las garantías judiciales establecidas en la ley, salvo:",
+    "opciones": [
+      "a) La comunicación al Juez competente.",
+      "b) El secreto profesional.",
+      "c) La citación del interesado para que presencie la operación.",
+      "d) La obediencia debida a los mandos naturales de los funcionarios que realizan la actuación."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "76. Derecho Procesal Penal. ¿A quién dará traslado de la copia de la resolución que dicte el juez sobre la circulación y entrega vigilada de drogas tóxicas?",
+    "opciones": [
+      "a) Al Juez Decano de la jurisdicción.",
+      "b) A su superior jerárquico.",
+      "c) A los Jefes de las Unidades Orgánicas de la Policía Judicial.",
+      "d) A los funcionarios de la Policía Judicial. Que deban practicarla."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "77. Derecho Procesal Penal. ¿Están obligados los Procuradores a denunciar?",
+    "opciones": [
+      "a) No, respecto de las noticias que les han revelado en el ejercicio de su ministerio.",
+      "b) Sí, salvo que la autoridad judicial decida otra cosa.",
+      "c) En todos los casos en que una norma de la Unión Europea así lo exprese.",
+      "d) No, respecto a las explicaciones e instrucciones que reciban de sus clientes."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "78. Derecho Procesal Penal. ¿Hasta qué grado no están obligados a denunciar los parientes colaterales del delincuente?",
+    "opciones": [
+      "a) Hasta el 1er grado.",
+      "b) Hasta el 2º grado.",
+      "c) Hasta el 3er grado.",
+      "d) Hasta el 4º grado."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "79. Derecho Procesal Penal. ¿A qué se adecuará el recurso de la entrega vigilada de sustancias prohibidas en el plano internacional?",
+    "opciones": [
+      "a) A lo dispuesto en los tratados internacionales.",
+      "b) A la legislación nacional del país donde se realice.",
+      "c) A la Declaración Universal de Derechos Humanos,",
+      "d) A los acuerdos suscritos por España."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "80. Derecho Procesal Penal. ¿Cuál será el plazo de la instrucción si se declara compleja?",
+    "opciones": [
+      "a) 9 meses.",
+      "b) 18 meses.",
+      "c) 6 meses.",
+      "d) 3 días."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "81. Derecho Procesal Penal. ¿Por quién son firmadas las diligencias de la inspección ocular?",
+    "opciones": [
+      "a) Por el juez instructor, las personas presentes, el secretario y el fiscal, si asiste.",
+      "b) Por los peritos, las personas, presentes y el secretario, si asiste.",
+      "c) Por el fiscal instructor, el juez si asiste y el secretario.",
+      "d) Por el juez instructor, el fiscal si asiste y el secretario"
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "82. Derecho Procesal Penal. ¿Qué ocurrirá si los peritos estuvieran discordes y su número fuese par?",
+    "opciones": [
+      "a) Los peritos disconformes abandonarán las diligencias y serán sustituidos por otros.",
+      "b) Volverán a realizar las operaciones hasta conseguir conformidad.",
+      "c) El Juez nombrará a otro perito.",
+      "d) Realizarán una votación que se decidirá con el voto de calidad del presidente de los peritos."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "83. Derecho Procesal Penal. ¿Para qué se pueden celebrar los careos?",
+    "opciones": [
+      "a) Los podrá celebrar el juez cuando se necesite reconocer a los autores de los hechos.",
+      "b) Los podrá celebrar el juez si testigos o procesados discrepan en algo que interese al sumario.",
+      "c) Los podrá celebrar el secretario, a instancia del juez, en los casos previstos en a) y b).",
+      "d) Los podrá celebrar el juez o secretario si testigos procesados discrepan en algo que interese al sumario."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "84. Derecho Procesal Penal. ¿Qué declaraciones de los testigos no se consignarán en los autos?",
+    "opciones": [
+      "a) Las que no presenten caracteres de delito o sean manifiestamente falsas.",
+      "b) Las no aprobadas por el conjunto de los peritos.",
+      "c) Las realizadas a través de medios telemáticos o no presenciales.",
+      "d) Las que, según el Juez, sean manifiestamente inconducentes para la comprobación de los hechos."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "85. Derecho Procesal Penal. Diligencia de reconocimiento judicial. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Se practicará a presencia del que la verifique o desde donde no pueda ser visto.",
+      "b) Si son varios los que deben reconocer a una persona, se practicará separadamente con cada uno de ellos.",
+      "c) Si son varios a ser reconocidos por una misma persona, deberá reconocerlos por separado en varios actos.",
+      "d) Se hará poniendo a la vista del que la verifique, la persona a reconocer, en unión de otras de circunstancias exteriores semejantes."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "86. Derecho Procesal Penal. ¿Dónde se ingresará la parte sobrante del producto de la realización y las ganancias?",
+    "opciones": [
+      "a) En la cuenta de consignaciones del juzgado o tribunal.",
+      "b) En la Tesorería General de la Seguridad Social.",
+      "c) En la Tesorería General del Poder Judicial.",
+      "d) En la Oficina de Recuperación de la Justicia Histórica."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "87. Derecho Procesal Penal. ¿Con respecto a qué derecho fundamental se practicarán los traslados ulteriores del detenido?",
+    "opciones": [
+      "a) A la libertad de información.",
+      "b) A la libertad de movimiento.",
+      "c) A la libertad de expresión.",
+      "d) A la libertad de detención."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "88. Derecho Procesal Penal. Atestado relacionado con la detención. Señala la CORRECTA:",
+    "opciones": [
+      "a) Debe reflejar el lugar y la hora de la adopción de las medidas de seguridad.",
+      "b) Debe reflejar únicamente la hora de detención.",
+      "c) Debe reflejar la hora de la puesta en libertad, en su caso, y los datos de sus defensores.",
+      "d) Debe reflejar el lugar y la hora de la puesta a disposición de la Autoridad Judicial"
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "89. Derecho Procesal Penal. ¿A quién se informará sobre el hecho de la detención y sobre el lugar de custodia si el detenido tuviera su capacidad modificada judicialmente?",
+    "opciones": [
+      "a) Al Ministerio Fiscal, al abogado del detenido y a todos los que hubieran practicado la detención.",
+      "b) A quienes ejerzan la tutela o guarda de hecho, dado cuenta al Ministerio Fiscal.",
+      "c) A quienes hubieren practicado la detención.",
+      "d) Al Ministerio Fiscal, dando cuenta a quienes ejerzan la tutela o guarda de hecho."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "90. Derecho Procesal Penal. Principio de Habeas Corpus que indica que no solo alcanza a los supuestos de detención ilegal, si no también, a las detenciones que, ajustándose originariamente a la legalidad, se mantienen ilegalmente:",
+    "opciones": [
+      "a) Generalidad.",
+      "b) Agilidad.",
+      "c) Sencillez y carencia de formalismos.",
+      "d) Universalidad."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "91. Derecho Procesal Penal. ¿Con cuál de los que se citan podrá comunicarse el detenido incomunicado?",
+    "opciones": [
+      "a) Al estar incomunicado, no podrá comunicarse con nadie.",
+      "b) Con el instructor de las diligencias de detención.",
+      "c) Con el médico forense.",
+      "d) Con un familiar de hasta 2º grado."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "92. Derecho Procesal Penal. ¿A qué se adaptará la información relacionada con los derechos del detenido?",
+    "opciones": [
+      "a) A su edad, grado de inteligencia, discapacidad y a cualquier otra circunstancia personal que pueda derivar una limitación de la capacidad para entender el alcance de la información que se le facilita.",
+      "b) A su edad, grado de madurez, formación y a cualquier otra circunstancia personal que pueda derivar una limitación de la capacidad para entender el alcance de la información que se le facilita.",
+      "c) A su edad, grado de madurez, discapacidad y a cualquier otra circunstancia personal que pueda derivar una limitación de la capacidad para entender el alcance de la información que se le facilita.",
+      "d) A su edad, formación académica, discapacidad y a cualquier otra circunstancia personal que pueda derivar una limitación de la capacidad para entender el alcance de la información que se le facilita."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "93. Derecho Procesal Penal. ¿Quién sellará los papeles recogidos en una entrada y registro?",
+    "opciones": [
+      "a) El Secretario Judicial.",
+      "b) El Juez que decretó la entrada y registro.",
+      "c) El interesado.",
+      "d) El representante del interesado, si éste no tiene poder bastante."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "94. Derecho Procesal Penal. ¿De quién es competencia el recurso extraordinario de revisión contra las sentencias dictadas por órganos jurisdiccionales del orden civil con sede en la Comunidad Autónoma, en materia de derecho foral, propio de la Comunidad Autónoma, si el Estatuto de Autonomía ha previsto esta atribución?",
+    "opciones": [
+      "a) A la sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia.",
+      "b) A la sala de lo Civil y Penal, como sala de lo Civil, del Tribunal Superior de Justicia.",
+      "c) A la sala de lo Foral del Tribunal Superior de Justicia.",
+      "d) A la sala de lo Civil y Penal, como sala de lo Penal, del Tribunal Superior de Justicia."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "95. Derecho Procesal Penal. ¿Quién puede ostentar la representación técnica en procedimientos de Seguridad Social?",
+    "opciones": [
+      "a) El jefe de sala.",
+      "b) Un procurador.",
+      "c) El adjunto al Juez de Paz.",
+      "d) Un graduado social."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "96. Derecho Procesal Penal. Primeras diligencias. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Proteger a los ofendidos o perjudicados.",
+      "b) Detener a los presuntos responsables.",
+      "c) Recoger y poner bajo custodia todo lo que conduzca a la comprobación del delito.",
+      "d) Consignar las pruebas del delito que hayan desaparecido."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "97. Derecho Procesal Penal. ¿Cuándo se extingue la acción penal?",
+    "opciones": [
+      "a) Por la muerte del culpable.",
+      "b) Por la desaparición de sus causahabientes.",
+      "c) Por determinación del Fiscal.",
+      "d) En los casos que la Constitución la extinga."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "98. Derecho Procesal Penal. ¿Qué Juez será competente si no consta el lugar donde el delito se ha cometido?",
+    "opciones": [
+      "a) El del lugar donde resida el reo.",
+      "b) El del lugar donde el reo haya sido aprehendido.",
+      "c) El del lugar donde se hubiesen tenido noticias del delito.",
+      "d) El del lugar donde se hayan descubierto pruebas materiales del delito."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "99. Derecho Procesal Penal. ¿Qué Juez o Tribunal ocupan el primero orden de prioridad en la competencia de delitos conexos?",
+    "opciones": [
+      "a) El del lugar donde se haya cometido el delito.",
+      "b) El del lugar donde se haya cometido el delito que esté señalada pena mayor.",
+      "c) El del lugar donde comenzara primero el juicio.",
+      "d) El del lugar que designe el Tribunal Supremo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "100. Derecho Procesal Penal. ¿Cómo es siempre la jurisdicción criminal?",
+    "opciones": [
+      "a) Improrrogable.",
+      "b) Pública.",
+      "c) Estricta, rígida y necesaria.",
+      "d) Solidaria."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "101. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿A quién serán aplicables las disposiciones de esta Ley, sin perjuicio del Art. 17?",
+    "opciones": [
+      "a) A las víctimas de delitos cometidos en España o que puedan ser perseguidos en España, con independencia de su nacionalidad, de si son mayores o menores de edad o de si disfrutan o no de residencia legal.",
+      "b) A las víctimas de delitos que puedan ser perseguidos en España, independientemente de donde se hayan cometido, nacionalidad y mayoría de edad.",
+      "c) Terceros que hubieran sufrido perjuicios derivados del delito.",
+      "d) Todas son correcta"
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "102. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿A quién serán aplicables las disposiciones de esta Ley?",
+    "opciones": [
+      "a) Como víctima directa, en los casos de muerte o desaparición de una persona que haya sido causada directamente por un delito.",
+      "b) Como víctima directa, a toda persona física que haya sufrido un daño o perjuicio sobre su propia persona o patrimonio.",
+      "c) Como víctima indirecta, a toda persona física que haya sufrido un daño o perjuicio sobre su propia persona o patrimonio.",
+      "d) Como víctima indirecta, a toda persona física o jurídica que haya sufrido un daño o perjuicio sobre su propia persona o patrimonio."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "103. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. Las disposiciones de esta Ley serán aplicables, como víctima indirecta, en los casos de muerte o desaparición de una persona que haya sido causada directamente por un delito, salvo que se tratare de los responsables de los hechos…",
+    "opciones": [
+      "a) A su cónyuge no separado legalmente o de hecho y a los hijos de la víctima o del cónyuge no separado legalmente o de hecho que en el momento de la muerte o desaparición de la víctima convivieran con ellos.",
+      "b) A sus progenitores y parientes en línea recta o colateral dentro del 1er grado que se encontraren bajo su guarda.",
+      "c) A sus progenitores y parientes en línea recta o colateral dentro del 2do grado que se encontraren bajo su guarda.",
+      "d) A la persona que conviviera con la víctima, tuviera o no parentesco."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "104. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿A qué tiene derecho toda víctima en el proceso penal? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Protección.",
+      "b) Trato respetuoso, profesional, individualizado y no discriminatorio.",
+      "c) Asistencia",
+      "d) Defensa."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "105. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. Dentro del proceso penal, en los supuestos de violencia sexual y de violencia de género, ¿qué estará vedada?",
+    "opciones": [
+      "a) La mediación.",
+      "b) La conciliación.",
+      "c) La defensa.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "106. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. Toda víctima tiene derecho a recibir información adaptada sobre… Señala la INCORRECTA:",
+    "opciones": [
+      "a) Medidas de asistencia y apoyo disponibles.",
+      "b) Apoyo económico.",
+      "c) Derecho a denunciar.",
+      "d) Procedimiento para obtener asesoramiento y defensa jurídica."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "107. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Qué derechos tiene toda víctima en el momento de presentar su denuncia? Señala la INCORRECTA:",
+    "opciones": [
+      "a) A obtener todo tipo de información de la persona denunciada.",
+      "b) A obtener una copia de la denuncia, debidamente certificada.",
+      "c) A la asistencia lingüística gratuita.",
+      "d) A la traducción escrita."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "108. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿De qué tipo de resoluciones será informada toda víctima de un delito? Señala la INCORRECTA:",
+    "opciones": [
+      "a) La resolución por la que se acuerde no iniciar el procedimiento penal.",
+      "b) La sentencia que ponga fin al procedimiento.",
+      "c) La resolución por desistimiento.",
+      "d) Las resoluciones que acuerden la adopción de medidas cautelares personales o que modifiquen las ya acordadas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "109. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Qué incluirán, al menos, la notificación de las resoluciones?",
+    "opciones": [
+      "a) La parte dispositiva de la resolución y un breve resumen del fundamento de la misma.",
+      "b) Criterios de imputación y, en su caso, de distribución de la responsabilidad tenidos en cuenta.",
+      "c) Mecanismos para hacer efectiva la deuda en caso de que no se haya producido el pago voluntario.",
+      "d) Indicación de la declaración de extinción de la deuda una vez que se haga efectiva la repercusión."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "110. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. En relación a las notificaciones a la víctima, en el caso de ciudadanos residentes fuera de la Unión Europea…",
+    "opciones": [
+      "a) Se remitirá a la Oficina Diplomática o Consular española en el país de residencia, en todos los casos.",
+      "b) Se remitirá a la Oficina Diplomática o Consular española en el país de residencia, si no se dispusiera de una dirección de correo electrónico o postal.",
+      "c) Se remitirá mediante notificación electrónica, conforme al art. 14 de la Ley 39/2015.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "111. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Cuándo podrán los abogados y procuradores podrán dirigirse a las víctimas directas o indirectas de catástrofes, calamidades públicas u otros sucesos que hubieran producido un número elevado de víctimas, para ofrecerles sus servicios profesionales?",
+    "opciones": [
+      "a) Desde que el juez de instrucción levante el secreto de sumario.",
+      "b) En cualquier momento desde que se tiene noticia del hecho.",
+      "c) En ningún caso, ya que se trata de actuaciones gratuitas para las víctimas.",
+      "d) No podrán hacerlo hasta transcurridos 45 días desde el hecho."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "112. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Qué tipo de responsabilidad disciplinaria dará lugar en caso de que los abogados y procuradores incumplan el plazo establecido para dirigirse a las víctimas directas o indirectas de catástrofes, calamidades públicas u otros sucesos que hubieran producido un número elevado de víctimas?",
+    "opciones": [
+      "a) Apercibimiento, sin perjuicio de las demás responsabilidades que procedan.",
+      "b) Infracción leve.",
+      "c) Infracción grave",
+      "d) Infracción muy grave."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "113. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿A qué tendrá derecho toda víctima que no hable o no entienda el castellano o la lengua oficial que se utilice en la actuación de que se trate?",
+    "opciones": [
+      "a) A ser informada, en una lengua que comprenda, de la fecha, hora y lugar del juicio.",
+      "b) A la asistencia económica, en caso de necesidades alimentarias.",
+      "c) A ser acompañada por funcionario habilitado en todo momento.",
+      "d) A la traducción gratuita de cualquier información, independientemente de su importancia"
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "114. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Cómo podrá ser recurrida la decisión judicial de no facilitar interpretación o traducción a la víctima?",
+    "opciones": [
+      "a) Ante el Ministerio Fiscal.",
+      "b) En apelación.",
+      "c) En reforma.",
+      "d) En alzada."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "115. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿A qué tiene derecho a acceder, de forma gratuita y confidencial toda víctima de un delito?",
+    "opciones": [
+      "a) Los servicios de asistencia y apoyo facilitados por las administraciones públicas.",
+      "b) Los servicios de asistencia y apoyo que presten las asociaciones privadas competentes.",
+      "c) Los servicios de asistencia y apoyo que presten las oficinas de asistencia a las víctimas.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "116. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Qué deberán hacer las autoridades o funcionarios que entren en contacto con las víctimas?",
+    "opciones": [
+      "a) Derivarlas a las Oficinas de Asistencia a las Víctimas, cuando resulte necesario en atención a la gravedad del delito o en aquellos casos en los que la víctima lo solicite.",
+      "b) Derivarlas a las Oficinas de Asistencia a las Víctimas, en todos los casos.",
+      "c) Informarles de la obligación de acudir a las Oficinas de Asistencia a las Víctimas.",
+      "d) Informarles de la obligación de acudir a las Oficinas de Asistencia a las Víctimas, cuando resulte necesario en atención a la gravedad del delito."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "117. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. Toda Víctima tiene Derecho:",
+    "opciones": [
+      "a) A ejercer la acción penal y la acción civil, sin perjuicio de las excepciones que puedan existir.",
+      "b) A comparecer ante las autoridades encargadas de la investigación para aportarles las fuentes de prueba y la información que estime relevante para el esclarecimiento de los hechos.",
+      "c) A ejercer la acción penal y la acción civil, en todos los casos.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "118. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿A quién será comunicada la decisión de sobreseimiento?",
+    "opciones": [
+      "a) A las víctimas directas del delito que hubieran denunciado los hechos, así como al resto de víctimas directas de cuya identidad y domicilio se tuviera conocimiento.",
+      "b) A las víctimas directas e indirectas de cuya identidad y domicilio se tuviera conocimiento.",
+      "c) A los familiares directos de la víctima.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "119. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. En los casos de muerte o desaparición de una persona que haya sido causada directamente por un delito, ¿a quién podrá ser comunicada la decisión de sobreseimiento? Señala la INCORRECTA:",
+    "opciones": [
+      "a) A su cónyuge, indistintamente de estar separado o no.",
+      "b) A los hijos de la víctima",
+      "c) A sus progenitores y parientes en línea recta o colateral dentro del 3er grado",
+      "d) A sus hermanos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "120. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. La víctima podrá recurrir el auto por el que el Juez de Vigilancia Penitenciaria autoriza la posible clasificación en 3er grado antes de que se extinga la mitad de la condena, cuando nos encontremos ante… Señala la INCORRECTA:",
+    "opciones": [
+      "a) Delitos de homicidio.",
+      "b) Delitos de lesiones.",
+      "c) Delitos de robo cometidos sin violencia.",
+      "d) Delitos de tortura y contra la integridad moral."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "121. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Dentro de qué plazo máximo deberá la víctima anunciar al Secretario Judicial competente su voluntad de recurrir?",
+    "opciones": [
+      "a) 3 Días contados a partir del momento en que se hubiera notificado.",
+      "b) 5 Días contados a partir del momento en que se hubiera notificado.",
+      "c) 10 Días contados a partir del momento en que se hubiera notificado.",
+      "d) 15 Días contados a partir del momento en que se hubiera notificado."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "122. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Dentro de qué plazo podrá la víctima interponer el recurso?",
+    "opciones": [
+      "a) 5 Días desde la notificación de la Resolución.",
+      "b) 10 Días desde la notificación de la Resolución.",
+      "c) 15 Días desde la notificación de la Resolución.",
+      "d) 20 Días desde la notificación de la Resolución."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "123. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿En qué plazo podrá presentar alegaciones la víctima?",
+    "opciones": [
+      "a) 5 días.",
+      "b) 10 días.",
+      "c) 15 días.",
+      "d) 20 días."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "124. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. Las víctimas podrán acceder a servicios de justicia restaurativa con la finalidad de obtener una adecuada reparación material y moral de los perjuicios derivados del delito, cuando se cumplan los siguientes requisitos. Señala la INCORRECTA:",
+    "opciones": [
+      "a) El infractor haya reconocido los hechos esenciales de los que deriva su responsabilidad.",
+      "b) El infractor haya prestado su consentimiento.",
+      "c) El procedimiento de mediación entrañe un riesgo para la seguridad de la víctima.",
+      "d) No esté prohibida por la ley para el delito cometido."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "125. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Cómo serán los debates desarrollados dentro del procedimiento de mediación?",
+    "opciones": [
+      "a) No serán confidenciales y no podrán ser difundidos sin el consentimiento de ambas partes.",
+      "b) Serán confidenciales y no podrán ser difundidos sin el consentimiento de ambas partes.",
+      "c) Serán confidenciales y podrán ser difundidos con el consentimiento de ambas partes.",
+      "d) No serán confidenciales y podrán ser difundidos con el consentimiento de ambas partes."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "126. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Ante quién podrán las víctimas presentar sus solicitudes de reconocimiento del derecho a la asistencia jurídica gratuita?",
+    "opciones": [
+      "a) Ante un funcionario.",
+      "b) Ante las Oficinas de Asistencia a las Víctimas.",
+      "c) Ante el Ministerio Fiscal.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "127. Derecho Procesal Penal. Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito. ¿Qué tendrán derecho a obtener las víctimas?",
+    "opciones": [
+      "a) La devolución de los bienes restituibles de su propiedad que hubieran sido incautados en el proceso.",
+      "b) La devolución de la fianza depositada.",
+      "c) La devolución de todos los bienes de su propiedad que hubieran sido incautados en el proceso.",
+      "d) La devolución de la fianza depositada, si no superar el 20% del importe de las costas judiciales."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "128. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. Las autoridades y funcionarios encargados de la investigación, persecución y enjuiciamiento de los delitos adoptarán las medidas necesarias para…",
+    "opciones": [
+      "a) Garantizar la vida de la víctima y de sus familiares.",
+      "b) Evitar el riesgo de su victimización secundaria o reiterada.",
+      "c) Proteger y garantizar su honor.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "129. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. Las autoridades y funcionarios encargados de la investigación penal velarán por que, en la medida que ello no perjudique la eficacia del proceso… Señala INCORRECTA:",
+    "opciones": [
+      "a) Se reciba declaración a las víctimas, cuando resulte necesario, sin dilaciones injustificadas.",
+      "b) Se reciba declaración a las víctimas el menor número de veces posible.",
+      "c) Las víctimas solamente puedan estar acompañadas, por su representante procesal.",
+      "d) Los reconocimientos médicos de las víctimas solamente se lleven a cabo cuando resulten Imprescindibles para los fines del proceso penal."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "130. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Qué tendrá especialmente en consideración la valoración de las medidas de protección que deben ser adoptadas para evitar a la víctima perjuicios relevantes que pudieran derivar del proceso?",
+    "opciones": [
+      "a) Las características y circunstancias personales.",
+      "b) La nacionalidad de la víctima.",
+      "c) El estatus social de la víctima.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "131. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Qué tendrá en cuenta la adopción de medidas de protección para víctimas menores de edad, a lo largo del proceso penal?",
+    "opciones": [
+      "a) Su situación personal.",
+      "b) Su edad.",
+      "c) Su relación con el autor del delito.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "132. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿A quién corresponden la valoración de las necesidades de la víctima y la determinación de las medidas de protección?",
+    "opciones": [
+      "a) Durante la fase de investigación del delito, al Juez de Instrucción o al de Violencia sobre la Mujer.",
+      "b) Durante la fase de investigación del delito, al Juez o Tribunal a los que correspondiera el conocimiento de la causa.",
+      "c) Durante la fase de enjuiciamiento, al Juez de Instrucción o al de Violencia sobre la Mujer.",
+      "d) Durante la fase de enjuiciamiento, al Ministerio Fiscal."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "133. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Qué medidas podrán ser adoptadas durante la fase de investigación para la protección de las víctimas? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Que se les reciba declaración en dependencias especialmente adaptadas a tal fin.",
+      "b) Que se les reciba declaración por profesionales que hayan recibido una formación especial para reducir o limitar perjuicios a la víctima, así como en perspectiva de género, o con su ayuda.",
+      "c) Que las tomas de declaración a una misma víctima les puedan ser realizadas por distintas personas.",
+      "d) Que las víctimas de trata con fines de explotación sexual, se lleve a cabo por una persona del mismo sexo que la víctima, cuando esta así lo solicite, salvo que ello pueda perjudicar el desarrollo del proceso o deba tomarse la declaración directamente por un Juez o Fiscal."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "134. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Qué medidas podrán ser adoptadas durante la fase de enjuiciamiento para la protección de las víctimas? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Medidas que eviten el contacto visual entre la víctima y el supuesto autor de los hechos.",
+      "b) Medidas para garantizar que la víctima pueda ser oída sin estar presente en la sala de vistas.",
+      "c) Celebración de la vista oral con presencia de público.",
+      "d) Medidas para evitar que se formulen preguntas relativas a la vida privada de la víctima que no tengan relevancia con el hecho delictivo enjuiciado, salvo que el juez o tribunal lo consideren."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "135. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. En caso de víctimas Menores de edad, víctimas con Discapacidad necesitadas de especial protección y víctimas de Violencias Sexuales… Señala la INCORRECTA:",
+    "opciones": [
+      "a) Las declaraciones recibidas durante la fase de investigación no serán grabadas por medios audiovisuales.",
+      "b) Las declaraciones recibidas durante la fase de investigación.",
+      "c) Las declaraciones podrán ser reproducidas en el juicio en los casos y condiciones determinadas por la Ley de Enjuiciamiento Criminal.",
+      "d) La declaración podrá recibirse por medio de personas expertas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "136. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿En qué casos el Fiscal recabará del Juez la designación de un Defensor Judicial de la víctima, para que la represente en la investigación y en el proceso penal? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Cuando valore que los representantes legales de la víctima menor de edad o con capacidad judicialmente modificada tienen con ella un conflicto de intereses que no permite confiar en una gestión adecuada de sus intereses en la investigación o en el proceso penal.",
+      "b) Cuando el conflicto de intereses exista con uno de los progenitores y el otro se encuentre en Condiciones de ejercer adecuadamente sus funciones de representación y asistencia de la víctima.",
+      "c) Cuando la víctima menor de edad o con capacidad judicialmente modificada no esté acompañada o se encuentre separada de quienes ejerzan la patria potestad o cargos tutelares.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "137. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Qué organizarán, en el ámbito que les es propio, el Gobierno y las Comunidades Autónomas que hayan asumido competencias en materia de Justicia?",
+    "opciones": [
+      "a) Oficinas de Asistencia a las Víctimas.",
+      "b) Asociaciones de Asistencia a las Víctimas.",
+      "c) Fundaciones de Asistencia a las Víctimas.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "138. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Qué incluirá como mínimo la asistencia que presten las Oficinas de Asistencia a las Víctimas? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Información general sobre sus derechos.",
+      "b) Apoyo moral a la víctima.",
+      "c) Asesoramiento sobre el riesgo y la forma de prevenir la victimización secundaria o reiterada, o la intimidación o represalias.",
+      "d) Coordinación con Jueces, Tribunales y Ministerio Fiscal para la prestación de los servicios de apoyo a las víctimas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "139. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. Las Oficinas de Asistencia a las Víctimas con la finalidad de determinar qué medidas de asistencia y apoyo deben ser prestadas a la víctima, podrán incluir… Señala la INCORRECTA:",
+    "opciones": [
+      "a) La prestación de apoyo o asistencia psicológica.",
+      "b) La derivación a servicios de apoyo especializados.",
+      "c) El acompañamiento a juicio.",
+      "d) Ayuda económica, en caso de ser necesaria."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "140. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Quiénes asegurarán una formación general y específica, relativa a la protección de las víctimas en el proceso penal? Señala la INCORRECTA:",
+    "opciones": [
+      "a) El Ministerio de Justicia.",
+      "b) Consejo General del Poder Judicial.",
+      "c) Fiscalía General del Estado.",
+      "d) La Policía Judicial."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "141. Derecho Procesal Penal. Ley 4/2015, del Estatuto de la víctima del delito. ¿Quién aprobará los protocolos que resulten necesarios para la protección de las víctimas?",
+    "opciones": [
+      "a) El Gobierno.",
+      "b) Las Comunidades Autónomas.",
+      "c) El Ministerio de Justicia.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "142. Derecho Procesal Penal. Respeto a la cooperación de los Poderes Públicos… Señala INCORRECTA:",
+    "opciones": [
+      "a) Fomentarán la cooperación con los colectivos profesionales especializados en el trato, atención y protección a las víctimas.",
+      "b) Promoverán la cooperación con otros estados en materia de derechos de las víctimas de delito",
+      "c) Promoverán la organización adecuada entre los colectivos competentes.",
+      "d) Los Poderes Públicos fomentarán campañas de sensibilización social en favor de las víctimas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "143. Derecho Procesal Penal. De todo delito o falta:",
+    "opciones": [
+      "a) Nace acción penal para el castigo del culpable.",
+      "b) Nace acción civil para la restitución de la cosa.",
+      "c) Nace acción civil para la reparación del daño.",
+      "d) Nace acción civil para la indemnización de perjuicios causados por el hecho punible."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "144. Derecho Procesal Penal. Según el artículo 101 de la LeCrim, ¿qué se puede apreciar con respecto a la acción penal?",
+    "opciones": [
+      "a) La acción penal es improrrogable.",
+      "b) La acción penal es pública, y su ejecución está limitada a ciertas personas.",
+      "c) La acción penal es pública y la podrán ejercer todos los ciudadanos españoles.",
+      "d) La acción penal es tanto pública como privada, y la podrán ejercer tanto todos los ciudadanos españoles como extranjeros."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "145. Derecho Procesal Penal. ¿Quién no podrá ejercitar, con carácter general, la acción penal?",
+    "opciones": [
+      "a) No podrá ejercitar la acción penal el que no goce de la plenitud de los derechos civiles.",
+      "b) No podrá ejercitar la acción penal el que hubiera sido condenado por sentencia firme como reo del delito de denuncia o querella calumniosas.",
+      "c) No podrá ejercitar la acción penal el ministro de culto disidente.",
+      "d) Todos ellos podrán ejercitar la acción penal."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "146. Derecho Procesal Penal. Existen ciertas razones de parentesco por las que no se podrán ejercitar acciones penales entre sí. ¿Cuáles son?",
+    "opciones": [
+      "a) Los cónyuges, en todo caso.",
+      "b) Los cónyuges, a no ser por delito o falta cometidos por el uno contra la persona del otro o la de sus hijos, exclusivamente.",
+      "c) Los cónyuges, a no ser por delito o falta cometidos por el uno contra la persona del otro o la de sus hijos, y por el delito de homicidio.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "147. Derecho Procesal Penal. ¿Por quién podrán ser perseguidos los delitos leves consistentes en el anuncio por medio de la imprenta de hechos falsos o relativos a la vida privada con el que se perjudique u ofenda a particulares?",
+    "opciones": [
+      "a) Por los ofendidos.",
+      "b) Por sus causahabientes.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "148. Derecho Procesal Penal. ¿Qué actuación llevará a cabo el Ministerio Fiscal con respecto a las acciones penales?",
+    "opciones": [
+      "a) Los funcionarios del Ministerio Fiscal podrán ejercitar todas las acciones penales que consideren procedentes, haya o no acusador particular en las causas, menos aquellas que el Código Penal reserva exclusivamente a la querella privada.",
+      "b) Los funcionarios del Ministerio Fiscal tendrán la obligación de ejercitar todas las acciones penales que consideren procedentes, haya o no acusador particular en las causas, incluso aquellas que el Código Penal reserva exclusivamente a la querella privada.",
+      "c) Los funcionarios del Ministerio Fiscal tendrán la obligación de ejercitar todas las acciones penales que consideren procedentes, haya o no acusador particular en las causas, menos aquellas que el Código Penal reserva exclusivamente a la querella privada.",
+      "d) Los funcionarios del Ministerio Fiscal podrán ejercitar todas las acciones penales que consideren procedentes, haya o no acusador particular en las causas, incluso aquellas que el Código Penal reserva exclusivamente a la querella privada."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "149. Derecho Procesal Penal. Señala la INCORRECTA en cuanto a la extinción de la acción penal y civil derivada de delito perseguible a instancia de parte.",
+    "opciones": [
+      "a) La acción penal por delito o falta que dé lugar al procedimiento de oficio no se extingue por la renuncia de la persona ofendida.",
+      "b) Se extinguen por la renuncia de la persona ofendida las acciones penales que nacen de delito o falta que no puedan ser perseguidos sino a instancia de parte.",
+      "c) Se extinguen por la renuncia de la persona ofendida las acciones civiles que nacen de delito o falta que no puedan ser perseguidos sino a instancia de parte.",
+      "d) La acción penal por delito o falta que dé lugar al procedimiento de oficio se extingue por la renuncia de la persona ofendida."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "150. Derecho Procesal Penal. En el acto de recibirse declaración por el juez al ofendido que tuviese la capacidad legal necesaria, ¿de qué instruirá el Letrado de la Administración de Justicia (antiguo Secretario Judicial) al ofendido que tuviese la capacidad necesaria?",
+    "opciones": [
+      "a) Del derecho que le asiste para mostrarse parte en el proceso.",
+      "b) Del derecho que le asiste a renunciar o no a la restitución de la cosa, reparación del daño e indemnización del perjuicio causado por el hecho punible.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  }
+]

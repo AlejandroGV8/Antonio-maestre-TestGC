@@ -15,6 +15,7 @@ import derechoConsitucionalData from './data/derecho_constitucional.json';
 import derechosHumanosData from './data/derechos_humanos.json';
 import derechoCivilData from './data/derecho_civil.json';
 import derechoPenalData from './data/derecho_penal.json';
+import derechoProcesalPenalData from './data/derecho_procesal_penal.json';
 import onuMonograficosData from './data/onu_monograficos';
 
 function App() {
@@ -33,16 +34,7 @@ function App() {
   };
 
   const loadThemes = () => {
-    if (typeof window !== 'undefined') {
-      const saved = window.localStorage.getItem('gc-academia-themes');
-      if (saved) {
-        try {
-          return JSON.parse(saved);
-        } catch (e) { }
-      }
-    }
-
-    return [
+    const defaultThemes = [
       {
         id: 'viogen',
         nombre: 'VIOGEN',
@@ -92,12 +84,39 @@ function App() {
         preguntas: derechoPenalData
       },
       {
+        id: 'derecho_procesal_penal',
+        nombre: 'Derecho Procesal Penal',
+        tipo: 'general',
+        preguntas: derechoProcesalPenalData
+      },
+      {
         id: MONOGRAFICO_THEME_ID,
         nombre: 'Carta de las Naciones Unidas',
         tipo: 'monografico',
         preguntas: onuMonograficosData
       }
     ];
+
+    if (typeof window !== 'undefined') {
+      const saved = window.localStorage.getItem('gc-academia-themes');
+      if (saved) {
+        try {
+          const savedThemes = JSON.parse(saved);
+
+          if (Array.isArray(savedThemes)) {
+            const savedById = new Map(savedThemes.map((theme) => [theme.id, theme]));
+            const mergedThemes = defaultThemes.map((theme) => savedById.get(theme.id) ?? theme);
+            const extraSavedThemes = savedThemes.filter(
+              (theme) => !defaultThemes.some((defaultTheme) => defaultTheme.id === theme.id)
+            );
+
+            return [...mergedThemes, ...extraSavedThemes];
+          }
+        } catch (e) { }
+      }
+    }
+
+    return defaultThemes;
   };
 
   const [themes] = useState(loadThemes);

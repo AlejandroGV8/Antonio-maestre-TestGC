@@ -150,16 +150,6 @@
     "respuesta": "a"
   },
   {
-    "pregunta": "16. Igualdad. ¿Quién evalúa el plan de igualdad citado en la pregunta anterior?",
-    "opciones": [
-      "a) Las Cortes Generales.",
-      "b) El Congreso.",
-      "c) En Consejo de Ministros.",
-      "d) El Consejo de Estado."
-    ],
-    "respuesta": "c"
-  },
-  {
     "pregunta": "17. Igualdad. Composición equilibrada:",
     "opciones": [
       "a) La presencia de mujeres y hombres de forma que, en el conjunto de que se trate, las personas de cada sexo no superen el 40% ni sean menos del 60%.",
@@ -440,16 +430,6 @@
     "respuesta": "d"
   },
   {
-    "pregunta": "45. Igualdad. ¿Cómo se determinarán las facultades derivadas de la obtención del distintivo citado en la pregunta anterior?",
-    "opciones": [
-      "a) Serán determinadas en los estatutos de las empresas reconocidas con el mismo.",
-      "b) Mediante pacto entre la empresa y el gobierno.",
-      "c) Reglamentariamente.",
-      "d) Un acuerdo aprobado en Consejo de Ministros"
-    ],
-    "respuesta": "c"
-  },
-  {
     "pregunta": "46. Igualdad. ¿En qué caso, los órganos de selección del personal de la Administración General del Estado, no responderán al principio de presencia equilibrada?",
     "opciones": [
       "a) Deberán responder a dicho principio en todo caso.",
@@ -498,16 +478,6 @@
       "d) Con la representación legal de los trabajadores y trabajadoras."
     ],
     "respuesta": "d"
-  },
-  {
-    "pregunta": "51. Igualdad. Dentro del protocolo de actuación citado en la pregunta anterior, ¿cómo será el tratamiento de las denuncias de hechos que pudieran ser constitutivos de acoso sexual y acoso por razón de sexo?",
-    "opciones": [
-      "a) Público.",
-      "b) Reservado.",
-      "c) Proporcional y homogéneo.",
-      "d) Secreto."
-    ],
-    "respuesta": "b"
   },
   {
     "pregunta": "52. Igualdad. Las normas del personal de las Fuerzas y Cuerpos de Seguridad procurarán la efectividad del principio de igualdad, especialmente… Señala la INCORRECTA:",

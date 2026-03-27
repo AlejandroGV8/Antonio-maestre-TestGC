@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react';
 import ThemeSelector from './ThemeSelector';
 
 const Home = ({
@@ -15,6 +16,40 @@ const Home = ({
   canUseCustomQuestionCount,
   homeMode
 }) => {
+  const [questionCountInput, setQuestionCountInput] = useState(String(questionCount ?? ''));
+
+  useEffect(() => {
+    setQuestionCountInput(String(questionCount ?? ''));
+  }, [questionCount]);
+
+  const handleQuestionCountChange = (value) => {
+    const onlyDigits = value.replace(/\D/g, '');
+
+    if (onlyDigits === '') {
+      setQuestionCountInput('');
+      return;
+    }
+
+    const normalized = String(parseInt(onlyDigits, 10));
+    setQuestionCountInput(Number.isNaN(Number(normalized)) ? '' : normalized);
+  };
+
+  const commitQuestionCount = () => {
+    const parsed = Number.parseInt(questionCountInput, 10);
+    const minQuestions = 5;
+    const maxQuestions = Math.max(totalAvailableQuestions, minQuestions);
+
+    if (Number.isNaN(parsed)) {
+      setQuestionCount(minQuestions);
+      setQuestionCountInput(String(minQuestions));
+      return;
+    }
+
+    const clamped = Math.max(minQuestions, Math.min(parsed, maxQuestions));
+    setQuestionCount(clamped);
+    setQuestionCountInput(String(clamped));
+  };
+
   const totalPreguntas = themes
     .filter(theme => selectedThemes.includes(theme.id))
     .reduce((sum, theme) => sum + theme.preguntas.length, 0);
@@ -76,10 +111,12 @@ const Home = ({
                   <label className="block text-sm font-semibold text-gray-700 mb-1">Cantidad de preguntas</label>
                   <input
                     type="number"
-                    value={questionCount}
+                    value={questionCountInput}
                     min={5}
                     max={Math.max(totalAvailableQuestions, 5)}
-                    onChange={(e) => setQuestionCount(Number(e.target.value))}
+                    onFocus={(e) => e.target.select()}
+                    onChange={(e) => handleQuestionCountChange(e.target.value)}
+                    onBlur={commitQuestionCount}
                     className="w-full rounded-lg border border-green-300 px-3 py-2 focus:border-green-500 focus:outline-none"
                   />
                   <p className="text-xs text-green-700 mt-1">Puedes generar hasta {totalAvailableQuestions} preguntas segun los temas seleccionados.</p>
