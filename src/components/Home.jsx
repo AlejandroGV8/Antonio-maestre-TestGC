@@ -5,6 +5,8 @@ const Home = ({
   themes,
   selectedThemes,
   onToggleTheme,
+  onSelectAllThemes,
+  onDeselectAllThemes,
   onStartTest,
   onOpenMonographicTests,
   onBackToGeneralTests,
@@ -37,7 +39,10 @@ const Home = ({
   const commitQuestionCount = () => {
     const parsed = Number.parseInt(questionCountInput, 10);
     const minQuestions = 5;
-    const maxQuestions = Math.max(totalAvailableQuestions, minQuestions);
+    const hasAvailableQuestions = totalAvailableQuestions > 0;
+    const maxQuestions = hasAvailableQuestions
+      ? Math.max(totalAvailableQuestions, minQuestions)
+      : null;
 
     if (Number.isNaN(parsed)) {
       setQuestionCount(minQuestions);
@@ -45,7 +50,9 @@ const Home = ({
       return;
     }
 
-    const clamped = Math.max(minQuestions, Math.min(parsed, maxQuestions));
+    const clamped = hasAvailableQuestions
+      ? Math.max(minQuestions, Math.min(parsed, maxQuestions))
+      : Math.max(minQuestions, parsed);
     setQuestionCount(clamped);
     setQuestionCountInput(String(clamped));
   };
@@ -113,7 +120,7 @@ const Home = ({
                     type="number"
                     value={questionCountInput}
                     min={5}
-                    max={Math.max(totalAvailableQuestions, 5)}
+                    max={totalAvailableQuestions > 0 ? Math.max(totalAvailableQuestions, 5) : undefined}
                     onFocus={(e) => e.target.select()}
                     onChange={(e) => handleQuestionCountChange(e.target.value)}
                     onBlur={commitQuestionCount}
@@ -122,6 +129,21 @@ const Home = ({
                   <p className="text-xs text-green-700 mt-1">Puedes generar hasta {totalAvailableQuestions} preguntas segun los temas seleccionados.</p>
                 </div>
               )}
+
+              <div className="flex gap-2">
+                <button
+                  onClick={onSelectAllThemes}
+                  className="flex-1 bg-green-100 hover:bg-green-200 text-green-700 font-semibold py-2 rounded-lg transition-colors text-sm"
+                >
+                  Seleccionar todos
+                </button>
+                <button
+                  onClick={onDeselectAllThemes}
+                  className="flex-1 bg-red-100 hover:bg-red-200 text-red-700 font-semibold py-2 rounded-lg transition-colors text-sm"
+                >
+                  Deseleccionar todos
+                </button>
+              </div>
 
               <ThemeSelector
                 themes={themes}

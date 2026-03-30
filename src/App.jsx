@@ -179,6 +179,15 @@ function App() {
     setQuestionCount(30);
   };
 
+  const handleSelectAllThemes = () => {
+    const allThemeIds = visibleThemes.map(theme => theme.id);
+    setSelectedThemes(allThemeIds);
+  };
+
+  const handleDeselectAllThemes = () => {
+    setSelectedThemes([]);
+  };
+
   const startTestWithMode = async (mode) => {
     let allQuestions = [];
 
@@ -278,6 +287,8 @@ function App() {
           themes={visibleThemes}
           selectedThemes={selectedThemes}
           onToggleTheme={handleToggleTheme}
+          onSelectAllThemes={handleSelectAllThemes}
+          onDeselectAllThemes={handleDeselectAllThemes}
           onStartTest={handleStartTest}
           onOpenMonographicTests={handleOpenMonographicTests}
           onBackToGeneralTests={handleBackToGeneralTests}

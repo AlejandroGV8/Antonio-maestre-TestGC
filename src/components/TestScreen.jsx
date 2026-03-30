@@ -103,15 +103,15 @@ const TestScreen = ({
         content += `</ol>`;
 
         if (includeAnswers) {
-          const userAnswer = respuestas[idx] ? respuestas[idx].toUpperCase() : 'No respondida';
           const correctOption = p.respuesta ? p.respuesta.toUpperCase() : 'N/A';
-          content += `<div class="answer-block"><strong>Tu respuesta:</strong> ${userAnswer} · <strong>Correcta:</strong> ${correctOption}</div>`;
+          content += `<div class="answer-block"><strong>Solucion correcta:</strong> ${correctOption}</div>`;
         }
 
         content += `</div>`;
+
       });
 
-      const scopedCss = `#__printableExam { font-family: Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Arial; color:#0f172a; padding:24px } #__printableExam h1{font-size:20px; margin-bottom:6px} #__printableExam .meta{color:#374151; margin-bottom:12px} #__printableExam .question{margin-bottom:18px} #__printableExam .qtext{font-weight:600; margin-bottom:6px} #__printableExam ol.options{margin:0 0 0 20px; padding:0} #__printableExam li.option{margin:6px 0} #__printableExam .answer-block{margin-top:8px; padding:8px; border-left:4px solid #10b981; background:#ecfdf3; border-radius:6px; font-size:0.95rem;} @media print{ body * { visibility: hidden !important } #__printableExam, #__printableExam * { visibility: visible !important } #__printableExam { position: absolute; left: 0; top: 0; width: 100% } .no-print{display:none !important} }`;
+      const scopedCss = `#__printableExam { font-family: Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Arial; color:#0f172a; padding:12px; font-size:11px; line-height:1.2 } #__printableExam h1{font-size:16px; margin:0 0 4px 0} #__printableExam .meta{color:#374151; margin-bottom:6px; font-size:11px} #__printableExam .exam-header hr{margin:6px 0 8px 0} #__printableExam .question{margin-bottom:10px} #__printableExam .qtext{font-weight:600; margin-bottom:4px} #__printableExam ol.options{margin:0 0 0 16px; padding:0} #__printableExam li.option{margin:2px 0} #__printableExam .answer-block{margin-top:6px; padding:6px; border-left:4px solid #10b981; background:#ecfdf3; border-radius:6px; font-size:11px;} @media print{ @page{margin:10mm} body * { visibility: hidden !important } #__printableExam, #__printableExam * { visibility: visible !important } #__printableExam { position: absolute; left: 0; top: 0; width: 100% } .no-print{display:none !important} }`;
 
       const existing = document.getElementById('__printableExam');
       if (existing) existing.remove();
