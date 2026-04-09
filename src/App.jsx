@@ -16,11 +16,37 @@ import derechosHumanosData from './data/derechos_humanos.json';
 import derechoCivilData from './data/derecho_civil.json';
 import derechoPenalData from './data/derecho_penal.json';
 import derechoProcesalPenalData from './data/derecho_procesal_penal.json';
+import derechoAdministrativoData from './data/derecho_administrativo.json';
 import onuMonograficosData from './data/onu_monograficos';
 
 function App() {
   const API_BASE_URL = 'https://o190h5xj5e.execute-api.eu-west-1.amazonaws.com';
   const MONOGRAFICO_THEME_ID = 'onu_monograficos';
+  const SYLLABUS_ORDER = {
+    derechos_humanos: 1,
+    igualdad: 2,
+    prl: 3,
+    derecho_constitucional: 4,
+    ue: 5,
+    onu_monograficos: 6,
+    derecho_civil: 7,
+    derecho_penal: 8,
+    derecho_procesal_penal: 9,
+    derecho_administrativo: 10,
+    viogen: 21
+  };
+
+  const getThemeOrder = (themeId) => SYLLABUS_ORDER[themeId] ?? Number.MAX_SAFE_INTEGER;
+
+  const sortQuestionsBySyllabus = (questions, direction = 'asc') => {
+    const multiplier = direction === 'desc' ? -1 : 1;
+
+    return [...questions].sort((a, b) => {
+      const orderDiff = (getThemeOrder(a.__themeId) - getThemeOrder(b.__themeId)) * multiplier;
+      if (orderDiff !== 0) return orderDiff;
+      return 0;
+    });
+  };
 
   const loadThemeQuestionsFromApi = async (themeId) => {
     try {
@@ -88,6 +114,12 @@ function App() {
         nombre: 'Derecho Procesal Penal',
         tipo: 'general',
         preguntas: derechoProcesalPenalData
+      },
+      {
+        id: 'derecho_administrativo',
+        nombre: 'Derecho Administrativo',
+        tipo: 'general',
+        preguntas: derechoAdministrativoData
       },
       {
         id: MONOGRAFICO_THEME_ID,
@@ -195,7 +227,8 @@ function App() {
       const apiQuestionsList = await Promise.all(
         selectedThemes.map(async (themeId) => {
           const data = await loadThemeQuestionsFromApi(themeId);
-          return Array.isArray(data) ? data : [];
+          if (!Array.isArray(data)) return [];
+          return data.map((question) => ({ ...question, __themeId: themeId }));
         })
       );
       allQuestions = apiQuestionsList.flat();
@@ -204,19 +237,24 @@ function App() {
         // Fallback local JSON si API no regresa datos
         allQuestions = themes
           .filter(theme => selectedThemes.includes(theme.id))
-          .flatMap(theme => theme.preguntas);
+          .flatMap(theme => theme.preguntas.map((question) => ({ ...question, __themeId: theme.id })));
       }
     } else {
       allQuestions = themes
         .filter(theme => selectedThemes.includes(theme.id))
-        .flatMap(theme => theme.preguntas);
+        .flatMap(theme => theme.preguntas.map((question) => ({ ...question, __themeId: theme.id })));
     }
 
     const maxQuestions = allQuestions.length;
     const requested = Number(questionCount || 30);
     const count = Math.max(5, Math.min(requested, maxQuestions || 30));
 
-    const selectedQuestions = selectRandomQuestions(allQuestions, count);
+    // En cada examen se decide aleatoriamente si el bloque de temas va de 1->23 o de 23->1.
+    const syllabusDirection = Math.random() < 0.5 ? 'asc' : 'desc';
+    const selectedQuestions = sortQuestionsBySyllabus(
+      selectRandomQuestions(allQuestions, count),
+      syllabusDirection
+    );
 
     setTestMode(mode || 'prueba');
     setTestQuestions(selectedQuestions);
@@ -264,9 +302,15 @@ function App() {
     setLoginError('');
   };
 
-  const visibleThemes = themes.filter(theme =>
-    homeMode === 'monografico' ? theme.tipo === 'monografico' : theme.tipo !== 'monografico'
-  );
+  const visibleThemes = themes
+    .filter(theme =>
+      homeMode === 'monografico' ? theme.tipo === 'monografico' : theme.tipo !== 'monografico'
+    )
+    .sort((a, b) => {
+      const orderDiff = getThemeOrder(a.id) - getThemeOrder(b.id);
+      if (orderDiff !== 0) return orderDiff;
+      return a.nombre.localeCompare(b.nombre, 'es');
+    });
 
   const totalAvailableQuestions = themes
     .filter(theme => selectedThemes.includes(theme.id) && visibleThemes.some(visible => visible.id === theme.id))

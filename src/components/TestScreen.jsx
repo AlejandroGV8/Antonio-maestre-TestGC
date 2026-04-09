@@ -22,6 +22,7 @@ const TestScreen = ({
   const [secondsLeft, setSecondsLeft] = useState(null);
   // Estado para almacenar si la respuesta es correcta/incorrecta (solo modo prueba)
   const [feedbackState, setFeedbackState] = useState({});
+  const [customExamName, setCustomExamName] = useState('');
 
   // Función para evaluar la respuesta (solo modo prueba)
   const evaluateAnswerForMode = () => {
@@ -88,11 +89,21 @@ const TestScreen = ({
 
   const handleDownloadExam = (includeAnswers = false) => {
     try {
-      const examTitle = includeAnswers
-        ? 'Examen con respuestas - Academia Antonio'
-        : 'Examen sin respuestas - Academia Antonio';
+      const escapeHtml = (value = '') =>
+        String(value)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
 
-      let content = `<div class="exam-header"><h1>${examTitle}</h1><div class="meta">Preguntas: ${preguntas.length} — Fecha: ${new Date().toLocaleDateString()}</div><hr/></div>`;
+      const normalizedCustomName = customExamName.trim();
+      const publicExamName = normalizedCustomName.length > 0 ? normalizedCustomName : 'Examen';
+      const examVariantTitle = includeAnswers
+        ? 'Documento con respuestas'
+        : 'Documento sin respuestas';
+
+      let content = `<div class="exam-header"><h1>${escapeHtml(publicExamName)}</h1><div class="exam-variant">${examVariantTitle}</div><div class="meta">Preguntas: ${preguntas.length} — Fecha: ${new Date().toLocaleDateString()}</div><hr/></div>`;
 
       preguntas.forEach((p, idx) => {
         content += `<div class="question"><div class="qtext">${idx + 1}. ${p.pregunta}</div><ol class="options" type="a">`;
@@ -111,22 +122,58 @@ const TestScreen = ({
 
       });
 
-      const scopedCss = `#__printableExam { font-family: Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Arial; color:#0f172a; padding:12px; font-size:11px; line-height:1.2 } #__printableExam h1{font-size:16px; margin:0 0 4px 0} #__printableExam .meta{color:#374151; margin-bottom:6px; font-size:11px} #__printableExam .exam-header hr{margin:6px 0 8px 0} #__printableExam .question{margin-bottom:10px} #__printableExam .qtext{font-weight:600; margin-bottom:4px} #__printableExam ol.options{margin:0 0 0 16px; padding:0} #__printableExam li.option{margin:2px 0} #__printableExam .answer-block{margin-top:6px; padding:6px; border-left:4px solid #10b981; background:#ecfdf3; border-radius:6px; font-size:11px;} @media print{ @page{margin:10mm} body * { visibility: hidden !important } #__printableExam, #__printableExam * { visibility: visible !important } #__printableExam { position: absolute; left: 0; top: 0; width: 100% } .no-print{display:none !important} }`;
+      const scopedCss = `#__printableExam { font-family: Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Arial; color:#0f172a; padding:12px; font-size:11px; line-height:1.2 } #__printableExam h1{font-size:16px; margin:0 0 4px 0} #__printableExam .exam-variant{font-size:12px; font-weight:700; color:#065f46; margin-bottom:4px} #__printableExam .meta{color:#374151; margin-bottom:6px; font-size:11px} #__printableExam .exam-header hr{margin:6px 0 8px 0} #__printableExam .question{margin-bottom:10px} #__printableExam .qtext{font-weight:600; margin-bottom:4px} #__printableExam ol.options{margin:0 0 0 16px; padding:0} #__printableExam li.option{margin:2px 0} #__printableExam .answer-block{margin-top:6px; padding:6px; border-left:4px solid #10b981; background:#ecfdf3; border-radius:6px; font-size:11px;} @media print{ @page{margin:10mm} body * { visibility: hidden !important } #__printableExam, #__printableExam * { visibility: visible !important } #__printableExam { position: absolute; left: 0; top: 0; width: 100% } .no-print{display:none !important} }`;
 
-      const existing = document.getElementById('__printableExam');
-      if (existing) existing.remove();
+      const html = `<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title></title>
+  <style>${scopedCss}</style>
+</head>
+<body>
+  <div id="__printableExam">
+    <div class="exam-content">${content}</div>
+  </div>
+</body>
+</html>`;
 
-      const container = document.createElement('div');
-      container.id = '__printableExam';
-      container.innerHTML = `<style>${scopedCss}</style><div class="exam-content">${content}</div>`;
-      container.style.display = 'none';
-      document.body.appendChild(container);
+      const printFrame = document.createElement('iframe');
+      printFrame.style.position = 'fixed';
+      printFrame.style.right = '0';
+      printFrame.style.bottom = '0';
+      printFrame.style.width = '0';
+      printFrame.style.height = '0';
+      printFrame.style.border = '0';
+      printFrame.setAttribute('aria-hidden', 'true');
+      document.body.appendChild(printFrame);
 
-      container.style.display = 'block';
-      setTimeout(() => {
-        try { window.print(); } catch (e) { console.warn('Impresión inline cancelada', e); }
-        setTimeout(() => { try { container.remove(); } catch (err) { } }, 500);
-      }, 250);
+      const frameDoc = printFrame.contentWindow?.document;
+      if (!frameDoc || !printFrame.contentWindow) {
+        printFrame.remove();
+        throw new Error('No se pudo inicializar el documento de impresion');
+      }
+
+      frameDoc.open();
+      frameDoc.write(html);
+      frameDoc.close();
+
+      const runPrint = () => {
+        try {
+          printFrame.contentWindow.focus();
+          printFrame.contentWindow.print();
+        } catch (e) {
+          console.warn('Impresion en iframe cancelada', e);
+        } finally {
+          setTimeout(() => {
+            try { printFrame.remove(); } catch (err) { }
+          }, 800);
+        }
+      };
+
+      // Espera breve para asegurar que el contenido del iframe esta listo antes de imprimir.
+      setTimeout(runPrint, 250);
     } catch (err) {
       console.error('Error generando examen imprimible', err);
       alert('Error al generar el examen imprimible. Revisa la consola.');
@@ -318,6 +365,22 @@ const TestScreen = ({
           </div>
         </div>
         <div className="flex flex-col md:flex-row justify-center mt-6 gap-3 no-print">
+          {canDownloadAnswers && (
+            <div className="w-full bg-white/95 backdrop-blur-sm rounded-xl p-4 border border-slate-200 shadow-sm">
+              <label className="block text-sm font-semibold text-slate-700 mb-2">
+                Nombre del examen para impresion
+              </label>
+              <input
+                type="text"
+                value={customExamName}
+                onChange={(e) => setCustomExamName(e.target.value)}
+                placeholder="Ejemplo: Simulacro Abril 2026 - Grupo A"
+                className="w-full rounded-lg border border-slate-300 px-3 py-2 focus:border-green-500 focus:outline-none"
+                maxLength={120}
+              />
+            </div>
+          )}
+
           <button
             onClick={() => handleDownloadExam(false)}
             className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-semibold shadow"
