@@ -96,6 +96,11 @@ const TestScreen = ({
           .replace(/>/g, '&gt;')
           .replace(/"/g, '&quot;')
           .replace(/'/g, '&#39;');
+      const stripOptionPrefix = (value = '') =>
+        String(value)
+          .replace(/<[^>]*>/g, '')
+          .replace(/^\s*[a-z]\)\s*/i, '')
+          .trim();
 
       const normalizedCustomName = customExamName.trim();
       const publicExamName = normalizedCustomName.length > 0 ? normalizedCustomName : 'Examen';
@@ -108,7 +113,7 @@ const TestScreen = ({
       preguntas.forEach((p, idx) => {
         content += `<div class="question"><div class="qtext">${idx + 1}. ${p.pregunta}</div><ol class="options" type="a">`;
         p.opciones.forEach(opt => {
-          const safeOpt = opt.replace(/<[^>]*>/g, '');
+          const safeOpt = escapeHtml(stripOptionPrefix(opt));
           content += `<li class="option">${safeOpt}</li>`;
         });
         content += `</ol>`;

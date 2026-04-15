@@ -18,7 +18,8 @@ const themeFiles = {
   ue: 'ue.json',
   igualdad: 'igualdad.json',
   derecho_constitucional: 'derecho_constitucional.json',
-  derechos_humanos: 'derechos_humanos.json'
+  derechos_humanos: 'derechos_humanos.json',
+  instituciones_internacionales: 'instituciones_internacionales.json'
 };
 
 app.use(express.json());

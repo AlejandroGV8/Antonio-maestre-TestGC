@@ -17,6 +17,7 @@ import derechoCivilData from './data/derecho_civil.json';
 import derechoPenalData from './data/derecho_penal.json';
 import derechoProcesalPenalData from './data/derecho_procesal_penal.json';
 import derechoAdministrativoData from './data/derecho_administrativo.json';
+import institucionesInternacionalesData from './data/instituciones_internacionales.json';
 import onuMonograficosData from './data/onu_monograficos';
 
 function App() {
@@ -28,11 +29,12 @@ function App() {
     prl: 3,
     derecho_constitucional: 4,
     ue: 5,
-    onu_monograficos: 6,
+    instituciones_internacionales: 6,
     derecho_civil: 7,
     derecho_penal: 8,
     derecho_procesal_penal: 9,
     derecho_administrativo: 10,
+    onu_monograficos: 11,
     viogen: 21
   };
 
@@ -96,6 +98,12 @@ function App() {
         nombre: 'Derechos Humanos',
         tipo: 'general',
         preguntas: derechosHumanosData
+      },
+      {
+        id: 'instituciones_internacionales',
+        nombre: 'Instituciones Internacionales',
+        tipo: 'general',
+        preguntas: institucionesInternacionalesData
       },
       {
         id: 'derecho_civil',
