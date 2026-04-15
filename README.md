@@ -39,19 +39,8 @@ Esta plataforma permite generar tests de forma dinámica a partir de un banco de
 - Inicio de sesión para acceso avanzado.
 - Posibilidad de descargar examen con respuestas.
 - Descarga de resultados con respuestas en formato texto.
-- Carga de preguntas desde API (si está disponible) con fallback automático a datos locales.
 - Base lista para gestión de preguntas por tema desde backend/API.
 
-## Temas incluidos
-
-- VIOGEN
-- Prevención de Riesgos Laborales
-- Unión Europea
-- Igualdad
-- Derecho Constitucional
-- Derechos Humanos
-- Derecho Civil
-- Derecho Penal
 
 ## Tecnologías
 
