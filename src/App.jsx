@@ -18,6 +18,7 @@ import derechoPenalData from './data/derecho_penal.json';
 import derechoProcesalPenalData from './data/derecho_procesal_penal.json';
 import derechoAdministrativoData from './data/derecho_administrativo.json';
 import institucionesInternacionalesData from './data/instituciones_internacionales.json';
+import proteccionDatosData from './data/proteccion_datos.json';
 import onuMonograficosData from './data/onu_monograficos';
 
 function App() {
@@ -34,7 +35,8 @@ function App() {
     derecho_penal: 8,
     derecho_procesal_penal: 9,
     derecho_administrativo: 10,
-    onu_monograficos: 11,
+    proteccion_datos: 11,
+    onu_monograficos: 12,
     viogen: 21
   };
 
@@ -128,6 +130,12 @@ function App() {
         nombre: 'Derecho Administrativo',
         tipo: 'general',
         preguntas: derechoAdministrativoData
+      },
+      {
+        id: 'proteccion_datos',
+        nombre: 'Protección de Datos',
+        tipo: 'general',
+        preguntas: proteccionDatosData
       },
       {
         id: MONOGRAFICO_THEME_ID,

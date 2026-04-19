@@ -1,0 +1,1202 @@
+[
+  {
+    "pregunta": "1. Protección de Datos. No será de aplicación el régimen de protección de los datos previsto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales:",
+    "opciones": [
+      "a) A los tratamientos de datos excluidos del ámbito de aplicación del Reglamento (UE) 2016/676, del Parlamento europeo y del Consejo, de 27 de abril de 2017.",
+      "b) A los tratamientos de datos sensibles.",
+      "c) A los tratamientos sometidos a la normativa sobre protección de materias clasificadas.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "2. Protección de Datos. La Agencia Española de Protección de Datos:",
+    "opciones": [
+      "a) Es una autoridad administrativa, con personalidad jurídica propia y plena capacidad pública y privada, que actúa con plena independencia de los poderes públicos en el ejercicio de sus funciones.",
+      "b) Es la autoridad de control dependiente del Ministerio del Interior que vela por el cumplimiento de la normativa sobre protección de datos y garantiza y tutela el derecho fundamental a la protección de datos personales.",
+      "c) Es la autoridad de control dependiente del Ministerio Fiscal que vela por el cumplimiento de la normativa sobre protección de datos y garantiza y tutela.",
+      "d) Es una autoridad administrativa, con personalidad jurídica propia y plena capacidad pública, que actúa con plena independencia de los poderes judiciales en el ejercicio de sus funciones."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "3. Protección de Datos. La Agencia Española de Protección de Datos elaborará y aprobará su relación de puestos de trabajo, en el marco de los criterios establecidos por:",
+    "opciones": [
+      "a) Ministerio de Justicia.",
+      "b) El Gobierno.",
+      "c) Las autoridades competentes de las comunidades autónomas.",
+      "d) Ministerio de Hacienda."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "4. Protección de Datos. La Agencia Española de Protección de Datos tendrá la condición de representante común de las autoridades de protección de datos del Reino de España en:",
+    "opciones": [
+      "a) La Comisión Europea.",
+      "b) El Comité Europeo de Protección de Datos.",
+      "c) El Comité Internacional de Protección de Datos.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "5. Protección de Datos. El bloqueo de los datos consiste en la identificación y reserva de los mismos, adoptando medidas técnicas y organizativas, para impedir su tratamiento incluyendo su visualización, excepto para la puesta a disposición de los datos a:",
+    "opciones": [
+      "a) Los jueces y tribunales.",
+      "b) Las Administraciones Públicas competentes.",
+      "c) El Ministerio Fiscal.",
+      "d) Todas las opciones son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "6. Protección de Datos. En relación con los sistemas de información de denuncias internas:",
+    "opciones": [
+      "a) Será lícita la creación y mantenimiento de sistemas de información para ponerse en conocimiento de una entidad de Derecho público, incluso anónimamente, la comisión en el seno de la misma o en la actuación de terceros que contratasen con ella, de actos o conductas que pudieran ser contrarios a la normativa general o sectorial aplicable.",
+      "b) Solo cuando pudiera proceder la adopción de medidas disciplinarias contra un trabajador, se permitirá dicho acceso al personal con funciones de gestión y control de recursos humanos.",
+      "c) Los datos de quien formule la comunicación y de los empleados y terceros deberán conservarse en el sistema de denuncias únicamente durante el tiempo imprescindible para decidir sobre la procedencia de concluir una investigación sobre los hechos denunciados.",
+      "d) El acceso a los datos contenidos en estos sistemas quedará limitado exclusivamente a quienes, incardinados o no en el seno de la entidad, desarrollen las funciones de control interno y de gestión, o a los responsables del tratamiento que eventualmente se designen a tal efecto."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "7. Protección de Datos. ¿Como interlocutor de quién actuará el delegado de protección de datos?",
+    "opciones": [
+      "a) Del responsable o encargado del tratamiento ante la Agencia Española de Protección de Datos y las autoridades europeas de Protección de datos.",
+      "b) Del responsable o encargado del tratamiento ante la Agencia Española de Protección de Datos y las autoridades estatales y autonómicas de Protección de datos.",
+      "c) Del responsable o encargado del tratamiento ante la Agencia Española de Protección de Datos y las autoridades autonómicas de Protección de datos.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "8. Protección de Datos. Los tratamientos a los que no sea directamente aplicable el Reglamento (UE) 679 por afectar a actividades no comprendidas en el ámbito de aplicación del derecho de la Unión Europea, se regirán por:",
+    "opciones": [
+      "a) El propio Reglamento y, supletoriamente, por la Ley Orgánica de Protección de Datos.",
+      "b) La Ley Orgánica de Protección de datos y, supletoriamente, por su legislación específica.",
+      "c) Su legislación específica si la hubiere y supletoriamente por lo establecido en el citado reglamento y en la Ley Orgánica de Protección de datos.",
+      "d) Su legislación supletoria y específicamente por la Ley orgánica de Protección de datos."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "9. Protección de Datos. Al ejercer el derecho de rectificación, el afectado deberá indicar en su solicitud:",
+    "opciones": [
+      "a) A qué datos se refiere y la corrección que haya de realizarse.",
+      "b) La documentación justificativa de la exactitud.",
+      "c) El carácter completo de los datos objeto de tratamiento.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "10. Protección de Datos. Mediante el ejercicio del derecho de acceso NO se podrá obtener:",
+    "opciones": [
+      "a) Las categorías de datos personales que se traten.",
+      "b) La existencia de decisiones automatizadas, excluida la elaboración de perfiles.",
+      "c) Los destinatarios a los que se comunicaron o serán comunicados los datos personales.",
+      "d) El derecho a presentar una reclamación ante una Autoridad de Control."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "11. Protección de Datos. Están obligados a colaborar con la Agencia Española de Protección de Datos:",
+    "opciones": [
+      "a) Las Administraciones Públicas, excepto las tributarias.",
+      "b) Las Administraciones Públicas, excepto la Seguridad Social.",
+      "c) Las Administraciones Públicas, excepto las tributarias y de la Seguridad Social.",
+      "d) Los particulares."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "12. Protección de Datos. ¿En qué casos podrán captarse imágenes de la vía pública?",
+    "opciones": [
+      "a) Únicamente cuando medie causa por delito.",
+      "b) Cuando haya sido autorizado por motivos de seguridad vial.",
+      "c) Cuando haya sido autorizado mediante resolución judicial.",
+      "d) Con la finalidad de preservar la seguridad de las personas y sus bienes."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "13. Protección de Datos. Las imágenes captadas a través de sistemas de cámaras o videocámaras:",
+    "opciones": [
+      "a) Deberán ser conservadas a disposición de los afectados por la información contenida en las grabaciones.",
+      "b) Deberán ser puestas a disposición de la autoridad competente en un plazo máximo de 72 horas, desde el momento de la denuncia.",
+      "c) Serán suprimidas en el plazo máximo de 1 mes desde su captación.",
+      "d) Serán suprimidas a instancia del interesado y con la pertinente autorización administrativa."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "14. Protección de Datos. Las transferencias internacionales de datos se regirán por lo dispuesto en:",
+    "opciones": [
+      "a) El Reglamento (UE) 2016/679.",
+      "b) La Ley Orgánica 3/2018 y sus normas de desarrollo aprobadas por el Gobierno.",
+      "c) Las circulares de la Agencia Española de Protección de Datos y de las autoridades autonómicas de protección de datos, en el ámbito de sus competencias.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "15. Protección de Datos. Respecto a los planes de auditoría, señala la INCORRECTA:",
+    "opciones": [
+      "a) La Presidencia de la Agencia Española de Protección de Datos podrá acordar la realización de planes de auditoría preventiva, referidos a los tratamientos de varios sectores de actividad.",
+      "b) Tendrán por objeto el análisis del cumplimiento de las disposiciones del Reglamento (UE) 2016/679 y de la Ley 3/2018.",
+      "c) La Presidencia de la Agencia Española de Protección de Datos podrá solicitar la colaboración de los organismos de supervisión de los códigos de conducta.",
+      "d) A resultas de los planes de auditoría, la Presidencia de la Agencia Española de Protección de Datos podrá dictar las directrices generales o específicas para un concreto responsable o encargado de los tratamientos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "16. Protección de Datos. En el tratamiento de los datos personales de un menor solo podrá fundarse en su consentimiento si es:",
+    "opciones": [
+      "a) Mayor de 13 años.",
+      "b) Mayor de 14 años.",
+      "c) Mayor de 16 años.",
+      "d) Menor de 18 años."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "17. Protección de Datos. ¿A través de quién se relaciona la Agencia española de Protección de Datos con el Gobierno?:",
+    "opciones": [
+      "a) A través del Ministerio del Interior.",
+      "b) A través del Ministerio de Justicia.",
+      "c) A través del Sistema de Registros Administrativos de Apoyo a la Administración de Justicia.",
+      "d) A través de la Subsecretaría del Ministerio del Interior, concretamente de la Secretaría General Técnica."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "18. Protección de Datos. Cuando la supresión derive del ejercicio del derecho de oposición el responsable podrá conservar los datos identificativos del afectado necesarios con el fin de impedir tratamientos futuros para fines de:",
+    "opciones": [
+      "a) Mercadotecnia directa.",
+      "b) Mercadeo digital.",
+      "c) Marketing digital, directo o indirecto.",
+      "d) Mercadotecnia digital, directa o indirecta."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "19. Protección de Datos. El Consejo Consultivo de la Agencia Española de Protección de Datos está compuesto por... Señala la INCORRECTA:",
+    "opciones": [
+      "a) Un experto propuesto por la Federación Española de Municipios y Provincias.",
+      "b) Un representante de la Administración General del Estado con experiencia en la materia, propuesto por el Ministro de Justicia.",
+      "c) Dos expertos propuestos por el Consejo de Consumidores y Usuarios.",
+      "d) Dos expertos propuestos por las Organizaciones Empresariales."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "20. Protección de Datos. El mandato de la presidencia de la Agencia española de Protección de Datos será de:",
+    "opciones": [
+      "a) 2 años.",
+      "b) 3 años.",
+      "c) 4 años.",
+      "d) 5 años."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "21. Protección de Datos. En relación con los datos de las personas fallecidas:",
+    "opciones": [
+      "a) Las personas vinculadas al fallecido por razones familiares o, de hecho, así como sus herederos podrán acceder en todo caso a los datos del causante.",
+      "b) En caso de fallecimiento de personas con discapacidad no podrá actuar de oficio el Ministerio Fiscal.",
+      "c) Los herederos siempre tendrán derecho a acceder a los datos de carácter patrimonial del causante.",
+      "d) Las instituciones nunca podrán acceder a los datos personales del fallecido."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "22. Protección de Datos. Transcurrido el plazo de prescripción de posibles responsabilidades derivadas del tratamiento de los datos que hayan sido bloqueados:",
+    "opciones": [
+      "a) Deberá procederse a remitir los datos a la autoridad competente.",
+      "b) Deberá procederse a desbloquear los datos.",
+      "c) Deberá procederse a la destrucción de los datos.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "23. Protección de Datos. La autorización previa de las transferencias internacionales de datos:",
+    "opciones": [
+      "a) Podrá otorgarse cuando la transferencia se funde en disposiciones incorporadas a acuerdos internacionales normativos con otras autoridades u organismos públicos de terceros Estados, que incorporen derechos efectivos y exigibles para los afectados, incluidos los memorandos de entendimiento.",
+      "b) Podrá otorgarse cuando la transferencia se funde en disposiciones incorporadas a acuerdos internacionales no normativos con otras autoridades u organismos públicos de terceros Estados, que incorporen derechos efectivos y exigibles para los afectados, incluidos los memorandos de entendimiento.",
+      "c) Podrá otorgarse cuando la transferencia se funde en disposiciones incorporadas a acuerdos internacionales normativos con otras autoridades u organismos públicos de terceros Estados, que incorporen derechos efectivos y exigibles para los afectados, sin incluir los memorandos de entendimiento.",
+      "d) Podrá otorgarse cuando la transferencia se funde en disposiciones incorporadas a acuerdos internacionales no normativos con otras autoridades u organismos públicos de terceros Estados, que incorporen derechos efectivos y exigibles para los afectados, sin incluir los memorandos de entendimiento."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "24. Protección de Datos. En caso de exigencia de responsabilidad en los términos previstos en el artículo 82 del Reglamento (UE) 2016/679, responderán solidariamente de los daños y perjuicios causados:",
+    "opciones": [
+      "a) Los responsables y encargados.",
+      "b) Los responsables y representantes.",
+      "c) Los encargados y representantes.",
+      "d) Los responsables, encargados y representantes."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "25. Protección de Datos. La Agencia Española de Protección de Datos colaborará en aras del adecuado ejercicio en materia de protección de datos en el ámbito de la Administración de Justicia con:",
+    "opciones": [
+      "a) El Consejo General del Poder Judicial.",
+      "b) El Ministerio de Justicia.",
+      "c) La Secretaría de Estado de Justicia.",
+      "d) La Secretaría General de la Administración de Justicia."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "26. Protección de Datos. ¿Para quiénes serán vinculantes los códigos de conducta?",
+    "opciones": [
+      "a) Para las entidades que sean objeto de auditoría.",
+      "b) Para las entidades con competencia en la materia.",
+      "c) Para quienes se adhieran a ellos.",
+      "d) Para los designados por el Gobierno."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "27. Protección de Datos. La gestión económica-financiera de la Agencia Española de Protección de Datos estará sometida al control de:",
+    "opciones": [
+      "a) El Servicio de Gestión Económica.",
+      "b) La Intervención General de la Administración del Estado.",
+      "c) El Departamento de Gestión Tributaria.",
+      "d) El Instituto de Estudios Fiscales."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "28. Protección de Datos. En caso de que la Agencia Española de Protección de Datos se declare incompetente para conocer de una determinada reclamación:",
+    "opciones": [
+      "a) Inadmitirá la reclamación sin más trámite.",
+      "b) Concederá un plazo de 10 días para realizar alegaciones.",
+      "c) Remitirá, sin más trámite, la reclamación formulada a la autoridad competente.",
+      "d) Requerirá al interesado para que presente la reclamación ante la autoridad competente."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "29. Protección de Datos. Se entenderá otorgado el derecho de acceso:",
+    "opciones": [
+      "a) Si el responsable del tratamiento facilitara al afectado por escrito los datos personales que garantice, de modo permanente, el acceso a su totalidad.",
+      "b) Si el responsable del tratamiento facilitara al afectado un sistema de acceso remoto, directo y seguro a los datos personales que garantice, de modo temporal, el acceso a su totalidad.",
+      "c) Si el responsable del tratamiento facilitara al afectado por escrito o remotamente los datos personales que garantice, de modo temporal, el acceso a su totalidad.",
+      "d) Si el responsable del tratamiento facilitara al afectado un sistema de acceso remoto, directo y seguro a los datos personales que garantice, de modo permanente, el acceso a su totalidad."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "30. Protección de Datos. Admitida la reclamación, el procedimiento, con carácter general, tendrá una duración máxima de:",
+    "opciones": [
+      "a) 5 meses.",
+      "b) 6 meses.",
+      "c) 9 meses.",
+      "d) 12 meses."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "31. Protección de Datos. El interesado tiene derecho a obtener sin dilación indebida del responsable del tratamiento la supresión de los datos personales que le conciernan, el cual estará obligado a suprimir sin dilación indebida los datos personales cuando:",
+    "opciones": [
+      "a) Los datos personales ya no sean necesarios, en relación con los fines para los que se recogieron o trataron de otro modo, y el interesado retire el consentimiento en que se basa el tratamiento de conformidad.",
+      "b) El interesado se oponga al tratamiento y no prevalezcan otros motivos legítimos para el tratamiento; y los datos personales hayan sido tratados ilícitamente.",
+      "c) Los datos personales deban suprimirse para el cumplimiento de una obligación legal establecida en el Derecho de la Unión Europea o de los EE.M. que se aplique al responsable del tratamiento; y los datos personales se hayan obtenido en relación con la oferta de servicios de la sociedad de la información.",
+      "d) Todas las opciones son correctas, según lo establecido en artículo 17 del Reglamento (UE) 2016/679."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "32. Protección de Datos. Las circulares de la Agencia Española de Protección de Datos son:",
+    "opciones": [
+      "a) Resoluciones adoptadas por el Consejo que dejan constancia de actos con trascendencia procesal en la sustanciación del procedimiento.",
+      "b) Disposiciones adoptadas por la Presidencia que fijan los criterios de actuación de esta autoridad en aplicación de lo dispuesto en el Reglamento (UE) 2016/679.",
+      "c) Disposiciones adoptadas por la Presidencia que hacen constar la realización de una notificación, emplazamiento, citación o requerimiento a las partes del procedimiento.",
+      "d) Declaraciones adoptadas por el Registro General de Protección de Datos para reflejar que se ha producido un hecho o un acto en el procedimiento."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "33. Protección de Datos. Admitida la reclamación, los procedimientos iniciados por falta de atención de una solicitud de ejercicio de los derechos del Reglamento (UE) 2016/679, tendrán una duración de:",
+    "opciones": [
+      "a) 2 meses.",
+      "b) 3 meses.",
+      "c) 5 meses.",
+      "d) 6 meses."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "34. Protección de Datos. ¿Quiénes podrán dirigirse al responsable o encargado del tratamiento para solicitar el acceso a los datos personales de la persona fallecida y, en su caso, su rectificación o supresión?",
+    "opciones": [
+      "a) Sus herederos.",
+      "b) Las personas vinculadas al fallecido por razones familiares o, de hecho, así como sus herederos.",
+      "c) Las personas vinculadas al fallecido por razones familiares.",
+      "d) Cualquier persona esté o no vinculada al fallecido por razones familiares."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "35. Protección de Datos. En los supuestos en que el Reglamento (UE) 2016/679 sea aplicable a un responsable o encargado del tratamiento no establecido en la UE en virtud de lo dispuesto en su artículo 3.2 y el tratamiento se refiera a afectados que se hallen en España, la Agencia Española de Protección de Datos o en su caso las autoridades autonómicas de protección de datos podrán:",
+    "opciones": [
+      "a) Imponer al representante, subsidiariamente con el responsable o encargado del tratamiento, las medidas establecidas en el Reglamento (UE) 2014/679.",
+      "b) Imponer al representante, solidariamente con el responsable o encargado del tratamiento, las medidas establecidas en el Reglamento (UE) 2016/679.",
+      "c) Imponer al responsable, mancomunadamente con el representante o encargado del tratamiento, las medidas establecidas en el Reglamento (UE) 2016/679.",
+      "d) Imponer al responsable o encargado del tratamiento, subsidiariamente con el representante, las medidas establecidas en el Reglamento (UE) 2014/679."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "36. Protección de Datos. Sobre el sistema de información de denuncias internas, deberá procederse a la supresión del sistema de denuncias, salvo que la finalidad de la conservación sea dejar evidencia del funcionamiento del modelo de prevención de la comisión de delitos por la persona jurídica:",
+    "opciones": [
+      "a) En todo caso, transcurridos 3 meses desde la introducción de los datos.",
+      "b) En todo caso, transcurridos 6 meses desde la introducción de los datos.",
+      "c) En todo caso, transcurridos 4 meses desde la introducción de los datos.",
+      "d) En todo caso, transcurridos 2 meses desde la introducción de los datos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "37. Protección de Datos. Cuando se presente una reclamación ante la Agencia Española de Protección de Datos por falta de atención en plazo de los derechos establecidos en el Reglamento (UE) 2016/679:",
+    "opciones": [
+      "a) La Agencia Española de Protección de Datos podrá atender el derecho solicitado mediante resolución motivada, sin necesidad de más trámite.",
+      "b) La Agencia Española de Protección de Datos en estos casos podrá acordar la tramitación de urgencia.",
+      "c) La Agencia Española de Protección de Datos podrá acordar la obligación de atender el derecho solicitado, mediante resolución motivada y previa audiencia del responsable.",
+      "d) La Agencia Española de Protección de Datos requerirá al encargado para el trámite de alegaciones."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "38. Protección de Datos. Respecto al ejercicio de los derechos:",
+    "opciones": [
+      "a) El responsable del tratamiento estará obligado a informar al afectado sobre los medios a su disposición para ejercer los derechos que le corresponden, cuyo ejercicio podrá ser denegado si el afectado optase por otro medio.",
+      "b) La prueba del cumplimiento del deber de responder a la solicitud de ejercicio de sus derechos formulado por el afectado recaerá sobre el responsable.",
+      "c) Los titulares de la patria potestad podrán ejercitar en nombre y representación de los menores de dieciséis años los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros que pudieran corresponderles.",
+      "d) El encargado podrá tramitar, por cuenta propia, las solicitudes de ejercicio formuladas por los afectados de sus derechos si así se estableciere en el contrato o acto jurídico que les vincule."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "39. Protección de Datos. ¿A quién corresponde autorizar las modificaciones presupuestarias que impliquen hasta un 3% de la cifra inicial de su presupuesto total de gastos, siempre que no se incrementen los créditos para gastos de personal?:",
+    "opciones": [
+      "a) A la Presidencia de la Agencia Española de Protección de Datos.",
+      "b) Al Gobierno.",
+      "c) Al Ministerio de hacienda.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "40. Protección de Datos. Sobre los sistemas de exclusión publicitaria, será lícito el tratamiento de datos personales que tenga por objeto evitar el envío de comunicaciones comerciales a quieres:",
+    "opciones": [
+      "a) Hubiesen manifestado por vía administrativa su prohibición a recibirlas.",
+      "b) Hubiesen manifestado su negativa u oposición a recibirlas.",
+      "c) Hubiesen manifestado por vía judicial su negativa u oposición a recibirlas.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "41. Protección de Datos. ¿A cuál de los siguientes es supletoriamente aplicable el Reglamento (UE) 2016/679?",
+    "opciones": [
+      "a) Al tratamiento de datos personales.",
+      "b) Al tratamiento derivado de los registros de la propiedad.",
+      "c) Al tratamiento realizado en el ámbito de la sociedad de consumo.",
+      "d) Al tratamiento derivado de la legislación sobre telecomunicaciones."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "42. Protección de Datos. ¿Quién podrá ejercer el derecho de supresión de datos de menores fallecidos?",
+    "opciones": [
+      "a) El Ministerio Fiscal.",
+      "b) Las personas vinculadas al menor fallecido.",
+      "c) Sus representantes legales.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "43. Protección de Datos. ¿Cómo deben ser los datos, si fuere necesario?",
+    "opciones": [
+      "a) Personales.",
+      "b) Actualizados.",
+      "c) Admisibles.",
+      "d) Portables."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "44. Protección de Datos. ¿De qué deberes será complementaria la obligación del deber de confidencialidad?",
+    "opciones": [
+      "a) De los deberes fundamentales.",
+      "b) De los deberes de buena fe y confianza.",
+      "c) De los deberes del secreto profesional.",
+      "d) De los deberes y derechos fundamentales."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "45. Protección de Datos. ¿Cuándo será lícito el tratamiento de los datos de menores de 14 años, fundado en el consentimiento?",
+    "opciones": [
+      "a) Cuando los datos a tratar sean meramente informativos.",
+      "b) Cuando conste el del titular de la patria potestad o tutela, con el alcance que éstos determinen.",
+      "c) Cuando se extienda por diligencia firmada por el menor, progenitores y representantes del Ministerio Fiscal.",
+      "d) Cuando se trate de datos parcialmente informatizados y autorizados por el responsable del registro."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "46. Protección de Datos. ¿Cuándo podrá llevarse a cabo el tratamiento de datos personales relativos a medidas de seguridad conexas para fines distintos de los de detención?",
+    "opciones": [
+      "a) Cuando se encuentren amparados por una norma de Derecho de la Unión Europea.",
+      "b) Cuando las medidas de seguridad se hubieran aplicado a un mayor de edad y éste lo autorice.",
+      "c) Cuando sean medidas exclusivamente conexas.",
+      "d) Cuando no sea posible el tratamiento por otro medio lesivo."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "47. Protección de Datos. ¿Qué debe contener la información básica, si los datos fueran a ser tratados para la elaboración de perfiles?",
+    "opciones": [
+      "a) Deberán contener dicha circunstancia.",
+      "b) El perfil al cual se dirigen.",
+      "c) Los usuarios que tendrán acceso al perfil.",
+      "d) Las fuentes a las que se dirigen los datos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "48. Protección de Datos. Salvo que exista una causa legítima, ¿cuándo se podrá considerar repetitivo el derecho de acceso a los datos?",
+    "opciones": [
+      "a) Cuando se acceda en más de una ocasión durante el plazo de 2 meses.",
+      "b) Cuando se acceda en más de una ocasión durante el plazo de 3 meses.",
+      "c) Cuando se acceda en más de una ocasión durante el plazo de 6 meses.",
+      "d) Cuando se acceda en más de una ocasión durante el plazo de 1 año."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "49. Protección de Datos. ¿De quién tiene el derecho de obtener la supresión de los datos el interesado?",
+    "opciones": [
+      "a) Del Registro Civil.",
+      "b) Del Juez competente.",
+      "c) Del responsable del tratamiento.",
+      "d) De la Agencia Española de Protección de Datos."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "50. Protección de Datos. ¿Cuál de los siguientes es uno de los requisitos que debe cumplirse para que se presuma lícito, salvo prueba en contrario, el tratamiento de los datos de contacto de una persona física que preste servicios en una persona jurídica?",
+    "opciones": [
+      "a) Que el tratamiento se refiera solo a los datos necesarios para su localización profesional.",
+      "b) Que los datos personales a tratar no versen sobre su domicilio físico.",
+      "c) Que la finalidad del tratamiento se mantenga inalterable, al menos, durante cinco años.",
+      "d) Que se haya firmado previamente el documento de acuerdo mutuo, suscrito por la Agencia Española de Protección de Datos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "51. Protección de Datos. ¿Cuál de los siguientes es uno de los requisitos que debe cumplirse para que se presuma lícito, salvo prueba en contrario, el tratamiento de los datos relativos al incumplimiento de obligaciones de crédito pos sistemas comunes de información crediticia?",
+    "opciones": [
+      "a) Que los datos únicamente se mantengan en el sistema mientras persista el incumplimiento, con el límite de seis años desde el vencimiento de la obligación de crédito.",
+      "b) Que, en el caso de que se aceptase la solicitud de la celebración del contrato, como consecuencia de la consulta efectuada, quien haya consultado al sistema informe al afectado del resultado de dicha consulta.",
+      "c) Que el acreedor haya informado al afectado en el contrato acerca de la posibilidad de inclusión en dichos sistemas, con indicación de aquellos en los que participe.",
+      "d) Que los datos se refieran a deudas ciertas, vencidas y exigibles, cuya cuantía hubiese sido objeto de reclamación administrativa por el deudor."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "52. Protección de Datos. ¿Cuándo será posible la captación de imágenes en la vía pública?",
+    "opciones": [
+      "a) Cuando resulte imprescindible.",
+      "b) Cuando se estén desarrollando manifestaciones.",
+      "c) En ningún caso.",
+      "d) En los casos de alteración pública."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "53. Protección de Datos. ¿Cuándo será posible el tratamiento de los datos relativos a infracciones llevado a cabo por procuradores?",
+    "opciones": [
+      "a) Cuando tenga por objeto recoger información facilitada por sus clientes para el ejercicio de sus funciones.",
+      "b) En ningún caso.",
+      "c) Cuando sea asistido por abogado.",
+      "d) Cuando se traten de infracciones graves o muy graves."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "54. Protección de Datos. ¿Quiénes determinan las medidas técnicas apropiadas que se deben aplicar a fin de garantizar que el tratamiento es conforme al Reglamento (UE) 2016/679?",
+    "opciones": [
+      "a) Las autoridades nacionales con competencia en la materia.",
+      "b) Los agentes españoles de protección de datos.",
+      "c) Los encargados y responsables del tratamiento.",
+      "d) Las autoridades de la Unión con competencia en esta materia."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "55. Protección de Datos. ¿En qué caso podrá la AEPD fijar excepciones a la obligación del bloqueo de datos?",
+    "opciones": [
+      "a) Cuando los fines por los que los datos se bloquearon se hayan cumplido.",
+      "b) Cuando no haya otro medio para desbloquearlos.",
+      "c) Cuando se solicite por los encargados o responsables del tratamiento.",
+      "d) Cuando puedan suponer un coste desproporcionado para el responsable del tratamiento."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "56. Protección de Datos. ¿Cuándo podrá ser sancionado por desempeñar sus funciones el delegado de protección de datos, por el encargado del tratamiento, si aquel es una persona física integrada en su organización?",
+    "opciones": [
+      "a) Cuando cometa imprudencia.",
+      "b) Cuando cometa error de hecho.",
+      "c) En ningún caso.",
+      "d) Cuando incurra en negligencia grave."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "57. Protección de Datos. ¿A quién deben informar los responsables del tratamiento de datos, de cualquier transferencia internacional de datos que pretendan llevar a cabo sobre la base de su necesidad para fines relacionados con intereses legítimos imperiosos perseguidos por aquellos?",
+    "opciones": [
+      "a) A las autoridades de protección de datos de la Unión.",
+      "b) A las autoridades autonómicas de protección de datos.",
+      "c) A los responsables del tratamiento.",
+      "d) A los encargados del tratamiento."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "58. Protección de Datos. ¿Al dictamen de quién se someterán las cláusulas contractuales tipo adoptadas por la AEPD para la realización de transferencias internacionales de datos?",
+    "opciones": [
+      "a) Del Comité Europeo de Protección de Datos.",
+      "b) De las autoridades autonómicas de protección de datos.",
+      "c) Del Ministerio de Asuntos Exteriores.",
+      "d) Del pleno de la propia Agencia."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "59. Protección de Datos. ¿Mediante qué norma se aprobará el estatuto de la AEPD?",
+    "opciones": [
+      "a) Mediante Reglamento de los órganos de la Unión.",
+      "b) Mediante Orden Ministerial.",
+      "c) Mediante Real Decreto.",
+      "d) Mediante Ley."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "60. Protección de Datos. ¿Por qué periodo puede ser renovado el mandato de los adjuntos a la Presidencia de la AEPD?",
+    "opciones": [
+      "a) Por tres años.",
+      "b) Por cuatro años.",
+      "c) Por seis años.",
+      "d) Por un periodo igual al de la duración de su mandato."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "61. Protección de Datos. ¿Por qué mayoría debe ser ratificada, en segunda votación, la separación de la Presidencia de la AEPD, adoptada por el Consejo de Ministros por incompatibilidad?",
+    "opciones": [
+      "a) Mayoría simple.",
+      "b) Mayoría de 2/3.",
+      "c) Mayoría de 3/5.",
+      "d) Mayoría absoluta."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "62. Protección de Datos. ¿Cuál de los siguientes propone un experto de los que compone el Consejo Consultivo que asesora a a la Presidencia de la AEPD?",
+    "opciones": [
+      "a) El Senado.",
+      "b) La Federación Española de Municipios y Provincias.",
+      "c) El Consejo General del Poder Judicial.",
+      "d) Las organizaciones sindicales más representativas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "63. Protección de Datos. ¿Por orden de quién son nombrados los miembros del Consejo Consultivo citado en la pregunta anterior?",
+    "opciones": [
+      "a) Del Ministro del Interior.",
+      "b) De la AEPD.",
+      "c) Del Ministro de Justicia.",
+      "d) Del Secretario de Estado de Seguridad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "64. Protección de Datos. ¿Qué datos podrá recabar la AEPD si la conducta investigada se ha realizado mediante la utilización de un servicio de telefonía fija?",
+    "opciones": [
+      "a) La fecha en que se produjo la llamada.",
+      "b) La confirmación de haberse realizado la llamada entre dos números en fecha y hora determinada.",
+      "c) La dirección del protocolo de internet.",
+      "d) La IP de la llamada y la transcripción de la conversación."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "65. Protección de Datos. Directrices dictadas por la Presidencia de la AEPD. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Se dictarán a resultas de las directivas de la AEPD.",
+      "b) Pueden ser específicas.",
+      "c) Son de obligado cumplimiento.",
+      "d) La Presidencia podrá solicitar la colaboración de los organismos de supervisión de los códigos y de resolución extrajudicial de conflictos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "66. Protección de Datos. ¿Cómo se denominan las disposiciones que dicta la Presidencia de la AEPD y que fijan los criterios a que responderá la AEPD en la aplicación de lo dispuesto en el Reglamento (UE) 2016/679?",
+    "opciones": [
+      "a) Planes de auditoría.",
+      "b) Circulares de la AEPD.",
+      "c) Directrices.",
+      "d) Resoluciones."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "67. Protección de Datos. ¿A quién corresponde el ejercicio de las funciones relacionadas con la acción exterior del Estado en materia de protección de datos?",
+    "opciones": [
+      "a) Al Comité Europeo de Protección de Datos.",
+      "b) Al Fondo de Compensación Extraterritorial.",
+      "c) Al Ministerio de Asuntos Exteriores.",
+      "d) A la AEPD."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "68. Protección de Datos. ¿Qué asegurará el Gobierno en la regulación de los procedimientos que tramite la AEPD?",
+    "opciones": [
+      "a) El respeto de la cláusula de conciencia.",
+      "b) Especialmente, los derechos de los menores.",
+      "c) El cumplimiento de los plazos estipulados.",
+      "d) Los derechos de defensa y audiencia de los interesados."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "69. Protección de Datos. ¿En qué caso inadmitirá la AEPD las reclamaciones que se le presenten?",
+    "opciones": [
+      "a) Cuando versen sobre cuestiones de protección de datos personales.",
+      "b) Cuando sean improcedentes.",
+      "c) Cuando no contengan los elementos esenciales de una reclamación.",
+      "d) Cuando sean abusivas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "70. Protección de Datos. ¿Qué duración máxima tendrán los procedimientos tramitados por la AEPD sobre una reclamación?",
+    "opciones": [
+      "a) 3 meses.",
+      "b) 12 meses.",
+      "c) 6 meses.",
+      "d) 9 meses."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "71. Protección de Datos. ¿A qué datos no se aplica la ley de protección de datos personales?",
+    "opciones": [
+      "a) A los datos de personas fallecidas.",
+      "b) A los datos de menores.",
+      "c) A los datos personales.",
+      "d) A los datos de incapacitados."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "72. Protección de Datos. Acceso a los datos personales de una persona fallecida. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Si el fallecido lo ha prohibido expresamente y una ley así lo establece, los herederos no podrán acceder a los datos patrimoniales del causante.",
+      "b) Podrán acceder a ellos las personas vinculadas al fallecido por razones familiares.",
+      "c) Podrán acceder a ellos las personas vinculadas al fallecido por razones de hecho.",
+      "d) Podrán acceder las instituciones designadas expresamente por el fallecido."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "73. Protección de Datos. ¿En qué casos será imputable el responsable del tratamiento de los datos, si ha adoptado todas las medidas razonables para suprimirlos o rectificarlos sin dilación?",
+    "opciones": [
+      "a) Cuando han sido sometidos a tratamiento por el responsable de haberlos recibido de otro responsable en virtud del ejercicio por el afectado del derecho de portabilidad.",
+      "b) Cuando han sido obtenidos de un registro público por el responsable.",
+      "c) Cuando han sido obtenidos por el responsable de un mediador o intermediario si las normas aplicables al sector de actividad al que pertenezca el responsable del tratamiento establecen la posibilidad de intervención de un intermediario o mediador que recoja en nombre propio los datos de los afectados para u transmisión al responsable.",
+      "d) Cuando hayan sido obtenidos por el afectado directamente del responsable."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "74. Protección de Datos. ¿A qué deber están sujetas las personas que intervengan en cualquier fase del tratamiento de datos?",
+    "opciones": [
+      "a) Al deber de propiedad.",
+      "b) Al deber de confidencialidad.",
+      "c) Al deber de violabilidad.",
+      "d) Al deber de honestidad."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "75. Protección de Datos. ¿Cuándo será lícito el tratamiento de datos de menores de 14 años?",
+    "opciones": [
+      "a) En cualquier caso.",
+      "b) Cuando el tratamiento sea público y conste el consentimiento del menor.",
+      "c) Cuando conste el del titular de la tutela, con el alcance que éstos determinen.",
+      "d) Cuando los datos sean de uso cotidiano, no estén sujetos a curatela y conste el consentimiento del menor."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "76. Protección de Datos. ¿Cuál de los siguientes datos no está contenido dentro de la información básica, cuando los datos han sido obtenidos del afectado?",
+    "opciones": [
+      "a) La finalidad del tratamiento.",
+      "b) La identidad del responsable del tratamiento.",
+      "c) Las categorías de datos objeto del tratamiento.",
+      "d) La identidad del representante del responsable del tratamiento."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "77. Protección de Datos. ¿Qué datos personales está obligado a suprimir el encargado del tratamiento?",
+    "opciones": [
+      "a) Los obtenidos en toma de datos para elecciones municipales.",
+      "b) Los que el interesado se oponga a su tratamiento.",
+      "c) Los que hayan sido tratados lícitamente.",
+      "d) Los que el interesado haya cedido por tiempo limitado y dicho plazo haya finalizado."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "78. Protección de Datos. Derecho de portabilidad. Se tiene derecho a recibir los datos en un formato estructurado, de uso común y lectura mecánica y a transmitirlos a otro responsable. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Cuando el tratamiento esté basado en un reglamento.",
+      "b) Cuando se efectúe por medios mecanizados.",
+      "c) Cuando el tratamiento esté basado en un contrato.",
+      "d) Cuando el tratamiento esté basado en el consentimiento."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "79. Protección de Datos. ¿En qué plazo deben ser puestas a disposición de la autoridad competente las imágenes obtenidas y conservadas para acreditar actos que atenten contra la integridad de las personas?",
+    "opciones": [
+      "a) En un plazo máximo de 12 horas.",
+      "b) En un plazo máximo de 24 horas.",
+      "c) En un plazo máximo de 48 horas.",
+      "d) En un plazo máximo de 72 horas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "80. Protección de Datos. ¿Cuándo podrán denegar los organismos competentes para ejercer la función estadística pública las solicitudes de los afectados para ejercer sus derechos sobre el tratamiento de datos personales?",
+    "opciones": [
+      "a) Cuando el interés general así lo prescriba.",
+      "b) Cuando los datos personales obtenidos para el ejercicio de la función pública estadística sean de valor general.",
+      "c) Cuando los datos se encuentren amparados por las garantías del secreto estadístico previstas en la legislación autonómica.",
+      "d) Cuando una norma del Derecho Europeo así lo prevea."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "81. Protección de Datos. Exigencias del tratamiento de datos relativos a infracciones y sanciones administrativas. Señala la INCORRECTA:",
+    "opciones": [
+      "a) El tratamiento debe limitarse a los datos estrictamente necesarios para la finalidad perseguida.",
+      "b) Los responsables de dichos tratamientos deben ser los órganos competentes para instruir el procedimiento sancionador.",
+      "c) Los responsables de dichos tratamientos deben ser los órganos competentes para imponer las sanciones.",
+      "d) Los responsables de dichos tratamientos deben ser los órganos competentes para declarar las sanciones."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "82. Protección de Datos. ¿Cuándo está obligado a bloquear los datos el responsable del tratamiento?",
+    "opciones": [
+      "a) Cuando una norma de rango europeo así lo prevea.",
+      "b) Cuando preceda a su rectificación.",
+      "c) Cuando preceda a su supresión.",
+      "d) b) y c) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "83. Protección de Datos. Responsable del tratamiento de datos:",
+    "opciones": [
+      "a) Determinará si los datos personales deben ser destruidos.",
+      "b) Será responsable quien, figurando como encargado, utilice los datos para sus propias finalidades.",
+      "c) Deberá conservar los datos mientras persista una obligación por previsión legal de conservarlos.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "84. Protección de Datos. ¿En qué plazo comunicarán los responsables y encargados del tratamiento de datos el cese de un delegado de protección de datos a la Agencia Española de Protección de Datos?",
+    "opciones": [
+      "a) En el plazo de 5 días.",
+      "b) En el plazo de 10 días.",
+      "c) En el plazo de 15 días.",
+      "d) En el plazo de 20 días."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "85. Protección de Datos. ¿Quién actúa como interlocutor del responsable del tratamiento de datos antes la Agencia Española de Protección de Datos?",
+    "opciones": [
+      "a) El delegado de protección de datos.",
+      "b) El director de protección de datos.",
+      "c) El subdelegado de protección de datos.",
+      "d) El encargado de protección de datos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "86. Protección de Datos. ¿Para quiénes son vinculantes los códigos de conducta?",
+    "opciones": [
+      "a) Para todos los españoles en pleno uso de sus derechos civiles.",
+      "b) Para quienes se adhieran a los mismos.",
+      "c) Para los mayores de 18 años.",
+      "d) Para los mayores de 18 años y para los que hayan obtenido el beneficio de la mayor edad."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "87. Protección de Datos. ¿Quién aprueba los códigos de conducta?",
+    "opciones": [
+      "a) Los encargados y responsables del tratamiento de datos.",
+      "b) El Comité Europeo de Protección de Datos.",
+      "c) La Agencia Española de Protección de Datos.",
+      "d) El Gobierno."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "88. Protección de Datos. ¿Con qué registro estarán coordinados los registros de códigos de conducta aprobados por la Agencia Española de Protección de Datos y las autoridades autonómicas de protección de datos?",
+    "opciones": [
+      "a) Con el registro gestionado por las autoridades nacionales de protección de datos.",
+      "b) Con el registro de datos personales de las agencias policiales europeas.",
+      "c) Con el registro de la Agencia de las Naciones Unidas para la Protección de Datos.",
+      "d) Con el registro gestionado por el Comité Europeo de Protección de Datos."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "89. Protección de Datos. ¿Qué órgano podrá llevar a cabo la acreditación de las instituciones de certificación?",
+    "opciones": [
+      "a) La Agencia Española de Protección de Datos.",
+      "b) La Entidad Nacional de Acreditación (ENAC).",
+      "c) El Ministerio del Interior.",
+      "d) El Comité Europeo de Protección de Datos."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "90. Protección de Datos. ¿A través de qué ministerio se relaciona la Agencia Española de Protección de Datos con el Gobierno?",
+    "opciones": [
+      "a) Del Ministerio de Transparencia y Gobernabilidad.",
+      "b) El Ministerio del Interior.",
+      "c) Del Ministerio de Justicia.",
+      "d) Del Ministerio de Administraciones Públicas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "91. Protección de Datos. ¿Cómo será el personal al servicio de la Agencia Española de Protección de datos?",
+    "opciones": [
+      "a) Laboral.",
+      "b) Funcionario.",
+      "c) a) o b).",
+      "d) Autónomo."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "92. Protección de Datos. ¿Quién nombra a la Presidencia de la Agencia Española de Protección de Datos?",
+    "opciones": [
+      "a) El Gobierno.",
+      "b) El Rey.",
+      "c) Con Consejo de Estado.",
+      "d) El Consejo General del Poder Judicial."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "93. Protección de Datos. ¿Cuándo se reúne el Consejo Consultivo que asesora a la Agencia Española de Protección de Datos?",
+    "opciones": [
+      "a) Cuando los disponga el Ministro de Justicia.",
+      "b) Una vez al semestre.",
+      "c) a) y b) son correctas.",
+      "d) Una vez al mes, al menos."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "94. Protección de Datos. ¿Qué consideración tienen los funcionarios de la Agencia Española de Protección de Datos que desarrollen actividades de investigación?",
+    "opciones": [
+      "a) Agentes de la autoridad.",
+      "b) Funcionarios comisionados.",
+      "c) Investigadores.",
+      "d) Autoridad."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "95. Protección de Datos. ¿Con qué periodicidad se celebran las reuniones de cooperación entre la Agencia Española de Protección de Datos y las autoridades autonómicas de protección de datos?",
+    "opciones": [
+      "a) Mensual.",
+      "b) Trimestral.",
+      "c) Semestral.",
+      "d) Anual."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "96. Protección de Datos. ¿Cómo se inicia un procedimiento cuando tiene por objeto la determinación de la posible existencia de una infracción?",
+    "opciones": [
+      "a) Mediante acuerdo de admisión a trámite.",
+      "b) Mediante revisión del procedimiento.",
+      "c) Mediante reclamación.",
+      "d) Mediante acuerdo de inicio."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "97. Protección de Datos. ¿A qué podrá proceder la Agencia Española de Protección de Datos si no se cumplen sus mandatos para bloquear o cesar el tratamiento de datos personales, cuando la continuación de éste comporte un menoscabo del derecho a la protección de datos personales?",
+    "opciones": [
+      "a) Al cese del encargado o responsables que han incumplido el mandato.",
+      "b) Al cese forzoso del tratamiento de los datos.",
+      "c) A la inmovilización de los datos.",
+      "d) A la eliminación de los datos del sistema donde se estén tratando."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "98. Protección de Datos. ¿En qué plazo debe notificarse al reclamante la decisión sobre la admisión o inadmisión de una reclamación?",
+    "opciones": [
+      "a) En al plazo de 1 mes.",
+      "b) En el plazo de 3 meses.",
+      "c) En el plazo de 6 meses.",
+      "d) En el plazo de 1 año."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "99. Protección de Datos. En caso de reclamación, las actuaciones previas de investigación podrán tener una duración no superior a _____ a contar desde la fecha del acuerdo de admisión a trámite de la reclamación?",
+    "opciones": [
+      "a) 12 meses.",
+      "b) 15 meses.",
+      "c) 3 meses.",
+      "d) 6 meses."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "100. Protección de Datos. ¿En qué artículo de la Constitución Española se protege el derecho fundamental a la protección de las personas físicas en relación con el tratamiento de datos personales?",
+    "opciones": [
+      "a) 14.2.",
+      "b) 18.4.",
+      "c) 116.2.",
+      "d) 99.3"
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "101. Protección de Datos. AEPD. La Agencia Española de Protección de Datos es una autoridad administrativa independiente de ámbito Estatal con...",
+    "opciones": [
+      "a) Personalidad única y plena capacidad pública y privada.",
+      "b) Personalidad jurídica y plena capacidad pública y privada.",
+      "c) Personalidad jurídica y plena capacidad pública.",
+      "d) Personalidad única y plena capacidad privada."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "102. Protección de Datos. AEPD. ¿Cuál será la denominación oficial de la AEPD?",
+    "opciones": [
+      "a) Agencia Española de Protección de Datos, Autoridad Administrativa Estatal.",
+      "b) Agencia Española de Protección de Datos, Autoridad Administrativa Independiente.",
+      "c) Agencia Española de Protección de Datos, Órgano Autónomo Independiente.",
+      "d) Agencia Española de Protección de Datos, Órgano Administrativo Estatal."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "103. Protección de Datos. AEPD. ¿A través de qué organismo se relaciona la AEPD con el Gobierno?",
+    "opciones": [
+      "a) A través del Ministerio del Interior.",
+      "b) A través de los órganos propios de las CCAA en materia de Protección de Datos.",
+      "c) A través del Ministerio de Justicia.",
+      "d) A través del Ministerio de Comunicaciones."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "104. Protección de Datos. AEPD. ¿Quién aprobará el estatuto propio de la AEPD, y a propuesta de quién?",
+    "opciones": [
+      "a) El Ministerio del Interior aprobará su estatuto mediante Real Decreto, a propuesta del Gobierno.",
+      "b) El Gobierno aprobará su estatuto mediante Real Decreto, a propuesta del Ministerio del Interior.",
+      "c) El Ministerio de Justicia aprobará su estatuto mediante Real Decreto, a propuesta de la AEPD.",
+      "d) El Gobierno aprobará su estatuto mediante Real Decreto, a propuesta de la AEPD."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "105. Protección de Datos. AEPD. ¿Quién elaborará y aprobará el presupuesto de la AEPD?",
+    "opciones": [
+      "a) El Gobierno elaborará y aprobará su presupuesto y lo remitirá a las Cortes Generales para que sea integrado, con independencia, en los Presupuestos Generales del Estado.",
+      "b) La AEPD elaborará y aprobará su presupuesto y lo remitirá a las Cortes Generales para que sea integrado, con independencia, en los Presupuestos Generales del Estado.",
+      "c) El Gobierno elaborará y aprobará su presupuesto y lo remitirá al Congreso para que sea integrado, con independencia, en los Presupuestos Generales del Estado.",
+      "d) La AEPD elaborará y aprobará su presupuesto y lo remitirá al Gobierno para que sea integrado, con independencia, en los Presupuestos Generales del Estado."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "106. Protección de Datos. AEPD. ¿A quién corresponde autorizar las modificaciones presupuestarias que impliquen hasta un 3% de la cifra inicial de su presupuesto total de gastos?",
+    "opciones": [
+      "a) A la Presidencia de la AEPD.",
+      "b) Al Ministerio de Hacienda.",
+      "c) Al Ministerio de Justicia.",
+      "d) Al Gobierno."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "107. Protección de Datos. AEPD. ¿Qué constará, en todo caso, en la relación de puestos de trabajo elaborada y aprobada por la AEPD?",
+    "opciones": [
+      "a) Aquellos puestos que deban ser desempeñados en exclusiva por funcionarios públicos.",
+      "b) Las cualificaciones del personal al servicio de la entidad.",
+      "c) Las funciones y puestos de trabajo que revistan especial interés en el ámbito de la investigación.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "108. Protección de Datos. AEPD. Sobre la Presidencia de la AEPD, señala la INCORRECTA:",
+    "opciones": [
+      "a) La Presidencia de la AEPD dirige la AEPD, ostenta su representación y dicta sus resoluciones, circulares y directrices.",
+      "b) La Presidencia de la AEPD estará auxiliada por 1 adjunto en el que podrá delegar sus funciones, a excepción de las relacionadas con los procedimientos regulados por el Título VIII de esta ley orgánica.",
+      "c) La Presidencia de la AEPD y su adjunto serán nombrados por el Gobierno a propuesta del Ministerio de Justicia entre personas de Reconocida competencia profesional en particular en materia de protección de datos.",
+      "d) El mandato de la Presidencia de la AEPD y su adjunto tiene una duración de 5 años, no renovable."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "109. Protección de Datos. AEPD. La Presidencia de la AEPD estará asesorada por un Consejo Consultivo compuesto por los siguientes miembros. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Un diputado, propuesto por el Congreso de los Diputados.",
+      "b) Un representante de la Administración General del Estado con experiencia en la materia, propuesto por el Ministro de Justicia.",
+      "c) Un experto propuesto por las Organizaciones Sindicales más representativas.",
+      "d) Un representante de los profesionales de la protección de datos y de la privacidad, propuesto por la asociación de ámbito estatal con mayor número de asociados."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "110. Protección de Datos. AEPD. Consejo Consultivo. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Los miembros del Consejo Consultivo serán nombrados por Orden del Ministro de Justicia publicada en el Boletín Oficial del Estado.",
+      "b) El Consejo Consultivo se reunirá una vez al semestre o cuando así lo disponga la Presidencia de la AEPD.",
+      "c) Las decisiones tomadas por el Consejo Consultivo tendrán en todo caso carácter vinculante.",
+      "d) El régimen, competencias y funcionamiento del Consejo Consultivo serán los establecidos en el Estatuto Orgánico de la AEPD."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "111. Protección de Datos. Para la adopción de las medidas técnicas y organizativas apropiadas que deben aplicar los responsables y encargados del tratamiento tendrán en cuenta, en particular, los mayores riesgos que podrían producirse en los siguientes supuestos... Señala la INCORRECTA:",
+    "opciones": [
+      "a) Cuando el tratamiento pudiera generar cualquier perjuicio.",
+      "b) Cuando el tratamiento pudiese privar a los responsables y encargados del tratamiento de sus derechos y libertades o pudiera impedirles el control sobre sus datos personales.",
+      "c) Cuando se produjese el tratamiento no meramente incidental o accesorio de las categorías especiales de datos de infracciones administrativas.",
+      "d) Cuando se produzca un tratamiento masivo que implique a un gran número de afectados o conlleve la recogida de una gran cantidad de datos personales."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "112. Protección de Datos. ¿Cómo se determinará la determinación de las responsabilidades?",
+    "opciones": [
+      "a) Responderán de manera escalonada, subsidiaria y excluyente.",
+      "b) El responsable del tratamiento será quien asuma la responsabilidad exclusiva del mismo.",
+      "c) Según venga establecido en las normas reguladoras del contrato que se establezca.",
+      "d) Atendiendo a las actividades que efectivamente desarrolle cada uno de los corresponsables del tratamiento."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "113. Protección de Datos. Cuando el Reglamento 2016/679 sea aplicable a un responsable o encargado del tratamiento no establecido en la Unión Europea y el tratamiento se refiera a afectados que se hallen en España, ¿quién podrá imponer al representante, solidariamente con el responsable o encargado del tratamiento las medidas establecidas en el Reglamento 2016/679?",
+    "opciones": [
+      "a) La AEPD.",
+      "b) En su caso, las autoridades autonómicas de protección de datos.",
+      "c) a) y b) con correctas.",
+      "d) a) y b) con incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "114. Protección de Datos. AEPD. En caso de exigencia de responsabilidad, ¿quiénes responderán solidariamente de los daños y perjuicios causados?",
+    "opciones": [
+      "a) Los responsables y los encargados.",
+      "b) Los responsables, los encargados, y los representantes.",
+      "c) Los encargados y los representantes.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "115. Protección de Datos. AEPD. ¿Qué deberá especificar, según sus finalidades, el registro de actividades de tratamiento que deberán mantener los responsables y encargados del tratamiento o, sus representantes?",
+    "opciones": [
+      "a) Las actividades de tratamiento llevadas a cabo y demás circunstancias establecidas en el reglamento.",
+      "b) Específicamente los datos personales del interesado.",
+      "c) El medio de contacto más adecuado a través del cual se pueden establecer las comunicaciones con los propios interesados.",
+      "d) Las especificidades propias indicadas en el propio tratamiento."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "116. Protección de Datos. AEPD. ¿En qué casos estará obligado el responsable del tratamiento a bloquear los datos?",
+    "opciones": [
+      "a) Cuando proceda a su rectificación o supresión.",
+      "b) Cuando así se determina en la norma reguladora del procedimiento.",
+      "c) Cuando sea solicitado expresamente por el interesado.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "117. Protección de Datos. AEPD. ¿En qué consiste el bloqueo de datos?",
+    "opciones": [
+      "a) En la identificación y reserva de los mismos adoptando medidas técnicas y organizativas para impedir su tratamiento, incluyendo su visualización, con algunas excepciones.",
+      "b) En la identificación y reserva de los mismos adoptando medidas técnicas y organizativas para impedir su tratamiento, excluyendo su visualización, con algunas excepciones.",
+      "c) En la identificación y reserva de los mismos adoptando medidas técnicas y organizativas para favorecer su tratamiento, incluyendo su visualización, con algunas excepciones.",
+      "d) En la identificación y reserva de los mismos adoptando medidas técnicas y organizativas para favorecer su tratamiento, excluyendo su visualización, con algunas excepciones."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "118. Protección de Datos. ¿A qué se procederá cuando la configuración del sistema de información no permita el bloqueo de datos o se requiera una adaptación que implique un esfuerzo desproporcionado?",
+    "opciones": [
+      "a) A contactar directamente con el afectado, a fin de garantizar un uso adecuado de los mismos.",
+      "b) A tomar las medidas oportunas para conseguir el objetivo previsto.",
+      "c) A su rectificación o supresión.",
+      "d) A un copiado seguro de la información."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "119. Protección de Datos. ¿Se considerará comunicación de datos el acceso por parte de un encargado de tratamiento a los datos personales que resulten necesarios para la prestación de un servicio al responsable?",
+    "opciones": [
+      "a) Sí, en cualquier caso.",
+      "b) No.",
+      "c) Sí, pero existen ciertas excepciones.",
+      "d) Depende del nivel de confidencialidad establecido en el contrato."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "120. Protección de Datos. ¿Quién tendrá la consideración de responsable del tratamiento?",
+    "opciones": [
+      "a) Quien en su propio nombre y sin que conste que actúa por cuenta de otro, establezca relaciones con los afectados, aun cuando exista un contrato o acto jurídico.",
+      "b) Quien figurando como encargado utilizase los datos para sus propias finalidades.",
+      "c) a) y b) con correctas.",
+      "d) a) y b) con incorrectas."
+    ],
+    "respuesta": "c"
+  }
+]
