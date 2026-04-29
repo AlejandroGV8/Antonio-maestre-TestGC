@@ -281,7 +281,7 @@ export const prlReferencias = {
   },
   71: {
     referenciaTema: "Tema 3 · 3.6 Delegados de Prevención",
-    extractoTema: "Según la escala del Real Decreto 67/2010, para empresas de 101 a 500 trabajadores se designan 3 Delegados de Prevención."
+    extractoTema: "En la escala de Delegados de Prevención por numero de trabajadores (RD 67/2010), para empresas de 101 a 500 trabajadores corresponden 3 delegados; y para el tramo de 301 a 400 trabajadores corresponden 7 delegados."
   },
   72: {
     referenciaTema: "Tema 3 · 3.6 Comité Intercentros",
