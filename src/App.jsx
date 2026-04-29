@@ -153,7 +153,18 @@ function App() {
 
           if (Array.isArray(savedThemes)) {
             const savedById = new Map(savedThemes.map((theme) => [theme.id, theme]));
-            const mergedThemes = defaultThemes.map((theme) => savedById.get(theme.id) ?? theme);
+            const mergedThemes = defaultThemes.map((theme) => {
+              const savedTheme = savedById.get(theme.id);
+              if (!savedTheme) return theme;
+
+              // Mantiene metadatos guardados (si existen), pero siempre usa
+              // el banco de preguntas actual del codigo para evitar desfaces.
+              return {
+                ...savedTheme,
+                ...theme,
+                preguntas: theme.preguntas
+              };
+            });
             const extraSavedThemes = savedThemes.filter(
               (theme) => !defaultThemes.some((defaultTheme) => defaultTheme.id === theme.id)
             );
