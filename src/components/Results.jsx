@@ -225,6 +225,19 @@ const Results = ({ preguntas, respuestas, onNewTest, canDownloadAnswers = false 
                               </span>
                             </div>
                           )}
+                          {pregunta.referenciaTema || pregunta.extractoTema ? (
+                            <div className="mt-3 rounded-lg border border-emerald-200 bg-emerald-50 p-3 text-slate-700">
+                              <p className="font-semibold text-emerald-800">Referencia del tema</p>
+                              {pregunta.referenciaTema ? (
+                                <p className="mt-1 text-xs font-semibold uppercase tracking-wide text-emerald-700">
+                                  {pregunta.referenciaTema}
+                                </p>
+                              ) : null}
+                              {pregunta.extractoTema ? (
+                                <p className="mt-2 whitespace-pre-line leading-relaxed">{pregunta.extractoTema}</p>
+                              ) : null}
+                            </div>
+                          ) : null}
                         </>
                       ) : (
                         <p className="text-gray-500 italic flex items-center gap-2">

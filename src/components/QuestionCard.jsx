@@ -1,4 +1,15 @@
-const QuestionCard = ({ pregunta, opciones, selectedAnswer, onSelect, correctAnswer, feedbackMode }) => {
+const QuestionCard = ({
+  pregunta,
+  opciones,
+  selectedAnswer,
+  onSelect,
+  correctAnswer,
+  feedbackMode,
+  referenciaTema,
+  extractoTema
+}) => {
+  const showFeedback = feedbackMode && selectedAnswer;
+
   return (
     <div className="bg-white/95 backdrop-blur-sm rounded-2xl shadow-xl overflow-hidden">
       {/* Header de la pregunta */}
@@ -21,7 +32,6 @@ const QuestionCard = ({ pregunta, opciones, selectedAnswer, onSelect, correctAns
           const letra = opcion.charAt(0);
           const isSelected = selectedAnswer === letra;
           const isCorrect = letra === correctAnswer;
-          const showFeedback = feedbackMode && selectedAnswer;
           const isLocked = feedbackMode !== undefined && feedbackMode !== null;
           
           return (
@@ -90,6 +100,20 @@ const QuestionCard = ({ pregunta, opciones, selectedAnswer, onSelect, correctAns
             </button>
           );
         })}
+
+        {showFeedback && (referenciaTema || extractoTema) ? (
+          <div className="mt-6 rounded-xl border border-emerald-200 bg-emerald-50 p-5 text-sm text-slate-700">
+            <p className="font-semibold text-emerald-800">Referencia del tema</p>
+            {referenciaTema ? (
+              <p className="mt-2 text-xs font-semibold uppercase tracking-wide text-emerald-700">
+                {referenciaTema}
+              </p>
+            ) : null}
+            {extractoTema ? (
+              <p className="mt-2 leading-relaxed whitespace-pre-line">{extractoTema}</p>
+            ) : null}
+          </div>
+        ) : null}
       </div>
     </div>
   );

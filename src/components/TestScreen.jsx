@@ -254,6 +254,8 @@ const TestScreen = ({
             onSelect={onSelectAnswer}
             correctAnswer={pregunta.respuesta}
             feedbackMode={feedbackState[preguntaActual]}
+            referenciaTema={pregunta.referenciaTema}
+            extractoTema={pregunta.extractoTema}
           />
         </div>
 

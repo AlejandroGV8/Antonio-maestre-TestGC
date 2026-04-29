@@ -10,7 +10,7 @@ import ModeModal from './components/ModeModal';
 import viogenData from './data/viogen.json';
 import prlData from './data/prl.json';
 import ueData from './data/ue.json';
-import igualdadData from './data/igualdad.json';
+import igualdadData from './data/igualdad.js';
 import derechoConsitucionalData from './data/derecho_constitucional.json';
 import derechosHumanosData from './data/derechos_humanos.json';
 import derechoCivilData from './data/derecho_civil.json';
@@ -18,7 +18,7 @@ import derechoPenalData from './data/derecho_penal.json';
 import derechoProcesalPenalData from './data/derecho_procesal_penal.json';
 import derechoAdministrativoData from './data/derecho_administrativo.json';
 import institucionesInternacionalesData from './data/instituciones_internacionales.json';
-import proteccionDatosData from './data/proteccion_datos.json';
+import proteccionDatosData from './data/proteccion_datos';
 import onuMonograficosData from './data/onu_monograficos';
 
 function App() {
