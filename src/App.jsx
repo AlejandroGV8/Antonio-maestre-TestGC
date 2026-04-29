@@ -8,7 +8,7 @@ import ModeModal from './components/ModeModal';
 
 // Importa tus JSONs
 import viogenData from './data/viogen.json';
-import prlData from './data/prl.json';
+import prlData from './data/prl.js';
 import ueData from './data/ue.json';
 import igualdadData from './data/igualdad.js';
 import derechoConsitucionalData from './data/derecho_constitucional.json';
