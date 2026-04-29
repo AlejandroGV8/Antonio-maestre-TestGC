@@ -1,7 +1,15 @@
 import preguntas from './prl.json';
 import { prlReferencias } from './prl_referencias.js';
 
-export default preguntas.map((p, i) => ({
-  ...p,
-  ...(prlReferencias[Number(String(p.pregunta).match(/^\s*(\d+)\./)?.[1]) || i + 1] || {})
-}));
+const getQuestionNumber = (questionText) => {
+  const match = String(questionText ?? '').match(/^\s*(\d+)\./);
+  return match ? Number(match[1]) : null;
+};
+
+export default preguntas.map((p) => {
+  const questionNumber = getQuestionNumber(p.pregunta);
+  return {
+    ...p,
+    ...(questionNumber ? prlReferencias[questionNumber] || {} : {})
+  };
+});
