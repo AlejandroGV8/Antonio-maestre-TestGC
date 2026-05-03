@@ -20,6 +20,7 @@ import derechoAdministrativoData from './data/derecho_administrativo.json';
 import institucionesInternacionalesData from './data/instituciones_internacionales.json';
 import proteccionDatosData from './data/proteccion_datos';
 import onuMonograficosData from './data/onu_monograficos';
+import seguridadPublicaPrivadaData from './data/seguridad_publica_privada.json';
 
 function App() {
   const API_BASE_URL = 'https://o190h5xj5e.execute-api.eu-west-1.amazonaws.com';
@@ -37,6 +38,7 @@ function App() {
     derecho_administrativo: 10,
     proteccion_datos: 11,
     onu_monograficos: 12,
+    seguridad_publica_privada: 13,
     viogen: 21
   };
 
@@ -136,6 +138,12 @@ function App() {
         nombre: 'Protección de Datos',
         tipo: 'general',
         preguntas: proteccionDatosData
+      },
+      {
+        id: 'seguridad_publica_privada',
+        nombre: 'Seguridad Pública y Privada',
+        tipo: 'general',
+        preguntas: seguridadPublicaPrivadaData
       },
       {
         id: MONOGRAFICO_THEME_ID,

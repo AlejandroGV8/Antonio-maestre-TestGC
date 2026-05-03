@@ -1,0 +1,1402 @@
+[
+  {
+    "pregunta": "1. Seguridad Ciudadana. Ley Orgánica 4/2015. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Se sujeta a la Constitución.",
+      "b) Bien jurídico de carácter individual.",
+      "c) Es función del Estado.",
+      "d) Se sujeta en las leyes."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "2. Seguridad Ciudadana. Ley Orgánica 4/2015. En cuanto a la Seguridad Ciudadana, ¿a qué está sujeta la actuación de los miembros de las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "a) A la colaboración ciudadana.",
+      "b) A la preparación, dirección y ejecución de su política.",
+      "c) A la prevención de la comisión de delitos e infracciones.",
+      "d) A los principios básicos de actuación."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "3. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿A partir de qué edad es obligatorio el DNI?",
+    "opciones": [
+      "a) De los 18 años.",
+      "b) De los 16 años.",
+      "c) De los 14 años.",
+      "d) Desde la inscripción del nacimiento en el Registro Civil."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "4. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué documento acredita la identidad y nacionalidad dentro del territorio nacional de los españoles no residentes?",
+    "opciones": [
+      "a) El pasaporte.",
+      "b) El libro de familia numerosa.",
+      "c) El pasaporte español.",
+      "d) El libro de familia."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "5. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿De quién es competencia la expedición del pasaporte en el territorio nacional?",
+    "opciones": [
+      "a) De la Dirección General de la Policía.",
+      "b) De las Oficinas Consulares en territorio nacional.",
+      "c) De los órganos de las Comunidades Autónomas con competencia en la materia.",
+      "d) Del Ministerio de Asuntos Exteriores."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "6. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Conforme a qué leyes corresponde al Ministerio del Interior la organización de lo referente a la confección del DNI?",
+    "opciones": [
+      "a) Conforme a la ley de protección de la Seguridad Ciudadana.",
+      "b) Conforme a la legislación sobre firma electrónica.",
+      "c) Conforme a la ley sobre delitos informáticos y legislación sobre moneda y timbre en España.",
+      "d) Conforme a la legislación citada en a) y b)."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "7. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿A quién corresponde la custodia y responsabilidad de los archivos y ficheros relacionados con el DNI?",
+    "opciones": [
+      "a) A la Dirección General de la Policía.",
+      "b) Esta función la desempeñan organismos públicos relacionados con la seguridad privada.",
+      "c) A la Secretaría de Estado de Seguridad Informática.",
+      "d) A los Juzgados y Tribunales con competencia sobre esta materia."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "8. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿A quién se dará cuenta de manera inmediata del extravío del pasaporte en España?",
+    "opciones": [
+      "a) A las Fuerzas y Cuerpos de Seguridad del Estado.",
+      "b) A las Fuerzas y Cuerpos de Seguridad de los Entes Locales.",
+      "c) A las Fuerzas y Cuerpos de Seguridad.",
+      "d) A las Fuerzas y Cuerpos de Seguridad de las Comunidades Autónomas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "9. Seguridad Ciudadana. Ley Orgánica 4/2015. Señala la opción INCORRECTA:",
+    "opciones": [
+      "a) Los extranjeros están obligados a exhibir su documentación y permitir la comprobación de las medidas de seguridad de la misma, cuando fuera requeridos para ello por los Agentes de la Autoridad.",
+      "b) La expedición del DNI y del pasaporte está sujeta al pago de una tasa.",
+      "c) Los extranjeros que se encuentren en territorio nacional tienen la obligación de conservar la documentación que acredite su identidad, expedida por las autoridades de su país.",
+      "d) Los extranjeros no podrán ser privados de su documentación de origen en ningún caso."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "10. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué remitirán las Fuerzas y Cuerpos de Seguridad que hayan entrado en un domicilio particular?",
+    "opciones": [
+      "a) El acta o atestado que instruyan, a la autoridad judicial competente.",
+      "b) Oficio de lo actuado, que incluirá la firma del Secretario Judicial.",
+      "c) Documento firmado por el titular del domicilio donde se autorice la entrada.",
+      "d) Relación pormenorizada de las personas y objetos que allí se encontraban."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "11. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué plazo, como máximo, permanecerán las personas en dependencias policiales a efectos de identificación?",
+    "opciones": [
+      "a) Un plazo no superior a 6 horas.",
+      "b) Un plazo no superior a 12 horas.",
+      "c) Un plazo no superior a 48 horas.",
+      "d) Un plazo no superior a 72 horas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "12. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué se practicará en el libro de registro de las dependencias donde se realicen las identificaciones?",
+    "opciones": [
+      "a) Solamente asientos relacionados con la Seguridad Ciudadana.",
+      "b) Todo tipo de asientos relacionados con la seguridad colectiva.",
+      "c) Todo lo relacionado con la Seguridad Ciudadana, bandas armadas y elementos terroristas.",
+      "d) Solo asientos relacionados con bandas armadas y elementos terroristas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "13. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué ocurrirá si el interesado se niega a firmar el acta de aprehensión de los efectos procedentes del delito?",
+    "opciones": [
+      "a) Se dejará constancia expresa de su negativa.",
+      "b) El interesado no puede negarse a firmar en estos casos.",
+      "c) Se le advertirá de que puede incurrir en el delito de negativa a colaborar con las Fuerzas del Orden.",
+      "d) Se podrán utilizar los medios de firma electrónicos, si fuere necesario."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "14. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué tipo de sanciones, en materia de Seguridad Ciudadana, puede imponer el Ministro de Interior?",
+    "opciones": [
+      "a) Infracciones graves en grado máximo.",
+      "b) Infracciones muy graves en grado medio.",
+      "c) Infracciones muy graves en grado máximo.",
+      "d) a) y c) son correctas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "15. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿En qué lugares están habilitados los servicios de la Dirección General de la Guardia Civil para realizar las inspecciones y comprobaciones que sean necesarias sobre armas, explosivos, cartuchería y artículos pirotécnicos?",
+    "opciones": [
+      "a) En los espacios que estén destinados a su manipulación, fabricación, restitución, reparación o rehabilitación.",
+      "b) En los espacios que estén destinados a su fabricación, comercio, depósito, comercialización o utilización.",
+      "c) En los espacios destinados a su montaje, desarticulación, fundición, empaque y manufacturación.",
+      "d) En los espacios destinados a su comercialización, depósito, restitución, empaque, manufacturación y montaje."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "16. Seguridad Ciudadana. Ley Orgánica 4/2015. Cuando las grabaciones realizadas con los sistemas de videovigilancia afecten a la Seguridad Ciudadana, ¿deberán aportarse a las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "a) Sí. A requerimiento de éstas o a propia iniciativa.",
+      "b) Sí. A requerimiento de éstas.",
+      "c) No. Solamente se aportarán mediante requerimiento de la Autoridad Judicial.",
+      "d) No. Solo se aportarán en relación con delitos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "17. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿De quién es función la Seguridad Ciudadana?",
+    "opciones": [
+      "a) Del Estado.",
+      "b) Del Gobierno.",
+      "c) De los Jueces y Tribunales.",
+      "d) De las Administraciones Públicas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "18. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿A qué están orientadas las actuaciones, cuya regulación es el objeto de la ley de protección de la Seguridad Ciudadana?",
+    "opciones": [
+      "a) A la tutela de la Seguridad Ciudadana.",
+      "b) A la seguridad jurídica de los ciudadanos.",
+      "c) A la protección de las personas y sus bienes.",
+      "d) Al mantenimiento de la tranquilidad de los ciudadanos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "19. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿A quién se prestará especial atención en la protección de personas a que se refiere la ley de protección de la Seguridad Ciudadana?",
+    "opciones": [
+      "a) A los grupos sociales desfavorecidos.",
+      "b) A los menores y a las personas con discapacidad necesitadas de especial protección.",
+      "c) A los inmigrantes y colectivos afines.",
+      "d) A lo señalado en a) y a las minorías étnicas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "20. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Por cuál de los siguientes principios se rige el ejercicio de las potestades y facultades reconocidas por la ley de protección de la Seguridad Ciudadana?",
+    "opciones": [
+      "a) Reciprocidad.",
+      "b) Jerarquía.",
+      "c) Lealtad institucional.",
+      "d) Eficacia."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "21. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué autoridades y órganos serán los competentes en materia de Seguridad Ciudadana en las Comunidades Autónomas?",
+    "opciones": [
+      "a) Los que hayan asumido competencias para la protección de personas y bienes.",
+      "b) Los que hayan asumido competencias para el mantenimiento de la Seguridad Ciudadana.",
+      "c) Los que cuenten con un Cuerpo de Policía propio.",
+      "d) a), b) y c)."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "22. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Por qué principios se regirá en sus relaciones la Administración General del Estado, en materia de Seguridad Ciudadana?",
+    "opciones": [
+      "a) Lealtad institucional y cooperación.",
+      "b) Eficiencia, eficacia y colaboración.",
+      "c) Cooperación y reciprocidad.",
+      "d) Igualdad y cooperación."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "23. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué tipo de documento es el DNI?",
+    "opciones": [
+      "a) Electrónico y oficial.",
+      "b) Público y oficial.",
+      "c) Particular y privado.",
+      "d) Privado y oficial."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "24. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿A instancia de quién procederá a revocar el certificado de firma electrónica el prestador de servicios de certificación?",
+    "opciones": [
+      "a) Del Ministerio de Administraciones Públicas.",
+      "b) Del Encargado del Registro Civil.",
+      "c) Del Ministerio del Interior.",
+      "d) Del Secretario de Estado de Seguridad Electrónica."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "25. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué ciudadanos españoles no tienen derecho a la expedición del pasaporte?",
+    "opciones": [
+      "a) Los que un órgano judicial les haya acordado la retirada del mismo.",
+      "b) Los que les haya sido impuesta una medida de libertad vigilada con prohibición de abandonar el territorio nacional y obtengan autorización del órgano judicial competente.",
+      "c) Los que no lo soliciten para viajar fuera de España.",
+      "d) Los que hayan sido condenados a penas privativas de libertad y se hayan extinguido."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "26. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿A qué estará condicionada la obtención del pasaporte para ciudadanos sujetos a patria potestad, en defecto del consentimiento expreso de las personas u órganos que tengan encomendado su ejercicio?",
+    "opciones": [
+      "a) Al consentimiento del representante del interesado.",
+      "b) Al consentimiento del órgano judicial competente.",
+      "c) Al consentimiento del Ministerio Fiscal.",
+      "d) Al consentimiento de la Sección de Extranjería del Cuerpo Nacional de Policía."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "27. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué será necesario para la entrada en edificios ocupados por organismos oficiales?",
+    "opciones": [
+      "a) Será necesario el consentimiento del titular del organismo oficial.",
+      "b) No será preciso el consentimiento del titular del organismo, si este pertenece a la Administración General del Estado.",
+      "c) Bastará con recado de atención al titular del organismo oficial.",
+      "d) No será preciso el consentimiento de la Autoridad o funcionario a su cargo."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "28. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué principios deberán respetarse estrictamente en la identificación de una persona?",
+    "opciones": [
+      "a) Congruencia y oportunidad.",
+      "b) Congruencia, oportunidad y proporcionalidad.",
+      "c) Proporcionalidad, igualdad de trato y no discriminación.",
+      "d) Seguridad, igualdad de trato y congruencia."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "29. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿A quién se remitirá extracto de las diligencias de identificación?",
+    "opciones": [
+      "a) A los Jueces y Tribunales competentes.",
+      "b) Al Ministerio Fiscal.",
+      "c) Al Juez Togado Militar, si se trata de identificación de militares.",
+      "d) Al Ministerio del Interior."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "30. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Por cuánto tiempo podrán los agentes de las Fuerzas y Cuerpos de Seguridad restringir la circulación en vías públicas, cuando existan indicios racionales de que pueda producirse una alteración de la pacífica convivencia?",
+    "opciones": [
+      "a) Por el tiempo imprescindible para su mantenimiento o restablecimiento.",
+      "b) No podrá restringirse dicha circulación si solo existen indicios racionales.",
+      "c) Por un tiempo máximo de 24 horas, pudiendo solicitar prórroga a la autoridad competente.",
+      "d) Por un tiempo máximo de 8 horas, pudiendo solicitar prórroga a la autoridad competente."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "31. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Podrán los Agentes de la Autoridad proceder a la ocupación de cualquier objeto o medio de agresión?",
+    "opciones": [
+      "a) No, si no ha sido autorizada judicialmente esa ocupación.",
+      "b) Sí, pero de manera temporal.",
+      "c) Sí. Pero solo en el momento de producirse la agresión.",
+      "d) Sí, en cualquier caso."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "32. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Quién realizará el registro corporal, como norma general?",
+    "opciones": [
+      "a) Dos agentes del mismo sexo.",
+      "b) Dos agentes, con independencia de su sexo.",
+      "c) Un agente del mismo sexo.",
+      "d) Un agente, con independencia de su sexo."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "33. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Cómo serán las medidas de intervención para el restablecimiento de la Seguridad Ciudadana en manifestaciones?",
+    "opciones": [
+      "a) Preestablecidas y consensuadas con las Fuerzas actuantes.",
+      "b) De cumplimiento obligatorio e informadas por la Secretaría de Estado de Seguridad.",
+      "c) Graduales y proporcionadas a la causa.",
+      "d) Basadas en el principio de mínima intervención."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "34. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Cuál de las siguientes no es una infraestructura o instalación donde se prestan servicios básicos a la comunidad?",
+    "opciones": [
+      "a) Servicios de suministro de gas.",
+      "b) Puertos.",
+      "c) Depósitos de combustible.",
+      "d) Servicios de distribución de fibra óptica."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "35. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿A quién corresponde la intervención de armas, explosivos, cartuchería y artículos pirotécnicos?",
+    "opciones": [
+      "a) Al Estado.",
+      "b) Al Ministerio del Interior.",
+      "c) Al Ministerio de Defensa.",
+      "d) A la Secretaría de Estado de Seguridad."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "36. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿A través de quién ejerce el Ministerio del Interior la intervención de armas, explosivos, cartuchería y artículos pirotécnicos?",
+    "opciones": [
+      "a) De la Dirección General de la Guardia Civil.",
+      "b) De las Fuerzas y Cuerpos de Seguridad.",
+      "c) De las Fuerzas y Cuerpos de Seguridad del Estado.",
+      "d) De la Dirección General del Cuerpo Nacional de Policía."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "37. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿A quiénes se consideran organizadores de las reuniones en lugares de tránsito público?",
+    "opciones": [
+      "a) A aquellos que la Autoridad nombre responsables de las mismas, con 5 días de antelación.",
+      "b) A los que, sin asistir a las mismas, pueda atribuírseles cualquiera de las infracciones sobre desórdenes públicos, siempre que se les prevenga con 5 días de antelación.",
+      "c) A todos los asistentes que, mientras se celebra la misma, llegue a ser identificados.",
+      "d) A las personas físicas o jurídicas que hayan suscrito la preceptiva comunicación."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "38. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué principio observará la imposición de las sanciones?",
+    "opciones": [
+      "a) Menor onerosidad.",
+      "b) Igualdad.",
+      "c) Proporcionalidad.",
+      "d) Apud acta."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "39. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿En cuántos tramos se dividirán las multas para las infracciones muy graves y graves?",
+    "opciones": [
+      "a) En 3 tramos de igual extensión.",
+      "b) En 4 tramos de igual extensión.",
+      "c) En 5 tramos de igual extensión.",
+      "d) En 6 tramos de igual extensión."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "40. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Quién es competente para imponer sanciones muy graves en grado mínimo, en materia de Seguridad Ciudadana?",
+    "opciones": [
+      "a) El Subsecretario de Estado de Seguridad.",
+      "b) El Delegado del Gobierno de Melilla.",
+      "c) El Secretario de Estado de Seguridad.",
+      "d) El Ministro del Interior."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "41. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Cuándo prescriben las infracciones muy graves en materia de Seguridad Ciudadana?",
+    "opciones": [
+      "a) Al año.",
+      "b) A los 6 meses.",
+      "c) A los 2 años.",
+      "d) A los 3 meses."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "42. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Qué órgano apreciará la reincidencia en la comisión de infracciones tipificadas en la ley de Seguridad Ciudadana?",
+    "opciones": [
+      "a) El Registro Central de Infracciones contra la Seguridad Ciudadana.",
+      "b) El Registro Central de Antecedentes y Reincidentes.",
+      "c) El Registro Central de Penados y Rebeldes.",
+      "d) El Registro Central de Reincidentes."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "43. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Quiénes estarán exentos de responsabilidad por infracciones a la ley de Seguridad Ciudadana?",
+    "opciones": [
+      "a) Los menores de 14 años.",
+      "b) Los menores de 16 años y los mayores de 14 años.",
+      "c) Los menores de 18 años.",
+      "d) Los menores de 16 años."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "44. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Cuál de las siguientes no se considera sanción accesoria a la multa resultante de la infracción?",
+    "opciones": [
+      "a) Comiso de instrumentos procedentes de la infracción.",
+      "b) Retirada definitiva de licencias.",
+      "c) Clausura de fábricas.",
+      "d) Suspensión temporal de permisos."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "45. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Cuándo se cancelarán de oficio los asientos del Registro Central de infracciones contra la Seguridad Ciudadana, en caso de infracciones graves?",
+    "opciones": [
+      "a) A los 3 años, a contar desde la firmeza de la sanción.",
+      "b) A los 2 años, a contar desde la firmeza de la sanción.",
+      "c) Al año, a contar desde la firmeza de la sanción.",
+      "d) A los 6 meses, a contar desde la firmeza de la sanción."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "46. Seguridad Ciudadana. Ley Orgánica 4/2015. ¿A qué tipo de infracciones no se aplica el procedimiento abreviado?",
+    "opciones": [
+      "a) Se aplica a todo tipo de infracciones.",
+      "b) A las infracciones leves.",
+      "c) A las infracciones graves.",
+      "d) A las infracciones muy graves."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "47. Seguridad Privada. Ley 5/2014. ¿Qué tipos de medidas de seguridad se destinan a la prestación de servicios regulados en la ley de Seguridad Privada distintos al objeto específico del resto de medidas?",
+    "opciones": [
+      "a) De seguridad organizativa.",
+      "b) Otras medidas de seguridad.",
+      "c) De seguridad físicas.",
+      "d) De seguridad personal."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "48. Seguridad Privada. Ley 5/2014. Personas físicas que, habiendo obtenido la correspondiente habilitación, desarrollan funciones de Seguridad Privada:",
+    "opciones": [
+      "a) Personal acreditado.",
+      "b) Servicios de Seguridad Privada.",
+      "c) Usuarios de Seguridad Privada.",
+      "d) Personal de Seguridad Privada."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "49. Seguridad Privada. Ley 5/2014. ¿Con qué carácter se constituirán las Comisiones Mixtas de Seguridad Privada, en el ámbito de competencias de la Administración General del Estado?",
+    "opciones": [
+      "a) Con el carácter de órganos consultivos y de coordinación.",
+      "b) Con el carácter de órganos consultivos y de seguridad.",
+      "c) Con el carácter de órganos consultivos y de colaboración.",
+      "d) Con el carácter de órganos consultivos y de administración."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "50. Seguridad Privada. Ley 5/2014. ¿De qué ámbito podrán constituirse las Comisiones Mixtas de Seguridad Privada?",
+    "opciones": [
+      "a) Nacionales.",
+      "b) Nacionales o Autonómicas.",
+      "c) Nacionales, Autonómicas o Provinciales.",
+      "d) Nacionales, Autonómicas, Provinciales o Locales."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "51. Seguridad Privada. Ley 5/2014. ¿A quién corresponde la habilitación de Seguridad Privada de las especialidades de los guardas rurales?",
+    "opciones": [
+      "a) A la Dirección General de la Policía.",
+      "b) A la Dirección General de la Seguridad Privada.",
+      "c) A la Dirección General de Medio Ambiente.",
+      "d) A la Dirección General de la Guardia Civil."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "52. Seguridad Privada. Ley 5/2014. ¿Qué será necesario para habilitarse como vigilante de explosivos?",
+    "opciones": [
+      "a) Haber obtenido licencia del Ministerio del Interior.",
+      "b) Haberse habilitado antes como vigilante de seguridad, y contar con una experiencia de dos años como mínimo.",
+      "c) Haberse habilitado antes como vigilante de seguridad.",
+      "d) Contar con experiencia de, al menos, dos años como vigilante jurado."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "53. Seguridad Privada. Ley 5/2014. ¿Cada cuánto tiempo deberán presentar las empresas de Seguridad Privada un informe sobre sus actividades y el resumen de las cuentas?",
+    "opciones": [
+      "a) Cada trimestre.",
+      "b) Cada dos años.",
+      "c) Cada seis meses.",
+      "d) Cada año."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "54. Seguridad Privada. Ley 5/2014. ¿A quién corresponde la inspección de empresas de Seguridad Privada que tengan su domicilio en la Comunidad Autónoma y cuyo ámbito de actuación esté limitado a su territorio?",
+    "opciones": [
+      "a) A la Provincia.",
+      "b) A la Comunidad Autónoma.",
+      "c) Al Estado.",
+      "d) Al Municipio."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "55. Seguridad Privada. Ley 5/2014. Señala la afirmación CORRECTA:",
+    "opciones": [
+      "a) El personal de Seguridad Privada no podrá comunicar a terceros, en ningún caso, cualquier información que conozcan sobre sus clientes.",
+      "b) No podrá prestarse ningún servicio de Seguridad Privada que no haya sido previamente contratado.",
+      "c) Los despachos de detectives no tendrán especial obligación de seguir las instrucciones de las Fuerzas y Cuerpos de Seguridad, como norma general.",
+      "d) Las empresas de seguridad y despachos de detectives podrán interferir en manifestaciones, mientras estén ejerciendo servicios que les son propios."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "56. Seguridad Privada. ¿En qué plazo deberán comunicar el personal de seguridad privada a las Fuerzas y Cuerpos de Seguridad cualquier circunstancia relevante para la prevención de la seguridad ciudadana?",
+    "opciones": [
+      "a) En un plazo máximo de 24 horas.",
+      "b) En un plazo máximo de 48 horas.",
+      "c) Tan pronto como sea posible.",
+      "d) Inmediatamente, cuando las Fuerzas y Cuerpos de Seguridad se lo requieran."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "57. Seguridad Privada. Ley 5/2014. Personal que integra la Seguridad Privada. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Los guardas armados.",
+      "b) Los vigilantes de explosivos.",
+      "c) Los jefes de seguridad.",
+      "d) Los guardas rurales."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "58. Seguridad Privada. Ley 5/2014. ¿Por cuántos detectives privados estarán constituidos los despachos de detectives privados?",
+    "opciones": [
+      "a) Por uno o más detectives privados.",
+      "b) Por dos o más detectives privados.",
+      "c) Por tres o más detectives privados.",
+      "d) Por cinco o más detectives privados."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "59. Seguridad Privada. Ley 5/2014. ¿Qué duración tendrán las medidas provisionales anteriores a la eventual incoación de un procedimiento sancionador a empresas de Seguridad Privada, acordadas por las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "a) No podrán exceder de 1 año.",
+      "b) No podrán exceder de 6 meses.",
+      "c) No podrán exceder de 3 meses.",
+      "d) No podrán exceder de 15 días."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "60. Seguridad Privada. Ley 5/2014. Como norma general, ¿cuándo se destruirán los sonidos grabados por los servicios de investigación privada?",
+    "opciones": [
+      "a) 5 años después de su finalización.",
+      "b) 4 años después de su finalización.",
+      "c) 3 años después de su finalización.",
+      "d) 2 años después de su finalización."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "61. Seguridad Privada. Ley 5/2014. ¿Qué consideración tienen las actividades que regula la ley de Seguridad Privada?",
+    "opciones": [
+      "a) Subordinadas y suplementarias respecto de la seguridad pública.",
+      "b) Complementarias y subordinadas respecto de la seguridad pública.",
+      "c) Complementarias y suplementarias respecto de la seguridad pública.",
+      "d) Complementarias y coordinadas respecto de la seguridad pública."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "62. Seguridad Privada. Ley 5/2014. Fines de la Seguridad Privada:",
+    "opciones": [
+      "a) Ayuda, en el marco de sus competencias legales, al desarrollo de la seguridad ciudadana.",
+      "b) Avanzar en la consecución de los fines estatales de una política de seguridad y sostenibilidad.",
+      "c) Aportar información a los procedimientos relacionados con sus actuaciones e investigaciones.",
+      "d) Satisfacer las necesidades de información de los usuarios de seguridad pública."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "63. Seguridad Privada. Ley 5/2014. Actividades de Seguridad Privada. Señala la opción INCORRECTA:",
+    "opciones": [
+      "a) Transporte de armas.",
+      "b) La investigación de delitos perseguibles de oficio.",
+      "c) La explotación de centrales para la recepción de señales de alarma.",
+      "d) El acompañamiento de personas físicas que ostenten la condición legal de Autoridad."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "64. Seguridad Privada. Ley 5/2014. Los prestadores de servicios de Seguridad Privada, ¿cuándo y dónde colaborarán con las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "a) Cuando sean requeridos a tal efecto, siempre que se trate de lugares, edificios o eventos públicos.",
+      "b) En todo momento y lugar.",
+      "c) Cuando desarrollen labores de vigilancia en la vía pública.",
+      "d) Cuando establezcan controles perimetrales que afecten, en todo o en parte, a la vía pública."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "65. Seguridad Privada. Ley 5/2014. ¿Quién podrá impedir el uso de determinados medios materiales o técnicos que pudieran causar perjuicios a terceros?",
+    "opciones": [
+      "a) El Secretario de Estado de Seguridad.",
+      "b) El titular del órgano provincial competente.",
+      "c) a) y b) son correctas.",
+      "d) El Ministro del Interior."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "66. Seguridad Privada. Ley 5/2014. ¿Qué información inscrita en los Registros de las Comunidades Autónomas se incorporará también al Registro Nacional de Seguridad Privada?",
+    "opciones": [
+      "a) La de las empresas de Seguridad Privada.",
+      "b) La de los centros de formación del personal de Seguridad Privada.",
+      "c) La de los despachos de detectives privados.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "67. Seguridad Privada. Ley 5/2014. ¿A quién corresponde la competencia del control de los guardas rurales y sus especialidades?",
+    "opciones": [
+      "a) A la Dirección General de Seguridad Privada.",
+      "b) A la Dirección General de la Policía.",
+      "c) A la Dirección General de Seguridad Pública.",
+      "d) A la Dirección General de la Guardia Civil."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "68. Seguridad Privada. Ley 5/2014. ¿A quién corresponde el control del personal de las empresas de Seguridad Privada?",
+    "opciones": [
+      "a) A la Dirección General de Seguridad Ciudadana.",
+      "b) A la Dirección General de Seguridad Privada.",
+      "c) A la Dirección General de la Policía.",
+      "d) A la Dirección General de la Guardia Civil."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "69. Seguridad Privada. Ley 5/2014. ¿Con sujeción a qué principio se desarrolla la especial obligación de colaboración de los despachos de detectives con las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "a) Colaboración.",
+      "b) Confianza legítima.",
+      "c) Legalidad.",
+      "d) Reciprocidad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "70. Seguridad Privada. Ley 5/2014. ¿Qué requisitos cumplirán las empresas de Seguridad Privada para la prestación de servicios?",
+    "opciones": [
+      "a) Obtener autorización administrativa.",
+      "b) Ser inscritas de oficio en el registro correspondiente.",
+      "c) Estar al corriente de los adeudos fiscales correspondientes.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "71. Seguridad Privada. Ley 5/2014. ¿Qué validez tendrá la autorización o declaración responsable obtenida por las empresas de Seguridad Privada?",
+    "opciones": [
+      "a) Indefinida.",
+      "b) 5 años.",
+      "c) Ilimitada.",
+      "d) 2 años."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "72. Seguridad Privada. Ley 5/2014. ¿A quién dará cuenta el Ministro de Interior sobre el funcionamiento del sector de la Seguridad Privada?",
+    "opciones": [
+      "a) Al Consejo de Ministros.",
+      "b) A las Cortes Generales.",
+      "c) Al Consejo de Gobierno de las Comunidades Autónomas con competencias en dicha materia.",
+      "d) Al Congreso de los Diputados."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "73. Seguridad Privada. Ley 5/2014. ¿Dónde deben depositar los despachos de detectives privados, en caso de cierre, la documentación profesional sobre contratos?",
+    "opciones": [
+      "a) En dependencias de la Policía Autonómica.",
+      "b) En dependencias judiciales.",
+      "c) En dependencias de Policía Local.",
+      "d) En dependencias de la Guardia Civil."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "74. Seguridad Privada. Ley 5/2014. ¿Qué especialidades de guardas rurales integran el personal de Seguridad Privada?",
+    "opciones": [
+      "a) Los guardapescas marítimos y los guardas de caza.",
+      "b) Los guardas de caza y los guardamontes.",
+      "c) Los vigilantes rurales de explosivos y los guardas vecinales.",
+      "d) Los guardamontes y guardapescas fluviales y marítimos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "75. Seguridad Privada. Ley 5/2014. ¿Pueden ejercer funciones de Seguridad Privada los miembros de las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "a) Sí. Cuando sean autorizados por sus mandos naturales, previa consulta al Ministro del Interior.",
+      "b) Sí. Cuando pasen a una situación administrativa distinta a la de servicio activo.",
+      "c) Sí. Cuando hayan transcurrido un mínimo de dos años desde su pase al servicio inactivo.",
+      "d) No podrán ejercer dichas funciones en ningún caso."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "76. Seguridad Privada. Ley 5/2014. ¿Cuándo se considerarán agresiones a agentes de la autoridad las cometidas contra el personal de Seguridad Privada debidamente identificado?",
+    "opciones": [
+      "a) En ningún caso, salvo los detectives privados, tendrá el personal de la Seguridad Privada consideración de agentes de la autoridad.",
+      "b) Cuando las agresiones hayan sido cometidas utilizando armas u objetos de análoga peligrosidad.",
+      "c) Cuando desarrollen actividades de Seguridad Privada en cooperación y bajo el mando de las Fuerzas y Cuerpos de Seguridad.",
+      "d) Cuando realicen actividades encomendadas por la autoridad judicial o sus agentes."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "77. Seguridad Privada. Ley 5/2014. Señala la opción INCORRECTA:",
+    "opciones": [
+      "a) Los escoltas privados no podrán proceder a ninguna suerte de interrogatorio.",
+      "b) Los vigilantes de seguridad podrán simultanear su función con otras, aunque no estén relacionadas.",
+      "c) Los guardapescas marítimos podrán proceder a la retirada de armas, que deberán entregar inmediatamente a las Fuerzas y Cuerpos de Seguridad.",
+      "d) Los guardas de caza podrán retirar las piezas cobradas si se ha cometido una infracción."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "78. Seguridad Privada. Ley 5/2014. ¿En qué caso es obligatoria la existencia de un Jefe de Seguridad?",
+    "opciones": [
+      "a) Cuando las empresas de seguridad realicen funciones de recuento de monedas que, por su valor económico puedan requerir vigilancia y protección especial.",
+      "b) Cuando las empresas de seguridad realicen funciones de explotación de centrales para la conexión de señales de alarma.",
+      "c) Cuando las empresas de seguridad realicen funciones de instalación de equipos de seguridad conectados a centrales receptoras de alarmas.",
+      "d) Cuando las empresas de seguridad realicen funciones de investigación privada."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "79. Seguridad Privada. Ley 5/2014. En el ámbito de la Seguridad Privada, ¿cuáles se consideran armas de fuego adecuadas?",
+    "opciones": [
+      "a) Las autorizadas en el catálogo general de armas y defensas del Ministerio del Interior.",
+      "b) Cualquiera que se utilice con su licencia reglamentaria, excepto armas largas.",
+      "c) Las establecidas reglamentariamente.",
+      "d) Las que determinen las Juntas de Seguridad de la Comunidad Autónoma respectiva."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "80. Seguridad Privada. Ley 5/2014. ¿Qué actividades de Seguridad Privada sobre dinero, valores y objetos valiosos se llevarán a cabo usando armas de fuego?",
+    "opciones": [
+      "a) Vigilancia y protección en su recuento, transporte, almacenamiento y clasificación.",
+      "b) Vigilancia y protección en su fabricación, depósito y transporte.",
+      "c) Vigilancia y protección en su clasificación, fabricación, comprobación y recuento.",
+      "d) Vigilancia y protección en su almacenamiento, transporte, fabricación y recuento."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "81. Seguridad Privada. Ley 5/2014. ¿Cuándo podrán autorizarse la prestación de servicios de Seguridad Privada portando armas de fuego?",
+    "opciones": [
+      "a) Cuando sea necesario para garantizar la seguridad del personal que los presta.",
+      "b) Cuando se realicen en zonas sensibles o críticas.",
+      "c) Cuando sea necesario para garantizar la protección de los bienes asegurados.",
+      "d) Cuando se realicen al amparo de la intervención de Armas y Explosivos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "82. Seguridad Privada. Ley 5/2014. ¿Cuál de los siguientes servicios podrán ser prestados por la Seguridad Privada cuando así lo decida el órgano competente y cumpliendo estrictamente las órdenes de las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "a) La vigilancia perimetral de centros de internamiento de menores.",
+      "b) La vigilancia de edificios de organismos privados.",
+      "c) La vigilancia perimetral de centros de inmigrantes.",
+      "d) La vigilancia perimetral de centros penitenciarios."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "83. Seguridad Privada. Ley 5/2014. ¿Por quiénes serán prestados los servicios de videovigilancia cuando su finalidad sea prevenir infracciones?",
+    "opciones": [
+      "a) Serán necesariamente prestados por guardas rurales o guardas de campo o sembrados.",
+      "b) Serán necesariamente prestados por guardas rurales o vigilantes de seguridad.",
+      "c) Serán necesariamente prestados por detectives privados o vigilantes de seguridad.",
+      "d) Serán necesariamente prestados por vigilantes de seguridad o empresas de seguridad."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "84. Seguridad Privada. Ley 5/2014. ¿Por quiénes se prestarán los servicios de respuesta ante alarmas?",
+    "opciones": [
+      "a) Por vigilantes de seguridad.",
+      "b) Por guardas rurales.",
+      "c) a) y b) son correctas.",
+      "d) Por cualquiera de los que integran los servicios de Seguridad Privada."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "85. Seguridad Privada. Ley 5/2014. ¿Con respeto a qué principios se ejecutarán los servicios de investigación privada?",
+    "opciones": [
+      "a) Idoneidad, intervención mínima y proporcionalidad.",
+      "b) Privacidad, proporcionalidad, idoneidad y seguridad.",
+      "c) Idoneidad, necesidad, proporcionalidad y razonabilidad.",
+      "d) Privacidad, intimidad, secreto de las comunicaciones y proporcionalidad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "86. Seguridad Privada. Ley 5/2014. Medida de seguridad orientada a advertir cualquier tipo de amenaza que pudiera producirse mediante la activación de cualquier tipo de dispositivo electrónico:",
+    "opciones": [
+      "a) De seguridad magnética.",
+      "b) De seguridad electrónica.",
+      "c) De seguridad informática.",
+      "d) De seguridad robótica."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "87. Seguridad Privada. Ley 5/2014. ¿En qué plazo deberán ser ratificadas las medidas provisionales anteriores a la eventual incoación de un procedimiento sancionador a empresas de Seguridad Privada, adoptadas por las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "a) En un plazo máximo de 90 días.",
+      "b) En un plazo máximo de 60 días.",
+      "c) En un plazo máximo de 30 días.",
+      "d) En un plazo máximo de 15 días."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "88. Seguridad Privada. Ley 5/2014. Acciones llevadas a cabo por los prestadores de servicios de Seguridad Privada para materializar las actividades de Seguridad Privada:",
+    "opciones": [
+      "a) Medidas de Seguridad Privada.",
+      "b) Actividades de Seguridad Privada.",
+      "c) Funciones de Seguridad Privada.",
+      "d) Servicios de Seguridad Privada."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "89. Seguridad Privada. Ley 5/2014. No son considerados \"Personal Acreditado\", según la ley de Seguridad Privada:",
+    "opciones": [
+      "a) Técnicos que desarrollen las tareas que les asignan la citada ley.",
+      "b) Operadores de seguridad.",
+      "c) Vigilantes de seguridad.",
+      "d) Profesores de centros de formación."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "90. Seguridad Privada. Ley 5/2014. ¿Por qué medida se suplirá la medida provisional de desconexión de sistemas de alarma en establecimientos obligados a contar con ellos?",
+    "opciones": [
+      "a) Por el establecimiento de un servicio permanente de vigilancia y protección privada.",
+      "b) Por la conexión de sistemas de alarma insonoros.",
+      "c) Por alarmas visuales no sonoras.",
+      "d) Por cámaras de seguridad pasiva, respetando, en todo momento, el principio de privacidad."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "91. Seguridad Privada. Ley 5/2014. ¿Cuál de las siguientes actividades quedan excluidas del ámbito de la Ley 5/2014?",
+    "opciones": [
+      "a) La obtención por uno mismo de información o datos, así como la contratación de servicios de recepción, recopilación, análisis, comunicación o suministro de información libre obrante en fuentes o registros de acceso público.",
+      "b) Las actuaciones de autoprotección, o de protección de terceros, entendidas como el conjunto de cautelas o diligencias que se pueden adoptar o que se ejecuten de forma directa para los interesados, que pueda ser uno mismo o terceras personas que contraten el servicio.",
+      "c) Ambas respuestas son incorrectas.",
+      "d) Ambas respuestas son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "92. Seguridad Privada. Ley 5/2014. El control de tránsito en zonas reservadas o de circulación restringida en el interior de instalaciones en cumplimiento de la normativa interna de los mismos:",
+    "opciones": [
+      "a) Es una actividad comprendida dentro del ámbito de aplicación de la Ley 5/2014, a no ser que implique la asunción o realización de servicios o funciones de seguridad pública.",
+      "b) Queda completamente fuera del ámbito de aplicación de la Ley 5/2014, en cualquier circunstancia.",
+      "c) Es una de las actividades propias de seguridad privada.",
+      "d) Queda fuera del ámbito de aplicación de la Ley 5/2014, a no ser que implique la asunción o realización de servicios o funciones de seguridad privada."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "93. Seguridad Privada. Ley 5/2014. Señala la afirmación CORRECTA:",
+    "opciones": [
+      "a) Las fuerzas y cuerpos de seguridad, en ningún caso, podrán facilitar al personal de seguridad privada, cualquier tipo de información que pueda ser relevante para su evaluación de riesgos; en todo caso, el flujo de información deberá producirse en sentido contrario.",
+      "b) Las fuerzas y cuerpos de seguridad podrán facilitar al personal de seguridad privada, cualquier tipo de información que sea relevante o no para su evaluación de riesgos y consiguiente implementación de medidas de protección.",
+      "c) Las fuerzas y cuerpos de seguridad podrán facilitar al personal de seguridad privada, en el ejercicio de sus funciones, informaciones que faciliten su evaluación de riesgos y consiguiente implementación de medidas de protección.",
+      "d) Las fuerzas y cuerpos de seguridad únicamente podrán facilitar al personal de seguridad privada, en el ejercicio de sus funciones, informaciones en caso de peligro real."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "94. Seguridad Privada. Ley 5/2014. ¿Quién adoptará las medidas organizativas que resulten adecuadas para asegurar la coordinación de los servicios de seguridad privada con los de las fuerzas y cuerpos de seguridad?",
+    "opciones": [
+      "a) El Secretario de Estado de Seguridad o el órgano autonómico competente.",
+      "b) El Ministro del Interior o el órgano autonómico competente.",
+      "c) La Dirección General de la Policía o el órgano autonómico competente.",
+      "d) El Ministerio de Defensa o el órgano autonómico competente."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "95. Seguridad Privada. Ley 5/2014. Las empresas de seguridad privada podrán revestir forma:",
+    "opciones": [
+      "a) Ambas respuestas son incorrectas.",
+      "b) De empresario individual.",
+      "c) Societaria.",
+      "d) Ambas respuestas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "96. Seguridad Privada. Ley 5/2014. Además de las actividades propias de la seguridad privada, las empresas de seguridad privada podrán realizar las actividades compatibles recogidas en la Ley y dedicarse a:",
+    "opciones": [
+      "a) La formación, actualización y especialización del personal de seguridad pública, en cuyo caso deberán crear centros de formación, de conformidad con lo previsto en el artículo 29.4 y lo que reglamentariamente se determine.",
+      "b) La formación, actualización y especialización del personal de seguridad privada, que no pertenezca a su plantilla, y en cuyo caso deberán crear centros de formación, de conformidad con lo previsto en el artículo 24.4 y lo que reglamentariamente se determine.",
+      "c) La formación, actualización y especialización del personal de seguridad privada, únicamente perteneciente a su plantilla, en cuyo caso no será necesario crear centro de formación, de conformidad con lo previsto en el artículo 29.4 y lo que reglamentariamente se determine.",
+      "d) La formación, actualización y especialización del personal de seguridad privada, perteneciente o no a sus plantillas, en cuyo caso deberán crear centros de formación, de conformidad con lo previsto en el artículo 29.4 y lo que reglamentariamente se determine."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "97. Seguridad Privada. Ley 5/2014. El incumplimiento sobrevenido de los requisitos establecidos en el artículo 19, dará lugar:",
+    "opciones": [
+      "a) Ambas respuestas son correctas.",
+      "b) A la extinción de la autorización o al cierre de la empresa, en el caso de presentación de declaración responsable.",
+      "c) A la cancelación de oficio de la inscripción de la empresa de seguridad en el registro correspondiente.",
+      "d) Ambas respuestas son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "98. Seguridad Privada. Ley 5/2014. Para la contratación de servicios de seguridad privada en los sectores estratégicos definidos en la legislación de protección de infraestructuras críticas, las empresas de seguridad privada deberán contar con carácter previo a su presentación con una certificación emitida por una entidad _____, que garantice, _____ el cumplimiento de la normativa administrativa, laboral, de Seguridad Social y tributaria que les sea de aplicación.",
+    "opciones": [
+      "a) Del Ministerio de Interior / como máximo.",
+      "b) De certificación acreditada / como máximo.",
+      "c) Del Ministerio de Interior / como mínimo.",
+      "d) De certificación acreditada / como mínimo."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "99. Seguridad Privada. Ley 5/2014. Señala cuál de los siguientes requisitos generales que deben reunir las empresas de seguridad privada es INCORRECTO:",
+    "opciones": [
+      "a) No haber sido condenadas mediante sentencia firme por intromisión ilegítima en el ámbito de protección del derecho al honor, a la intimidad personal y familiar.",
+      "b) Tener la nacionalidad de un Estado miembro de la Unión Europea o de un Estado parte en el acuerdo sobre el Espacio Económico Europeo.",
+      "c) Suscribir un contrato de seguro de responsabilidad penal o constituir otras garantías financieras en la cuantía y con las condiciones que se determinen reglamentariamente.",
+      "d) Constituir el aval o seguro de caución que se determine reglamentariamente a disposición de las autoridades españolas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "100. Seguridad Privada. Ley 5/2014. Para la obtención de las habilitaciones profesionales mencionadas en la Ley 5/2014, de Seguridad Privada, será necesario:",
+    "opciones": [
+      "a) Tener la nacionalidad de alguno de los Estados miembros de la Unión Europea o de un Estado parte del Espacio Económico Europeo o de un tercer Estado que tenga suscrito con España un convenio internacional para el ejercicio de estas actividades.",
+      "b) No haber sido sancionado en los 3 o 5 años anteriores por infracción grave o muy grave en materia de seguridad privada.",
+      "c) No haber sido separado del servicio en las fuerzas y cuerpos de seguridad o en las fuerzas armadas españolas o del país de su nacionalidad o procedencia en los 5 años anteriores.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "101. Seguridad Pública. Ley Orgánica 4/2015. ¿Qué podrán hacer las autoridades competentes en seguridad ciudadana, de conformidad con las leyes y reglamentos, para asegurar la consecución de los fines previstos en esta ley?",
+    "opciones": [
+      "a) Dictar las órdenes y prohibiciones estrictamente necesarias.",
+      "b) Disponer las actuaciones policiales estrictamente necesarias.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "102. Seguridad Pública. Ley Orgánica 4/2015. Como norma general, ¿cuándo podrán proceder los agentes de las Fuerzas y Cuerpos de Seguridad a la entrada y registro en domicilio?",
+    "opciones": [
+      "a) En los casos permitidos por las Leyes.",
+      "b) En los términos que fije la Constitución.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "103. Seguridad Pública. Ley Orgánica 4/2015. Será causa legítima suficiente para la entrada y registro en domicilio...",
+    "opciones": [
+      "a) La necesidad de evitar cualquier daño a las personas y a las cosas, en supuestos de catástrofe, calamidad, ruina inminente u otros semejantes de extrema y urgente necesidad.",
+      "b) La solicitud, por escrito, de cualquier ciudadano que lo demande.",
+      "c) La necesidad de evitar daños inminentes y graves a las personas y a las cosas, en supuestos de catástrofe, calamidad, ruina inminente u otros semejantes de extrema y urgente necesidad.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "104. Seguridad Pública. Ley Orgánica 4/2015. ¿Qué será preciso para la entrada en edificios públicos?",
+    "opciones": [
+      "a) Será preciso el consentimiento expreso de la Autoridad o Funcionario que los tuviere a su cargo.",
+      "b) Será preciso el consentimiento expreso del jefe del órgano de la Autoridad o Funcionario que los tuviere a su cargo.",
+      "c) No será preciso el consentimiento de la Autoridad o Funcionario que los tuviere a su cargo.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "105. Seguridad Pública. Ley Orgánica 4/2015. ¿Qué actuación llevarán a cabo las Fuerzas y Cuerpos de Seguridad cuando entren en un domicilio particular?",
+    "opciones": [
+      "a) Expedirán un volante acreditativo de esa entrada al propietario del propio domicilio.",
+      "b) Dejarán constancia al propietario del domicilio, por escrito, de la entrada al domicilio.",
+      "c) Remitirán, sin dilación, el acta o atestado que instruyan a la Autoridad Judicial competente.",
+      "d) Remitirán, cuando lo estimen oportuno, el acta o atestado que instruyan a la Autoridad Judicial competente."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "106. Seguridad Pública. Ley Orgánica 4/2015. ¿Cuándo podrán requerir la identificación de las personas los agentes de las Fuerzas y Cuerpos de Seguridad en el cumplimiento de sus funciones de indagación y prevención delictiva, así como para la sanción de infracciones penales y administrativas?",
+    "opciones": [
+      "a) Cuando crean que han podido participar en la comisión de una infracción.",
+      "b) Cuando se considere razonablemente necesario que acrediten su identidad para prevenir la comisión de un delito, en atención a las circunstancias concurrentes.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "107. Seguridad Pública. Ley Orgánica 4/2015. ¿Qué principios se respetarán estrictamente en la práctica de identificación de las personas?",
+    "opciones": [
+      "a) Los principios de proporcionalidad, igualdad de trato y no discriminación.",
+      "b) Los principios de congruencia, oportunidad y proporcionalidad.",
+      "c) Los principios de proporcionalidad, injerencia mínima y no discriminación.",
+      "d) Los principios de legalidad, igualdad de trato y proporcionalidad."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "108. Seguridad Pública. Ley Orgánica 4/2015. Cuando no fuera posible la identificación por cualquier medio, incluida la vía telemática o telefónica, o si la persona se negase a identificarse, los Agentes para impedir la comisión de un delito o al objeto de sancionar una infracción...",
+    "opciones": [
+      "a) Podrán requerir a quienes no pudieran ser identificados a que les acompañen a las dependencias policiales más próximas en las que se disponga de los medios adecuados para la práctica de esta diligencia.",
+      "b) Esta actuación se llevará a cabo para la identificación de la persona, así como para la imposición de la sanción por no haber podido ser identificados.",
+      "c) Esta actuación se podrá llevar a cabo hasta que se pueda finalizar la diligencia de identificación.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "109. Seguridad Pública. Ley Orgánica 4/2015. En cuanto al Libro-Registro que se lleva en las dependencias policiales... Señala la INCORRECTA:",
+    "opciones": [
+      "a) Sólo se practicarán asientos relacionados con la seguridad ciudadana.",
+      "b) En él constarán las diligencias de identificación practicadas y los motivos, circunstancias y duración de las mismas.",
+      "c) El órgano competente de la Administración remitirá semestralmente al Ministerio Fiscal, extracto de las diligencias de identificación con expresión del tiempo utilizado en cada una.",
+      "d) Los asientos de este Libro-Registro se cancelarán de oficio a los 3 años."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "110. Seguridad Pública. Ley Orgánica 4/2015. ¿Qué se les deberá expedir a las personas desplazadas a dependencias policiales a efectos de identificación?",
+    "opciones": [
+      "a) Se les deberá expedir a su salida un volante acreditativo del tiempo de permanencia en ellas y de si han necesitado o no asistencia sanitaria.",
+      "b) Se les deberá expedir a su entrada un volante acreditativo de la causa y de la identidad de los agentes actuantes.",
+      "c) Se les deberá expedir a su salida un volante acreditativo del tiempo de permanencia en ellas, de la causa y de la identidad de los agentes actuantes.",
+      "d) Se les deberá expedir a su entrada un volante acreditativo del tiempo de permanencia en ellas, en el que se refleje la necesidad de que sean asistidos por los servicios médicos competentes."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "111. Seguridad Pública. Ley Orgánica 4/2015. ¿Qué carácter tendrá el Documento Nacional de Identidad?",
+    "opciones": [
+      "a) El Documento Nacional de Identidad es un documento público y oficial.",
+      "b) El Documento Nacional de Identidad es un documento personal e individual.",
+      "c) El Documento Nacional de Identidad es un documento público y personal.",
+      "d) El Documento Nacional de Identidad es un documento personal y oficial."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "112. Seguridad Pública. Ley Orgánica 4/2015. ¿En qué casos figurarán en el Documento Nacional de Identidad datos personales relativos a la discapacidad de una persona?",
+    "opciones": [
+      "a) Cuando así venga reconocido por sentencia judicial.",
+      "b) Cuando así venga reconocido por resolución administrativa.",
+      "c) Cuando la discapacidad sea un elemento determinante para la toma de decisiones de la persona con discapacidad necesitada de especial protección.",
+      "d) En ningún caso."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "113. Seguridad Pública. Ley Orgánica 4/2015. ¿Qué permite el Documento Nacional de Identidad a los españoles mayores de edad que gocen de plena capacidad de obrar y a los menores emancipados?",
+    "opciones": [
+      "a) La identificación electrónica de su titular.",
+      "b) La firma electrónica de documentos.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "114. Seguridad Pública. Ley Orgánica 4/2015. ¿A partir de qué edad es obligatorio el Documento Nacional de Identidad?",
+    "opciones": [
+      "a) A partir de los 12 años.",
+      "b) A partir de los 14 años.",
+      "c) A partir de los 16 años.",
+      "d) A partir de los 18 años."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "115. Seguridad Pública. Ley Orgánica 4/2015. ¿En qué casos un español podrá ser privado del Documento Nacional de Identidad?",
+    "opciones": [
+      "a) Por resolución judicial.",
+      "b) En ningún caso.",
+      "c) En los supuestos en que, según la ley, haya de ser sustituido por otro documento.",
+      "d) Tanto por resolución judicial como por concesión administrativa."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "116. Seguridad Pública. Ley Orgánica 4/2015. ¿A quién deberá darse cuenta de la sustracción o extravío del Documento Nacional de Identidad?",
+    "opciones": [
+      "a) Deberá darse cuenta tan pronto como sea posible a la comisaría de policía más próxima.",
+      "b) Deberá darse cuenta, en el plazo máximo de 72 horas, al puesto de las fuerzas y cuerpos de seguridad más próximo.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "117. Seguridad Pública. Ley Orgánica 4/2015. ¿A quién corresponde la competencia exclusiva para la dirección, organización y gestión de todos los aspectos referentes a la confección y expedición del Documento Nacional de Identidad?",
+    "opciones": [
+      "a) Al Gobierno.",
+      "b) Al Ministerio del Interior.",
+      "c) Al Ministerio de Política Territorial y Función Pública.",
+      "d) A la Dirección General de Policía."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "118. Seguridad Pública. Ley Orgánica 4/2015. ¿Qué carácter tendrá el pasaporte español?",
+    "opciones": [
+      "a) El pasaporte español es un documento público, personal, individual e intransferible.",
+      "b) El pasaporte español es un documento privado, personal, individual e intransferible.",
+      "c) El pasaporte español es un documento público, personal, oficial e intransferible.",
+      "d) El pasaporte español es un documento público, oficial, individual e intransferible."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "119. Seguridad Pública. Ley Orgánica 4/2015. ¿En qué casos podrá ser exceptuada la expedición del Pasaporte a los ciudadanos españoles? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Por haber sido condenado a penas o medidas de seguridad no privativas de libertad, mientras no se hayan extinguido, salvo que obtenga autorización judicial.",
+      "b) Por haber sido acordada por el órgano judicial competente la retirada de su pasaporte, de acuerdo con lo previsto por la ley.",
+      "c) Por haberle sido impuesta una medida de libertad vigilada con prohibición de abandonar el territorio nacional, salvo que obtenga autorización judicial.",
+      "d) Cuando el órgano judicial competente haya prohibido la salida de España o la expedición de pasaporte al menor de edad o a la persona con la capacidad modificada judicialmente, de acuerdo con lo dispuesto por la ley."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "120. Seguridad Pública. Ley Orgánica 4/2015. ¿En qué casos podrán los extranjeros ser privados de su documentación de origen?",
+    "opciones": [
+      "a) En el curso de investigaciones judiciales de carácter penal.",
+      "b) Por resolución administrativa.",
+      "c) En ningún caso.",
+      "d) Por orden dictada por el Ministerio del Interior, que será siempre individual y motivada."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "121. Seguridad Privada. Ley 5/2014. ¿Cuál es el objeto de esta ley?",
+    "opciones": [
+      "a) Regular la realización y la prestación por personas privadas físicas o jurídicas, de actividades y servicios de seguridad pública o privada, que desarrollados por éstos, son contratados voluntaria u obligatoriamente, por personas físicas o jurídicas, públicas o privadas, para la protección de personas y bienes.",
+      "b) Regular las investigaciones privadas que se efectúen sobre las personas o bienes.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "122. Seguridad Privada. Ley 5/2014. ¿Qué consideración tienen las actividades de seguridad privada con respecto a la seguridad pública?",
+    "opciones": [
+      "a) Jerárquicas y subordinadas.",
+      "b) Complementarias y proporcionadas.",
+      "c) Complementarias y subordinadas.",
+      "d) Proporcionadas y centralizadas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "123. Seguridad Privada. Ley 5/2014. ¿Quiénes realizarán o prestarán los servicios de seguridad privada?",
+    "opciones": [
+      "a) Empresas de seguridad.",
+      "b) Despachos de detectives privados.",
+      "c) Personal de seguridad privada.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "124. Seguridad Privada. Ley 5/2014. ¿Cómo se denominan los ámbitos de actuación material en que los prestadores de servicios de seguridad privada llevan a cabo su acción empresarial y profesional?",
+    "opciones": [
+      "a) Actividades de seguridad privada.",
+      "b) Servicios de seguridad privada.",
+      "c) Funciones de seguridad privada.",
+      "d) Competencias de seguridad privada."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "125. Seguridad Privada. Ley 5/2014. Según esta ley, ¿cómo se define una empresa de seguridad privada?",
+    "opciones": [
+      "a) Las personas físicas, públicas o privadas, autorizadas o sometidas al régimen de declaración responsable, para prestar servicios de seguridad privada.",
+      "b) Las personas físicas o jurídicas, privadas, autorizadas o sometidas a la obligación de homologación, para prestar servicios de seguridad pública o privada.",
+      "c) Las personas físicas o jurídicas, privadas, autorizadas o sometidas al régimen de declaración responsable, para prestar servicios de seguridad privada.",
+      "d) Las personas físicas o jurídicas, públicas o privadas, autorizadas o sometidas a la obligación de homologación, para prestar servicios de seguridad pública o privada."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "126. Seguridad Privada. Ley 5/2014. Según esta ley, ¿cómo se define al personal acreditado?",
+    "opciones": [
+      "a) Las personas físicas que habiendo obtenido la correspondiente habilitación desarrollan funciones de seguridad privada.",
+      "b) Profesores de centros de formación, ingenieros y técnicos, que desarrollen las tareas que les asignan esta ley y operadores de seguridad.",
+      "c) Las personas físicas o jurídicas que de forma voluntaria u obligatoria contratan servicios o adoptan medidas de seguridad privada.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "127. Seguridad Privada. Ley 5/2014. Según esta ley, ¿por cuántos detectives privados estarán constituidos los despachos de detectives privados?",
+    "opciones": [
+      "a) Por uno o más detectives privados que prestan servicios de seguridad privada.",
+      "b) Por más de dos detectives privados que prestan servicios de investigación privada.",
+      "c) Por uno o más detectives privados que prestan servicios de investigación privada.",
+      "d) Por más de dos detectives privados que prestan servicios de seguridad privada."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "128. Seguridad Privada. Ley 5/2014. ¿A qué o quién serán de aplicación las disposiciones de esta ley? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Las empresas de seguridad pública o privada.",
+      "b) Las medidas de seguridad.",
+      "c) Los contratos celebrados en el ámbito de la seguridad privada.",
+      "d) Los despachos de detectives."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "129. Seguridad Privada. Ley 5/2014. ¿Cuáles son los fines que tiene la seguridad privada?",
+    "opciones": [
+      "a) Satisfacer las necesidades legítimas de seguridad o de información de los prestadores de servicios de seguridad privada.",
+      "b) Contribuir a garantizar la seguridad pública, a prevenir infracciones y a aportar información a los procedimientos relacionados con sus actuaciones e investigaciones.",
+      "c) Complementar el monopolio de la seguridad que corresponde al Gobierno.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "130. Seguridad Privada. Ley 5/2014. ¿Cuáles se consideran actividades de seguridad privada? Señala la INCORRECTA:",
+    "opciones": [
+      "a) La vigilancia y protección de bienes, establecimientos, lugares y eventos públicos y privados, y de las personas que pudieran encontrarse en ellos.",
+      "b) El acompañamiento, defensa y protección de personas físicas determinadas, incluidas las que ostenten la condición legal de autoridad.",
+      "c) El depósito y custodia de explosivos, armas, cartuchería metálica, sustancias, materias, mercancías y cualesquiera objetos que, por su peligrosidad precisen de vigilancia y protección especial.",
+      "d) La investigación privada en relación a personas, hechos o delitos perseguibles de oficio o a instancia de parte."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "131. Seguridad Privada. Ley 5/2014. ¿Qué actividades quedan fuera del ámbito de aplicación de esta ley? Señala la INCORRECTA:",
+    "opciones": [
+      "a) La fabricación, comercialización, venta, entrega, instalación o mantenimiento de elementos o productos de seguridad y de cerrajería de seguridad.",
+      "b) La fabricación, comercialización, venta o entrega de equipos técnicos de seguridad electrónica así como la instalación o mantenimiento de dichos equipos siempre que estén conectados a centrales de alarma o de videovigilancia.",
+      "c) La conexión a centrales receptoras de alarmas de sistemas de prevención o protección contra incendios o de alarmas de tipo asistencial.",
+      "d) La planificación, consultoría y asesoramiento en materia de actividades de seguridad privada."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "132. Seguridad Privada. Ley 5/2014. ¿Qué se entiende como actuaciones de autoprotección?",
+    "opciones": [
+      "a) El conjunto de cautelas o diligencias que se puedan adoptar o que ejecuten por sí mismos de forma directa los interesados, estrictamente dirigidas a la protección de su entorno personal o patrimonial, y cuya práctica o aplicación conlleve contraprestación.",
+      "b) El conjunto de cautelas o diligencias que se puedan adoptar o que ejecuten por sí y para sí mismos de forma directa o indirecta los interesados, estrictamente dirigidas a la protección de su entorno personal o patrimonial.",
+      "c) El conjunto de cautelas o diligencias que se puedan adoptar o que ejecuten por sí y de forma directa o indirecta los interesados, estrictamente dirigidas a la protección de su entorno personal o patrimonial, y cuya práctica o aplicación conlleve contraprestación.",
+      "d) El conjunto de cautelas o diligencias que se puedan adoptar o que ejecuten por sí y para sí mismos de forma directa los interesados, estrictamente dirigidas a la protección de su entorno personal o patrimonial, y cuya práctica o aplicación no conlleve contraprestación."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "133. Seguridad Privada. Ley 5/2014. ¿Quiénes colaborarán, en todo momento y lugar, con las Fuerzas y Cuerpos de Seguridad, con sujeción a lo que éstas puedan disponer en relación con la ejecución material de sus actividades?",
+    "opciones": [
+      "a) Los prestadores de servicios de seguridad privada.",
+      "b) Los interesados.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "134. Seguridad Privada. Ley 5/2014. ¿A qué tendrán especial obligación las empresas de seguridad, los despachos de detectives y el personal de seguridad privada en relación con los servicios que presten las Fuerzas y Cuerpos de Seguridad que afecten a la seguridad pública?",
+    "opciones": [
+      "a) A auxiliarles y colaborar, en todo momento, en el ejercicio de sus funciones.",
+      "b) A prestarles su colaboración.",
+      "c) A seguir sus instrucciones.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "135. Seguridad Privada. Ley 5/2014. ¿Quién prohibirá la utilización en los servicios de seguridad privada de determinados medios materiales o técnicos cuando pudieran causar daños o perjuicios a terceros o poner en peligro la seguridad ciudadana?",
+    "opciones": [
+      "a) El director de la empresa de seguridad privada.",
+      "b) El Gobierno.",
+      "c) El Ministro del Interior o, en su caso, el titular del órgano autonómico competente.",
+      "d) La Dirección General de Policía Nacional."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "136. Seguridad Privada. Ley 5/2014. Contratación y comunicación de servicios.",
+    "opciones": [
+      "a) No podrá prestarse ningún tipo de servicio de seguridad privada que no haya sido previamente contratado y, en su caso, autorizado.",
+      "b) Los contratos de prestación de los distintos servicios de seguridad privada deberán, en todo caso, formalizarse por escrito y comunicarse su celebración al Ministerio del Interior o, en su caso, al órgano autonómico competente con antelación a la iniciación de los mismos.",
+      "c) La comunicación de contratos de servicios de investigación privada contendrá exclusivamente los datos necesarios para identificar a las partes contratantes, excluidos los de carácter personal.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "137. Seguridad Privada. Ley 5/2014. Prohibiciones.",
+    "opciones": [
+      "a) Los despachos de detectives y los detectives privados no podrán celebrar contratos que tengan por objeto la investigación de delitos perseguibles de oficio.",
+      "b) Las empresas de seguridad privada no podrán realizar los servicios de investigación privada propios de los despachos de detectives privados.",
+      "c) Los despachos de detectives privados no podrán prestar servicios propios de las empresas de seguridad privada.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "138. Seguridad Privada. Ley 5/2014. ¿A quién corresponde el control de las empresas, entidades y servicios privados de seguridad, vigilancia e investigación, de su personal, medios y actuaciones, en el ámbito de las competencias de la Administración General del Estado y de conformidad con lo dispuesto en la legislación de Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "a) A la Dirección General de la Policía.",
+      "b) A la Dirección General de la Guardia Civil.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "139. Seguridad Privada. Ley 5/2014. ¿Con sujeción a qué principio se desarrollará la especial obligación de colaboración de las empresas de seguridad, los despachos de detectives y el personal de seguridad privada con las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "a) Con sujeción al principio de idoneidad.",
+      "b) Con sujeción al principio de legalidad.",
+      "c) Con sujeción al principio de igualdad.",
+      "d) Con sujeción al principio de proporcionalidad."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "140. Seguridad Privada. Ley 5/2014. ¿Quién adoptará las medidas organizativas que resulten adecuadas para asegurar la coordinación de los servicios de seguridad privada con los de las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "a) El director de la empresa de seguridad privada.",
+      "b) El Gobierno.",
+      "c) El Ministro del Interior o, en su caso, el titular del órgano autonómico competente.",
+      "d) La Dirección General de Policía Nacional."
+    ],
+    "respuesta": "c"
+  }
+]
