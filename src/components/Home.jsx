@@ -9,6 +9,7 @@ const Home = ({
   onDeselectAllThemes,
   onStartTest,
   onOpenMonographicTests,
+  onOpenOfficialExams,
   onBackToGeneralTests,
   questionCount,
   setQuestionCount,
@@ -62,6 +63,8 @@ const Home = ({
     .reduce((sum, theme) => sum + theme.preguntas.length, 0);
 
   const canStart = selectedThemes.length > 0;
+  const isFixedFullExamMode = homeMode === 'monografico' || homeMode === 'oficial';
+  const generatedQuestions = isFixedFullExamMode ? totalPreguntas : questionCount;
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-green-900 to-slate-800 relative overflow-hidden">
@@ -153,9 +156,13 @@ const Home = ({
 
               <div className="flex items-center justify-between rounded-xl border border-slate-200 bg-slate-50 p-3">
                 <p className="text-sm font-semibold text-slate-700">
-                  {homeMode === 'monografico' ? 'Mostrando test monograficos' : 'Mostrando test generales'}
+                  {homeMode === 'monografico'
+                    ? 'Mostrando test monograficos'
+                    : homeMode === 'oficial'
+                    ? 'Mostrando examenes oficiales'
+                    : 'Mostrando test generales'}
                 </p>
-                {homeMode === 'monografico' ? (
+                {homeMode !== 'general' ? (
                   <button
                     type="button"
                     onClick={onBackToGeneralTests}
@@ -180,7 +187,7 @@ const Home = ({
                     </div>
                     <div className="text-right">
                       <p className="text-xs text-gray-500 uppercase tracking-wide mb-1">Test generado</p>
-                      <p className="text-2xl font-bold text-yellow-600">{questionCount}</p>
+                      <p className="text-2xl font-bold text-yellow-600">{generatedQuestions}</p>
                     </div>
                   </div>
                 </div>
@@ -208,7 +215,7 @@ const Home = ({
                 )}
               </button>
 
-              <div className="grid grid-cols-3 gap-3 pt-4 border-t border-gray-200">
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-3 pt-4 border-t border-gray-200">
                 <button
                   type="button"
                   onClick={onOpenMonographicTests}
@@ -225,6 +232,14 @@ const Home = ({
                   <div className="text-2xl mb-1">✅</div>
                   <p className="text-xs text-gray-600 font-medium">Correccion instantanea</p>
                 </div>
+                <button
+                  type="button"
+                  onClick={onOpenOfficialExams}
+                  className="text-center rounded-lg p-2 transition-colors hover:bg-green-50"
+                >
+                  <div className="text-2xl mb-1">📝</div>
+                  <p className="text-xs text-gray-700 font-semibold">Examenes oficiales</p>
+                </button>
               </div>
             </div>
           </div>

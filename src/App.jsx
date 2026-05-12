@@ -3,7 +3,7 @@ import Home from './components/Home';
 import TestScreen from './components/TestScreen';
 import Results from './components/Results';
 import LoginPage from './components/LoginPage';
-import { selectRandomQuestions } from './utils/testHelpers';
+import { selectRandomQuestions, selectQuestionsDistributedByTheme } from './utils/testHelpers';
 import ModeModal from './components/ModeModal';
 
 // Importa tus JSONs
@@ -21,10 +21,13 @@ import institucionesInternacionalesData from './data/instituciones_internacional
 import proteccionDatosData from './data/proteccion_datos';
 import onuMonograficosData from './data/onu_monograficos';
 import seguridadPublicaPrivadaData from './data/seguridad_publica_privada.json';
+import modelo1A2025Data from './data/examen_oficial_modelo_1a_2025';
+import TEMA_12_EXTRANJERIA from './data/tema_12_extranjeria';
 
 function App() {
   const API_BASE_URL = 'https://o190h5xj5e.execute-api.eu-west-1.amazonaws.com';
   const MONOGRAFICO_THEME_ID = 'onu_monograficos';
+  const OFICIAL_THEME_ID = 'examen_oficial_modelo_1a_2025';
   const SYLLABUS_ORDER = {
     derechos_humanos: 1,
     igualdad: 2,
@@ -37,8 +40,10 @@ function App() {
     derecho_procesal_penal: 9,
     derecho_administrativo: 10,
     proteccion_datos: 11,
-    onu_monograficos: 12,
-    seguridad_publica_privada: 13,
+    tema_12_extranjeria: 12,
+    onu_monograficos: 13,
+    seguridad_publica_privada: 14,
+    examen_oficial_modelo_1a_2025: 15,
     viogen: 21
   };
 
@@ -140,6 +145,12 @@ function App() {
         preguntas: proteccionDatosData
       },
       {
+        id: 'tema_12_extranjeria',
+        nombre: 'Extranjería e Inmigración',
+        tipo: 'general',
+        preguntas: TEMA_12_EXTRANJERIA
+      },
+      {
         id: 'seguridad_publica_privada',
         nombre: 'Seguridad Pública y Privada',
         tipo: 'general',
@@ -150,6 +161,12 @@ function App() {
         nombre: 'Carta de las Naciones Unidas',
         tipo: 'monografico',
         preguntas: onuMonograficosData
+      },
+      {
+        id: OFICIAL_THEME_ID,
+        nombre: 'Modelo 1A 2025',
+        tipo: 'oficial',
+        preguntas: modelo1A2025Data
       }
     ];
 
@@ -246,6 +263,12 @@ function App() {
     setQuestionCount(30);
   };
 
+  const handleOpenOfficialExams = () => {
+    setHomeMode('oficial');
+    setSelectedThemes([]);
+    setQuestionCount(30);
+  };
+
   const handleSelectAllThemes = () => {
     const allThemeIds = visibleThemes.map(theme => theme.id);
     setSelectedThemes(allThemeIds);
@@ -257,6 +280,7 @@ function App() {
 
   const startTestWithMode = async (mode) => {
     let allQuestions = [];
+    const isFixedFullExamMode = homeMode === 'monografico' || homeMode === 'oficial';
 
     if (isLoggedIn && API_BASE_URL) {
       const apiQuestionsList = await Promise.all(
@@ -284,12 +308,14 @@ function App() {
     const requested = Number(questionCount || 30);
     const count = Math.max(5, Math.min(requested, maxQuestions || 30));
 
-    // En cada examen se decide aleatoriamente si el bloque de temas va de 1->23 o de 23->1.
-    const syllabusDirection = Math.random() < 0.5 ? 'asc' : 'desc';
-    const selectedQuestions = sortQuestionsBySyllabus(
-      selectRandomQuestions(allQuestions, count),
-      syllabusDirection
-    );
+    // Primero ordenamos por tema (SYLLABUS_ORDER), luego seleccionamos de forma distribuida
+    // Esto asegura que obtengas preguntas de TODOS los temas, no solo del primero
+    const selectedQuestions = isFixedFullExamMode
+      ? allQuestions
+      : selectQuestionsDistributedByTheme(
+        sortQuestionsBySyllabus(allQuestions, 'asc'),
+        count
+      );
 
     setTestMode(mode || 'prueba');
     setTestQuestions(selectedQuestions);
@@ -338,9 +364,11 @@ function App() {
   };
 
   const visibleThemes = themes
-    .filter(theme =>
-      homeMode === 'monografico' ? theme.tipo === 'monografico' : theme.tipo !== 'monografico'
-    )
+    .filter((theme) => {
+      if (homeMode === 'monografico') return theme.tipo === 'monografico';
+      if (homeMode === 'oficial') return theme.tipo === 'oficial';
+      return theme.tipo !== 'monografico' && theme.tipo !== 'oficial';
+    })
     .sort((a, b) => {
       const orderDiff = getThemeOrder(a.id) - getThemeOrder(b.id);
       if (orderDiff !== 0) return orderDiff;
@@ -370,13 +398,14 @@ function App() {
           onDeselectAllThemes={handleDeselectAllThemes}
           onStartTest={handleStartTest}
           onOpenMonographicTests={handleOpenMonographicTests}
+          onOpenOfficialExams={handleOpenOfficialExams}
           onBackToGeneralTests={handleBackToGeneralTests}
           questionCount={questionCount}
           setQuestionCount={setQuestionCount}
           isLoggedIn={isLoggedIn}
           onLogout={handleLogout}
           totalAvailableQuestions={totalAvailableQuestions}
-          canUseCustomQuestionCount={true}
+          canUseCustomQuestionCount={homeMode === 'general'}
           homeMode={homeMode}
         />
       )}
