@@ -1,13 +1,24 @@
 import { calculateResults } from '../utils/testHelpers';
 
-const Results = ({ preguntas, respuestas, onNewTest, canDownloadAnswers = false }) => {
-  const resultados = calculateResults(preguntas, respuestas);
+const Results = ({ preguntas, respuestas, onNewTest, canDownloadAnswers = false, scoringMode = 'standard' }) => {
+  const isOfficialScoring = scoringMode === 'official';
+  const resultados = calculateResults(preguntas, respuestas, { scoringMode });
 
   const handleDownloadResultsWithAnswers = () => {
+    const resumenLinea = isOfficialScoring
+      ? `Puntuacion oficial: ${resultados.puntosOficial}/100 - Aciertos: ${resultados.aciertos} - Fallos: ${resultados.fallos} - No respondidas: ${resultados.noRespondidas}`
+      : `Resultados: ${resultados.porcentaje}% - Aciertos: ${resultados.aciertos} - Fallos: ${resultados.fallos}`;
+
     const lines = [
       'Resumen de examen - Academia Antonio',
       `Fecha: ${new Date().toLocaleDateString()}`,
-      `Resultados: ${resultados.porcentaje}% - Aciertos: ${resultados.aciertos} - Fallos: ${resultados.fallos}`,
+      resumenLinea,
+      ...(isOfficialScoring
+        ? [
+            `Formula aplicada: Nota = Aciertos - (Fallos / 3) = ${resultados.notaFormula}`,
+            `Corte oficial: ${resultados.corteOficial} puntos`
+          ]
+        : []),
       '',
       'Preguntas y respuestas:'
     ];
@@ -31,7 +42,9 @@ const Results = ({ preguntas, respuestas, onNewTest, canDownloadAnswers = false 
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
   };
-  const aprobado = resultados.porcentaje >= 50;
+  const aprobado = isOfficialScoring
+    ? resultados.aprobadoOficial
+    : Number(resultados.porcentaje) >= 50;
 
   // Devuelve la opción completa (ej. "b) Texto de la opción") dada la letra (a/b/c/d)
   const getOptionByLetter = (pregunta, letter) => {
@@ -70,8 +83,8 @@ const Results = ({ preguntas, respuestas, onNewTest, canDownloadAnswers = false 
               </h1>
               <p className="text-xl opacity-90">
                 {aprobado 
-                  ? 'Has superado el test con éxito' 
-                  : 'Necesitas mejorar tu puntuación'}
+                  ? (isOfficialScoring ? 'Has superado el corte oficial' : 'Has superado el test con éxito')
+                  : (isOfficialScoring ? 'No alcanzaste el corte oficial de 50 puntos' : 'Necesitas mejorar tu puntuación')}
               </p>
             </div>
           </div>
@@ -140,11 +153,14 @@ const Results = ({ preguntas, respuestas, onNewTest, canDownloadAnswers = false 
                   </div>
                   <div>
                     <p className={`text-sm font-semibold ${aprobado ? 'text-yellow-700' : 'text-gray-700'}`}>
-                      Nota Final
+                      {isOfficialScoring ? 'Puntuacion Oficial' : 'Nota Final'}
                     </p>
                     <p className={`text-4xl font-black ${aprobado ? 'text-yellow-600' : 'text-gray-600'}`}>
-                      {resultados.porcentaje}%
+                      {isOfficialScoring ? `${resultados.puntosOficial}` : `${resultados.porcentaje}%`}
                     </p>
+                    {isOfficialScoring && (
+                      <p className="text-xs font-semibold text-yellow-700">/100 (corte 50)</p>
+                    )}
                   </div>
                 </div>
                 <div className={`h-2 rounded-full overflow-hidden ${
@@ -152,9 +168,14 @@ const Results = ({ preguntas, respuestas, onNewTest, canDownloadAnswers = false 
                 }`}>
                   <div 
                     className={`h-full rounded-full transition-all duration-500 ${aprobado ? 'bg-yellow-500' : 'bg-gray-400'}`}
-                    style={{ width: `${resultados.porcentaje}%` }}
+                    style={{ width: `${isOfficialScoring ? resultados.puntosOficial : resultados.porcentaje}%` }}
                   ></div>
                 </div>
+                {isOfficialScoring && (
+                  <p className="mt-2 text-xs text-slate-600">
+                    Formula: Nota = Aciertos - (Fallos / 3) = {resultados.notaFormula}
+                  </p>
+                )}
               </div>
             </div>
           </div>

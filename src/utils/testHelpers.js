@@ -62,19 +62,49 @@ export const selectQuestionsDistributedByTheme = (questions, count) => {
 };
 
 // Calcular resultados
-export const calculateResults = (questions, answers) => {
+export const calculateResults = (questions, answers, options = {}) => {
+  const scoringMode = options.scoringMode || 'standard';
+
   let aciertos = 0;
-  
+  let fallos = 0;
+  let noRespondidas = 0;
+
   questions.forEach((pregunta, index) => {
-    if (answers[index] === pregunta.respuesta) {
+    const respuestaUsuario = answers[index];
+
+    if (respuestaUsuario === undefined) {
+      noRespondidas++;
+      return;
+    }
+
+    if (respuestaUsuario === pregunta.respuesta) {
       aciertos++;
+    } else {
+      fallos++;
     }
   });
 
-  const fallos = questions.length - aciertos;
-  const porcentaje = ((aciertos / questions.length) * 100).toFixed(1);
+  const total = questions.length || 1;
+  const porcentaje = ((aciertos / total) * 100).toFixed(1);
 
-  return { aciertos, fallos, porcentaje };
+  if (scoringMode === 'official') {
+    // Formula oficial tipo test: Nota = Aciertos - (Fallos / 3)
+    const notaFormula = aciertos - (fallos / 3);
+    const puntosOficial = Math.max(0, Number(((notaFormula / total) * 100).toFixed(2)));
+
+    return {
+      aciertos,
+      fallos,
+      noRespondidas,
+      porcentaje,
+      notaFormula: Number(notaFormula.toFixed(2)),
+      puntosOficial,
+      corteOficial: 50,
+      aprobadoOficial: puntosOficial >= 50
+    };
+  }
+
+  return { aciertos, fallos, noRespondidas, porcentaje };
 };
 
 // Obtener letra de la opción (a, b, c, d)

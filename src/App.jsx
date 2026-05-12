@@ -430,6 +430,7 @@ function App() {
           respuestas={answers}
           onNewTest={handleNewTest}
           canDownloadAnswers={isLoggedIn}
+          scoringMode={homeMode === 'oficial' ? 'official' : 'standard'}
         />
       )}
 
