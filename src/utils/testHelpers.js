@@ -51,7 +51,7 @@ export const selectQuestionsDistributedByTheme = (questions, count) => {
   // Seleccionar preguntas de cada tema en orden (respetando SYLLABUS_ORDER)
   const selected = [];
   themeOrder.forEach((themeId, index) => {
-    const themesQuestions = questionsByTheme[themeId];
+    const themesQuestions = shuffleArray(questionsByTheme[themeId]);
     // Los primeros 'remainder' temas obtienen una pregunta extra
     const qtyForThisTheme = questionsPerTheme + (index < remainder ? 1 : 0);
     selected.push(...themesQuestions.slice(0, qtyForThisTheme));
