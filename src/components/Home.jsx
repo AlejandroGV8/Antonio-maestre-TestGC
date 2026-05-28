@@ -17,7 +17,8 @@ const Home = ({
   onLogout,
   totalAvailableQuestions,
   canUseCustomQuestionCount,
-  homeMode
+  homeMode,
+  onOpenAnswersViewer
 }) => {
   const [questionCountInput, setQuestionCountInput] = useState(String(questionCount ?? ''));
 
@@ -228,10 +229,14 @@ const Home = ({
                   <div className="text-2xl mb-1">🔄</div>
                   <p className="text-xs text-gray-600 font-medium">Aleatorio</p>
                 </div>
-                <div className="text-center">
+                <button
+                  type="button"
+                  onClick={onOpenAnswersViewer}
+                  className="text-center rounded-lg p-2 transition-colors hover:bg-green-50"
+                >
                   <div className="text-2xl mb-1">✅</div>
-                  <p className="text-xs text-gray-600 font-medium">Correccion instantanea</p>
-                </div>
+                  <p className="text-xs text-gray-700 font-semibold">Ver respuestas</p>
+                </button>
                 <button
                   type="button"
                   onClick={onOpenOfficialExams}

@@ -10,7 +10,7 @@ const MODELO_1A_2025 = [
     respuesta: "c"
   },
   {
-    pregunta: "2) Declaracion Universal de Derechos Humanos. Senale la proposicion INCORRECTA.",
+    pregunta: "2) Declaracion Universal de Derechos Humanos. Señale la proposicion INCORRECTA.",
     opciones: [
       "a) Toda persona tiene derecho a un recurso efectivo ante los tribunales nacionales competentes, que la ampare contra actos que violen sus derechos fundamentales reconocidos por la constitucion o por la ley.",
       "b) Toda persona tiene derecho a los seguros en caso de desempleo u otros casos de perdida de sus medios de subsistencia por cualquier circunstancia.",
@@ -20,7 +20,7 @@ const MODELO_1A_2025 = [
     respuesta: "b"
   },
   {
-    pregunta: "3) Convenio para la proteccion de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Motivacion de las sentencias y de las resoluciones. Senale la opcion CORRECTA.",
+    pregunta: "3) Convenio para la proteccion de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Motivacion de las sentencias y de las resoluciones. Señale la opcion CORRECTA.",
     opciones: [
       "a) Las sentencias, asi como las resoluciones por las que las demandas se declaran admisibles o no admisibles, seran motivadas.",
       "b) Las resoluciones por las que las demandas se declaran no admisibles, no es preciso que sean motivadas.",
@@ -40,7 +40,7 @@ const MODELO_1A_2025 = [
     respuesta: "a"
   },
   {
-    pregunta: "5) Pacto Internacional de Derechos Economicos, Sociales y Culturales. Los Estados Partes en el Pacto reconocen el derecho de toda persona al goce de condiciones de trabajo, equitativas y satisfactorias que le aseguren en especial...: Senale la opcion INCORRECTA.",
+    pregunta: "5) Pacto Internacional de Derechos Economicos, Sociales y Culturales. Los Estados Partes en el Pacto reconocen el derecho de toda persona al goce de condiciones de trabajo, equitativas y satisfactorias que le aseguren en especial...: Señale la opcion INCORRECTA.",
     opciones: [
       "a) Igual oportunidad para todos de ser promovidos, dentro de su trabajo, a la categoria superior que les corresponda, sin mas consideraciones que los factores de tiempo de servicio y capacidad.",
       "b) La seguridad y la higiene en el trabajo.",
@@ -50,7 +50,7 @@ const MODELO_1A_2025 = [
     respuesta: "c"
   },
   {
-    pregunta: "6) Pacto Internacional de Derechos Civiles y Politicos. Senale la opcion CORRECTA.",
+    pregunta: "6) Pacto Internacional de Derechos Civiles y Politicos. Señale la opcion CORRECTA.",
     opciones: [
       "a) Todo Estado debe declarar, en el momento en que sea considerado Parte de este Pacto, que reconoce la competencia del Comite de Derechos Humanos para examinar las comunicaciones en que un Estado Parte alegue que otro Estado Parte no cumple las obligaciones que le impone este Pacto.",
       "b) El Comite de Derechos Humanos establecera su propio reglamento, en el cual se dispondra, entre otras cosas, que las decisiones del Comite se tomaran por mayoria de tres quintos de los miembros que lo componen.",
@@ -60,17 +60,17 @@ const MODELO_1A_2025 = [
     respuesta: "c"
   },
   {
-    pregunta: "7) Consejo de Derechos Humanos de la Organizacion de las Naciones Unidas. En relacion con el citado Consejo, senale la opcion INCORRECTA.",
+    pregunta: "7) Consejo de Derechos Humanos de la Organizacion de las Naciones Unidas. En relacion con el citado Consejo, Señale la opcion INCORRECTA.",
     opciones: [
       "a) Es el principal organo intergubernamental de las Naciones Unidas responsable de los derechos humanos.",
-      "b) Los escanos se distribuyen equitativamente entre los cinco grupos regionales de la ONU, y cada ano se renueva un tercio de los miembros.",
+      "b) Los escaños se distribuyen equitativamente entre los cinco grupos regionales de la ONU, y cada año se renueva un tercio de los miembros.",
       "c) El Consejo cuenta con el apoyo sustantivo, tecnico y de secretaria de la Oficina del Alto Comisionado para los Derechos Humanos (ACNUDH).",
       "d) Revisa el historial de derechos humanos de todos los Estados miembros de las Naciones Unidas a traves del Examen Anual General."
     ],
     respuesta: "d"
   },
   {
-    pregunta: "8) Convencion contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Senale la opcion INCORRECTA.",
+    pregunta: "8) Convencion contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Señale la opcion INCORRECTA.",
     opciones: [
       "a) Se tomaran medidas para asegurar que la persona que presente una queja por haber sido sometida a tortura y los testigos esten protegidos contra malos tratos o intimidacion como consecuencia de la queja o del testimonio prestado.",
       "b) Todo Estado Parte velara por que todos los actos de tortura constituyan delitos conforme a su legislacion penal, no siendo de aplicacion este precepto a los casos de tentativa de cometer tortura.",
@@ -90,12 +90,12 @@ const MODELO_1A_2025 = [
     respuesta: "c"
   },
   {
-    pregunta: "10) Carta de los Derechos Fundamentales de la Union Europea. Con arreglo a lo dispuesto en la Carta, en relacion con el trabajo infantil y la edad minima de admision al trabajo, senale la opcion CORRECTA.",
+    pregunta: "10) Carta de los Derechos Fundamentales de la Union Europea. Con arreglo a lo dispuesto en la Carta, en relacion con el trabajo infantil y la edad minima de admision al trabajo, Señale la opcion CORRECTA.",
     opciones: [
-      "a) No podra ser inferior a los 18 anos.",
-      "b) No podra ser inferior a los 16 anos.",
+      "a) No podra ser inferior a los 18 años.",
+      "b) No podra ser inferior a los 16 años.",
       "c) Podria excepcionalmente ser inferior a la edad en que concluye el periodo de escolaridad obligatoria.",
-      "d) No podra ser inferior a los 17 anos."
+      "d) No podra ser inferior a los 17 años."
     ],
     respuesta: "c"
   },
@@ -110,7 +110,7 @@ const MODELO_1A_2025 = [
     respuesta: "a"
   },
   {
-    pregunta: "12) Ley Organica de Cooperacion con la Corte Penal Internacional. Si Espana recibiere una invitacion de la Corte para participar en un proceso en calidad de \"amicus curiae\", el _______________ consultara con el Ministerio de Asuntos Exteriores, Union Europea y Cooperacion para determinar la conveniencia u oportunidad de hacerlo y, en su caso, fijar los terminos de dicha participacion.",
+    pregunta: "12) Ley Organica de Cooperacion con la Corte Penal Internacional. Si España recibiere una invitacion de la Corte para participar en un proceso en calidad de \"amicus curiae\", el _______________ consultara con el Ministerio de Asuntos Exteriores, Union Europea y Cooperacion para determinar la conveniencia u oportunidad de hacerlo y, en su caso, fijar los terminos de dicha participacion.",
     opciones: [
       "a) Fiscal General del Estado.",
       "b) El Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.",
@@ -120,12 +120,12 @@ const MODELO_1A_2025 = [
     respuesta: "b"
   },
   {
-    pregunta: "13) Reglamento de Organizacion y Funcionamiento del Defensor del Pueblo. En relacion con el Consejo Asesor del Mecanismo Nacional de Prevencion de Tortura, senale la opcion CORRECTA.",
+    pregunta: "13) Reglamento de Organizacion y Funcionamiento del Defensor del Pueblo. En relacion con el Consejo Asesor del Mecanismo Nacional de Prevencion de Tortura, Señale la opcion CORRECTA.",
     opciones: [
       "a) El Consejo Asesor es un organo de cooperacion tecnica y juridica del Mecanismo Nacional de Prevencion.",
       "b) Corresponde al Adjunto en el que el Defensor del Pueblo delegue las funciones, hacer la designacion de los Vocales.",
       "c) El Consejo Asesor estara integrado por los Adjuntos del Defensor del Pueblo, como miembros natos, ademas de por un maximo de 15 Vocales.",
-      "d) El Consejo Asesor se reunira, al menos, una vez al ano."
+      "d) El Consejo Asesor se reunira, al menos, una vez al año."
     ],
     respuesta: "a"
   },
@@ -180,7 +180,7 @@ const MODELO_1A_2025 = [
     respuesta: "b"
   },
   {
-    pregunta: "19) Constitucion Espanola. Es un derecho fundamental...:",
+    pregunta: "19) Constitucion Española. Es un derecho fundamental...:",
     opciones: [
       "a) El derecho a la libertad de catedra.",
       "b) El derecho a la propiedad privada y a la herencia.",
@@ -190,7 +190,7 @@ const MODELO_1A_2025 = [
     respuesta: "a"
   },
   {
-    pregunta: "20) Constitucion Espanola. De los siguientes derechos y libertades reconocidos en la Constitucion, de cual de ellos NO se podra recabar su tutela a traves del Recurso de Amparo ante el Tribunal Constitucional?",
+    pregunta: "20) Constitucion Española. De los siguientes derechos y libertades reconocidos en la Constitucion, de cual de ellos NO se podra recabar su tutela a traves del Recurso de Amparo ante el Tribunal Constitucional?",
     opciones: [
       "a) Derecho de fundacion para fines de interes general, con arreglo a la ley.",
       "b) Derecho a la produccion y creacion literaria, artistica, cientifica y tecnica.",
@@ -200,7 +200,7 @@ const MODELO_1A_2025 = [
     respuesta: "a"
   },
   {
-    pregunta: "21) Constitucion Espanola. En relacion con los principios rectores de la politica social y economica, senale la proposicion INCORRECTA.",
+    pregunta: "21) Constitucion Española. En relacion con los principios rectores de la politica social y economica, Señale la proposicion INCORRECTA.",
     opciones: [
       "a) Los poderes publicos impulsaran las politicas que garanticen la plena autonomia personal y la inclusion social de las personas con discapacidad, en entornos universalmente accesibles.",
       "b) Los poderes publicos mantendran un regimen publico de Seguridad Social para todos los ciudadanos que garantice las prestaciones sociales suficientes ante situaciones de necesidad, especialmente en el caso de acceso a la sanidad.",
@@ -210,7 +210,7 @@ const MODELO_1A_2025 = [
     respuesta: "b"
   },
   {
-    pregunta: "22) Constitucion Espanola. La institucion del Defensor del Pueblo como alto comisionado de las Cortes Generales esta regulada por...:",
+    pregunta: "22) Constitucion Española. La institucion del Defensor del Pueblo como alto comisionado de las Cortes Generales esta regulada por...:",
     opciones: [
       "a) Un Real Decreto.",
       "b) Una Ley Ordinaria.",
@@ -220,7 +220,7 @@ const MODELO_1A_2025 = [
     respuesta: "d"
   },
   {
-    pregunta: "23) Constitucion Espanola. De las siguientes opciones, cual es una competencia del Gobierno?",
+    pregunta: "23) Constitucion Española. De las siguientes opciones, cual es una competencia del Gobierno?",
     opciones: [
       "a) Convocar elecciones en los terminos previstos en la Constitucion.",
       "b) Dirigir la Administracion Civil y Militar y la defensa del Estado.",
@@ -230,7 +230,7 @@ const MODELO_1A_2025 = [
     respuesta: "b"
   },
   {
-    pregunta: "24) Constitucion Espanola. La responsabilidad criminal de los miembros del Gobierno como consecuencia de una acusacion por delito de traicion o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, solo podra ser planteada por iniciativa de...:",
+    pregunta: "24) Constitucion Española. La responsabilidad criminal de los miembros del Gobierno como consecuencia de una acusacion por delito de traicion o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, solo podra ser planteada por iniciativa de...:",
     opciones: [
       "a) La mayoria absoluta de los miembros del Congreso.",
       "b) La cuarta parte de los miembros que componen las Cortes Generales.",
@@ -244,13 +244,13 @@ const MODELO_1A_2025 = [
     opciones: [
       "a) El Defensor del Pueblo es el alto comisionado de las Cortes Generales designado por estas para la defensa de los derechos comprendidos en el Titulo I de la Constitucion.",
       "b) Se dirigira a las Cortes Generales a traves de los Presidentes del Congreso y del Senado, respectivamente.",
-      "c) El Defensor del Pueblo sera elegido por las Cortes Generales para un periodo de cinco anos.",
-      "d) Podra ser elegido Defensor del Pueblo cualquier espanol mayor de edad."
+      "c) El Defensor del Pueblo sera elegido por las Cortes Generales para un periodo de cinco años.",
+      "d) Podra ser elegido Defensor del Pueblo cualquier Español mayor de edad."
     ],
     respuesta: "d"
   },
   {
-    pregunta: "26) Ley Organica sobre proteccion civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen. Senale la opcion INCORRECTA.",
+    pregunta: "26) Ley Organica sobre proteccion civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen. Señale la opcion INCORRECTA.",
     opciones: [
       "a) Conforme a la Constitucion, los derechos al honor, a la intimidad personal y familiar y a la propia imagen tienen el rango de fundamentales.",
       "b) Los derechos protegidos en la ley son considerados absolutamente ilimitados.",
@@ -270,7 +270,7 @@ const MODELO_1A_2025 = [
     respuesta: "d"
   },
   {
-    pregunta: "28) Tratado de la Union Europea. En relacion con los principios que rigen la delimitacion y ejercicio de las competencias de la Union Europea, senale la opcion CORRECTA.",
+    pregunta: "28) Tratado de la Union Europea. En relacion con los principios que rigen la delimitacion y ejercicio de las competencias de la Union Europea, Señale la opcion CORRECTA.",
     opciones: [
       "a) El ejercicio de las competencias de la Union se rige por el principio de atribucion.",
       "b) Las instituciones de la Union aplicaran el principio de subsidiariedad de conformidad con el Protocolo sobre la aplicacion de los principios de subsidiariedad y proporcionalidad.",
@@ -282,7 +282,7 @@ const MODELO_1A_2025 = [
   {
     pregunta: "29) Tratado de Funcionamiento de la Union Europea. Cuando se plantee una cuestion sobre la interpretacion de los Tratados ante un organo jurisdiccional de uno de los Estados miembros, dicho organo...:",
     opciones: [
-      "a) Podra someter la cuestion al Tribunal Europeo si lo entiende conveniente, pero no tiene obligacion de hacerlo en ningun caso.",
+      "a) Podra someter la cuestion al Tribunal Europeo si lo entiende conveniente, pero no tiene obligacion de hacerlo en ningún caso.",
       "b) Debera someter la cuestion al Tribunal de Estrasburgo si de la decision de dicha cuestion depende el fallo en el procedimiento del que esta conociendo.",
       "c) Podra pedir al Tribunal de Justicia de la Union Europea que se pronuncie sobre la misma, si estima necesaria una decision al respecto para poder emitir su fallo.",
       "d) Debera en todo caso someter la cuestion al Tribunal de Justicia de la Union Europea, aunque entienda que su resolucion no afecta necesariamente a la resolucion del litigio."
@@ -300,22 +300,22 @@ const MODELO_1A_2025 = [
     respuesta: "d"
   },
   {
-    pregunta: "31) Instituciones Internacionales. Organizacion de las Naciones Unidas. Senale la opcion CORRECTA.",
+    pregunta: "31) Instituciones Internacionales. Organizacion de las Naciones Unidas. Señale la opcion CORRECTA.",
     opciones: [
       "a) Las Naciones Unidas nacieron oficialmente el 24 de octubre de 1935.",
       "b) Los Estados son admitidos como Miembros de las Naciones Unidas por una decision del Consejo de Seguridad.",
-      "c) El Secretario General es nombrado por la Asamblea General por recomendacion del Consejo de Seguridad por un periodo renovable de cuatro anos.",
+      "c) El Secretario General es nombrado por la Asamblea General por recomendacion del Consejo de Seguridad por un periodo renovable de cuatro años.",
       "d) El Sistema de las Naciones Unidas esta formado por la propia Organizacion y numerosas organizaciones conexas conocidas como programas, fondos y agencias especializadas."
     ],
     respuesta: "d"
   },
   {
-    pregunta: "32) Instituciones Internacionales. En relacion con el Consejo de Europa, senale la opcion INCORRECTA.",
+    pregunta: "32) Instituciones Internacionales. En relacion con el Consejo de Europa, Señale la opcion INCORRECTA.",
     opciones: [
       "a) El Comite de Ministros es el organo ejecutivo del Consejo de Europa y esta integrado por los Ministros del Interior de cada Estado miembro o de sus representantes diplomaticos permanentes en Estrasburgo.",
       "b) Todos los Estados miembros del Consejo de Europa han suscrito el Convenio Europeo de Derechos Humanos.",
       "c) El Consejo de Europa es la principal organizacion del continente dedicada a la defensa de los derechos humanos.",
-      "d) Su Secretario General es elegido por la Asamblea Parlamentaria para un mandato de cinco anos."
+      "d) Su Secretario General es elegido por la Asamblea Parlamentaria para un mandato de cinco años."
     ],
     respuesta: "a"
   },
@@ -342,15 +342,15 @@ const MODELO_1A_2025 = [
   {
     pregunta: "35) Instituciones Internacionales. Organizacion de las Naciones Unidas para la Agricultura y la Alimentacion (FAO). Entre los organos rectores de la FAO se encuentra la Conferencia. Este organo celebra un periodo ordinario de sesiones...:",
     opciones: [
-      "a) Cada ano.",
-      "b) Cada tres anos.",
-      "c) Cada dos anos.",
+      "a) Cada año.",
+      "b) Cada tres años.",
+      "c) Cada dos años.",
       "d) Cada seis meses."
     ],
     respuesta: "c"
   },
   {
-    pregunta: "36) Codigo Civil. De los alimentos entre parientes. Senale la opcion INCORRECTA.",
+    pregunta: "36) Codigo Civil. De los alimentos entre parientes. Señale la opcion INCORRECTA.",
     opciones: [
       "a) Se entiende por alimentos todo lo que es indispensable para el sustento, habitacion, vestido y asistencia medica.",
       "b) Entre los alimentos se incluiran los gastos de embarazo y parto, aun estando cubiertos de otro modo.",
@@ -360,27 +360,27 @@ const MODELO_1A_2025 = [
     respuesta: "b"
   },
   {
-    pregunta: "37) Codigo Civil. De la guarda y acogimiento de menores. En relacion con el acogimiento familiar, senale la proposicion INCORRECTA.",
+    pregunta: "37) Codigo Civil. De la guarda y acogimiento de menores. En relacion con el acogimiento familiar, Señale la proposicion INCORRECTA.",
     opciones: [
-      "a) El acogimiento familiar permanente se constituira bien al finalizar el plazo de dos anos de acogimiento temporal o por no ser posible la reintegracion familiar, o bien directamente en casos de menores con necesidades especiales o cuando las circunstancias del menor y su familia asi lo aconsejen.",
+      "a) El acogimiento familiar permanente se constituira bien al finalizar el plazo de dos años de acogimiento temporal o por no ser posible la reintegracion familiar, o bien directamente en casos de menores con necesidades especiales o cuando las circunstancias del menor y su familia asi lo aconsejen.",
       "b) El acogimiento familiar podra tener lugar en la propia familia extensa del menor o en familia ajena, pudiendo en este ultimo caso ser especializado.",
-      "c) El acogimiento familiar de urgencia, principalmente para menores de seis anos, tendra una duracion no superior a seis meses, en tanto se decide la medida de proteccion familiar que corresponda.",
-      "d) El acogimiento familiar temporal, que tendra caracter transitorio, porque de la situacion del menor se prevea la reintegracion de este en su propia familia, tendra una duracion maxima de dos anos."
+      "c) El acogimiento familiar de urgencia, principalmente para menores de seis años, tendra una duracion no superior a seis meses, en tanto se decide la medida de proteccion familiar que corresponda.",
+      "d) El acogimiento familiar temporal, que tendra caracter transitorio, porque de la situacion del menor se prevea la reintegracion de este en su propia familia, tendra una duracion maxima de dos años."
     ],
     respuesta: "d"
   },
   {
     pregunta: "38) Codigo Civil. De la delacion de la tutela y del nombramiento del tutor. La autoridad judicial podra decretar la remocion de la tutela a solicitud de la persona menor de edad si tuviere suficiente madurez. En todo caso sera tenida en cuenta su opinion y se le dara audiencia si fuere mayor de...:",
     opciones: [
-      "a) Diez anos.",
-      "b) Once anos.",
-      "c) Doce anos.",
-      "d) Nueve anos."
+      "a) Diez años.",
+      "b) Once años.",
+      "c) Doce años.",
+      "d) Nueve años."
     ],
     respuesta: "c"
   },
   {
-    pregunta: "39) Codigo Civil. De la mayor edad y la emancipacion. Respecto al menor que hubiere obtenido judicialmente la emancipacion, senale la proposicion CORRECTA.",
+    pregunta: "39) Codigo Civil. De la mayor edad y la emancipacion. Respecto al menor que hubiere obtenido judicialmente la emancipacion, Señale la proposicion CORRECTA.",
     opciones: [
       "a) Puede gravar o enajenar bienes inmuebles sin el consentimiento de sus progenitores.",
       "b) No puede por si solo comparecer en juicio.",
@@ -390,7 +390,7 @@ const MODELO_1A_2025 = [
     respuesta: "d"
   },
   {
-    pregunta: "40) Ley Organica del Codigo Penal. De la infraccion penal. De los delitos. Senale la opcion INCORRECTA.",
+    pregunta: "40) Ley Organica del Codigo Penal. De la infraccion penal. De los delitos. Señale la opcion INCORRECTA.",
     opciones: [
       "a) El error invencible sobre la ilicitud del hecho constitutivo de la infraccion penal excluye la responsabilidad criminal.",
       "b) Si el error fuera vencible, se aplicara la pena inferior en un grado.",
@@ -470,7 +470,7 @@ const MODELO_1A_2025 = [
     respuesta: "c"
   },
   {
-    pregunta: "48) Ley de Enjuiciamiento Criminal. En relacion con la declaracion de los testigos, senale la opcion CORRECTA.",
+    pregunta: "48) Ley de Enjuiciamiento Criminal. En relacion con la declaracion de los testigos, Señale la opcion CORRECTA.",
     opciones: [
       "a) Durante la declaracion el testigo no podra dictar las contestaciones por si mismo.",
       "b) Podran consultar algun apunte o memoria que contenga datos dificiles de recordar.",
@@ -493,14 +493,14 @@ const MODELO_1A_2025 = [
     pregunta: "50) Ley Organica del Poder Judicial. La Sala de lo Penal de la Audiencia Nacional conocera...:",
     opciones: [
       "a) De todos los procedimientos penales iniciados en el extranjero y de la ejecucion de las sentencias dictadas por Tribunales extranjeros.",
-      "b) De las cuestiones de cesion de jurisdiccion en materia penal derivadas del cumplimiento de tratados internacionales en los que Espana sea parte.",
+      "b) De las cuestiones de cesion de jurisdiccion en materia penal derivadas del cumplimiento de tratados internacionales en los que España sea parte.",
       "c) En unica instancia, de los procesos sobre conflictos colectivos cuya resolucion haya de surtir efecto en un ambito territorial superior al de una Comunidad Autonoma.",
       "d) De los recursos de apelacion contra las resoluciones dictadas en primera instancia por las Audiencias Provinciales."
     ],
     respuesta: "b"
   },
   {
-    pregunta: "51) Ley Organica del Poder Judicial. Con respecto a los Abogados y Procuradores, senale la opcion INCORRECTA.",
+    pregunta: "51) Ley Organica del Poder Judicial. Con respecto a los Abogados y Procuradores, Señale la opcion INCORRECTA.",
     opciones: [
       "a) En el ejercicio de su profesion, para los actos y en la forma que se determine reglamentariamente, los procuradores podran ser sustituidos por oficial habilitado.",
       "b) La colegiacion de los Abogados y Procuradores sera siempre obligatoria para actuar ante los Juzgados y Tribunales en los terminos previstos en esta Ley y por la legislacion general sobre colegios profesionales.",
@@ -532,15 +532,15 @@ const MODELO_1A_2025 = [
   {
     pregunta: "54) Ley del Procedimiento Administrativo Comun de las Administraciones Publicas. Registros electronicos de apoderamientos. Como norma general, los poderes inscritos en los registros tendran una validez determinada maxima de _______________ a contar desde la fecha de inscripcion.",
     opciones: [
-      "a) Tres anos.",
-      "b) Un ano.",
-      "c) Cinco anos.",
-      "d) Diez anos."
+      "a) Tres años.",
+      "b) Un año.",
+      "c) Cinco años.",
+      "d) Diez años."
     ],
     respuesta: "c"
   },
   {
-    pregunta: "55) Ley del Procedimiento Administrativo Comun de las Administraciones Publicas. ¿En cual de las siguientes circunstancias, el recurso extraordinario de revision se interpondra, dentro del plazo de cuatro anos siguientes a la fecha de la notificacion de la resolucion impugnada?",
+    pregunta: "55) Ley del Procedimiento Administrativo Comun de las Administraciones Publicas. ¿En cual de las siguientes circunstancias, el recurso extraordinario de revision se interpondra, dentro del plazo de cuatro años siguientes a la fecha de la notificacion de la resolucion impugnada?",
     opciones: [
       "a) Cuando al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente.",
       "b) Cuando aparezcan documentos de valor esencial para la resolucion del asunto que, aunque sean posteriores, evidencien el error de la resolucion recurrida.",
@@ -560,7 +560,7 @@ const MODELO_1A_2025 = [
     respuesta: "c"
   },
   {
-    pregunta: "57) Ley de Regimen Juridico del Sector Publico. En relacion con la encomienda de gestion, senale la opcion INCORRECTA.",
+    pregunta: "57) Ley de Regimen Juridico del Sector Publico. En relacion con la encomienda de gestion, Señale la opcion INCORRECTA.",
     opciones: [
       "a) La realizacion de actividades de caracter material o tecnico de la competencia de los organos administrativos o de las Entidades de Derecho Publico o Privado podra ser encomendada a cualquiera de los organos o Entidades de la misma o de distinta Administracion cuando no se posean los medios tecnicos idoneos para su desempeno.",
       "b) Sera responsabilidad del organo o Entidad encomendante dictar cuantos actos o resoluciones de caracter juridico den soporte o en los que se integre la concreta actividad material objeto de encomienda.",
@@ -572,7 +572,7 @@ const MODELO_1A_2025 = [
   {
     pregunta: "58) Ley de Regimen Juridico del Sector Publico. ¿Cual de las siguientes circunstancias, NO es un motivo por el que tengan que abstenerse las autoridades y el personal al servicio de las Administraciones de intervenir en un procedimiento?",
     opciones: [
-      "a) Haber prestado en los dos ultimos anos servicios profesionales de cualquier tipo y en cualquier circunstancia o lugar a persona natural o juridica interesada directamente en el asunto.",
+      "a) Haber prestado en los dos ultimos años servicios profesionales de cualquier tipo y en cualquier circunstancia o lugar a persona natural o juridica interesada directamente en el asunto.",
       "b) Tener enemistad manifiesta con representantes legales que intervengan en el procedimiento, con algun interesado.",
       "c) Ser administrador de sociedad o entidad interesada, o tener cuestion litigiosa pendiente con algun interesado.",
       "d) Tener el parentesco de consanguinidad o afinidad dentro del cuarto grado, con los administradores de entidades o sociedades interesadas en el procedimiento."
@@ -580,7 +580,7 @@ const MODELO_1A_2025 = [
     respuesta: "d"
   },
   {
-    pregunta: "59) Ley Organica de Proteccion de Datos Personales y garantia de los derechos digitales. ¿Quien aprobara el Estatuto de la Agencia Espanola de Proteccion de Datos?",
+    pregunta: "59) Ley Organica de Proteccion de Datos Personales y garantia de los derechos digitales. ¿Quien aprobara el Estatuto de la Agencia Española de Proteccion de Datos?",
     opciones: [
       "a) La propia Agencia.",
       "b) El Gobierno.",
@@ -590,27 +590,27 @@ const MODELO_1A_2025 = [
     respuesta: "b"
   },
   {
-    pregunta: "60) Ley Organica de Proteccion Datos personales y garantia de derechos digitales. En relacion con el Consejo Consultivo de la Agencia Espanola de Proteccion de Datos, senale la opcion INCORRECTA.",
+    pregunta: "60) Ley Organica de Proteccion Datos personales y garantia de derechos digitales. En relacion con el Consejo Consultivo de la Agencia Española de Proteccion de Datos, Señale la opcion INCORRECTA.",
     opciones: [
       "a) El Consejo Consultivo estara compuesto entre otros por un representante designado por el Consejo General del Poder Judicial.",
       "b) La condicion de experto de un miembro del Consejo Consultivo requerira acreditar conocimientos genericos en el derecho y la practica en materia de proteccion de datos mediante el ejercicio profesional o academico.",
-      "c) La Presidencia de la Agencia Espanola de Proteccion de Datos estara asesorada por un Consejo Consultivo.",
-      "d) El Consejo Consultivo estara compuesto entre otros por un experto, propuesto por la Conferencia de Rectores de las Universidades Espanolas."
+      "c) La Presidencia de la Agencia Española de Proteccion de Datos estara asesorada por un Consejo Consultivo.",
+      "d) El Consejo Consultivo estara compuesto entre otros por un experto, propuesto por la Conferencia de Rectores de las Universidades Españolas."
     ],
     respuesta: "b"
   },
   {
-    pregunta: "61) Ley organica sobre derechos y libertades de los extranjeros en Espana y su integracion social. Infracciones en materia de extranjeria. Senale la proposicion INCORRECTA.",
+    pregunta: "61) Ley organica sobre derechos y libertades de los extranjeros en España y su integracion social. Infracciones en materia de extranjeria. Señale la proposicion INCORRECTA.",
     opciones: [
-      "a) La omision en la comunicacion a las autoridades espanolas de los cambios de nacionalidad, de estado civil o de domicilio, constituye una infraccion leve.",
-      "b) Las salidas del territorio espanol por puestos no habilitados, sin exhibir la documentacion prevista o contraviniendo las prohibiciones legalmente impuestas, constituye infraccion grave.",
+      "a) La omision en la comunicacion a las autoridades españolas de los cambios de nacionalidad, de estado civil o de domicilio, constituye una infraccion leve.",
+      "b) Las salidas del territorio Español por puestos no habilitados, sin exhibir la documentacion prevista o contraviniendo las prohibiciones legalmente impuestas, constituye infraccion grave.",
       "c) Consentir la inscripcion de un extranjero en el Padron Municipal por parte del titular de una vivienda habilitada para tal fin, cuando dicha vivienda no constituya el domicilio real del extranjero, constituye una infraccion muy grave.",
-      "d) Contrarse trabajando en Espana sin haber solicitado autorizacion administrativa para trabajar por cuenta propia, cuando se cuente con autorizacion de residencia temporal, constituye una infraccion leve."
+      "d) Contrarse trabajando en España sin haber solicitado autorizacion administrativa para trabajar por cuenta propia, cuando se cuente con autorizacion de residencia temporal, constituye una infraccion leve."
     ],
     respuesta: "c"
   },
   {
-    pregunta: "62) Real Decreto sobre entrada, libre circulacion y residencia en Espana de ciudadanos de los Estados miembros de la Union Europea y de otros Estados parte en el Acuerdo sobre el Espacio Economico Europeo. La expedicion de la tarjeta de residencia de familiar de ciudadano de la Union debera realizarse en el plazo _______________ a la presentacion de la solicitud.",
+    pregunta: "62) Real Decreto sobre entrada, libre circulacion y residencia en España de ciudadanos de los Estados miembros de la Union Europea y de otros Estados parte en el Acuerdo sobre el Espacio Economico Europeo. La expedicion de la tarjeta de residencia de familiar de ciudadano de la Union debera realizarse en el plazo _______________ a la presentacion de la solicitud.",
     opciones: [
       "a) De los tres meses siguientes.",
       "b) De los veinte dias habiles siguientes.",
@@ -620,11 +620,11 @@ const MODELO_1A_2025 = [
     respuesta: "a"
   },
   {
-    pregunta: "63) Real Decreto sobre Entrada, libre circulacion y residencia en Espana de ciudadanos de los Estados miembros de la Union Europea y de otros Estados parte en el Acuerdo sobre el Espacio Economico Europeo. Salvo que existan motivos imperiosos de seguridad publica, NO podra adoptarse una decision de expulsion o repatriacion respecto a los citados ciudadanos...:",
+    pregunta: "63) Real Decreto sobre Entrada, libre circulacion y residencia en España de ciudadanos de los Estados miembros de la Union Europea y de otros Estados parte en el Acuerdo sobre el Espacio Economico Europeo. Salvo que existan motivos imperiosos de seguridad publica, NO podra adoptarse una decision de expulsion o repatriacion respecto a los citados ciudadanos...:",
     opciones: [
-      "a) Si hubieran residido en Espana durante un periodo ininterrumpido de cinco anos.",
+      "a) Si hubieran residido en España durante un periodo ininterrumpido de cinco años.",
       "b) Si fuera menor de edad, salvo si la repatriacion es conforme al interes superior del menor.",
-      "c) Si hubieran residido en Espana durante los cinco anos anteriores.",
+      "c) Si hubieran residido en España durante los cinco años anteriores.",
       "d) Son correctas las opciones a) y b)."
     ],
     respuesta: "b"
@@ -640,7 +640,7 @@ const MODELO_1A_2025 = [
     respuesta: "b"
   },
   {
-    pregunta: "65) Ley Organica de proteccion de la seguridad ciudadana. Medidas de seguridad extraordinarias. Senale la opcion INCORRECTA.",
+    pregunta: "65) Ley Organica de proteccion de la seguridad ciudadana. Medidas de seguridad extraordinarias. Señale la opcion INCORRECTA.",
     opciones: [
       "a) Entre ellas se encuentra la entrada y registro en domicilios.",
       "b) Podran adoptarse en casos de urgencia incluso mediante ordenes verbales.",
@@ -672,10 +672,10 @@ const MODELO_1A_2025 = [
   {
     pregunta: "68) Ley de Seguridad Privada. ¿Cual de los siguientes es uno de los requisitos generales exigidos para la obtencion de la habilitacion profesional para el ejercicio de las funciones de seguridad privada?",
     opciones: [
-      "a) Tener la nacionalidad espanola.",
+      "a) Tener la nacionalidad Española.",
       "b) Carecer de antecedentes penales por cualquier delito.",
-      "c) No haber sido sancionado en los dos o cuatro anos anteriores por infraccion grave o muy grave, respectivamente, en materia de seguridad privada.",
-      "d) No haber sido separado del servicio en las Fuerzas y Cuerpos de Seguridad en los cinco anos anteriores."
+      "c) No haber sido sancionado en los dos o cuatro años anteriores por infraccion grave o muy grave, respectivamente, en materia de seguridad privada.",
+      "d) No haber sido separado del servicio en las Fuerzas y Cuerpos de Seguridad en los cinco años anteriores."
     ],
     respuesta: "c"
   },
@@ -690,7 +690,7 @@ const MODELO_1A_2025 = [
     respuesta: "d"
   },
   {
-    pregunta: "70) Real Decreto por el que se desarrolla la estructura organica basica del Ministerio de Defensa. ¿Quien ejercera sobre la Unidad Militar de Emergencias las competencias que tiene atribuidas en los supuestos de conduccion de operaciones militares que contribuyan a la seguridad y defensa de Espana y de sus aliados?",
+    pregunta: "70) Real Decreto por el que se desarrolla la estructura organica basica del Ministerio de Defensa. ¿Quien ejercera sobre la Unidad Militar de Emergencias las competencias que tiene atribuidas en los supuestos de conduccion de operaciones militares que contribuyan a la seguridad y defensa de España y de sus aliados?",
     opciones: [
       "a) El Jefe de Estado Mayor de la Defensa.",
       "b) El Secretario de Estado de Defensa.",
@@ -820,7 +820,7 @@ const MODELO_1A_2025 = [
     respuesta: "c"
   },
   {
-    pregunta: "83) Ley reguladora de determinados aspectos de los servicios electronicos de confianza. Obligaciones y responsabilidad de los prestadores de servicios electronicos de confianza. Senale la opcion INCORRECTA.",
+    pregunta: "83) Ley reguladora de determinados aspectos de los servicios electronicos de confianza. Obligaciones y responsabilidad de los prestadores de servicios electronicos de confianza. Señale la opcion INCORRECTA.",
     opciones: [
       "a) Los prestadores de servicios de confianza no cualificados necesitaran verificacion administrativa previa de cumplimiento de requisitos para iniciar su actividad.",
       "b) Deberan comunicar su actividad al Ministerio para la Transformacion Digital y de la Funcion Publica en el plazo de tres meses desde que la inicien.",
@@ -830,7 +830,7 @@ const MODELO_1A_2025 = [
     respuesta: "a"
   },
   {
-    pregunta: "84) Principios y recomendaciones basicas en Ciberseguridad del CCN-CERT. Con respecto a los Bitcoins, senale la opcion CORRECTA.",
+    pregunta: "84) Principios y recomendaciones basicas en Ciberseguridad del CCN-CERT. Con respecto a los Bitcoins, Señale la opcion CORRECTA.",
     opciones: [
       "a) En lugar de actuar una moneda o imprimir un billete, se utiliza una cadena de caracteres criptograficos que se intercambian a traves de billeteras digitales (wallets) entre el usuario y el vendedor (intercambios P2P).",
       "b) Cada transaccion con bitcoins se registra en una gran base de datos llamada 'Blockchain'.",
@@ -860,7 +860,7 @@ const MODELO_1A_2025 = [
     respuesta: "c"
   },
   {
-    pregunta: "87) Topografia. Con respecto a los elementos geograficos, senale la opcion INCORRECTA.",
+    pregunta: "87) Topografia. Con respecto a los elementos geograficos, Señale la opcion INCORRECTA.",
     opciones: [
       "a) Recibe el nombre de plano meridiano, todo plano que contiene al eje terrestre.",
       "b) Se denomina paralelos a las lineas de interseccion con la superficie terrestre de todo plano perpendicular al eje terrestre.",
@@ -880,7 +880,7 @@ const MODELO_1A_2025 = [
     respuesta: "c"
   },
   {
-    pregunta: "89) Principios basicos sobre el empleo de la fuerza y armas de fuego por los funcionarios encargados de hacer cumplir la Ley. Senale la opcion INCORRECTA.",
+    pregunta: "89) Principios basicos sobre el empleo de la fuerza y armas de fuego por los funcionarios encargados de hacer cumplir la Ley. Señale la opcion INCORRECTA.",
     opciones: [
       "a) Cuando el empleo de las armas de fuego sea inevitable, los funcionarios encargados de hacer cumplir la Ley, notificaran lo sucedido en un plazo maximo de 24 horas a los parientes o amigos intimos de las personas heridas o afectadas.",
       "b) En cualquier caso, solo se podra hacer uso intencional de armas letales cuando sea estrictamente inevitable para proteger una vida.",
@@ -933,7 +933,7 @@ const MODELO_1A_2025 = [
     pregunta: "94) Reglamento de Armas. Envases y precintos. Los envases para el comercio interior de armas de fuego...:",
     opciones: [
       "a) Pueden contener cualquier numero de armas, cuando ofrezcan suficientes garantias de seguridad.",
-      "b) No pueden llevar armas cortas o largas de canon estriado junto con escopetas de caza y asimiladas.",
+      "b) No pueden llevar armas cortas o largas de cañon estriado junto con escopetas de caza y asimiladas.",
       "c) Podran contener 50 armas largas.",
       "d) No deben contener mas de 20 armas cortas."
     ],
@@ -950,7 +950,7 @@ const MODELO_1A_2025 = [
     respuesta: "d"
   },
   {
-    pregunta: "96) Reglamento de Explosivos. Transporte por carretera. En relacion con las paradas de un transporte de explosivos por carretera, senale la opcion INCORRECTA.",
+    pregunta: "96) Reglamento de Explosivos. Transporte por carretera. En relacion con las paradas de un transporte de explosivos por carretera, Señale la opcion INCORRECTA.",
     opciones: [
       "a) Las paradas por necesidades del servicio no se efectuaran en la proximidad de lugares habitados.",
       "b) Se evitara atravesar poblaciones y pasar por zonas de gran densidad de trafico, debiendo en todo caso cumplir con las normas e itinerarios de mercancias peligrosas.",

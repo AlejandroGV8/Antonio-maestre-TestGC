@@ -3,6 +3,7 @@ import Home from './components/Home';
 import TestScreen from './components/TestScreen';
 import Results from './components/Results';
 import LoginPage from './components/LoginPage';
+import AnswersViewer from './components/AnswersViewer';
 import { selectRandomQuestions, selectQuestionsDistributedByTheme } from './utils/testHelpers';
 import ModeModal from './components/ModeModal';
 
@@ -22,12 +23,13 @@ import proteccionDatosData from './data/proteccion_datos';
 import onuMonograficosData from './data/onu_monograficos';
 import seguridadPublicaPrivadaData from './data/seguridad_publica_privada.json';
 import modelo1A2025Data from './data/examen_oficial_modelo_1a_2025';
+import modeloB2025Data from './data/examen_oficial_modelo_b_2025';
 import TEMA_12_EXTRANJERIA from './data/tema_12_extranjeria';
+import TEMA_19_DEONTOLOGIA_PROFESIONAL from './data/tema_19_deontologia_profesional';
 
 function App() {
   const API_BASE_URL = 'https://o190h5xj5e.execute-api.eu-west-1.amazonaws.com';
   const MONOGRAFICO_THEME_ID = 'onu_monograficos';
-  const OFICIAL_THEME_ID = 'examen_oficial_modelo_1a_2025';
   const SYLLABUS_ORDER = {
     derechos_humanos: 1,
     igualdad: 2,
@@ -41,9 +43,11 @@ function App() {
     derecho_administrativo: 10,
     proteccion_datos: 11,
     tema_12_extranjeria: 12,
-    onu_monograficos: 13,
-    seguridad_publica_privada: 14,
-    examen_oficial_modelo_1a_2025: 15,
+    onu_monograficos: 14,
+    seguridad_publica_privada: 15,
+    examen_oficial_modelo_1a_2025: 16,
+    examen_oficial_modelo_b_2025: 17,
+    tema_19_deontologia_profesional: 19,
     viogen: 21
   };
 
@@ -151,6 +155,12 @@ function App() {
         preguntas: TEMA_12_EXTRANJERIA
       },
       {
+        id: 'tema_19_deontologia_profesional',
+        nombre: 'Deontología Profesional',
+        tipo: 'general',
+        preguntas: TEMA_19_DEONTOLOGIA_PROFESIONAL
+      },
+      {
         id: 'seguridad_publica_privada',
         nombre: 'Seguridad Pública y Privada',
         tipo: 'general',
@@ -163,10 +173,16 @@ function App() {
         preguntas: onuMonograficosData
       },
       {
-        id: OFICIAL_THEME_ID,
+        id: 'examen_oficial_modelo_1a_2025',
         nombre: 'Modelo 1A 2025',
         tipo: 'oficial',
         preguntas: modelo1A2025Data
+      },
+      {
+        id: 'examen_oficial_modelo_b_2025',
+        nombre: 'Modelo B 2025',
+        tipo: 'oficial',
+        preguntas: modeloB2025Data
       }
     ];
 
@@ -267,6 +283,14 @@ function App() {
     setHomeMode('oficial');
     setSelectedThemes([]);
     setQuestionCount(30);
+  };
+
+  const handleOpenAnswersViewer = () => {
+    setCurrentScreen('answers');
+  };
+
+  const handleBackFromAnswersViewer = () => {
+    setCurrentScreen('home');
   };
 
   const handleSelectAllThemes = () => {
@@ -407,6 +431,14 @@ function App() {
           totalAvailableQuestions={totalAvailableQuestions}
           canUseCustomQuestionCount={homeMode === 'general'}
           homeMode={homeMode}
+          onOpenAnswersViewer={handleOpenAnswersViewer}
+        />
+      )}
+
+      {currentScreen === 'answers' && (
+        <AnswersViewer
+          themes={visibleThemes}
+          onBack={handleBackFromAnswersViewer}
         />
       )}
 
