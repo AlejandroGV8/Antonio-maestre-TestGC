@@ -26,6 +26,7 @@ import modelo1A2025Data from './data/examen_oficial_modelo_1a_2025';
 import modeloB2025Data from './data/examen_oficial_modelo_b_2025';
 import TEMA_12_EXTRANJERIA from './data/tema_12_extranjeria';
 import TEMA_19_DEONTOLOGIA_PROFESIONAL from './data/tema_19_deontologia_profesional';
+import TEMA_20_RESPONSABILIDAD_PENAL_MENORES from './data/tema_20_responsabilidad_penal_menores';
 
 function App() {
   const API_BASE_URL = 'https://o190h5xj5e.execute-api.eu-west-1.amazonaws.com';
@@ -48,6 +49,7 @@ function App() {
     examen_oficial_modelo_1a_2025: 16,
     examen_oficial_modelo_b_2025: 17,
     tema_19_deontologia_profesional: 19,
+    tema_20_responsabilidad_penal_menores: 20,
     viogen: 21
   };
 
@@ -78,91 +80,97 @@ function App() {
     const defaultThemes = [
       {
         id: 'viogen',
-        nombre: 'VIOGEN',
+        nombre: 'TEMA 21. VIOGEN',
         tipo: 'general',
         preguntas: viogenData
       },
       {
         id: 'prl',
-        nombre: 'Prevención de Riesgos Laborales',
+        nombre: 'TEMA 3. Prevención de Riesgos Laborales',
         tipo: 'general',
         preguntas: prlData
       },
       {
         id: 'ue',
-        nombre: 'Unión Europea',
+        nombre: 'TEMA 5. Unión Europea',
         tipo: 'general',
         preguntas: ueData
       },
       {
         id: 'igualdad',
-        nombre: 'Igualdad',
+        nombre: 'TEMA 2. Igualdad',
         tipo: 'general',
         preguntas: igualdadData
       },
       {
         id: 'derecho_constitucional',
-        nombre: 'Derecho Constitucional',
+        nombre: 'TEMA 4. Derecho Constitucional',
         tipo: 'general',
         preguntas: derechoConsitucionalData
       },
       {
         id: 'derechos_humanos',
-        nombre: 'Derechos Humanos',
+        nombre: 'TEMA 1. Derechos Humanos',
         tipo: 'general',
         preguntas: derechosHumanosData
       },
       {
         id: 'instituciones_internacionales',
-        nombre: 'Instituciones Internacionales',
+        nombre: 'TEMA 6. Instituciones Internacionales',
         tipo: 'general',
         preguntas: institucionesInternacionalesData
       },
       {
         id: 'derecho_civil',
-        nombre: 'Derecho Civil',
+        nombre: 'TEMA 7. Derecho Civil',
         tipo: 'general',
         preguntas: derechoCivilData
       },
       {
         id: 'derecho_penal',
-        nombre: 'Derecho Penal',
+        nombre: 'TEMA 8. Derecho Penal',
         tipo: 'general',
         preguntas: derechoPenalData
       },
       {
         id: 'derecho_procesal_penal',
-        nombre: 'Derecho Procesal Penal',
+        nombre: 'TEMA 9. Derecho Procesal Penal',
         tipo: 'general',
         preguntas: derechoProcesalPenalData
       },
       {
         id: 'derecho_administrativo',
-        nombre: 'Derecho Administrativo',
+        nombre: 'TEMA 10. Derecho Administrativo',
         tipo: 'general',
         preguntas: derechoAdministrativoData
       },
       {
         id: 'proteccion_datos',
-        nombre: 'Protección de Datos',
+        nombre: 'TEMA 11. Protección de Datos',
         tipo: 'general',
         preguntas: proteccionDatosData
       },
       {
         id: 'tema_12_extranjeria',
-        nombre: 'Extranjería e Inmigración',
+        nombre: 'TEMA 12. Extranjería e Inmigración',
         tipo: 'general',
         preguntas: TEMA_12_EXTRANJERIA
       },
       {
         id: 'tema_19_deontologia_profesional',
-        nombre: 'Deontología Profesional',
+        nombre: 'TEMA 19. Deontología Profesional',
         tipo: 'general',
         preguntas: TEMA_19_DEONTOLOGIA_PROFESIONAL
       },
       {
+        id: 'tema_20_responsabilidad_penal_menores',
+        nombre: 'TEMA 20. Responsabilidad Penal de los Menores',
+        tipo: 'general',
+        preguntas: TEMA_20_RESPONSABILIDAD_PENAL_MENORES
+      },
+      {
         id: 'seguridad_publica_privada',
-        nombre: 'Seguridad Pública y Privada',
+        nombre: 'TEMA 21. Seguridad Pública y Privada',
         tipo: 'general',
         preguntas: seguridadPublicaPrivadaData
       },
