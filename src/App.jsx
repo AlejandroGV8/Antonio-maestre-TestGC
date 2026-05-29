@@ -27,6 +27,7 @@ import modeloB2025Data from './data/examen_oficial_modelo_b_2025';
 import TEMA_12_EXTRANJERIA from './data/tema_12_extranjeria';
 import TEMA_19_DEONTOLOGIA_PROFESIONAL from './data/tema_19_deontologia_profesional';
 import TEMA_20_RESPONSABILIDAD_PENAL_MENORES from './data/tema_20_responsabilidad_penal_menores';
+import TEMA_23_DERECHO_FISCAL from './data/tema_23_derecho_fiscal';
 
 function App() {
   const API_BASE_URL = 'https://o190h5xj5e.execute-api.eu-west-1.amazonaws.com';
@@ -50,7 +51,8 @@ function App() {
     examen_oficial_modelo_b_2025: 17,
     tema_19_deontologia_profesional: 19,
     tema_20_responsabilidad_penal_menores: 20,
-    viogen: 21
+    viogen: 21,
+    tema_23_derecho_fiscal: 23
   };
 
   const getThemeOrder = (themeId) => SYLLABUS_ORDER[themeId] ?? Number.MAX_SAFE_INTEGER;
@@ -169,8 +171,14 @@ function App() {
         preguntas: TEMA_20_RESPONSABILIDAD_PENAL_MENORES
       },
       {
+        id: 'tema_23_derecho_fiscal',
+        nombre: 'TEMA 23. Derecho Fiscal',
+        tipo: 'general',
+        preguntas: TEMA_23_DERECHO_FISCAL
+      },
+      {
         id: 'seguridad_publica_privada',
-        nombre: 'TEMA 21. Seguridad Pública y Privada',
+        nombre: 'TEMA 13. Seguridad Pública y Privada',
         tipo: 'general',
         preguntas: seguridadPublicaPrivadaData
       },
@@ -411,6 +419,19 @@ function App() {
     .filter(theme => selectedThemes.includes(theme.id) && visibleThemes.some(visible => visible.id === theme.id))
     .reduce((sum, theme) => sum + theme.preguntas.length, 0);
 
+  const answersViewerThemes = [...themes].sort((a, b) => {
+    const aIsOfficial = a.tipo === 'oficial';
+    const bIsOfficial = b.tipo === 'oficial';
+
+    if (aIsOfficial !== bIsOfficial) {
+      return aIsOfficial ? 1 : -1;
+    }
+
+    const orderDiff = getThemeOrder(a.id) - getThemeOrder(b.id);
+    if (orderDiff !== 0) return orderDiff;
+    return a.nombre.localeCompare(b.nombre, 'es');
+  });
+
   return (
     <>
       {currentScreen === 'login' && (
@@ -445,7 +466,7 @@ function App() {
 
       {currentScreen === 'answers' && (
         <AnswersViewer
-          themes={visibleThemes}
+          themes={answersViewerThemes}
           onBack={handleBackFromAnswersViewer}
         />
       )}

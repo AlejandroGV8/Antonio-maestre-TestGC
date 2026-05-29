@@ -397,7 +397,7 @@ const MODELO_1A_2025 = [
       "c) El error sobre un hecho que cualifique la infraccion o sobre una circunstancia agravante, impedira su apreciacion.",
       "d) Son incorrectas las opciones a) y c)."
     ],
-    respuesta: "d"
+    respuesta: "a"
   },
   {
     pregunta: "41) Ley Organica del Codigo Penal. De las circunstancias que agravan la responsabilidad criminal. Cual de las siguientes opciones NO se considera una circunstancia agravante?",
@@ -477,7 +477,7 @@ const MODELO_1A_2025 = [
       "c) El Juez dejara al testigo narrar los hechos sobre los cuales declare y solamente le interrumpira para dirigirle las preguntas que estime oportunas para el esclarecimiento de los hechos.",
       "d) Los testigos declararan de viva voz, permitiendoles leer la declaracion o respuestas que lleven escritas."
     ],
-    respuesta: "c"
+    respuesta: "b"
   },
   {
     pregunta: "49) Ley Organica reguladora del Procedimiento de Habeas Corpus. Segun la Exposicion de Motivos de la ley, ¿cual es el objetivo fundamental del constitucionalismo moderno, que constituye, al mismo tiempo, su raiz ultima?",
