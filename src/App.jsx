@@ -87,22 +87,10 @@ function App() {
   const loadThemes = () => {
     const defaultThemes = [
       {
-        id: 'viogen',
-        nombre: 'TEMA 21. VIOGEN',
+        id: 'derechos_humanos',
+        nombre: 'TEMA 1. Derechos Humanos',
         tipo: 'general',
-        preguntas: viogenData
-      },
-      {
-        id: 'prl',
-        nombre: 'TEMA 3. Prevención de Riesgos Laborales',
-        tipo: 'general',
-        preguntas: prlData
-      },
-      {
-        id: 'ue',
-        nombre: 'TEMA 5. Unión Europea',
-        tipo: 'general',
-        preguntas: ueData
+        preguntas: derechosHumanosData
       },
       {
         id: 'igualdad',
@@ -111,16 +99,22 @@ function App() {
         preguntas: igualdadData
       },
       {
+        id: 'prl',
+        nombre: 'TEMA 3. Prevención de Riesgos Laborales',
+        tipo: 'general',
+        preguntas: prlData
+      },
+      {
         id: 'derecho_constitucional',
         nombre: 'TEMA 4. Derecho Constitucional',
         tipo: 'general',
         preguntas: derechoConsitucionalData
       },
       {
-        id: 'derechos_humanos',
-        nombre: 'TEMA 1. Derechos Humanos',
+        id: 'ue',
+        nombre: 'TEMA 5. Unión Europea',
         tipo: 'general',
-        preguntas: derechosHumanosData
+        preguntas: ueData
       },
       {
         id: 'instituciones_internacionales',
@@ -165,24 +159,6 @@ function App() {
         preguntas: TEMA_12_EXTRANJERIA
       },
       {
-        id: 'tema_19_deontologia_profesional',
-        nombre: 'TEMA 19. Deontología Profesional',
-        tipo: 'general',
-        preguntas: TEMA_19_DEONTOLOGIA_PROFESIONAL
-      },
-      {
-        id: 'tema_20_responsabilidad_penal_menores',
-        nombre: 'TEMA 20. Responsabilidad Penal de los Menores',
-        tipo: 'general',
-        preguntas: TEMA_20_RESPONSABILIDAD_PENAL_MENORES
-      },
-      {
-        id: 'tema_23_derecho_fiscal',
-        nombre: 'TEMA 23. Derecho Fiscal',
-        tipo: 'general',
-        preguntas: TEMA_23_DERECHO_FISCAL
-      },
-      {
         id: 'seguridad_publica_privada',
         nombre: 'TEMA 13. Seguridad Pública y Privada',
         tipo: 'general',
@@ -201,28 +177,52 @@ function App() {
         preguntas: fuerzasCuerposSeguridadData
       },
       {
-        id: 'tema_17_tic',
-        nombre: 'TEMA 17. Tecnologías de la Información y la Comunicación',
-        tipo: 'general',
-        preguntas: tema17TicData
-      },
-      {
-        id: MONOGRAFICO_THEME_ID,
-        nombre: 'Carta de las Naciones Unidas',
-        tipo: 'monografico',
-        preguntas: onuMonograficosData
-      },
-      {
         id: 'examen_oficial_modelo_1a_2025',
         nombre: 'Modelo 1A 2025',
         tipo: 'oficial',
         preguntas: modelo1A2025Data
       },
       {
+        id: 'tema_17_tic',
+        nombre: 'TEMA 17. Tecnologías de la Información y la Comunicación',
+        tipo: 'general',
+        preguntas: tema17TicData
+      },
+      {
         id: 'examen_oficial_modelo_b_2025',
         nombre: 'Modelo B 2025',
         tipo: 'oficial',
         preguntas: modeloB2025Data
+      },
+      {
+        id: 'tema_19_deontologia_profesional',
+        nombre: 'TEMA 19. Deontología Profesional',
+        tipo: 'general',
+        preguntas: TEMA_19_DEONTOLOGIA_PROFESIONAL
+      },
+      {
+        id: 'tema_20_responsabilidad_penal_menores',
+        nombre: 'TEMA 20. Responsabilidad Penal de los Menores',
+        tipo: 'general',
+        preguntas: TEMA_20_RESPONSABILIDAD_PENAL_MENORES
+      },
+      {
+        id: 'viogen',
+        nombre: 'TEMA 21. VIOGEN',
+        tipo: 'general',
+        preguntas: viogenData
+      },
+      {
+        id: 'tema_23_derecho_fiscal',
+        nombre: 'TEMA 23. Derecho Fiscal',
+        tipo: 'general',
+        preguntas: TEMA_23_DERECHO_FISCAL
+      },
+      {
+        id: MONOGRAFICO_THEME_ID,
+        nombre: 'Carta de las Naciones Unidas',
+        tipo: 'monografico',
+        preguntas: onuMonograficosData
       }
     ];
 
