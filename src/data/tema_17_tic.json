@@ -1,0 +1,1204 @@
+[
+  {
+    "pregunta": "1. TIC's. Ley General de Telecomunicaciones. ¿Qué comprende la regulación de las Telecomunicaciones?",
+    "opciones": [
+      "a) La instalación y explotación de las redes de comunicaciones electrónicas.",
+      "b) La prestación de los servicios de comunicaciones electrónicas, sus recursos y servicios asociados, los equipos radioeléctricos y los equipos terminales de telecomunicación, de conformidad con el artículo 147.1.2.1.a de la Constitución.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "2. TIC's. Ley General de Telecomunicaciones. En los ámbitos de la seguridad pública, seguridad vial y de la protección civil, en su específica relación con el uso de las telecomunicaciones, el Ministerio de Asuntos Económicos y Transformación Digital cooperará con:",
+    "opciones": [
+      "a) El Ministerio del Interior y con los órganos responsables de las Comunidades Autónomas con competencias sobre las citadas materias.",
+      "b) El Ministerio del Interior y el Ministerio de Defensa.",
+      "c) El Ministerio del Interior y con los órganos responsables de las Comunidades Autónomas y Entidades Locales con competencias asumidas.",
+      "d) El Ministerio de Defensa y con los órganos responsables de las Comunidades Autónomas y Provincias con competencias en la materia."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "3. TIC's. Ley General de Telecomunicaciones. ¿Qué medidas debe tomar el operador para garantizar la protección de los datos de carácter personal?",
+    "opciones": [
+      "a) La garantía de la aplicación efectiva de una política de igualdad con respecto al tratamiento de datos personales.",
+      "b) La protección de los datos personales almacenados o transmitidos de la destrucción lícita.",
+      "c) La garantía de que sólo el personal autorizado tenga acceso a los datos personales para fines autorizados por la ley.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "4. TIC's. Ley General de Telecomunicaciones. ¿Qué se fomentará al promover el despliegue de redes y prestación de servicios de comunicaciones electrónicas?",
+    "opciones": [
+      "a) La amplitud del ancho de banda y de las conexiones inalámbricas.",
+      "b) La precisión en la prestación de servicios y los límites demaniales en el despliegue.",
+      "c) La conectividad y la interoperabilidad extremo a extremo.",
+      "d) La conexión con puntos remotos o de difícil acceso."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "5. TIC's. Ley General de Telecomunicaciones. ¿Cómo puede ser identificada la identidad?",
+    "opciones": [
+      "a) Mediante un número de teléfono.",
+      "b) Mediante un código de identidad de comunicaciones electrónicas lógico.",
+      "c) Mediante un código de identidad de comunicaciones electrónicas virtual.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "6. TIC's. Ley General de Telecomunicaciones. ¿Cómo podrá establecerse el formato y contenido del inventario de violaciones de datos personales?",
+    "opciones": [
+      "a) Cada operador establecerá el suyo y lo enviará a la Agencia Española de protección de Datos.",
+      "b) Por acuerdo de las organizaciones y asociaciones más representativas del sector.",
+      "c) Mediante Real Decreto.",
+      "d) Reglamentariamente."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "7. TIC's. Ley General de Telecomunicaciones. La Agencia Española de Protección de Datos, en el ejercicio de su competencia de _____, podrá examinar las medidas adoptadas por los operadores que exploten redes públicas de comunicaciones electrónicas o que presten servicios de comunicaciones electrónicas disponibles al público y podrá formular recomendaciones sobre las mejores prácticas con respecto al nivel de seguridad que debería conseguirse con estas medidas.",
+    "opciones": [
+      "a) Control de la seguridad en el tratamiento de la información de carácter público.",
+      "b) Vigilancia del control en la gestión administrativa.",
+      "c) Garantía de la seguridad en el tratamiento de datos de carácter personal.",
+      "d) Intervención del control en el tratamiento de la información personal y privada."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "8. TIC's. Ley General de Telecomunicaciones. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Servicio prestado en régimen de libre competencia.",
+      "b) Servicio de interés general.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "9. TIC's. Ley General de Telecomunicaciones. ¿A qué principios se atenderá para proteger en los mercados de telecomunicaciones la satisfacción de las necesidades de grupos sociales específicos?",
+    "opciones": [
+      "a) Igualdad de oportunidades y no discriminación.",
+      "b) Igualdad y progresividad.",
+      "c) Congruencia y oportunidad.",
+      "d) Eficacia, jerarquía, igualdad de oportunidades y reciprocidad."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "10. TIC's. Ley General de Telecomunicaciones. ¿Qué órgano ejecuta la política de defensa nacional en el ámbito de las telecomunicaciones?",
+    "opciones": [
+      "a) El Ministerio de Asuntos Económicos y Transformación Digital.",
+      "b) El FUET.",
+      "c) La Dirección General de Telecomunicaciones y Medios de Comunicación.",
+      "d) La Agencia Española de Telecomunicaciones."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "11. TIC's. Ley General de Telecomunicaciones. ¿En qué casos excepcionales podrá el Gobierno acordar la asunción por parte de la AGE de la intervención de servicios de comunicaciones electrónicas? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Los que puedan afectar a la seguridad pública.",
+      "b) Los que puedan afectar a la defensa nacional.",
+      "c) Los que puedan afectar a los poderes del estado.",
+      "d) Los que puedan afectar al orden público."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "12. TIC's. Ley General de Telecomunicaciones. ¿Cuál de los siguientes datos no debe facilitarse en la interceptación de comunicaciones al agente facultado?",
+    "opciones": [
+      "a) Servicios suplementarios utilizados.",
+      "b) Marcas finales.",
+      "c) Información de localización.",
+      "d) Identidad de otras partes involucradas en la comunicación electrónica."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "13. TIC's. Ley General de Telecomunicaciones. ¿Qué órgano podrá examinar las medidas técnicas y de gestión adoptadas por los operadores para preservar la seguridad en la explotación de su red para garantizar la protección de los datos de carácter personal?",
+    "opciones": [
+      "a) El MIET.",
+      "b) El Ministerio de Educación y Ciencia.",
+      "c) La Agencia Española de Protección de Datos.",
+      "d) El Consejo de Seguridad Nacional en las Comunicaciones."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "14. TIC's. Ley General de Telecomunicaciones. ¿A quién comunicará el Ministerio de Asuntos Económicos y Transformación Digital aquellos incidentes que, afectando a los operadores estratégicos nacionales, sean de interés para la mejora de la protección de las infraestructuras críticas?",
+    "opciones": [
+      "a) A la Agencia Nacional de Defensa.",
+      "b) A la Agencia Nacional de Seguridad.",
+      "c) A la Defensa Nacional Contra Ciberataques.",
+      "d) A la Secretaría de Estado de Seguridad del Ministerio del Interior."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "15. TIC's. Ley General de Telecomunicaciones. ¿Por qué se regirá el uso de la firma electrónica en las comunicaciones que afecten a la defensa nacional?",
+    "opciones": [
+      "a) Por su normativa específica.",
+      "b) Por la ley de defensa nacional y espionaje electrónico.",
+      "c) Por la legislación europea en firma electrónica y su normativa de desarrollo.",
+      "d) Por la ley 3/86 del 14 de marzo."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "16. TIC's. Ley General de Telecomunicaciones. Causas de extinción de la vigencia de un certificado electrónico. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Cese en la actividad del prestador de servicios de certificación.",
+      "b) Violación o puesta en peligro del secreto de los datos.",
+      "c) Disposición fraudulenta por alguno de los interesados.",
+      "d) Revocación pro cualquiera de los interesados."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "17. TIC's. Ley General de Telecomunicaciones. ¿Qué servicios o actividades quedan excluidos del ámbito de esta ley?",
+    "opciones": [
+      "a) Los servicios de comunicación audiovisual.",
+      "b) Los contenidos audiovisuales transmitidos a través de las redes.",
+      "c) Los servicios que suministren contenidos transmitidos mediante redes y servicios de comunicaciones electrónicas.",
+      "d) Todos los anteriores quedan excluidos del ámbito de aplicación de esta ley."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "18. TIC's. Ley General de Telecomunicaciones. ¿Qué son las telecomunicaciones?",
+    "opciones": [
+      "a) Son servicios de interés general que se prestan en régimen de libre competencia.",
+      "b) Son servicios de interés general que se prestan en régimen de cooperación voluntaria.",
+      "c) Son servicios de interés público que se prestan en régimen de libre competencia.",
+      "d) Son servicios de interés público que se prestan en régimen de cooperación voluntaria."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "19. TIC's. Ley General de Telecomunicaciones. Servicios que tienen consideración de servicio público. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Defensa Nacional.",
+      "b) Seguridad Pública.",
+      "c) Seguridad Vial.",
+      "d) Seguridad Social."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "20. TIC's. Ley General de Telecomunicaciones. ¿Qué ministerios coordinarán la planificación del sistema de telecomunicaciones de las Fuerzas Armadas?",
+    "opciones": [
+      "a) El Ministerio de Defensa y de Interior.",
+      "b) El Ministerio de Defensa, de Interior y de Industria, Comercio y Turismo.",
+      "c) El Ministerio de Defensa y de Administraciones Públicas.",
+      "d) El Ministerio de Defensa y de Industria, Comercio y Turismo."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "21. TIC's. Ley General de Telecomunicaciones. ¿Cuál es el órgano de la AGE con competencia para ejecutar la política de defensa nacional en el sector de las Telecomunicaciones?",
+    "opciones": [
+      "a) El Ministerio de Industria, Comercio y Turismo, con la debida coordinación con el Ministerio de Defensa y siguiendo los criterios fijados por éste.",
+      "b) El Ministerio de Industria, Comercio y Turismo, bajo su exclusivo criterio.",
+      "c) El Ministerio de Defensa, con la debida coordinación con el Ministerio de Industria, Comercio y Turismo con y siguiendo los criterios fijados por éste.",
+      "d) El Ministerio de Defensa, bajo su exclusivo criterio."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "20. TIC's. Ley General de Telecomunicaciones. ¿Cuál de los siguientes NO es un objetivo y principio de esta Ley?",
+    "opciones": [
+      "a) Fomentar la competencia efectiva en los mercados de telecomunicaciones para potenciar al máximo los beneficios para las empresas y los consumidores, principalmente en términos de bajada de los precios, calidad de los servicios e innovación.",
+      "b) Desarrollar la economía y el empleo digital, promover el desarrollo del sector de las telecomunicaciones y de todos los nuevos servicios digitales que las nuevas redes ultrarrápidas permiten.",
+      "c) Promover el despliegue de redes y la prestación de servicios de comunicaciones electrónicas, fomentando la conectividad y la interoperabilidad extremo a extremo y su acceso, en condiciones de igualdad y no discriminación.",
+      "d) Hacer posible el uso eficaz de los recursos ilimitados de telecomunicaciones, como la numeración y el espectro radioeléctrico."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "23. TIC's. Ley General de Telecomunicaciones. ¿Qué ministerios cooperarán en los ámbitos de la seguridad pública, seguridad vial y protección civil, en su específica relación con el uso de las telecomunicaciones?",
+    "opciones": [
+      "a) El Ministerio de Defensa y de Interior.",
+      "b) El Ministerio de Industria, Comercio y Turismo y de Defensa.",
+      "c) El Ministerio de Defensa y de Administraciones Públicas.",
+      "d) El Ministerio de Industria, Comercio y Turismo y de Interior."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "24. TIC's. Ley General de Telecomunicaciones. ¿Quién podrá acordar la asunción de la gestión directa por la Administración General del Estado o la intervención de las redes y servicios de comunicaciones electrónicas que puedan afectar al orden público, la seguridad pública y la seguridad nacional?",
+    "opciones": [
+      "a) El Gobierno, con carácter excepcional y transitorio.",
+      "b) El Gobierno, atendiendo a los criterios que se fijen en la declaración de estado de alarma, excepción o sitio.",
+      "c) Las Cortes Generales, con carácter excepcional y transitorio.",
+      "d) Las Cortes Generales, atendiendo a los criterios que se fijen en la declaración de estado de alarma, excepción o sitio."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "25. TIC's. Ley General de Telecomunicaciones. ¿Qué ministerios propondrán al Gobierno las medidas y sistemas de seguridad, vigilancia, difusión de información, prevención de riesgos y protección, que dispondrán los bienes muebles o inmuebles vinculados a los centros, establecimientos y dependencias afectos a la explotación de las redes y a la prestación de los servicios de telecomunicaciones?",
+    "opciones": [
+      "a) El Ministerio de Defensa.",
+      "b) El Ministerio del Interior.",
+      "c) El Ministerio de Industria, Comercio y Turismo.",
+      "d) El Ministerio de Industria, Comercio y Turismo y de Interior."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "26. TIC's. Ley General de Telecomunicaciones. Señala la INCORRECTA. Algunos de los objetivos y principio de esta ley son los siguientes:",
+    "opciones": [
+      "a) Fomentar la competencia efectiva en los mercados de telecomunicaciones para potenciar al máximo los beneficios para las empresas y los consumidores, principalmente en términos de subida de los precios, calidad de los servicios e innovación.",
+      "b) Desarrollar la economía y el empleo digital, promover el desarrollo del sector de las telecomunicaciones y de todos los nuevos servicios digitales que las nuevas redes ultrarrápidas permiten.",
+      "c) Promover el desarrollo de la industria de productos y equipos de telecomunicaciones.",
+      "d) Hacer posible el uso eficaz de los recursos limitados de telecomunicaciones, como la numeración y el espectro radioeléctrico."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "27. TIC's. Ley General de Telecomunicaciones. ¿Qué ministerios coordinarán la planificación del Sistema de Telecomunicaciones de las Fuerzas Armadas?",
+    "opciones": [
+      "a) Los Ministerios del Interior, de Defensa y de Industria, Comercio y Turismo.",
+      "b) Los Ministerios de Fomento, de Defensa y de Industria, Comercio y Turismo.",
+      "c) Los Ministerios de Defensa y de Industria, Comercio y Turismo.",
+      "d) La planificación del Sistema de Telecomunicaciones de las Fuerzas Armadas es competencia exclusiva del Ministerio de Defensa."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "28. TIC's. Ley General de Telecomunicaciones. ¿En qué ámbitos, en su específica relación con el uso de las telecomunicaciones, cooperará el Ministerio de Industria, Comercio y Turismo con el Ministerio del Interior?",
+    "opciones": [
+      "a) En los ámbitos de Seguridad Pública.",
+      "b) En los ámbitos de Seguridad Vial.",
+      "c) En los ámbitos de Protección Civil.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "29. TIC's. Ley General de Telecomunicaciones. ¿En qué casos podrá acordar el Gobierno la asunción de la gestión directa, por parte de la Administración General del Estado, de la intervención de las redes y servicios de comunicaciones electrónicas?",
+    "opciones": [
+      "a) Cuando así esté establecido en una norma con rango de ley.",
+      "b) Cuando fuere requerido para ello por las autoridades competentes.",
+      "c) Con carácter excepcional y transitorio, en determinados supuestos excepcionales.",
+      "d) Por resolución judicial motivada."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "30. TIC's. Ley General de Telecomunicaciones. ¿A quién comunicará el Ministerio de Industria, Comercio y Turismo aquellos incidentes que, afectando a los operadores estratégicos nacionales, sean de interés para la mejora de la protección de las infraestructuras críticas?",
+    "opciones": [
+      "a) A la Secretaría de Estado de Seguridad.",
+      "b) Al Ministerio del Interior.",
+      "c) Al Ministerio de Defensa.",
+      "d) A la Dirección General de la Guardia Civil."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "31. TIC's. Real Decreto 806/2014, de TIC's en la AGE. Este Real Decreto incluirá la definición e implementación de:",
+    "opciones": [
+      "a) Una estrategia global de transformación digital que garantice el uso adecuado de recursos informáticos, para mejorar la prestación de los servicios públicos al ciudadano.",
+      "b) Los productos y equipos necesarios para garantizar las telecomunicaciones.",
+      "c) Una estrategia global sobre las redes, servicios, instalaciones y equipos de telecomunicaciones de actividades esenciales para la defensa nacional.",
+      "d) Una estrategia global de la situación geográfica del terminal o punto de terminación de red origen de las llamadas y de la del destino de éstas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "32. TIC's. Real Decreto 806/2014, de TIC's en la AGE. La Dirección de Tecnologías de la Información y las Comunicaciones establecerá un _____ del que formarán parte los medios y servicios compartidos, así como aquellas infraestructuras técnicas o aplicaciones desarrolladas por la Dirección de Tecnologías de la Información y las Comunicaciones.",
+    "opciones": [
+      "a) Catálogo de servicios Comunes.",
+      "b) Reglamento de servicios Públicos.",
+      "c) Protocolo de Actuación Pública.",
+      "d) Inventario de servicios Administrativos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "33. TIC's. Real Decreto 806/2014, de TIC's en la AGE. ¿Qué sirve de bases para elaborar, por los ministerios, sus planes de acción para la transformación digital?",
+    "opciones": [
+      "a) La estrategia en materia de TIC.",
+      "b) Las estadísticas sobre el uso de las TIC en años anteriores.",
+      "c) Los estudios elaborados por expertos en el sector.",
+      "d) El informe de la Comisión de Estrategia TIC."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "34. TIC's. Real Decreto 806/2014, de TIC's en la AGE. ¿A iniciativa de qué órgano aprobará el Gobierno la Estrategia en materia de TIC?",
+    "opciones": [
+      "a) Del Ministro de Industria, Energía y Turismo.",
+      "b) De la Comisión de Estrategia TIC.",
+      "c) Del Secretario de Estado de Seguridad.",
+      "d) De la Comisión Nacional del Mercado de Valores."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "35. TIC's. Real Decreto 806/2014, de TIC's en la AGE. Unidades TIC:",
+    "opciones": [
+      "a) Órganos colegiados de administración de recursos TIC.",
+      "b) Unidades administrativas cuya función es la provisión de servicios en materia de TIC a sí mismas o a otras unidades administrativas.",
+      "c) Organismos especializados en la gestión y control del buen funcionamiento de los recursos TIC en la AGE.",
+      "d) Conferencias sectoriales especializadas en los recursos TIC."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "36. Real Decreto 806/2014, de TIC's en la AGE. Documento electrónico:",
+    "opciones": [
+      "a) Información de cualquier naturaleza en forma electrónica, archivada en soporte electrónico, formato determinado y susceptible de identificación y tratamiento diferenciado.",
+      "b) Es el que permite la identificación del firmante y detección de cualquier cambio ulterior.",
+      "c) Conjunto de datos en forma electrónica, consignado junto a otros, que pueden ser usados como medio de identificación.",
+      "d) Información basada en un certificado electrónico y generada mediante un dispositivo seguro de creación de información."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "37. Real Decreto 806/2014, de TIC's en la AGE. ¿A qué se extiende el ámbito de aplicación de este Real Decreto?",
+    "opciones": [
+      "a) La Administración General del Estado.",
+      "b) Los organismos públicos de la Administración General del Estado.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "38. Real Decreto 806/2014, de TIC's en la AGE. ¿Quién aprobará la Estrategia TIC, así como su revisiones?",
+    "opciones": [
+      "a) El Gobierno.",
+      "b) La Comisión de Estrategia TIC.",
+      "c) El Ministro de la Presidencia.",
+      "d) El Ministro Industria, Energía y Turismo."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "39. Real Decreto 806/2014, de TIC's en la AGE. ¿Quién determinará el ámbito temporal de la Estrategia TIC, así como su periodo de revisión?",
+    "opciones": [
+      "a) El Gobierno.",
+      "b) La Comisión de Estrategia TIC.",
+      "c) El Ministro de la Presidencia.",
+      "d) El Ministro Industria, Energía y Turismo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "40. Real Decreto 806/2014, de TIC's en la AGE. ¿Cómo serán declarados los medios y servicios Tic de la AGE y sus organismos públicos en razón de su naturaleza o del interés común, que respondan a necesidades transversales de un número significativo de unidades administrativas?",
+    "opciones": [
+      "a) Imprescindibles.",
+      "b) De uso compartido.",
+      "c) Prioritarios.",
+      "d) Permanentes."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "41. Real Decreto 806/2014, de TIC's en la AGE. ¿A quién corresponderá la declaración de medios y servicios compartidos necesarios para la ejecución y desarrollo de la Estrategia TIC?",
+    "opciones": [
+      "a) A la Dirección de Tecnologías de la Información y las Comunicaciones.",
+      "b) Al Gobierno.",
+      "c) A la Administración General del Estado.",
+      "d) A la Comisión de Estrategia TIC."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "42. Real Decreto 806/2014, de TIC's en la AGE. ¿A quién habilitará la declaración de medio o servicio compartido para adoptar las medidas necesarias para su provisión compartida?",
+    "opciones": [
+      "a) A la Dirección de Tecnologías de la Información y las Comunicaciones.",
+      "b) Al Gobierno.",
+      "c) A la Administración General del Estado.",
+      "d) A la Comisión de Estrategia TIC."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "43. Real Decreto 806/2014, de TIC's en la AGE. ¿Qué carácter tendrá la utilización de los medios y servicios compartidos respecto a los medios y servicios particulares empleados por las distintas unidades?",
+    "opciones": [
+      "a) Obligatorio y Sustitutivo.",
+      "b) Preceptivo y adicional.",
+      "c) Facultativo y no vinculante.",
+      "d) Ordinario y funcional."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "44. Real Decreto 806/2014, de TIC's en la AGE. ¿Quién establecerá un catálogo de servicios comunes?",
+    "opciones": [
+      "a) El Gobierno.",
+      "b) La Dirección de Tecnologías de la Información y las Comunicaciones.",
+      "c) El Comité de Estrategia TIC.",
+      "d) La Comisión de Estrategia TIC."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "45. Real Decreto 806/2014, de TIC's en la AGE. ¿Quién podrá declarar como proyectos de interés prioritario a aquellos que tengan una singular relevancia?",
+    "opciones": [
+      "a) El Gobierno.",
+      "b) La Dirección de Tecnologías de la Información y las Comunicaciones.",
+      "c) El Comité de Estrategia TIC.",
+      "d) La Comisión de Estrategia TIC."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "46. Real Decreto 806/2014, de TIC's en la AGE. Se entenderá por provisión de servicios TIC la realización de una o varias de las siguientes funciones. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Soporte, operación, implementación y/o gestión de sistemas informáticos corporativos o de redes de telecomunicaciones.",
+      "b) Desarrollo de aplicativos informáticos en entornos multiusuario.",
+      "c) Contratación de aplicaciones informáticas.",
+      "d) Conformar la voluntad de adquisición de bienes o servicios."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "47. Real Decreto 806/2014, de TIC's en la AGE. ¿A quién propondrá la Dirección de Tecnologías de la Información y las Comunicaciones la designación de los representantes de la AGE y sus organismos públicos en las comisiones o grupos que la Conferencia Sectorial de Administraciones Públicas?",
+    "opciones": [
+      "a) A la Dirección de Tecnologías de la Información y las Comunicaciones.",
+      "b) Al Gobierno.",
+      "c) A la Secretaría de Estado de Administraciones Públicas.",
+      "d) A la Comisión de Estrategia TIC."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "48. Real Decreto 806/2014, de TIC's en la AGE. ¿Los activos TIC afectos a la prestación de servicios sectoriales tendrán la consideración de medios y servicios compartidos?",
+    "opciones": [
+      "a) No.",
+      "b) En cualquier caso.",
+      "c) Sí, siempre que así se disponga reglamentariamente.",
+      "d) Depende de la naturaleza de los mismos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "49. Real Decreto 806/2014, de TIC's en la AGE. ¿A propuesta de quién se aprobará la Estrategia TIC?",
+    "opciones": [
+      "a) Del Ministro de la Presidencia.",
+      "b) Del Ministro de Hacienda y Administraciones Públicas.",
+      "c) Del Ministro de Industria, Energía y Turismo.",
+      "d) De todos los anteriores."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "50. Real Decreto 806/2014, de TIC's en la AGE. ¿A propuesta de quién se llevará a cabo la declaración de medios y servicios compartidos necesarios para la ejecución y desarrollo de la Estrategia TIC?",
+    "opciones": [
+      "a) Del Gobierno.",
+      "b) De la Dirección de Tecnologías de la Información y las Comunicaciones.",
+      "c) Del Comité de Estrategia TIC.",
+      "d) De la Comisión de Estrategia TIC."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "51. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Cuándo se extinguen los certificados electrónicos?",
+    "opciones": [
+      "a) Por caducidad a la expiración de su período de vigencia.",
+      "b) Por revocación por los prestadores de servicios electrónicos de confianza.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "52. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Qué deberán hacer los prestadores de servicios electrónicos de confianza que consignen un pseudónimo en un certificado electrónico?",
+    "opciones": [
+      "a) Constatar la verdadera identidad del titular del certificado.",
+      "b) Conservar la documentación que la acredite.",
+      "c) a) o b).",
+      "d) a) y b)."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "53. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Cuál será el período de tiempo durante el que los prestadores cualificados de servicios electrónicos de confianza deberán conservar la información relativa a los servicios prestados?",
+    "opciones": [
+      "a) Será ilimitado",
+      "b) Será de 5 años desde la extinción del certificado o la finalización del servicio prestado.",
+      "c) Será de 10 años desde la extinción del certificado o la finalización del servicio prestado.",
+      "d) Será de 15 años desde la extinción del certificado o la finalización del servicio prestado."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "54. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Qué documento acredita electrónicamente la identidad personal del titular?",
+    "opciones": [
+      "a) El DNI electrónico.",
+      "b) El Chip integrado electrónico.",
+      "c) El soporte de Sede Electrónica.",
+      "d) La Certificación Electrónica."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "55. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Dónde se establecen los aspectos relativos a la firma en la conservación del documento electrónico?",
+    "opciones": [
+      "a) En el Plan de interoperabilidad electrónica.",
+      "b) En el ENI.",
+      "c) En la Conferencia Sectorial de Acción Digital.",
+      "d) En la política de firma electrónica y certificados."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "56. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Cuál es el periodo de vigencia de los certificados cualificados?",
+    "opciones": [
+      "a) No podrá ser superior a 4 años.",
+      "b) No podrá ser superior a 10 años.",
+      "c) No podrá ser superior a 6 años.",
+      "d) No podrá ser superior a 5 años."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "57. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿En qué plazo deberán comunicar su actividad al Ministerio de Asuntos Económicos y Transformación Digital los prestadores de servicios de confianza no cualificados?",
+    "opciones": [
+      "a) Inmediatamente que inicien dicha actividad.",
+      "b) No será necesaria la comunicación.",
+      "c) En el plazo de 3 meses desde que la inicien.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "58. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿De cuánto, al menos, debe ser la cuantía por la que los prestadores cualificados de servicios electrónicos de confianza deben constituir un seguro de responsabilidad civil para afrontar el riesgo de la responsabilidad por los daños y perjuicios?",
+    "opciones": [
+      "a) De 3.000.000€.",
+      "b) De 1.500.000€.",
+      "c) De 500.000€.",
+      "d) De 250.000€s."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "59. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. Ámbito de aplicación. ¿A quién será de aplicación esta ley?",
+    "opciones": [
+      "a) A los prestadores de servicios electrónicos de confianza establecidos en España, públicos y privados.",
+      "b) A los prestadores residentes o domiciliados en otro estado que tengan un establecimiento permanente situado en España.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "60. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Qué documentos electrónicos tienen el valor y la eficacia jurídica que corresponda a su respectiva naturaleza, de conformidad con la legislación que les resulte aplicable?",
+    "opciones": [
+      "a) Los documentos electrónicos públicos.",
+      "b) Los documentos electrónicos administrativos.",
+      "c) Los documentos electrónicos privados.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "61. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. Los prestadores de servicios electrónicos de confianza extinguirán la vigencia de los certificados electrónicos mediante revocación en los siguientes supuestos. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Aceptación del firmante.",
+      "b) Violación o puesta en peligro del secreto de los datos de creación de firma o de sello.",
+      "c) Resolución judicial o administrativa que lo ordene.",
+      "d) Fallecimiento del firmante."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "62. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. En los casos de suspensión, la vigencia del certificado electrónico se extinguirá...",
+    "opciones": [
+      "a) Cuando así venga reflejado en la normativa vigente.",
+      "b) Según lo indicado en la sentencia judicial.",
+      "c) Si transcurrido el plazo de duración de la suspensión el prestador de servicios electrónicos de confianza no la hubiera levantado.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "63. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿En qué supuestos, los prestadores de servicios de confianza, extinguirán la vigencia de los certificados electrónicos mediante revocación? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Terminación de la representación en los certificados electrónicos con atributo de representante.",
+      "b) Descubrimiento de la falsedad o inexactitud de los datos aportados para la expedición del certificado y que consten en él.",
+      "c) Capacidad modificada judicialmente sobrevenida, total o parcial, del firmante.",
+      "d) Cese en la actividad del prestador de servicios de confianza."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "64. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Qué exigirá la identificación de la persona física que solicite un certificado cualificado?",
+    "opciones": [
+      "a) Exigirá su personación ante los encargados de verificarla.",
+      "b) Exigirá la previa obtención del DNI electrónico.",
+      "c) Exigirá la firma electrónica del titular.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "65. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Cómo se acreditará la identificación de la persona física que solicite un certificado cualificado?",
+    "opciones": [
+      "a) Mediante el Documento Nacional de Identidad.",
+      "b) Mediante el pasaporte.",
+      "c) Mediante otros medios admitidos en derecho.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "66. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Podrá prescindirse de la personación de la persona física que solicite un certificado cualificado?",
+    "opciones": [
+      "a) No, es un requisito indispensable.",
+      "b) Sí, si su firma en la solicitud de expedición de un certificado cualificado ha sido legitimada en presencia notarial.",
+      "c) No, excepto si la solicitud está ordenada por mandato judicial.",
+      "d) Sí, si así es aceptado por el propio prestador de servicios, bajo su responsabilidad."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "67. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Qué obligaciones deberán cumplir los prestadores cualificados de servicios electrónicos de confianza? Señala la INCORRECTA:",
+    "opciones": [
+      "a) El período de tiempo durante el que deberán conservar la información relativa a los servicios prestados será de 10 años desde la extinción del certificado o la finalización del servicio prestado.",
+      "b) Constituir un seguro de responsabilidad civil por importe mínimo de 1.500.000€, excepto si el prestador pertenece al sector público.",
+      "c) El prestador cualificado que vaya a cesar en su actividad deberá comunicarlo a los clientes a los que preste sus servicios y al órgano de supervisión con una antelación mínima de 2 meses al cese efectivo de la actividad.",
+      "d) Enviar el informe de evaluación de la conformidad al Ministerio de Asuntos Económicos y Transformación Digital."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "68. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Cuándo se entenderá que el destinatario actúa de forma negligente?",
+    "opciones": [
+      "a) Cuando no tenga en cuenta la suspensión o pérdida de vigencia del certificado electrónico.",
+      "b) Cuando no verifique la firma o sello electrónico.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "69. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Cómo se consignará la identidad del titular en los certificados cualificados?",
+    "opciones": [
+      "a) En el supuesto de certificados de firma electrónica y de autenticación de sitio web expedidos a personas físicas, a través de un pseudónimo que conste como tal de manera inequívoca.",
+      "b) En el supuesto de certificados de sello electrónico y de autenticación de sitio web expedidos a personas jurídicas, por su denominación o razón social y su número de identificación fiscal.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "70. TIC's. Ley 6/2020, de Servicios Electrónicos de Confianza. ¿Qué incluirán los certificados cualificados si admiten una relación de representación?",
+    "opciones": [
+      "a) La identidad de la persona física o jurídica representada.",
+      "b) El documento que acredite las facultades del firmante.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "71. TIC's. Ciberseguridad CCNCERT. ¿En qué año se creó el CCN-CERT?",
+    "opciones": [
+      "a) En el 2004.",
+      "b) En el 2005.",
+      "c) En el 2006.",
+      "d) En el 2007."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "72. TIC's. Ciberseguridad CCNCERT. ¿Qué significan las siglas CCN?",
+    "opciones": [
+      "a) Ciudad Criptológica Nacional.",
+      "b) Centro Criptológico Nacional.",
+      "c) Centro Captación Nacional.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "73. TIC's. Ciberseguridad CCNCERT. Es competencia del CCN-CERT la gestión de ciberincidentes que afecten a...",
+    "opciones": [
+      "a) Sistemas del sector público.",
+      "b) Empresas y organizaciones de interés estratégico para el país.",
+      "c) Cualquier sistema clasificado.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "74. TIC's. Ciberseguridad CCNCERT. No existe un sistema que garantice al 100% la seguridad por lo que siempre hay que aceptar un riesgo. ¿Qué nombre tiene ese riesgo?",
+    "opciones": [
+      "a) Riesgo residual.",
+      "b) Riesgo práctico.",
+      "c) Riesgo analizado.",
+      "d) Riesgo gestionado."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "75. TIC's. Ciberseguridad CCNCERT. Cuando hablamos de adaptar la operativa habitual de la entidad a las medidas de seguridad, ¿de qué término estamos hablando?",
+    "opciones": [
+      "a) Análisis de riesgos.",
+      "b) Vigilancia.",
+      "c) Gobernanza.",
+      "d) Planes de contingencia."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "76. TIC's. Ciberseguridad CCNCERT. ¿Cuáles de las siguientes son características generales del ciberespionaje?",
+    "opciones": [
+      "a) Enorme dificultad de atribución.",
+      "b) Contra sector público y privado.",
+      "c) Utilización de ataques dirigidos.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "77. TIC's. Ciberseguridad CCNCERT. ¿Qué buscan los grupos APT?",
+    "opciones": [
+      "a) Recabar información de la víctima.",
+      "b) Recabar la mayor cantidad de información posible y útil de la víctima.",
+      "c) Conocer a la víctima.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "78. TIC's. Ciberseguridad CCNCERT. ¿En qué se ha visto dividida Internet?",
+    "opciones": [
+      "a) Internet profunda.",
+      "b) Internet superficial.",
+      "c) a) y b) son correctas.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "79. TIC's. Ciberseguridad CCNCERT. ¿Por quién y en qué año se implementó TOR?",
+    "opciones": [
+      "a) Por la Marina de los Estados Unidos, lanzado en 2002.",
+      "b) Por la Marina de los Estados Unidos, lanzado en 2000.",
+      "c) Por el Ejército de los Estados Unidos, lanzado en 2002.",
+      "d) Por el Ejército de los Estados Unidos, lanzado en 2000."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "80. TIC's. Ciberseguridad CCNCERT. ¿Qué permite TOR a los usuarios?",
+    "opciones": [
+      "a) Navegar por la web de forma más rápida.",
+      "b) Navegar por la web de forma anónima.",
+      "c) Navegar por la web de forma directa.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "81. TIC's. Ciberseguridad CCNCERT. ¿Qué es el BITCOIN?",
+    "opciones": [
+      "a) Una moneda electrónica cifrada.",
+      "b) Una moneda electrónica descentralizada.",
+      "c) Una moneda electrónica de ordenador a ordenador.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "82. TIC's. Ciberseguridad CCNCERT. ¿Cómo se llama la gran base de datos en que se registra cada transacción con bitcoins?",
+    "opciones": [
+      "a) Bitcoins.",
+      "b) BlockChain.",
+      "c) BlockCoins.",
+      "d) BitChain."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "83. TIC's. Ciberseguridad CCNCERT. ¿Qué significa cifrar los datos?",
+    "opciones": [
+      "a) Convertir una imagen en texto legible.",
+      "b) Convertir un texto llano en un texto legible.",
+      "c) Convertir un texto plano en un texto ilegible.",
+      "d) Convertir un texto llano en un texto ilegible."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "84. TIC's. Ciberseguridad CCNCERT. ¿Para qué están diseñados los cortafuegos personales?",
+    "opciones": [
+      "a) Bloquear el acceso no autorizado al equipo.",
+      "b) Permitir las comunicaciones autorizadas.",
+      "c) a) y b) son correctas.",
+      "d) Bloquear el acceso autorizado al equipo."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "85. TIC's. Ciberseguridad CCNCERT. ¿Cuáles de ellas son funciones mínimas de un buen antimalware? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Filtrado entrante y saliente de contenidos maliciosos.",
+      "b) Permitir programar análisis exhaustivos cada cierto tiempo.",
+      "c) No analizar los ficheros en dispositivos removibles como discos externos o memorias USB.",
+      "d) Bloquear el acceso autorizado al equipo."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "86. TIC's. Ciberseguridad CCNCERT. ¿A través de qué se identifica el cliente en una red?",
+    "opciones": [
+      "a) De una dirección TP.",
+      "b) De una dirección IP.",
+      "c) De un servidor.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "87. TIC's. Ciberseguridad CCNCERT. Recomendaciones para una navegación segura. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Configurar el navegador para evitar ventanas emergentes.",
+      "b) Desactivar la posibilidad \"script\" en navegadores web.",
+      "c) Se recomienda hacer uso de HTTP frente a HTTPS (SSL/TLS).",
+      "d) Borrar las \"cookies\", los ficheros temporales y el historial cuando se utilicen equipos ajenos para no dejar rastro de la navegación."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "88. TIC's. Ciberseguridad CCNCERT. ¿Cuáles de los siguientes son sistemas de navegación anónima?",
+    "opciones": [
+      "a) Anonimizadores.",
+      "b) Servidores proxy.",
+      "c) Túneles de cifrado.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "89. TIC's. Ciberseguridad CCNCERT. Recomendaciones de seguridad en redes inalámbricas. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Cambiar la contraseña de acceso por defecto para la administración del punto de acceso.",
+      "b) Ocultar el identificador SSID al exterior dificulta obtener el nombre de la red.",
+      "c) No usar direcciones IP estáticas.",
+      "d) Limitar la cobertura WLAN. Una antena multidireccional ubicada en el centro de la casa/oficina es la opción más común."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "90. TIC's. Ciberseguridad CCNCERT. ¿En qué año se lanzó la aplicación de mensajería instantánea WhatsApp?",
+    "opciones": [
+      "a) En 2008.",
+      "b) En 2009.",
+      "c) En 2010.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "91. TIC's. Ciberseguridad CCNCERT. Características generales del ciberespionaje. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Persiguen obtener ventajas sociales.",
+      "b) Tienen su origen en empresas.",
+      "c) Uso, generalmente, de ataques dirigidos.",
+      "d) Son fáciles de atribuir."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "92. TIC's. Ciberseguridad CCNCERT. ¿Cómo se denomina a la conversión de texto plano a texto ilegible?",
+    "opciones": [
+      "a) Compresión ZIP.",
+      "b) Técnicas Textchange.",
+      "c) Escáner de datos.",
+      "d) Cifrado de datos."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "93. TIC's. Ciberseguridad CCNCERT. ¿De qué origen son las amenazas de nivel 2, según la Pirámide del Daño?",
+    "opciones": [
+      "a) De empresas de defensa.",
+      "b) De exempleados.",
+      "c) De gobiernos.",
+      "d) De actores externos con ánimo de lucro."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "94. TIC's. Ciberseguridad CCNCERT. ¿Quiénes controlan las monedas electrónicas, como el bitcoin?",
+    "opciones": [
+      "a) Los bitconianos.",
+      "b) Los alkenny.",
+      "c) Los mineros.",
+      "d) Los productores."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "95. TIC's. Ciberseguridad CCNCERT. ¿Cómo se denominan a los programas que monitorizan las conexiones entrantes y salientes del equipo?",
+    "opciones": [
+      "a) Cortafuegos.",
+      "b) Firefox.",
+      "c) Servidores.",
+      "d) Punto de acceso."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "96. TIC's. Ciberseguridad CCNCERT. Consejos para una navegación segura:",
+    "opciones": [
+      "a) Borrar las cookies.",
+      "b) Usar http frente a https.",
+      "c) Usar usuarios con permiso de administrador.",
+      "d) Activar script."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "97. TIC's. Ciberseguridad CCNCERT. Virtualización. ¿Qué premisa tiene la seguridad en la virtualización?",
+    "opciones": [
+      "a) La minimización de la superficie de ataque.",
+      "b) El control del entorno virtual.",
+      "c) La instalación de programas o servicios antiintrusión.",
+      "d) El uso de entornos virtuales seguros."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "98. TIC's. Ciberseguridad CCNCERT. Proyecto diseñado en implementado por la Marina de los Estados Unidos, lanzado en 2002, con la finalidad de fortalecer las comunicaciones por internet y garantizar el anonimato y la privacidad:",
+    "opciones": [
+      "a) Red TOR.",
+      "b) Proyecto Manhattan.",
+      "c) Open Athelstan.",
+      "d) Iniciativa 2002."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "99. TIC's. Esquema Nacional de Interporabilidad. ¿Qué es la firma electrónica?",
+    "opciones": [
+      "a) Es el nombre y DNI o CIF, consignados de modo electrónico, junto a otros asociados, que pueden ser utilizados como medio de identificación del firmante.",
+      "b) El conjunto de datos en forma electrónica utilizados como medio para constatar el momento en que se ha efectuado una actuación sobre otros datos electrónicos a los que están asociados.",
+      "c) Es el conjunto de datos en forma electrónica, consignados, junto a otros asociados con ellos, que pueden ser utilizados como medio de identificación del firmante.",
+      "d) Es un documento firmado electrónicamente por un prestador de servicios de certificación que vincula unos datos de verificación de firma a un firmante y confirma su identidad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "100. TIC's. Esquema Nacional de Interporabilidad. ¿A quién deberán ser comunicadas las políticas de firma electrónica que aprueben las administraciones públicas?",
+    "opciones": [
+      "a) Al Centro de Transferencia de Tecnología.",
+      "b) A la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital.",
+      "c) Al Instituto Nacional de Tecnología de la Comunicación.",
+      "d) Al INTECO."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "101. TIC's. Esquema Nacional de Interporabilidad. ¿Qué red prestará la red de comunicaciones que será usada preferentemente por las Administraciones Públicas para comunicarse entre sí?",
+    "opciones": [
+      "a) La Red Social Europea.",
+      "b) La Red SARA.",
+      "c) Internet.",
+      "d) La Red TOR."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "102. TIC's. Esquema Nacional de Interporabilidad. ¿Cada cuánto tiempo debe ser actualizado el Esquema Nacional de Interoperabilidad?",
+    "opciones": [
+      "a) Al menos, una vez a la semana.",
+      "b) Todos los días.",
+      "c) Debe mantenerse actualizado de manera permanente.",
+      "d) Al menos, una vez al mes."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "103. TIC's. Esquema Nacional de Interporabilidad. ¿Cuál de los siguientes no es un principio específico del Esquema Nacional de Interoperabilidad?",
+    "opciones": [
+      "a) Carácter multidimensional.",
+      "b) La interoperabilidad como cualidad integral.",
+      "c) Enfoque de soluciones multilaterales.",
+      "d) Dinámica grupal y heterogénea."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "104. TIC's. Esquema Nacional de Interporabilidad. ¿Con quién se realizará la sincronización de la fecha y la hora?",
+    "opciones": [
+      "a) Con el Ministerio de Asuntos Económicos y Transformación Digital.",
+      "b) Con el Real Instituto y Observatorio de la Armada.",
+      "c) Con la Red de Comunicaciones de las Administraciones Públicas Españolas.",
+      "d) Con el hombre del tiempo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "105. TIC's. Esquema Nacional de Interporabilidad. ¿Quién regulará la forma de creación y mantenimiento del inventario de información administrativa de cada administración?",
+    "opciones": [
+      "a) Cada administración pública.",
+      "b) El Inventario de la Administración General del Estado.",
+      "c) El órgano competente en la materia o en quien éste delegue.",
+      "d) La Red de Inventarios de Información Administrativa."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "106. TIC's. Esquema Nacional de Interporabilidad. ¿Qué definición se tendrá en cuenta para usar estándares complementarios?",
+    "opciones": [
+      "a) Uso abierto de documentos.",
+      "b) Nominación de intereses públicos.",
+      "c) Disponibilidad inmediata.",
+      "d) Uso generalizado por los ciudadanos."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "107. TIC's. Esquema Nacional de Interporabilidad. ¿Con quién se realiza la sincronización de la fecha y la hora de los sistemas implicados en la provisión de un servicio público por vía electrónica?",
+    "opciones": [
+      "a) Con el Centro de Transferencia Tecnológica.",
+      "b) Con el Consejo Superior de Administración Electrónica.",
+      "c) Con el Real Instituto y Observatorio de la Armada.",
+      "d) Con el Laboratorio Horario de Greenwich."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "108. TIC's. Esquema Nacional de Interporabilidad. ¿Cómo se podrá acceder al directorio de aplicaciones para su libre reutilización, que mantiene la AGE?",
+    "opciones": [
+      "a) Con la pertinente autorización del Director General en la materia.",
+      "b) A través del Centro de Transferencia de Tecnología.",
+      "c) Previa autorización del Consejo Superior de Administración Electrónica.",
+      "d) A través del órgano encargado en cada caso y previa autorización del mismo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "109. TIC's. Esquema Nacional de Interporabilidad. ¿Qué se aplica para asegurar la conservación de documentos electrónicos?",
+    "opciones": [
+      "a) Lo previsto en el Esquema Nacional de Seguridad.",
+      "b) Lo estipulado en las leyes con rango europeo y su normativa de desarrollo.",
+      "c) Cada administración aplicará las medidas oportunas, según los datos incluidos.",
+      "d) Como mínimo, las reglas básicas de conservación y almacén."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "110. TIC's. Esquema Nacional de Interporabilidad. Procedimientos normalizados que se aplican si hay riesgo de obsolescencia del formato de un documento electrónico. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Migraciones de formatos.",
+      "b) Copiado auténtico con cambio de formato.",
+      "c) Reutilización de las fuentes para su actualización.",
+      "d) Etiquetado con información del formato utilizado."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "111. TIC's. Esquema Nacional de Interporabilidad. ¿Por qué elemento se rige la interoperabilidad de sedes y registros electrónicos?",
+    "opciones": [
+      "a) Por la normativa sobre la materia de ámbito nacional y, supletoriamente, por la autonómica.",
+      "b) Por el Esquema Nacional de Interoperabilidad.",
+      "c) Por su normativa específica.",
+      "d) Por los proyecto de innovación y programas de investigación sobre interoperabilidad."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "112. TIC's. Esquema Nacional de Interporabilidad.",
+    "opciones": [
+      "a) Comprenderá los criterios y recomendaciones de seguridad, normalización y conservación de la información, los formatos y las aplicaciones que deberán ser tenidos en cuenta por las Administraciones Públicas.",
+      "b) Su objetivo es asegurar un adecuado nivel de interoperabilidad organizativa, operativa y técnica de los datos, informaciones y servicios que gestionen las administraciones públicas en el ejercicio de sus competencias.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "113. TIC's. Esquema Nacional de Interporabilidad. ¿Qué finalidad tiene el Esquema Nacional de Interoperabilidad?",
+    "opciones": [
+      "a) Evitar la discriminación a los ciudadanos por razón de su elección tecnológica.",
+      "b) Facilitar los procesos electrónicos de la Administración Pública.",
+      "c) Invitar al conjunto de las Administraciones Públicas a actuar bajo los mismos criterios.",
+      "d) Incluir los criterios de eficiencia y economía, entre otros, en el desarrollo de las aplicaciones informáticas utilizadas por los prestadores de servicios de confianza."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "114. TIC's. Esquema Nacional de Interporabilidad. ¿Qué prevalecerá sobre cualquier otro criterio en materia de política de interoperabilidad en la utilización de medios electrónicos para el acceso de los ciudadanos a los servicios públicos?",
+    "opciones": [
+      "a) El Esquema Nacional de Interoperabilidad y sus normas de desarrollo.",
+      "b) El Esquema Nacional de Seguridad.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "115. TIC's. Esquema Nacional de Interporabilidad. ¿En base a qué principios se desarrollará la aplicación del Esquema Nacional de Interoperabilidad?",
+    "opciones": [
+      "a) De acuerdo con los principios generales establecidos en el artículo 4 de la Ley 11/2007.",
+      "b) De acuerdo con alguno principios específicos de la interoperabilidad.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "116. TIC's. Esquema Nacional de Interporabilidad. ¿Cuáles son los principios específicos de la interoperabilidad?",
+    "opciones": [
+      "a) La interoperabilidad como cualidad integral.",
+      "b) Carácter multidimensional de la interoperabilidad.",
+      "c) Enfoque de soluciones multilaterales.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "117. TIC's. Esquema Nacional de Interporabilidad. La interoperabilidad se entenderá contemplando sus dimensiones...",
+    "opciones": [
+      "a) Organizativa.",
+      "b) Sintáctica.",
+      "c) Operativa.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "118. TIC's. Esquema Nacional de Interporabilidad. ¿Quién establecerá y publicará las condiciones de acceso y utilización de los servicios, datos y documentos en formato electrónico que pongan a disposición del resto de administraciones?",
+    "opciones": [
+      "a) El Gobierno.",
+      "b) El Ministerio de Asuntos Económicos y Transformación Digital.",
+      "c) Los Poderes Públicos.",
+      "d) Las Administraciones Públicas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "119. TIC's. Esquema Nacional de Interporabilidad. ¿Qué incluirá, al menos, el conjunto de los Inventarios de Información Administrativa de cada AAPP?",
+    "opciones": [
+      "a) El conjunto de sus inventarios de información administrativa de forma clasificada y estructurada.",
+      "b) La relación de sus órganos administrativos y oficinas orientadas al público y sus relaciones entre ellos.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "120. TIC's. Esquema Nacional de Interporabilidad. ¿Qué tipo de estándares usarán las AAPP al objeto de garantizar la independencia en la elección de alternativas tecnológicas por los ciudadanos y las AAPP y la adaptabilidad al progreso de la tecnología?",
+    "opciones": [
+      "a) Estándares abiertos.",
+      "b) En su caso y de forma complementaria, estándares de uso generalizado por los ciudadanos.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "c"
+  }
+]
+
+

@@ -22,6 +22,9 @@ import institucionesInternacionalesData from './data/instituciones_internacional
 import proteccionDatosData from './data/proteccion_datos';
 import onuMonograficosData from './data/onu_monograficos';
 import seguridadPublicaPrivadaData from './data/seguridad_publica_privada.json';
+import tema14MinisteriosData from './data/tema_14_ministerios.json';
+import fuerzasCuerposSeguridadData from './data/fuerzas_cuerpos_seguridad.json';
+import tema17TicData from './data/tema_17_tic.json';
 import modelo1A2025Data from './data/examen_oficial_modelo_1a_2025';
 import modeloB2025Data from './data/examen_oficial_modelo_b_2025';
 import TEMA_12_EXTRANJERIA from './data/tema_12_extranjeria';
@@ -45,10 +48,13 @@ function App() {
     derecho_administrativo: 10,
     proteccion_datos: 11,
     tema_12_extranjeria: 12,
-    onu_monograficos: 14,
-    seguridad_publica_privada: 15,
+    seguridad_publica_privada: 13,
+    tema_14_ministerios: 14,
+    fuerzas_cuerpos_seguridad: 15,
+    tema_17_tic: 17,
+    onu_monograficos: 50,
     examen_oficial_modelo_1a_2025: 16,
-    examen_oficial_modelo_b_2025: 17,
+    examen_oficial_modelo_b_2025: 18,
     tema_19_deontologia_profesional: 19,
     tema_20_responsabilidad_penal_menores: 20,
     viogen: 21,
@@ -181,6 +187,24 @@ function App() {
         nombre: 'TEMA 13. Seguridad Pública y Privada',
         tipo: 'general',
         preguntas: seguridadPublicaPrivadaData
+      },
+      {
+        id: 'tema_14_ministerios',
+        nombre: 'TEMA 14. Ministerio del Interior y Ministerio de Defensa',
+        tipo: 'general',
+        preguntas: tema14MinisteriosData
+      },
+      {
+        id: 'fuerzas_cuerpos_seguridad',
+        nombre: 'TEMA 15. Fuerzas y Cuerpos de Seguridad',
+        tipo: 'general',
+        preguntas: fuerzasCuerposSeguridadData
+      },
+      {
+        id: 'tema_17_tic',
+        nombre: 'TEMA 17. Tecnologías de la Información y la Comunicación',
+        tipo: 'general',
+        preguntas: tema17TicData
       },
       {
         id: MONOGRAFICO_THEME_ID,

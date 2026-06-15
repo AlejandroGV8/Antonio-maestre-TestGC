@@ -1,0 +1,1194 @@
+[
+  {
+    "pregunta": "1. Ministerio del Interior. ¿Quién actúa como Secretario del Comité Ejecutivo de Coordinación?",
+    "opciones": [
+      "a) El Titular de la Dirección General de Coordinación y Estudios.",
+      "b) El Secretario General de Instituciones Penitenciarias.",
+      "c) Los Directores Generales de la Guardia Civil y de la Policía, por periodos rotatorios de seis meses.",
+      "d) El Secretario de Estado de Seguridad."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "2. Ministerio del Interior. ¿Cuál de las siguientes no es competencia del Ministerio del Interior?",
+    "opciones": [
+      "a) Las atribuidas en materia de tráfico.",
+      "b) La dirección de las Fuerzas y Cuerpos de Seguridad.",
+      "c) Las competencias sobre protección de desplazados.",
+      "d) El régimen de protección internacional de refugiados."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "3. Ministerio del Interior. ¿Qué órgano es el responsable de la comunicación oficial del Ministerio del Interior?",
+    "opciones": [
+      "a) El Titular de la Dirección General de Coordinación y Estudios.",
+      "b) El Secretario General de Instituciones Penitenciarias.",
+      "c) El Director de Prensa y Medios de Comunicación.",
+      "d) El Director de la Oficina de Comunicación."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "4. Ministerio del Interior. ¿Qué órgano elabora los estudios e informes necesarios en la Subsecretaría de Interior?",
+    "opciones": [
+      "a) Su Gabinete.",
+      "b) El Subsecretario de Interior.",
+      "c) La Oficina de Administración de la Subsecretaría.",
+      "d) Su Gabinete Técnico."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "5. Ministerio del Interior. ¿Qué órgano supervisa los servicios de las Fuerzas y Cuerpos de Seguridad del Estado?",
+    "opciones": [
+      "a) La Dirección General de Ejecución de Servicios de las Fuerzas y Cuerpos de Seguridad del Estado.",
+      "b) Los ministros de Defensa e Interior, conjuntamente.",
+      "c) La Secretaría de Estado de Seguridad.",
+      "d) Las Direcciones Generales de la Guardia Civil y de la Policía, en sus ámbitos respectivos de competencias."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "6. Ministerio del Interior. ¿A quién corresponde el mando directo de la Policía Nacional?",
+    "opciones": [
+      "a) Al Director General de la Policía.",
+      "b) Al Ministro del Interior.",
+      "c) A la Dirección Adjunta Operativa.",
+      "d) Al Secretario de Estado de Seguridad."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "7. Ministerio del Interior. ¿Qué comisaría controla la entrada y salida de españoles del territorio nacional?",
+    "opciones": [
+      "a) La Comisaría General de Extranjería y Fronteras.",
+      "b) La Comisaría de Recursos Humanos.",
+      "c) Esta competencia es ejercida por el Servicio Fiscal de Fronteras de la Guardia Civil.",
+      "d) No existe órgano alguno que controle a los españoles salir o entrar en España."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "8. Ministerio del Interior. ¿Cuál de los siguientes es uno de los órganos directivos que integran la Dirección General de Ejecución Penal y Reinserción Social?",
+    "opciones": [
+      "a) Subdirección General de Planificación y Gestión Económica.",
+      "b) Subdirección General de Sanidad Penitenciaria.",
+      "c) Subdirección General de Asistencia a los Reclusos.",
+      "d) Subdirección General de Recursos Penitenciarios."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "9. Ministerio del Interior. ¿Cuál de las siguientes es una función ejercida directamente por el Director General de Relaciones Internacionales y Extranjería?",
+    "opciones": [
+      "a) Ejecutar la política del Ministerio en el control de fronteras no comunitarias.",
+      "b) Ejecutar la política del Ministerio en el control de fronteras comunitarias.",
+      "c) Control del flujo de inmigración y emigración, aportando los informes que el Ministro reclame.",
+      "d) La coordinación, organización y seguimiento de las relaciones internacionales del Departamento."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "10. Ministerio del Interior. ¿Quién preside la Comisión Ministerial de Administración Digital?",
+    "opciones": [
+      "a) El Subsecretario del Interior.",
+      "b) El Ministro del Interior.",
+      "c) El Subdirector de Servicios de Innovación.",
+      "d) El Secretario de Estado de Seguridad."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "11. Ministerio del Interior. De los siguientes órganos, dentro del Ministerio del Interior, ¿Cuál no tiene nivel orgánico de subdirección general?",
+    "opciones": [
+      "a) Abogacía del Estado.",
+      "b) Oficina Presupuestaria.",
+      "c) Dirección Adjunta Operativa.",
+      "d) División de Documentación."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "12. Ministerio del Interior. ¿Cuál de las siguientes no es una competencia de la Subdirección General de Recursos?",
+    "opciones": [
+      "a) Propuesta de resolución de los conflictos de atribuciones de los órganos del Departamento.",
+      "b) Tramitación de los recursos administrativos.",
+      "c) Tramitación de los procedimientos de nombramientos de los Altos Cargos del Departamento.",
+      "d) Propuesta de resolución de las reclamaciones de la responsabilidad patrimonial de la Administración."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "13. Ministerio del Interior. ¿Cuál de las siguientes es una competencia de la Subdirección General de Gestión De Recursos y Subvenciones?",
+    "opciones": [
+      "a) Preparación de planes estatales de Protección Civil.",
+      "b) Formación del personal del Sistema Nacional de Protección Civil.",
+      "c) Organización de simulacros para mantener los planes de Protección Civil.",
+      "d) Estudio y propuesta de declaración de zona afectada gravemente por una emergencia de Protección Civil."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "14. Ministerio del Interior. ¿Quién coordina las estructuras homologadas de los estados miembros de la Unión Europea en caso de atentado terrorista con víctimas de varias nacionalidades?",
+    "opciones": [
+      "a) La Subdirección General Internacional de Víctimas del Terrorismo.",
+      "b) La Subdirección General de Apoyo a las Víctimas del Terrorismo.",
+      "c) La Subdirección General Europea de Víctimas del Terrorismo.",
+      "d) La Subdirección General de Ayudas a Víctimas del Terrorismo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "15. Ministerio del Interior. ¿Qué órgano de la Dirección General de Tráfico realiza las propuestas para reducir la accidentalidad?",
+    "opciones": [
+      "a) La Subdirección General de Víctimas de Accidentes de Tráfico.",
+      "b) La Subdirección General de Gestión de la Movilidad y Tecnología.",
+      "c) La Subdirección General de Formación y Seguridad Vial.",
+      "d) El Observatorio Nacional de Seguridad Vial."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "16. Ministerio del Interior. ¿Qué órgano se encarga de la inspección, comprobación y evaluación del desarrollo de los servicios, centros y unidades de las Direcciones Generales de la Policía y de la Guardia Civil?",
+    "opciones": [
+      "a) La Inspección de Personal y Servicios de Seguridad.",
+      "b) La Subdirección General de Recursos Humanos de la Secretaría de Seguridad.",
+      "c) El Gabinete de Coordinación y Estudios.",
+      "d) La Subdirección General de Asistencia al Personal."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "17. Ministerio del Interior. ¿A qué órgano le corresponde actuar como Centro Nacional de Desaparecidos?",
+    "opciones": [
+      "a) A la Inspección de Personal y Servicios de Seguridad.",
+      "b) A la Subsecretaría del Interior.",
+      "c) A la Dirección General de Coordinación y Estudios.",
+      "d) Al Centro de Inteligencia contra el Terrorismo y el Crimen Organizado."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "18. Ministerio del Interior. ¿A qué órgano le corresponde el ejercicio del mando de las Fuerzas y Cuerpos de Seguridad del Estado?",
+    "opciones": [
+      "a) Al Jefe del Estado.",
+      "b) Al Secretario de Estado de Seguridad.",
+      "c) A la Oficina de Coordinación.",
+      "d) Al Presidente del Gobierno."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "19. Ministerio del Interior. Depende directamente del ministro:",
+    "opciones": [
+      "a) El Director de la Oficina de Comunicación.",
+      "b) El Director de la División de Documentación.",
+      "c) El Director de la División de Personal.",
+      "d) El Subdirector General de Recursos Humanos y Formación."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "20. Ministerio del Interior. ¿Cuál de las siguientes es una función que le corresponde el Ministerio del Interior?",
+    "opciones": [
+      "a) La administración y régimen de las instituciones administrativas.",
+      "b) El ejercicio de las competencias legalmente atribuidas sobre protección penal.",
+      "c) Las competencias que le encomienda la legislación sobre seguridad pública.",
+      "d) El régimen de protección internacional de refugiados, régimen de apátridas y protección a desplazados."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "21. Ministerio del Interior. ¿Cuál de las siguientes constituye una función de la Subdirección General de Sistemas de Información y Comunicaciones para la Seguridad?",
+    "opciones": [
+      "a) Gestionar y ejecutar los programas y proyectos de sistemas de informática derivados de la financiación procedente de los Presupuestos Generales del Estado.",
+      "b) Planificar, teniendo en cuenta las propuestas de las Direcciones Generales de la Policía, las inversiones en infraestructuras de seguridad.",
+      "c) Acordar, coordinar, ejecutar y llevar a cabo cualquier otra acción necesaria relativa a la participación en proyectos europeos de investigación, desarrollo e innovación (I+D+i) en materia de seguridad de acuerdo con las instrucciones del secretario de Estado.",
+      "d) Ninguna de las afirmaciones es correcta."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "22. Ministerio del Interior. ¿Cuál de las siguientes subdirecciones generales dependen del Secretario de Estado de Seguridad?",
+    "opciones": [
+      "a) Subdirección General de Relaciones Institucionales y Coordinación Territorial.",
+      "b) Subdirección General de Sistemas de Información y Comunicaciones para la Seguridad.",
+      "c) Subdirección General de Política Interior.",
+      "d) Subdirección General de Análisis e Inspección."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "23. Ministerio del Interior. El Centro de Inteligencia Contra el Terrorismo y el Crimen Organizado (CITCO), depende:",
+    "opciones": [
+      "a) Del Secretario de Estado de Seguridad.",
+      "b) Del Ministerio de Seguridad.",
+      "c) Del Ministro del Interior.",
+      "d) Del Ministerio de Presidencia."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "24. Ministerio del Interior. ¿De qué órgano depende la Dirección General de Protección Civil y Emergencias?",
+    "opciones": [
+      "a) De la Secretaría de Estado de Seguridad.",
+      "b) Del Secretario de Estado de Seguridad.",
+      "c) De la Secretaría General Técnica.",
+      "d) De la Subsecretaría del Interior."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "25. Ministerio del Interior. La Oficina Nacional de Información sobre Pasajeros, ¿de qué órgano depende?",
+    "opciones": [
+      "a) Del CETSE.",
+      "b) Del CITCO.",
+      "c) Del TEPOL.",
+      "d) Ninguna de las respuestas es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "26. Ministerio del Interior. ¿A qué órgano le corresponde realizar el control y seguimiento de los planes y objetivos de actuación, en relación a las fuerzas y cuerpos de seguridad del Estado, establecidos por la Secretaría de Estado de Seguridad y las Direcciones Generales de la Policía y de la Guardia Civil?",
+    "opciones": [
+      "a) A la Comisión Ejecutiva de Coordinación.",
+      "b) A la Comisión de Personal del Ministerio de Fuerzas y Cuerpos de Seguridad.",
+      "c) A la Inspección de Personal y Servicios de Seguridad.",
+      "d) Al Gabinete Autónomo de Gerencia y Equipamiento de la Seguridad del Estado."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "27. Ministerio del Interior. ¿Cuál de los siguientes no forma parte del Comité Ejecutivo de Coordinación?",
+    "opciones": [
+      "a) El Director General de la Guardia Civil.",
+      "b) El Director del Gabinete del Ministro.",
+      "c) El Director del Gabinete de Coordinación y Estudios.",
+      "d) El Director de Instituciones Penitenciarias."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "28. Ministerio del Interior. Dirección General de la Policía:",
+    "opciones": [
+      "a) Los titulares de las Jefaturas Superiores de Policía pueden asumir la Jefatura de las Comisarías Zonales correspondientes a la capital de provincia en que aquellas tengan su sede.",
+      "b) A nivel central cuentan con el Consejo Asesor y una Junta de Gobierno.",
+      "c) Las Comisarías, entre otras, pueden ser Fronterizas y de Documentación.",
+      "d) La organización periférica está constituida, entre otras, por las Comisarías Conjuntas y el Consejo Asesor."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "29. Ministerio del Interior. ¿Qué órgano es de asistencia inmediata al Secretario de Estado de Seguridad?",
+    "opciones": [
+      "a) El Gabinete.",
+      "b) La Secretaría.",
+      "c) El Director de la Oficina de Comunicación.",
+      "d) El Gabinete Técnico."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "30. Ministerio del Interior. ¿A quién corresponde el análisis de la información estratégica en la lucha contra todo tipo de delincuencia organizada y grave?",
+    "opciones": [
+      "a) A la Dirección General de Policía.",
+      "b) A la Subdirección General de Sistemas de Información y Comunicaciones para la Seguridad.",
+      "c) Al Gabinete de Coordinación y Estudios.",
+      "d) Al Centro de Inteligencia contra el Terrorismo y el Crimen Organizado (CITCO)."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "31. Ministerio del Interior. ¿Qué organismo autónomo está adscrito a la Secretaría de Estado de Seguridad?",
+    "opciones": [
+      "a) La Dirección General de Coordinación y Estudios.",
+      "b) La Dirección General de Ejecución Penal y Reinserción Social.",
+      "c) La Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado.",
+      "d) La Dirección Adjunta Operativa."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "32. Ministerio del Interior. ¿Qué órgano actúa como Centro Nacional de Desaparecidos?",
+    "opciones": [
+      "a) La Dirección General de Coordinación y Estudios.",
+      "b) La Subdirección General de Cooperación Policial Internacional.",
+      "c) La Dirección General de Apoyo a los Desaparecidos.",
+      "d) El Centro de Inteligencia contra el Terrorismo y el Crimen Organizado (CITCO)."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "33. Ministerio del Interior. ¿A quién propone el Director General de la Policía los proyectos de actuación operativa de la Policía Nacional?",
+    "opciones": [
+      "a) A la Dirección Adjunta Operativa.",
+      "b) Al Gabinete Técnico.",
+      "c) Al Secretario de Estado de Seguridad.",
+      "d) Al Ministro de Interior."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "34. Ministerio del Interior. ¿Quién impulsa y coordina las funciones policiales operativas a nivel central en la Dirección Adjunta Operativa de la Dirección General de la Policía?",
+    "opciones": [
+      "a) Sus divisiones.",
+      "b) Sus comisarías generales.",
+      "c) Sus gabinetes.",
+      "d) Sus inspectores."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "35. Ministerio del Interior. ¿Qué Comisaría General de la Dirección Adjunta Operativa de la Dirección General de la Policía colabora con el Banco de España?",
+    "opciones": [
+      "a) La Comisaría General de Seguridad Ciudadana.",
+      "b) La Comisaría General de Policía Judicial.",
+      "c) La Comisaría General de Documentación.",
+      "d) La Comisaría General de Policía Científica."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "36. Ministerio del Interior. ¿Cuál de las siguientes subdirecciones generales no está adscrita a la Secretaría General de Instituciones Penitenciarias?",
+    "opciones": [
+      "a) La Subdirección General de Servicios Penitenciarios.",
+      "b) La Subdirección General de Relaciones Institucionales y Coordinación Territorial.",
+      "c) La Subdirección General de Recursos Humanos.",
+      "d) La Subdirección General de Análisis e Inspección."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "37. Ministerio del Interior. ¿Qué órgano se encarga de la coordinación y seguimiento en materia de ejecución de penas?",
+    "opciones": [
+      "a) La Subdirección General de Servicios Penitenciarios.",
+      "b) La Subdirección General de Ejecución Penal y Reinserción Social.",
+      "c) La Subdirección General de Relaciones Institucionales y Coordinación Territorial.",
+      "d) La Subdirección General de Medio Abierto y Penas y Medidas Alternativas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "38. Ministerio del Interior. ¿Qué órgano participa en la coordinación en materia de cooperación policial internacional?",
+    "opciones": [
+      "a) La Subsecretaría del Interior.",
+      "b) La Secretaría del Interior.",
+      "c) El Ministro del Interior.",
+      "d) La Dirección General de Relaciones Internacionales y Extranjería."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "39. Ministerio del Interior. ¿Qué órgano participa en la negociación de convenios y acuerdos internacionales?",
+    "opciones": [
+      "a) El Ministro de Asuntos Exteriores.",
+      "b) La Subdirección General de Relaciones Internacionales, Inmigración y Extranjería.",
+      "c) La Subdirección General de Cooperación Policial Internacional.",
+      "d) La Dirección General de Relaciones Internacionales y Extranjería."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "40. Ministerio del Interior. ¿Qué nivel orgánico tiene la Abogacía del Estado?",
+    "opciones": [
+      "a) Subdirección General.",
+      "b) Dirección General.",
+      "c) Secretaría General.",
+      "d) Subsecretaría General."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "41. Ministerio del Interior. ¿Qué órgano preside la Comisión Calificadora de Documentos Administrativos del Ministerio del Interior?",
+    "opciones": [
+      "a) La Subsecretaría del Interior.",
+      "b) La Secretaría General Técnica.",
+      "c) La Dirección General de Política Interior.",
+      "d) La Dirección General de Política Exterior."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "42. Ministerio del Interior. ¿Con quién coordina las relaciones la Secretaría General Técnica?",
+    "opciones": [
+      "a) Con el Ministro del Interior.",
+      "b) Con el Presidente del Tribunal Supremo.",
+      "c) Con el Presidente del Consejo General del Poder Judicial.",
+      "d) Con el Defensor del Pueblo."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "43. Ministerio del Interior. ¿Quién ejerce la presidencia de la Comisión Interministerial de Asilo y Refugio?",
+    "opciones": [
+      "a) La Vicesecretaría General Técnica.",
+      "b) La Dirección General de Política Interior.",
+      "c) La Secretaría General Técnica.",
+      "d) La Subsecretaría del Interior."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "44. Ministerio del Interior. Subdirección General de Política Interior y Procesos Electorales. Señala la opción INCORRECTA:",
+    "opciones": [
+      "a) Ejerce la función de gestión de competencias del Ministerio del Interior de procesos electorales.",
+      "b) Ejerce la función de lo relacionado con procesos electorales.",
+      "c) Ejerce la función de coordinación de la preparación de propuestas del Consejo de Ministros, cuando versen sobre protección internacional.",
+      "d) Ejerce la función de lo relacionado con comunicaciones para modernizar los procesos electorales."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "45. Ministerio del Interior. ¿Cuántas Subdirecciones Generales forma la Dirección General de Protección Civil y Emergencias?",
+    "opciones": [
+      "a) 3.",
+      "b) 2.",
+      "c) 4.",
+      "d) 5."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "47. Ministerio del Interior. ¿Qué órganos o redes mantiene la Subdirección General de Prevención, Planificación y Emergencias, entre otras?",
+    "opciones": [
+      "a) El Consejo Nacional de Protección Civil, su Comisión Permanente y comisiones técnicas.",
+      "b) La Ventanilla Única, la Red de Alerta Nacional y la Comisión Permanente del Consejo Nacional de Protección Civil.",
+      "c) La Red de Alerta Nacional y el Centro Nacional de Seguimiento y Coordinación de Emergencias.",
+      "d) La Red Nacional de Información, la Ventanilla Única y el Centro de Seguimiento y Coordinación de Emergencias."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "48. Ministerio del Interior. ¿Qué subdirección general gestiona los expedientes de condecoraciones a los afectados como víctimas de terrorismo?",
+    "opciones": [
+      "a) La Subdirección General de Protección Internacional.",
+      "b) La Subdirección General de Prevención, Planificación y Condecoraciones.",
+      "c) La Subdirección General de Gestión en Materia de Movilidad y Tecnología.",
+      "d) La Subdirección General de Ayuda a Víctimas del Terrorismo."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "49. Ministerio del Interior. ¿Qué órgano da soporte en tecnología de la información a las unidades?",
+    "opciones": [
+      "a) La Subdirección General de Recursos y Tecnología.",
+      "b) La Gerencia de Informática.",
+      "c) La Subdirección General de Recursos.",
+      "d) La Subdirección General de Movilidad y Tecnología."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "50. Ministerio del Interior. ¿Qué órgano de la Dirección General de Tráfico tramita los procedimientos de declaración de nulidad?",
+    "opciones": [
+      "a) La Secretaría General.",
+      "b) La Unidad Normativa.",
+      "c) La Secretaría General Técnica.",
+      "d) La Subdirección General de Asuntos Jurídicos."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "51. Ministerio del Interior. ¿Qué órgano de la Dirección General de Tráfico colabora con el Director para coordinar los distintos servicios periféricos?",
+    "opciones": [
+      "a) El Observatorio de Seguridad Orgánica.",
+      "b) La Secretaría General.",
+      "c) La Subdirección de Servicios Periféricos.",
+      "d) La Subdirección General de Formación y Educación Vial."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "52. Ministerio del Interior. ¿Cuál de las siguientes es competencia del Ministerio del Interior? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Ejecución de la política del Gobierno en seguridad ciudadana.",
+      "b) Las competencias sobre seguridad privada.",
+      "c) El régimen de las instituciones penitenciarias.",
+      "d) La preparación de la política de defensa."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "53. Ministerio del Interior. ¿Qué órgano no depende directamente de la Dirección General de la Guardia Civil?",
+    "opciones": [
+      "a) La Dirección Adjunta Operativa.",
+      "b) El Mando de Fronteras y Policía Marítima.",
+      "c) El Mando de Operaciones.",
+      "d) El Mando de Apoyo."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "54. Ministerio del Interior. ¿Qué órgano facilita al Director General de la Policía despacho y coordinación de sus órganos y unidades?",
+    "opciones": [
+      "a) La División de Personal.",
+      "b) La División de Cooperación Internacional.",
+      "c) El Gabinete Técnico.",
+      "d) La Dirección Adjunta Operativa."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "55. Ministerio del Interior. Coordina las relaciones del Departamento con el Comité Europeo para la Prevención de la Tortura y de las Penas y Tratos Inhumanos o Degradantes:",
+    "opciones": [
+      "a) El Secretario de Estado de Seguridad.",
+      "b) La División de Cooperación Internacional.",
+      "c) La Subdirección General de Relaciones Internacionales, Inmigración y Prevención de la Tortura.",
+      "d) La Subsecretaría de Lucha contra la Tortura y las Penas y Tratos Inhumanos o Degradantes."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "56. Ministerio del Interior. ¿Quién ejerce las competencias del Ministerio del Interior sobre la Jefatura Central de Tráfico?",
+    "opciones": [
+      "a) La Secretaría del Interior.",
+      "b) La Dirección General de Tráfico y Seguridad Vial.",
+      "c) La Subsecretaría del Interior.",
+      "d) La Oficialía Mayor."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "57. Ministerio de Defensa. ¿Cuál de los siguientes es un Cuerpo común de las Fuerzas Armadas?",
+    "opciones": [
+      "a) Cuerpo Aéreo Militar.",
+      "b) Cuerpo Militar de Seguimiento.",
+      "c) Cuerpo Militar de Intervención.",
+      "d) Cuerpo de Protección Civil Militar."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "58. Ministerio de Defensa. Competencia de la Dirección de Comunicación Institucional de la Defensa:",
+    "opciones": [
+      "a) Contribuir a las operaciones militares de seguridad y defensa.",
+      "b) Representar, ordinariamente, al Departamento, en materia de información e informativos.",
+      "c) Relacionarse con terceros países y servirles como punto de enlace y comunicación.",
+      "d) Asumir la dirección editorial de la Revista Española de Defensa."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "59. Ministerio de Defensa. ¿Qué rango tiene el Jefe de Estado Mayor de la Defensa?",
+    "opciones": [
+      "a) Director General.",
+      "b) Representante diplomático.",
+      "c) Viceministro.",
+      "d) Secretario de Estado."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "60. Ministerio de Defensa. ¿Cómo está constituida la UME?",
+    "opciones": [
+      "a) De forma permanente.",
+      "b) De forma reiterada y absoluta.",
+      "c) Será constituida cuando las circunstancias lo reclamen.",
+      "d) Se constituirá de forma preventiva y deberá ser activada en un plazo máximo de 48 horas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "61. Ministerio de Defensa. Lleva el inventario de los bienes del Ministerio de Defensa:",
+    "opciones": [
+      "a) Subdirección General de Planificación y Costes de Recursos Humanos.",
+      "b) Dirección General de Infraestructuras.",
+      "c) Subdirección General de Proyectos y Obras.",
+      "d) Gabinete Técnico."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "62. Ministerio de Defensa. Órganos con los que la Dirección General de Infraestructura se coordina en el seguimiento de los proyectos internacionales en materia de infraestructura. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Dirección General de Asuntos Económicos.",
+      "b) Dirección General de Asuntos Internacionales.",
+      "c) Estado Mayor Conjunto.",
+      "d) Dirección General de Política de Defensa."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "63. Ministerio de Defensa. ¿Con cuántos órganos directivos cuenta la Dirección General de Personal de la Subsecretaría de Defensa?",
+    "opciones": [
+      "a) 4.",
+      "b) 3.",
+      "c) 2.",
+      "d) 1."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "64. Ministerio de Defensa. ¿Cuál de las siguientes es competencia de la Dirección General de Reclutamiento y Enseñanza Militar?",
+    "opciones": [
+      "a) Prestar apoyo a los heridos en acto de servicio, durante su estancia en centros de Enseñanza Militar.",
+      "b) Gestión de régimen interior.",
+      "c) Planificación de la política de Defensa.",
+      "d) Coordinar, en el aspecto funcional, el Sistema Integrado de Enseñanza Virtual."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "65. Ministerio de Defensa. ¿Qué órgano se encarga de evacuar los informes jurídicos solicitados por los órganos directivos del Ministerio de Defensa?",
+    "opciones": [
+      "a) La Asesoría Jurídica General de la Defensa.",
+      "b) La Subdirección General de Régimen Interior.",
+      "c) El Adjunto Jurídico al Ministerio de Defensa.",
+      "d) Al Servicio Jurídico Permanente de la Defensa."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "66. Ministerio de Defensa. ¿Quién desempeña el cargo de Inspector General de Sanidad de la Defensa?",
+    "opciones": [
+      "a) Un funcionario civil licenciado en Medicina, en activo.",
+      "b) El Subdirector General de Sanidad y Defensa, en activo.",
+      "c) Un general de brigada togado en Sanidad, en activo.",
+      "d) Un general de división del Cuerpo Militar de Sanidad, en activo."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "67. Ministerio de Defensa. Órgano del Ministerio de Defensa que desarrolla y ejecuta la política de defensa:",
+    "opciones": [
+      "a) División de Coordinación y Estudios de Seguridad y Defensa.",
+      "b) Subdirección General de Cooperación y Defensa Civil.",
+      "c) Secretaría General de Política de Defensa.",
+      "d) Dirección General de Política de Defensa."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "68. Ministerio de Defensa. ¿Qué órgano impulsa los estudios en el ámbito de cultura de seguridad y defensa?",
+    "opciones": [
+      "a) Dirección General de Política de Defensa.",
+      "b) División de Coordinación y Estudios de Seguridad y Defensa.",
+      "c) El Servicio de Enseñanza Permanente de la Defensa.",
+      "d) La Sección Española del Comité Permanente Hispano-Norteamericano."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "69. Ministerio de Defensa. ¿A quién le corresponde la inspección general del Cuerpo Jurídico Militar en materia de régimen de recompensas?",
+    "opciones": [
+      "a) A la División de Coordinación y Estudios de Recompensas Militares.",
+      "b) Al Secretario General de Política de Defensa.",
+      "c) Al Asesor Jurídico General.",
+      "d) A la Unidad Administrativa de las Reales y Militares Órdenes de San Fernando y San Hermenegildo."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "70. Ministerio de Defensa. ¿Qué nivel orgánico tiene el Gabinete de la Secretaría de Estado de Defensa?",
+    "opciones": [
+      "a) Subdirección General.",
+      "b) Subdirector General.",
+      "c) Dirección General.",
+      "d) Órgano Superior."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "71. Ministerio de Defensa. El Ministerio de Defensa, bajo la dirección del titular del Departamento, se estructura en:",
+    "opciones": [
+      "a) Las Fuerzas Armadas, la Secretaría General de Estado de Defensa, la Subsecretaría de Defensa, y la Secretaría de Política de Defensa.",
+      "b) Las Fuerzas Armadas, la Secretaría de Estado de Defensa, la Subsecretaría de Defensa, y la Secretaría General de Política de Defensa.",
+      "c) Las Fuerzas Armadas, la Secretaría de Estado de Defensa, la Secretaría de Defensa, y la Secretaría de Política de Defensa.",
+      "d) Las Fuerzas Armadas, la Secretaría General de Estado de Defensa, la Subsecretaría de Defensa, y la Subsecretaría General de Política de Defensa."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "72. Ministerio de Defensa. Señale cuál de las siguientes opciones NO es un órgano asesor y consultivo del titular del Departamento:",
+    "opciones": [
+      "a) La Junta Superior del Cuerpo Militar de Intervención.",
+      "b) La Junta Superior del Cuerpo Militar de Sanidad.",
+      "c) La Junta Superior de Letrados del Estado Mayor de Defensa.",
+      "d) La Junta Superior del Cuerpo de Músicas Militares."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "73. Ministerio de Defensa. En consonancia con la Ley de Gobierno 50/1997, en su artículo 10, existe un Gabinete, con rango de ______, de asesoramiento especial al titular del Ministerio de Defensa que actúa como órgano de apoyo político, técnico y en tareas de confianza en el cumplimiento de las labores de carácter parlamentario, en sus relaciones con las Instituciones y la organización administrativa:",
+    "opciones": [
+      "a) Secretario de Estado.",
+      "b) Subdirección General.",
+      "c) Secretario General Técnico.",
+      "d) Dirección General."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "74. Ministerio de Defensa. Funciones que le corresponden a la Dirección de Comunicación Institucional de la Defensa. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Mantener relaciones informativas con los órganos competentes en comunicación estratégica de las organizaciones internacionales de las que España forma parte, así como de los cuarteles generales internacionales.",
+      "b) Coordinar la acción informativa interior que desarrollan las consejerías de seguridad de las Comunidades Autónomas.",
+      "c) Gestionar y coordinar con los diferentes órganos competentes en esta materia de las Fuerzas Armadas y de los distintos departamentos ministeriales para mantener actualizado el contenido de la página electrónica del departamento.",
+      "d) Analizar la legislación vigente en materia informativa, estudiar la incorporación de nuevas tecnologías de información a la acción informativa del Ministerio de Defensa y proponer medidas para su mejora."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "75. Ministerio de Defensa. ¿Qué órganos directivos dependen de la Secretaría de Estado de Defensa?",
+    "opciones": [
+      "a) La Dirección General de Armamento y Material, la Secretaría General de Asuntos Económicos, y la Subsecretaría General de Infraestructura.",
+      "b) La Dirección General de Armamento y Material, la Subdirección General de Asuntos Económicos, y la Secretaría General de Infraestructura.",
+      "c) La Dirección General de Armamento y Material, la Dirección General de Asuntos Económicos, y la Dirección General de Infraestructura.",
+      "d) Ninguna opción es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "76. Ministerio de Defensa. Algunas de las funciones que corresponden al Centro de Sistemas y Tecnologías de la Información y las Comunicaciones, en el ámbito de su competencia, son... Señala la INCORRECTA:",
+    "opciones": [
+      "a) Definir, planificar y coordinar las políticas de los sistemas de información, telecomunicaciones y seguridad de la información del Departamento. Dirigir la ejecución y controlar el cumplimiento de las citadas políticas en el ámbito común al Departamento.",
+      "b) Colaborar con el Estado Mayor de la Defensa en las tareas de diseño y mantenimiento de los sistemas de información y telecomunicaciones en el ámbito de las competencias del Estado Mayor de la Defensa.",
+      "c) Dirigir y mantener abiertos canales de comunicación con los medios de comunicación y con los ciudadanos a través de internet y, especialmente, de las redes sociales, así como coordinar y supervisar el resto de cuentas abiertas en estas plataformas de los departamentos del Ministerio de Defensa y de las Fuerzas Armadas.",
+      "d) Dirigir y gestionar los sistemas de información y telecomunicaciones en el ámbito común al Departamento y las infraestructuras en que se sustentan, en coordinación con el Estado Mayor de la Defensa."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "77. Ministerio de Defensa. Depende de la Dirección General de Armamento y Material:",
+    "opciones": [
+      "a) La Subdirección General de Programas.",
+      "b) El Organismo autónomo Instituto Nacional de Técnica Aeroespacial «Esteban Terradas».",
+      "c) El Organismo autónomo Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa.",
+      "d) Todas las opciones son correctas."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "78. Ministerio de Defensa. ¿Qué órgano directivo depende de la Dirección General de Infraestructura?",
+    "opciones": [
+      "a) La Subdirección General de Contratación.",
+      "b) La Subdirección General de Planificación y Medio Ambiente.",
+      "c) La Oficina Presupuestaria.",
+      "d) Todas las opciones son correctas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "79. Ministerio de Defensa. El Subsecretario de Defensa dispone de un Gabinete Técnico, como órgano de apoyo, asesoramiento y asistencia inmediata. Su director será:",
+    "opciones": [
+      "a) Un oficial general u oficial, con nivel orgánico de director general.",
+      "b) Un oficial general u oficial, con nivel orgánico de subdirector general.",
+      "c) Un oficial general, con nivel orgánico de subdirector general.",
+      "d) Un oficial general, con nivel orgánico de director general."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "80. Ministerio de Defensa. Dependen funcionalmente de la Dirección General de Reclutamiento y Enseñanza Militar:",
+    "opciones": [
+      "a) El Centro General de Administración Periférica y los órganos competentes en las citadas materias de las Fuerzas Armadas y de los organismos dependientes del Departamento.",
+      "b) El Centro General de Recursos e Información Administrativa y los órganos competentes en las citadas materias de las Fuerzas Armadas y de los organismos sometidos al Ministerio de Defensa.",
+      "c) El Centro Superior de Estudios de la Defensa Nacional y los órganos competentes en las citadas materias de las Fuerzas Armadas y de los organismos autónomos del Departamento.",
+      "d) Ninguna opción es correcta."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "81. Ministerio de Defensa. ¿Quién ocupa el tercer lugar en la precedencia de las autoridades del Ministerio de Defensa en su régimen interno?",
+    "opciones": [
+      "a) El Jefe de Estado Mayor del Ejército del Aire.",
+      "b) El Titular de la Secretaría de Estado de Defensa.",
+      "c) El Titular de la Secretaría General de Política de Defensa.",
+      "d) El Jefe de Estado Mayor del Ejército de Tierra."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "82. Ministerio de Defensa. ¿Cómo podrán suprimirse los órganos colegiados del Ministerio de Defensa cuya composición y funciones sean de alcance puramente ministerial?",
+    "opciones": [
+      "a) Mediante decreto acordado en Consejo de Ministros.",
+      "b) Mediante orden ministerial de los departamentos afectados.",
+      "c) Mediante real decreto del Ministro de Defensa.",
+      "d) Mediante orden del Ministro de Defensa."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "83. Ministerio de Defensa. ¿Cuándo podrá hacer uso la Dirección General de Protección Civil de las redes dirigidas por el Centro de Sistemas?",
+    "opciones": [
+      "a) Cuando lo autorice el Ministro de Defensa.",
+      "b) Cuando lo autorice el Centro de Sistemas.",
+      "c) En situaciones de emergencia.",
+      "d) En situaciones de grave riesgo o calamidad pública."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "84. Ministerio de Defensa. Órgano de asesoramiento especial al Ministerio de Defensa:",
+    "opciones": [
+      "a) Dirección General de Comunicación Institucional de la Defensa.",
+      "b) Gabinete.",
+      "c) Consejo Superior de los Cuerpos Comunes.",
+      "d) Gabinete Técnico."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "85. Ministerio de Defensa. ¿Cuál de los siguientes no es un Cuerpo Común a las Fuerzas Armadas?",
+    "opciones": [
+      "a) Cuerpo Militar de Sanidad.",
+      "b) Cuerpo de Defensa Militar.",
+      "c) Cuerpo de Músicas Militares.",
+      "d) Cuerpo Militar de Intervención."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "86. Ministerio de Defensa. ¿Quién dirige el Gabinete Técnico de las Fuerzas Armadas?",
+    "opciones": [
+      "a) El Ministro de Defensa.",
+      "b) El Secretario de Estado de Defensa.",
+      "c) Un Oficial Superior.",
+      "d) Un Oficial."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "87. Ministerio de Defensa. ¿Dónde intervendrá la UME?",
+    "opciones": [
+      "a) En el territorio nacional y en el exterior.",
+      "b) Exclusivamente en el territorio nacional.",
+      "c) En el territorio nacional y países con los que mantenga acuerdos de intervención.",
+      "d) En cualquier momento y lugar se hallaren o no fuera de servicio."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "88. Ministerio de Defensa. ¿Quién dirige la ejecución de la política energética del Ministerio de Defensa?",
+    "opciones": [
+      "a) La Dirección General de Armamento y Material.",
+      "b) El Gabinete.",
+      "c) La Dirección General de Infraestructuras.",
+      "d) La Dirección General de Asuntos Ecológicos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "89. Ministerio de Defensa. ¿Cuántas subdirecciones generales o con dicho rango componen la Secretaría de Estado de Defensa?",
+    "opciones": [
+      "a) 12.",
+      "b) 13.",
+      "c) 14.",
+      "d) 15."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "90. Ministerio de Defensa. ¿A quién le corresponde las funciones relativas a aeronavegabilidad?",
+    "opciones": [
+      "a) A la Sección Aerotransportable del Ministerio de Defensa.",
+      "b) A la Dirección General de Armamento y Material.",
+      "c) A la Junta Aérea y de Asuntos del Aire.",
+      "d) A la Dirección General de Infraestructuras."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "91. Ministerio de Defensa. ¿Cuál de las siguientes competencias no es ejercida por la Subsecretaría de Defensa?",
+    "opciones": [
+      "a) Propone directrices de política de defensa.",
+      "b) Acuerda la inserción en el BOD de las disposiciones generales.",
+      "c) Ostenta la representación ordinaria del Departamento.",
+      "d) Dirige el desarrollo de la política de reclutamiento."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "92. Ministerio de Defensa. ¿Qué órgano propone la estructura docente de las Fuerzas Armadas?",
+    "opciones": [
+      "a) La Subdirección General de Personal Civil.",
+      "b) La Dirección General de Política de Defensa.",
+      "c) La Dirección General de Reclutamiento y Enseñanza Militar.",
+      "d) La Subsecretaría de Defensa."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "93. Ministerio de Defensa. ¿Cuál de las siguientes funciones es ejercida por la Subdirección General de Servicios Económicos y Pagadurías?",
+    "opciones": [
+      "a) Control interno de la gestión económica financiera.",
+      "b) Coordinar, en el aspecto funcional, el Sistema integrado de Enseñanza Virtual.",
+      "c) Elaborar directrices de política de defensa.",
+      "d) Lo referente a nóminas de personal y pagadurías de haberes."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "94. Ministerio de Defensa. ¿Quién ejerce el cargo de Asesor Jurídico General?",
+    "opciones": [
+      "a) El Ministro de Defensa.",
+      "b) El Secretario de Defensa.",
+      "c) Un oficial general interventor.",
+      "d) Un general consejero togado."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "95. Ministerio de Defensa. ¿De quién depende funcionalmente la Intervención General de la Defensa?",
+    "opciones": [
+      "a) De la Subsecretaría de Defensa.",
+      "b) De la Intervención General de la Administración del Estado.",
+      "c) De la Inspección General de Sanidad de la Defensa.",
+      "d) De la Diplomacia de Defensa."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "96. Ministerio de Defensa. ¿Bajo qué principios desarrolla la Secretaría General de Política Defensa las relaciones con otros estados?",
+    "opciones": [
+      "a) Principio de unidad de acción exterior del Estado.",
+      "b) Principio de proporcionalidad.",
+      "c) Principio de reciprocidad.",
+      "d) Principio de lealtad institucional."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "97. Ministerio de Defensa. ¿Qué órgano preside el Secretario General de Política de Defensa?",
+    "opciones": [
+      "a) El Consejo de Defensa Nacional.",
+      "b) La Comisión de Coordinación de la Actividad Internacional del Ministerio de Defensa.",
+      "c) El Consejo de Política de Defensa.",
+      "d) La Comisión Ministerial de Política de Defensa."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "98. Ministerio de Defensa. ¿Quién depende de la Secretaría General de Política de Defensa en las representaciones permanentes ante las organizaciones internacionales?",
+    "opciones": [
+      "a) Los Consejeros de Defensa.",
+      "b) El Secretario de Estado.",
+      "c) El Gabinete Técnico.",
+      "d) El Interventor General de Defensa."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "99. Ministerio de Defensa. ¿Qué órgano depende de la Dirección General de Política de Defensa, a través de la Subdirección General de Planes y Relaciones Internacionales?",
+    "opciones": [
+      "a) La Subdirección General de Cooperación y Defensa Civil.",
+      "b) La Subdirección General de Régimen Interior.",
+      "c) La Oficina de Aplicación del Convenio entre los Estados Partes del Tratado del Atlántico Norte, relativo al Estatuto de sus Fuerzas.",
+      "d) La Comisión Interministerial de Defensa."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "100. Ministerio de Defensa. ¿De quién depende orgánicamente la Unidad Militar de Emergencias?",
+    "opciones": [
+      "a) Del Director General de Protección Civil y Emergencias.",
+      "b) Del Jefe del Estado Mayor de la Defensa.",
+      "c) De la Subsecretaría de la Defensa.",
+      "d) Del Ministro de Defensa."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "101. Ministerio del Interior. ¿Cuál de los siguientes NO es un Órgano Superior en los que se estructura el Ministerio del Interior?",
+    "opciones": [
+      "a) Secretaría de Estado de Seguridad.",
+      "b) Subsecretaría del Interior.",
+      "c) Secretaría General de Instituciones Penitenciarias.",
+      "d) Secretaría General Técnica."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "102. Ministerio del Interior. ¿De qué órgano depende la Dirección General de Relaciones Internacionales y Extranjería?",
+    "opciones": [
+      "a) De la Secretaría de Estado de Seguridad.",
+      "b) De la Subsecretaría del Interior.",
+      "c) De la Secretaría General de Instituciones Penitenciarias.",
+      "d) De la Secretaría General Técnica."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "103. Ministerio del Interior. ¿Qué rango tiene la Secretaría General de Instituciones Penitenciarias?",
+    "opciones": [
+      "a) Rango de Subsecretaría.",
+      "b) Rango de Secretaría.",
+      "c) Rango de Secretaría General.",
+      "d) Rango de dirección general."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "104. Ministerio del Interior. ¿Cuál es el órgano de apoyo del Ministro del Interior encargado del Protocolo y las Relaciones Institucionales e Internacionales?",
+    "opciones": [
+      "a) La Oficina de Comunicación.",
+      "b) El Gabinete.",
+      "c) El Gabinete Técnico.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "105. Ministerio del Interior. ¿Qué órgano supervisa los servicios de las Fuerzas y Cuerpos de Seguridad del Estado?",
+    "opciones": [
+      "a) La Dirección General de Ejecución de Servicios de las Fuerzas y Cuerpos de Seguridad del Estado.",
+      "b) Los ministros de Defensa e Interior, conjuntamente.",
+      "c) La Secretaría de Estado de Seguridad.",
+      "d) Las Direcciones Generales de la Guardia Civil y de la Policía, en sus ámbitos respectivos de competencias."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "106. Ministerio del Interior. Funciones del Ministerio del Interior. Señala la INCORRECTA:",
+    "opciones": [
+      "a) La propuesta y ejecución de la política del Gobierno en materia de seguridad ciudadana.",
+      "b) La promoción de las condiciones para el ejercicio de los derechos fundamentales.",
+      "c) Las competencias que le encomienda la legislación sobre seguridad privada.",
+      "d) El mando superior y la dirección y coordinación de las fuerzas y cuerpos de seguridad."
+    ],
+    "respuesta": "c"
+  },
+  {
+    "pregunta": "107. Ministerio del Interior. ¿Qué comisaría controla la entrada y salida de españoles del territorio nacional?",
+    "opciones": [
+      "a) La Comisaría General de Extranjería y Fronteras.",
+      "b) La Comisaría de Recursos Humanos.",
+      "c) Esta competencia es ejercida por el Servicio Fiscal de Fronteras de la Guardia Civil.",
+      "d) No existe órgano alguno que controle a los españoles salir o entrar en España."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "108. Ministerio del Interior. ¿Cuál de los siguientes no forma parte del Comité Ejecutivo de Coordinación?",
+    "opciones": [
+      "a) El Director General de la Guardia Civil.",
+      "b) El Director de Instituciones Penitenciarias.",
+      "c) El Director del Gabinete de Coordinación y Estudios.",
+      "d) El Director del Gabinete del Ministro."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "109. Ministerio del Interior. ¿A quién corresponde el análisis de la información estratégica en la lucha contra todo tipo de delincuencia organizada y grave?",
+    "opciones": [
+      "a) A la Dirección General de Policía.",
+      "b) A la Subdirección General de Sistemas de Información y Comunicaciones para la Seguridad.",
+      "c) Al Gabinete de Coordinación y Estudios.",
+      "d) Al Centro de Inteligencia contra el Terrorismo y el Crimen Organizado (CITCO)."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "110. Ministerio del Interior. ¿Qué organismo autónomo está adscrito a la Secretaría de Estado de Seguridad?",
+    "opciones": [
+      "a) La Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado.",
+      "b) La Dirección General de Ejecución Penal y Reinserción Social.",
+      "c) La Dirección General de Coordinación y Estudios.",
+      "d) La Dirección Adjunta Operativa."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "111. Ministerio del Interior. ¿De qué órgano depende directamente la Dirección General de Coordinación y Estudios?",
+    "opciones": [
+      "a) Secretaría de Estado de Seguridad.",
+      "b) Subsecretaría del Interior.",
+      "c) Secretaría General de Instituciones Penitenciarias.",
+      "d) Secretaría General Técnica."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "112. Ministerio del Interior. ¿De qué órgano depende la Dirección General de Tráfico?",
+    "opciones": [
+      "a) De la Secretaría de Estado de Seguridad.",
+      "b) De la Subsecretaría del Interior.",
+      "c) De la Dirección General de la Guardia Civil.",
+      "d) De la Secretaría General Técnica."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "113. Ministerio del Interior. ¿Qué rango tiene la Dirección General de la Guardia Civil?",
+    "opciones": [
+      "a) Rango de Subsecretaría.",
+      "b) Rango de Secretaría.",
+      "c) Rango de Secretaría General.",
+      "d) Rango de dirección general."
+    ],
+    "respuesta": "b"
+  },
+  {
+    "pregunta": "114. Ministerio del Interior. ¿Cuál es el órgano de apoyo del Ministro del Interior encargado de la comunicación oficial?",
+    "opciones": [
+      "a) La Oficina de Comunicación.",
+      "b) El Gabinete.",
+      "c) El Gabinete Técnico.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "115. Ministerio del Interior. ¿A quién le corresponde el mando superior y la dirección y coordinación de las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "a) Al Ministerio del Interior.",
+      "b) A la Secretaría de Estado de Seguridad.",
+      "c) A la Dirección General de la Guardia Civil.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "116. Ministerio del Interior. ¿Qué órganos dependen de la Dirección General de Relaciones Internacionales y Extranjería?",
+    "opciones": [
+      "a) La Subdirección General de Cooperación Policial Internacional.",
+      "b) La Subdirección General de Relaciones Internacionales, Inmigración y Extranjería.",
+      "c) La Subdirección General de Asuntos Europeos.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "117. Ministerio del Interior. ¿A través de qué órgano ejerce el titular de la Secretaría de Estado de Seguridad su función de coordinación y supervisión de la actuación de las Fuerzas y Cuerpos de Seguridad del Estado y de colaboración con las Policías Autonómicas y las Policías Locales?",
+    "opciones": [
+      "a) De la Dirección General de Coordinación y Estudios.",
+      "b) Del Gabinete.",
+      "c) Del Gabinete Técnico.",
+      "d) De la Dirección General de la Guardia Civil y de la Dirección General de Policía."
+    ],
+    "respuesta": "d"
+  },
+  {
+    "pregunta": "118. Ministerio del Interior. ¿De qué órgano depende la Inspección de Personal y Servicios de Seguridad?",
+    "opciones": [
+      "a) De la Dirección General de Coordinación y Estudios.",
+      "b) Del Gabinete.",
+      "c) De la Secretaría de Estado de Seguridad.",
+      "d) De la Dirección General de la Guardia Civil y de la Dirección General de Policía, en sus ámbitos respectivos."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "119. Ministerio del Interior. ¿Qué órgano está adscrito a la Inspección de Personal y Servicios de Seguridad?",
+    "opciones": [
+      "a) La Dirección General de Coordinación y Estudios.",
+      "b) La Oficina Nacional de Garantía de los Derechos Humanos.",
+      "c) El Gabinete de Coordinación y Estudios.",
+      "d) El Centro de Inteligencia contra el Terrorismo y el Crimen Organizado (CITCO)."
+    ],
+    "respuesta": "a"
+  },
+  {
+    "pregunta": "120. Ministerio del Interior. ¿A qué órgano está adscrita la entidad de derecho público Trabajo Penitenciario y Formación para el Empleo?",
+    "opciones": [
+      "a) A la Subdirección General de Relaciones Institucionales y Coordinación Territorial.",
+      "b) A la Dirección General de Ejecución Penal y Reinserción Social.",
+      "c) A la Subdirección General de Análisis e Inspección.",
+      "d) A la Secretaría General de Instituciones Penitenciarias."
+    ],
+    "respuesta": "b"
+  }
+]
+
+
