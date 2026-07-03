@@ -25,6 +25,8 @@ import seguridadPublicaPrivadaData from './data/seguridad_publica_privada.json';
 import tema14MinisteriosData from './data/tema_14_ministerios.json';
 import fuerzasCuerposSeguridadData from './data/fuerzas_cuerpos_seguridad.json';
 import tema17TicData from './data/tema_17_tic.json';
+import tema18TopografiaData from './data/tema_18_topografia.json';
+import tema16ProteccionCivilDesarrolloSostenibleEficienciaEnergeticaData from './data/tema_16_proteccion_civil_desarrollo_sostenible_eficiencia_energetica.json';
 import modelo1A2025Data from './data/examen_oficial_modelo_1a_2025';
 import modeloB2025Data from './data/examen_oficial_modelo_b_2025';
 import TEMA_12_EXTRANJERIA from './data/tema_12_extranjeria';
@@ -51,7 +53,9 @@ function App() {
     seguridad_publica_privada: 13,
     tema_14_ministerios: 14,
     fuerzas_cuerpos_seguridad: 15,
+    tema_16_proteccion_civil_desarrollo_sostenible_eficiencia_energetica: 16,
     tema_17_tic: 17,
+    tema_18_topografia: 18,
     onu_monograficos: 50,
     examen_oficial_modelo_1a_2025: 16,
     examen_oficial_modelo_b_2025: 18,
@@ -177,6 +181,12 @@ function App() {
         preguntas: fuerzasCuerposSeguridadData
       },
       {
+        id: 'tema_16_proteccion_civil_desarrollo_sostenible_eficiencia_energetica',
+        nombre: 'TEMA 16. Protección Civil, Desarrollo Sostenible y Eficiencia Energética',
+        tipo: 'general',
+        preguntas: tema16ProteccionCivilDesarrolloSostenibleEficienciaEnergeticaData
+      },
+      {
         id: 'examen_oficial_modelo_1a_2025',
         nombre: 'Modelo 1A 2025',
         tipo: 'oficial',
@@ -187,6 +197,12 @@ function App() {
         nombre: 'TEMA 17. Tecnologías de la Información y la Comunicación',
         tipo: 'general',
         preguntas: tema17TicData
+      },
+      {
+        id: 'tema_18_topografia',
+        nombre: 'TEMA 18. Topografía',
+        tipo: 'general',
+        preguntas: tema18TopografiaData
       },
       {
         id: 'examen_oficial_modelo_b_2025',

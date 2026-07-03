@@ -1,0 +1,1302 @@
+[
+  {
+    "pregunta": "1. Protección Civil. ¿En qué caso se tendrá derecho a indemnización por perjuicios sufridos como consecuencia de actuaciones relacionadas con la Protección Civil?",
+    "opciones": [
+      "a) En cualquier caso.",
+      "b) En caso de requisa de bienes.",
+      "c) En caso de denuncia del interesado.",
+      "d) En caso de prestaciones personales."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "2. Protección Civil. ¿Quién aprueba el Plan Estatal General?",
+    "opciones": [
+      "a) El Gobierno.",
+      "b) El Estado.",
+      "c) La Administración Autonómica o Local competente.",
+      "d) El Ministro del Interior."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "3. Protección Civil. ¿Cuál de las que se citan no está incluida en la Respuesta Inmediata de las Emergencias?",
+    "opciones": [
+      "a) Atención social de urgencia.",
+      "b) Refugio.",
+      "c) Valoración de riesgos.",
+      "d) Atención sanitaria de urgencia."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "4. Protección Civil. ¿Quién dirigirá a los miembros de las Fuerzas Armadas que intervengan en emergencias no declaradas de interés nacional?",
+    "opciones": [
+      "a) Sus mandos naturales.",
+      "b) El Ministro del Interior.",
+      "c) El Ministro de Defensa.",
+      "d) La autoridad designada en el plan de Protección Civil correspondiente."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "5. Protección Civil. ¿A quién elevará el Gobierno una memoria anual que permita valorar la eficacia del Sistema Nacional de Protección Civil?",
+    "opciones": [
+      "a) Al Ministro del Interior.",
+      "b) A las Cortes Generales.",
+      "c) Al Senado.",
+      "d) Al Consejo Nacional de Protección Civil."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "6. Protección Civil. ¿Cuál de las siguientes no es una circunstancia por la que una emergencia pueda ser declarada de interés nacional?",
+    "opciones": [
+      "a) Que por sus dimensiones efectivas requiera una dirección de carácter nacional.",
+      "b) Que los riesgos y perjuicios ocasionados deban ser evaluados por órganos especializados de la Administración General del Estado.",
+      "c) Que sea necesario prever la coordinación de Administraciones diversas porque afecte a varias CCAA y exija una aportación de recursos a nivel supraautonómico.",
+      "d) Que requiera la aplicación de la Ley Orgánica reguladora de los estados de alarma, excepción y sitio para la protección de personas y bienes."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "7. Protección Civil. ¿Quién finaliza la declaración de emergencia de interés nacional?",
+    "opciones": [
+      "a) El Gobierno.",
+      "b) El Ministro del Interior.",
+      "c) El Director General de Protección Civil y Emergencias.",
+      "d) El Consejo Nacional de Protección Civil."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "8. Protección Civil. ¿Cuál es el objeto de la ley de Protección Civil?",
+    "opciones": [
+      "a) Establecer el Sistema de Protección Civil.",
+      "b) Establecer los derechos inherentes a los miembros de la Protección Civil.",
+      "c) Amparar a los afectados por catástrofes y emergencias nacionales de Protección Civil.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "9. Protección Civil. Situación que altera sustancialmente el funcionamiento de una comunidad por ocasionar gran cantidad de víctimas:",
+    "opciones": [
+      "a) Emergencia de Protección Civil.",
+      "b) Amenaza.",
+      "c) Peligro.",
+      "d) Catástrofe."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "10. Protección Civil. ¿Quién aprueba las líneas básicas de la estrategia del Sistema Nacional de Protección Civil?",
+    "opciones": [
+      "a) El Ministro del Interior.",
+      "b) El Gobierno.",
+      "c) El Consejo Nacional de Protección Civil.",
+      "d) La Dirección General de Protección Civil y Emergencias."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "11. Protección Civil. ¿Qué órgano desarrolla acciones de I+D+i en materia de formación de Protección Civil?",
+    "opciones": [
+      "a) La Escuela Nacional de Protección Civil.",
+      "b) El Ministerio del Interior.",
+      "c) La Dirección General de la Dirección General de Protección Civil y Emergencias.",
+      "d) La Comisión Nacional de Protección Civil."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "12. Protección Civil. ¿Tendrán derechos los ciudadanos mayores de edad a indemnización por las prestaciones personales que hayan realizado como consecuencia de las exigencias de las autoridades competentes en materia de Protección Civil en casos de emergencia?",
+    "opciones": [
+      "a) Sí.",
+      "b) No.",
+      "c) La Ley de Protección Civil no contempla este supuesto.",
+      "d) Tendrán derecho al 50% del valor de lo prestado."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "13. Protección Civil. ¿Cómo funciona el Consejo Nacional de Protección Civil?",
+    "opciones": [
+      "a) El Comisión Permanente y en Pleno.",
+      "b) En Pleno y en Grupos Ministeriales.",
+      "c) En Comisiones Técnicas y en Grupos Plenarios.",
+      "d) En Plenos Autonómicos y Comisiones Permanentes Municipales."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "14. Protección Civil. Principios por los que se rige el Sistema Nacional de Protección Civil. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Eficiencia",
+      "b) Participación",
+      "c) Coordinación.",
+      "d) Igualdad."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "15. Protección Civil. ¿Dónde se integra el Centro Europeo de investigación Social de Situaciones de Emergencias?",
+    "opciones": [
+      "a) En la Subdirección General de Prevención, Planificación y Emergencias.",
+      "b) En la Subdirección General de Formación y Relaciones Internacionales.",
+      "c) En la Escuela Nacional de Protección Civil",
+      "d) En la Subdirección General de Gestión de Recursos y Subvenciones."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "16. Protección Civil. ¿Quién preside el Consejo Nacional de Protección Civil?",
+    "opciones": [
+      "a) El director General de la Dirección General de Protección Civil y Emergencias.",
+      "b) El Ministro del Interior.",
+      "c) El Secretario de Estado del Interior.",
+      "d) El titular de la Federación Española de Municipios y Provincias."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "17. Protección Civil. Amenaza:",
+    "opciones": [
+      "a) Característica de una colectividad de personas o bienes que los hacen susceptibles de ser afectados en mayor o menor grado por un peligro.",
+      "b) Potencial de ocasionar daño en determinadas situaciones a colectivos de personas o bienes que deben ser preservados por la protección civil.",
+      "c) Situación o acontecimiento que altera o interrumpe sustancialmente el funcionamiento de una comunidad o sociedad por ocasionar gran cantidad de víctimas.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "18. Protección Civil. ¿Qué órgano movilizará los recursos del sistema Nacional de Protección Civil para prevenir situaciones de catástrofes en terceros países?",
+    "opciones": [
+      "a) El Consejo Nacional de Protección Civil.",
+      "b) El Ministerio del Interior.",
+      "c) Conjuntamente, los Ministerios del Interior y Asuntos Interiores.",
+      "d) El Ministerio de Asuntos Exteriores."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "19. Protección Civil. ¿A quién corresponde la gestión de la Red de Alerta Nacional de Protección Civil?",
+    "opciones": [
+      "a) Al Presidente del Gobierno o a la persona en quien delegue.",
+      "b) Al Secretario de Interior.",
+      "c) Al Ministerio del Interior.",
+      "d) Al Centro Nacional de Seguimiento y Coordinación de Emergencias y Protección Civil"
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "20. Protección Civil. ¿Qué tipo de planes tienen la finalidad de hacer frente a riesgos de emergencias nucleares?",
+    "opciones": [
+      "a) Planes de autoprotección.",
+      "b) Planes Estatales Generales.",
+      "c) Planes Especiales.",
+      "d) Planes Territoriales."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "21. Protección Civil. ¿Cuál de las siguientes funciones la lleva a cabo la Subdirección General de Gestión de Recursos y Subvenciones?",
+    "opciones": [
+      "a) El mantenimiento de relaciones técnicas con organismos homólogos de otros países.",
+      "b) La confección, ejecución y seguimiento de los presupuestos de Protección Civil",
+      "c) El desarrollo de estudios y programas de información a la población.",
+      "d) La formación teórica y práctica en la gestión de riesgos y emergencias."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "22. Protección Civil. ¿Quién dirige la UME en caso de emergencia de interés nacional?",
+    "opciones": [
+      "a) El Delegado de Gobierno en la comunidad autónoma afectada.",
+      "b) El Subdelegado de Gobierno en la provincia afectada.",
+      "c) El Ministro de Defensa.",
+      "d) El Ministro del Interior."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "23. Protección Civil. ¿Quién podrá declarar la emergencia de interés nacional?",
+    "opciones": [
+      "a) El Director General de la Dirección General de Protección Civil y Emergencias.",
+      "b) El Gobierno.",
+      "c) El Delegado de Gobierno.",
+      "d) El Ministro del Interior."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "24. Protección Civil. ¿Por qué medios se comunicará a las comunidades autónomas en el caso de ser afectadas por una emergencia declarada de interés nacional a iniciática del Ministerio del Interior?",
+    "opciones": [
+      "a) Por cualquier medio que asegure la comunicación.",
+      "b) Por medios que no perjudiquen la rapidez de la declaración y la eficacia de la respuesta pública.",
+      "c) Por medios eficaces y seguros. Manteniendo siempre la confidencialidad de los datos informados.",
+      "d) Por medios electrónicos."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "25. Protección Civil. ¿Cada cuánto tiempo se revisará la Estrategia del Sistema Nacional de Protección Civil?",
+    "opciones": [
+      "a) Todos los años.",
+      "b) Al menos, cada 4 años.",
+      "c) Cada 6 meses.",
+      "d) Al menos, cada 2 años."
+    ],
+    "respuesta": "B"
+  }
+  ,{
+    "pregunta": "26. Protección Civil. ¿Qué actuación del Sistema Nacional de Protección Civil tiene por objeto determinar los riesgos en un territorio?",
+    "opciones": [
+      "a) Evaluación e inspección del Sistema Nacional de Protección Civil.",
+      "b) Planificación.",
+      "c) Recuperación.",
+      "d) Anticipación."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "27. Protección Civil. ¿Quién aprueba la Norma Básica de Protección Civil?",
+    "opciones": [
+      "a) El Ministro del Interior.",
+      "b) El Delegado de Gobierno.",
+      "c) El Director General de Protección Civil y Emergencias.",
+      "d) EL Gobierno."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "28. Protección Civil. ¿A propuesta de quién se efectuará la declaración de una zona afectada gravemente?",
+    "opciones": [
+      "a) De los Ministros de Exterior e Interior.",
+      "b) Del Presidente del Gobierno.",
+      "c) De los Ministros de Hacienda y Administraciones Públicas y del Interior.",
+      "d) De los Ministros de Economía, Educación y del Interior."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "29. Protección Civil. ¿Quién actúa como punto de contacto para la comunicación e intercambio de información con los órganos de la Unión Europea en materia de Protección Civil?",
+    "opciones": [
+      "a) El Centro Nacional de Seguimiento y Coordinación de Emergencias de Protección Civil.",
+      "b) El consejo Nacional de Protección Civil.",
+      "c) La Dirección General de Protección Civil y Emergencias.",
+      "d) Todas son falsas."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "30. Protección Civil. Característica de una colectividad de personas o bienes que los hacen susceptibles de ser afectados en mayor o menor grado por un peligro:",
+    "opciones": [
+      "a) Vulnerabilidad.",
+      "b) Amenaza.",
+      "c) Riesgo.",
+      "d) Peligro."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "31. Protección Civil. ¿Con qué fin integra el Sistema Nacional de Protección Civil la actividad de todas las Administraciones Públicas?",
+    "opciones": [
+      "a) Con el fin de garantizar una respuesta coordinada y eficiente.",
+      "b) Con el fin de regular la participación de cada una de ellas.",
+      "c) Con el fin de armonizar sus actuaciones y competencias.",
+      "d) Con el fin de supervisar el correcto funcionamiento de los servicios prestados por cada una de ellas."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "32. Protección Civil. ¿Están obligados los medios de comunicación a colaborar con las autoridades en la difusión de las informaciones preventivas y operativas ante riesgos y emergencias?",
+    "opciones": [
+      "a) Pueden hacerlo, pero no están obligados.",
+      "b) Están obligados, previo acuerdo entre las partes afectadas.",
+      "c) Están obligados y deben hacerlo de manera gratuita.",
+      "d) No están obligados, salvo Decreto del Gobierno."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "33. Protección Civil. De las siguientes, ¿cuál no es una actividad preventiva financiada por el Fondo de Prevención de Emergencias?",
+    "opciones": [
+      "a) Programas de educación para la prevención en centro escolares.",
+      "b) Programas de sensibilización de riesgos para la tercera edad.",
+      "c) Análisis de peligrosidad.",
+      "d) Análisis de vulnerabilidad."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "34. Protección Civil. ¿Qué actuación de Protección Civil consiste en el conjunto de medidas y acciones encaminadas a evitar o mitigar los posibles impactos adversos de los riesgos y amenazas de emergencia?",
+    "opciones": [
+      "a) Prevención de riesgos de Protección Civil.",
+      "b) Planificación.",
+      "c) Anticipación.",
+      "d) Recuperación."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "35. Protección Civil. ¿Cuál de las siguientes no es una competencia del Gobierno en materia de Protección Civil?",
+    "opciones": [
+      "a) Aprobar el protocolo de intervención de la UME.",
+      "b) Regular la Red Nacional de Información sobre Protección Civil.",
+      "c) Declarar una zona afectada gravemente por una emergencia de Protección Civil.",
+      "d) Elaborar la Norma Básica de Protección Civil."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "36. Protección Civil. ¿Por quién deberán ser informados los planes especiales de ámbito autonómico, a los efectos de su adecuación al Sistema Nacional de Protección Civil?",
+    "opciones": [
+      "a) Por el Consejo Nacional de Protección Civil.",
+      "b) Por el Ministerio del Interior.",
+      "c) Por el Centro Nacional de Seguimiento y Coordinación de Emergencias de Protección Civil.",
+      "d) Por la Dirección General de Protección Civil y Emergencias."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "37. Protección Civil. Normas de conformidad con las que las Fuerzas y Cuerpos de Seguridad del Estado colaborarán en las acciones de Protección Civil. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Normativa de desarrollo.",
+      "b) Ley Orgánica 2/86, de 13 de marzo.",
+      "c) Ley 39/2017, de 1 de octubre.",
+      "d) Ley 17/2015, de 9 de julio."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "38. Protección Civil. ¿A propuesta de quién se aprobará el Plan Estatal General?",
+    "opciones": [
+      "a) Del Consejo Nacional de Protección Civil.",
+      "b) Del Ministro del Interior.",
+      "c) De la Dirección General de Protección Civil y Emergencias",
+      "d) Del Secretario de Estado de Seguridad."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "39. Protección Civil. Sobre las ayudas económicas para daños personales, señala la INCORRECTA:",
+    "opciones": [
+      "a) Se concederán en caso de incapacidad absoluta.",
+      "b) Se concederán en caso de fallecimiento.",
+      "c) Se concederán en caso de incapacidad permanente.",
+      "d) Se concederán en caso de menoscabo definitivo."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "40. Protección Civil. Sobre el voluntariado en Protección Civil, señala la opción INCORRECTA:",
+    "opciones": [
+      "a) Los ciudadanos pueden participar en protección civil a través de las entidades de voluntariado.",
+      "b) La red de comunicaciones de emergencia formada por radioaficionados voluntarios podrán complementar las disponibles ordinariamente por los servicios de protección civil.",
+      "c) La colaboración de los ciudadanos a través de entidades de voluntariado entraña una relación de empleo con la Administración actuante.",
+      "d) Los poderes públicos promoverán la participación y la formación de voluntarios."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "41. Desarrollo Sostenible. Grupo de organismos con características comunes:",
+    "opciones": [
+      "a) Taxón.",
+      "b) Especia autóctona.",
+      "c) Manada.",
+      "d) Hábitat."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "42. Desarrollo Sostenible. Las reservas de la biosfera deben contar con una ordenación espacial, ¿por cuál de las siguientes no estará formada dicha ordenación espacial?",
+    "opciones": [
+      "a) Por una o varias zonas de protección de las zonas núcleo.",
+      "b) Por una o varias LIC, de la Red Natura 2000.",
+      "c) Por una o varias ZEPA, de la Red Natura 2000.",
+      "d) Por una o varias zonas de conversión entre las zonas núcleo."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "43. Desarrollo Sostenible. ¿Cada cuánto tiempo evaluará el Ministerio el comercio internacional de vida silvestre en España?",
+    "opciones": [
+      "a) Al menos, cada 5 años.",
+      "b) Al menos, cada 4 años.",
+      "c) Al menos, cada 3 años.",
+      "d) Al menos, cada 2 años."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "44. Desarrollo Sostenible. ¿Quién determina las fechas hábiles para la pesca en aguas continentales?",
+    "opciones": [
+      "a) La Comisión Estatal para el Patrimonio Natural y la Biodiversidad.",
+      "b) Las Comunidades Autónomas.",
+      "c) El Gobierno.",
+      "d) El Ministerio de Medio Ambiente."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "45. Desarrollo Sostenible. ¿A quién se someterán los informes de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, para su conocimiento y aprobación?",
+    "opciones": [
+      "a) Al Gobierno.",
+      "b) A las Comunidades Autónomas.",
+      "c) A la Conferencia Sectorial de Medio Ambiente.",
+      "d) Al Ministerio de Medio Ambiente."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "46. Desarrollo Sostenible. ¿Qué categoría de especia amenazada corre el riesgo de pasar a la categoría de “en peligro de extinción” en un futuro inmediato si los factores adversos que actúan sobre ellos no se corrigen?",
+    "opciones": [
+      "a) Semiextinguida.",
+      "b) Endémica.",
+      "c) Vulnerable.",
+      "d) Extinta."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "47. Desarrollo Sostenible. Reservas biogenéticas del Consejo de Europa:",
+    "opciones": [
+      "a) Red médica-medioambiental de la Unión Europea.",
+      "b) Área protegida por instrumentos internacionales.",
+      "c) Poblaciones en peligro de extinción.",
+      "d) Zona reservada de la Biosfera."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "48. Desarrollo Sostenible. Señala la opción CORRECTA sobre la conservación de la Biodiversidad:",
+    "opciones": [
+      "a) Queda prohibida la suelta de especies autóctonas de fauna.",
+      "b) Queda prohibido molestar a los animales silvestres.",
+      "c) No está prohibida la recolección de huevos si están vacíos.",
+      "d) Queda prohibido la recolección de huevos de animales silvestres."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "49. Desarrollo Sostenible. ¿Qué prohibición sobre las algas lleva consigo su inclusión en el Listado de Especies Silvestres en Régimen de Protección Especial?",
+    "opciones": [
+      "a) Venderlas.",
+      "b) Mutilarlas intencionadamente en la naturaleza.",
+      "c) Destruir sus vivares.",
+      "d) Cortarlas."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "50. Desarrollo Sostenible. Espacios del conjunto del territorio nacional, junto con la zona económica exclusiva y la plataforma continental, aprobados como tales, que contribuyen de forma apreciable al mantenimiento del estado de conservación favorable de los tipos de hábitats:",
+    "opciones": [
+      "a) LIC.",
+      "b) ZEC.",
+      "c) VIP.",
+      "d) ZEPA."
+    ],
+    "respuesta": "A"
+  }
+  ,{
+    "pregunta": "51. Desarrollo Sostenible. ¿Cómo actúa la Administración General del Estado en caso de reintroducción ilegal de especies?",
+    "opciones": [
+      "a) Erradicando los ejemplares y sus descendientes.",
+      "b) Acotando la zona donde han sido introducidos.",
+      "c) Vigilando y controlando a dichas especies y a sus descendientes.",
+      "d) Planificando su conservación definitiva, evitando los riesgos procedentes de las mismas."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "52. Desarrollo Sostenible. Listado de Especies Silvestres en Régimen de Protección Especial. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Tendrá ámbito estatal.",
+      "b) Se incluyen en él las especies protegidas que figuren en los catálogos de las Comunidades Autónomas.",
+      "c) La inclusión de las especies se llevará a cabo por iniciativa de las Comunidades Autónomas.",
+      "d) La inclusión de taxones se notificará previamente a la Comisión Estatal para el PNB."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "53. Desarrollo Sostenible. ¿Qué taxones se incluyen en el Catálogo Español de Especies Amenazadas?",
+    "opciones": [
+      "a) Vulnerables y expuestos.",
+      "b) En peligro del vulneración y en peligro de extinción.",
+      "c) Expuestos y en peligro de extinción.",
+      "d) En peligro de extinción y vulnerables."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "54. Desarrollo Sostenible. ¿Qué conlleva la inclusión en el Catálogo Español de Especies Amenazadas de un taxón en la categoría de vulnerable?",
+    "opciones": [
+      "a) La adopción, en un plazo máximo de 5 años, de un plan de recuperación.",
+      "b) La adopción, en un plazo máximo de 3 años, de un plan de conservación.",
+      "c) La adopción, en un plazo máximo de 5 años, de un plan de conservación.",
+      "d) La adopción, en un plazo máximo de 3 años, de un plan de recuperación."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "55. Desarrollo Sostenible. ¿Quiénes podrán participar en los programas de cría en cautividad y propagación de especies amenazadas? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Los acuarios.",
+      "b) Los jardines botánicos.",
+      "c) Los centros privados de conservación.",
+      "d) Las organizaciones con ánimo de lucro."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "56. Desarrollo Sostenible. ¿Qué órgano elabora unas directrices para impulsar el trabajo coordinado entre los bancos de material genético y biológico y las administraciones públicas?",
+    "opciones": [
+      "a) El Banco Nacional de Material Genético y Biológico.",
+      "b) La Comisión Estatal para el Patrimonio Natural y la Biodiversidad.",
+      "c) El Consejo Estatal para el Patrimonio Natural y la Biodiversidad.",
+      "d) La Conferencia Sectorial de Medio Ambiente."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "57. Desarrollo Sostenible. ¿En base a qué criterios deben haber sido homologados los métodos de captura de predadores?",
+    "opciones": [
+      "a) A los de selectividad y bienestar animal fijados por los acuerdos internacionales.",
+      "b) A los responsabilidad e igualdad de trato entre especies predadoras.",
+      "c) A los de bienestar, biodiversidad y nomenclatura fijados por los acuerdos de las Comunidades Autónomas.",
+      "d) A los de bienestar animal, no maltrato y proporcionalidad fijados por los acuerdos internacionales."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "58. Desarrollo Sostenible. ¿A qué prestará especial atención en Inventario Espalo de Caza y Pesca?",
+    "opciones": [
+      "a) A las especies amenazadas.",
+      "b) A las especies migradoras.",
+      "c) A las especies autóctonas.",
+      "d) A las especies alóctonas."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "59. Desarrollo Sostenible. ¿Qué órgano realiza las evaluaciones preceptivas de cada Reserva de la Biosfera?",
+    "opciones": [
+      "a) El Consejo Estatal para el PNB.",
+      "b) La Comisión Estatal para el PNB.",
+      "c) El Comité MaB Español.",
+      "d) El Ministerio de Medio Ambiente."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "60. Desarrollo Sostenible. ¿Por qué ser regirá el acceso a los recursos genéticos procedentes de taxones silvestres? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Protocolo de Nagoya y sus instrumentos de ratificación.",
+      "b) Convenio sobre la Diversidad Biológica.",
+      "c) Tratado Internacional sobre Recursos Fitogenéticos para la Alimentación y la Agricultura.",
+      "d) Reglamento Directivo de Muestras Genéticas y Biodiversidad."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "61. Eficiencia Energética. ¿En qué plazo han de haber sido demolidos los edificios concretos de las administraciones centrales, sustituidos por edificios nuevos, para que puedan contabilizar los Estados miembros, a efecto del índice de renovación anual?",
+    "opciones": [
+      "a) En cualquiera de los últimos 2 años.",
+      "b) En un plazo previo de, al menos, 5 años.",
+      "c) En un plazo previo de, al menos, 4 años.",
+      "d) En cualquiera de los últimos 3 años."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "62. Eficiencia Energética. ¿En qué caso será aplicable la obligación para las Fuerzas Armadas de adquirir servicios que tengan un alto rendimiento energético?",
+    "opciones": [
+      "a) Cuando se refiera al conjunto de los servicios adquiridos en los últimos 10 años.",
+      "b) Siempre que la legislación nacional no contradiga dicha obligación.",
+      "c) Siempre que no dé lugar a conflictos con la naturaleza y los objetivos básicos de sus actividades.",
+      "d) Será aplicable en cualquier caso."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "63. Eficiencia Energética. Toda persona física o jurídica, incluidos los operadores de sistemas de distribución, responsable del transporte de energía:",
+    "opciones": [
+      "a) Parte obligada.",
+      "b) Distribuidor de energía.",
+      "c) Proveedor de servicios energéticos.",
+      "d) Cogeneración."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "64. Eficiencia Energética. ¿En qué se basa el objetivo nacional de eficiencia energética?",
+    "opciones": [
+      "a) En el ahorro.",
+      "b) En el consumo.",
+      "c) En la intensidad.",
+      "d) En todo lo anterior."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "65. Eficiencia Energética. ¿En base a qué criterios los Estados designan a las partes obligadas entre los distribuidores de energía, las empresas minoristas de venta de energía y los distribuidores o minoristas de combustible para transporte que operen en su territorio?",
+    "opciones": [
+      "a) Criterios de cooperación leal y reciprocidad.",
+      "b) Criterios altruistas y desinteresados.",
+      "c) Criterios comunes para las partes, basados en el principio de igualdad.",
+      "d) Criterios objetivos y no discriminatorios."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "66. Eficiencia Energética. ¿Qué criterios fijan los Estados a fin de garantizar la elevada calidad de las auditorías y de los sistemas de gestión energética?",
+    "opciones": [
+      "a) Mínimos, transparentes y no discriminatorios.",
+      "b) Medioambientales, públicos y explícitos.",
+      "c) De cooperación leal y reciprocidad.",
+      "d) Objetivos y no discriminatorios."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "67. Eficiencia Energética. ¿En qué caso velarán los Estados miembro por que los clientes finales de gas natural reciban contadores individuales a un precio competitivo, que reflejen exactamente el consumo real de energía y que proporcionen información sobre el tiempo real de uso?",
+    "opciones": [
+      "a) En todo caso.",
+      "b) Cuando las mediciones realizadas en los dos últimos años hagan prever que es acertada la medida.",
+      "c) Cuando sea técnicamente posible, financieramente razonable y proporcionado en relación con el ahorro potencial de energía.",
+      "d) Cuando la iniciativa haya partido de la Comisión Europea o el Foro de Preservación de la Biodiversidad."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "68. Eficiencia Energética. ¿Dónde se instalará un contador cuando se suministre energía a partir de una fuente central que abastezca a varios edificios?",
+    "opciones": [
+      "a) En el intercambiador de calor.",
+      "b) En el subsuelo.",
+      "c) En el alimentador de zona.",
+      "d) En la caldera principal."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "69. Eficiencia Energética. ¿Qué tipos de contadores se instalarán en los nuevos edificios de apartamentos?",
+    "opciones": [
+      "a) Contadores inteligentes y polivalentes para el agua caliente y la calefacción para uso doméstico.",
+      "b) Contadores individuales para el agua caliente para uso doméstico.",
+      "c) Contadores colectivos.",
+      "d) Contadores sobre centrales que abastezcan a varios edificios."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "70. Eficiencia Energética. ¿En qué caso no se sustituirán contadores de lectura remota?",
+    "opciones": [
+      "a) Cuando técnicamente resulte insuficiente para los objetivos del Estado.",
+      "b) Si las directrices sobre eficiencia energética, valoradas por los parlamentos nacionales, deben ser modificadas.",
+      "c) Cuando el Estado demuestre que no resulta rentable.",
+      "d) Si el Estado parte no ha completado su primer periodo de 5 años de estancia en la Unión."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "71. Eficiencia Energética. ¿Cuál de los siguientes no es un objetivo principal de la Unión Europea en materia de eficiencia energética?",
+    "opciones": [
+      "a) Aumentar la eficiencia energética, al menos, el 32,5% para 2030.",
+      "b) Aumentar la eficiencia energética, al menos, el 25% para 2025.",
+      "c) Preparar el camino para mejoras ulteriores de eficiencia energética más allá de los años propuestos.",
+      "d) Aumentar la eficiencia energética, al menos, el 20% para 2020."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "72. Eficiencia Energética. ¿A la aplicación de qué principio contribuye la directiva 2012/27UE?",
+    "opciones": [
+      "a) La Humanidad primero.",
+      "b) Primero, la eficiencia energética.",
+      "c) Primero, la raza humana.",
+      "d) Los Derecho Humanos primero."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "73. Eficiencia Energética:",
+    "opciones": [
+      "a) Cantidad ahorrada, determinada mediante la medición del consumo antes y después.",
+      "b) Todas las formas de productos de calor y otras formas de energía.",
+      "c) Aumento de la eficiencia como resultado de cambios tecnológicos, etc...",
+      "d) Relación entre la producción de un servicio y el gato de energía."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "74. Eficiencia Energética. PYME. Señala la opción INCORRECTA:",
+    "opciones": [
+      "a) Ocupan a más de 250 personas.",
+      "b) Su balance anual no excede de 43 millones de euros.",
+      "c) Ocupan a menos de 250 personas.",
+      "d) Su volumen de negocio anual no excede de 5o millones de euros."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "75. Eficiencia Energética. ¿A quién comunicarán los Estados las medidas introducidas a tenor de la directiva, si son más estrictas?",
+    "opciones": [
+      "a) Al Parlamento Europeo.",
+      "b) Al Consejo de la Unión Europea.",
+      "c) Al Consejo de Europa.",
+      "d) A la Comisión Europea."
+    ],
+    "respuesta": "D"
+  }
+  ,{
+    "pregunta": "76. Eficiencia Energética. ¿A quién comunicará cada Estado su objetivo nacional de eficiencia energética?",
+    "opciones": [
+      "a) Al Parlamento Europeo.",
+      "b) Al Consejo de la Unión Europea.",
+      "c) Al Consejo de Europa.",
+      "d) A la Comisión Europea."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "77. Eficiencia Energética. ¿Qué tendrán en cuenta los Estados al fijar el objetivo de eficiencia energética? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Las medidas adoptadas para alcanzar los objetivos nacionales de ahorro de energía.",
+      "b) Las medidas de la Directiva.",
+      "c) Que el consumo de energía de la Unión en 2020 no puede ser superior a 1040 Mtep de energía final.",
+      "d) Que el consumo de energía de la Unión en 2020 no puede ser superior a 1483 Mtep de energía primaria."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "78. Eficiencia Energética. ¿Qué circunstancias nacionales podrán tener en cuenta los Estados al fijar el objetivo de eficiencia energética?",
+    "opciones": [
+      "a) La evolución y previsiones del PIB.",
+      "b) Los principios de solidaridad e igualdad.",
+      "c) Los cambios en los mercados interiores.",
+      "d) La renta per cápita."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "79. Eficiencia Energética. ¿Qué superficie de los edificios propiedad de cada Estado, que ocupe su Administración Central y tenga calefacción, deber ser renovada cada año?",
+    "opciones": [
+      "a) El 25%.",
+      "b) El 10%.",
+      "c) El 3%.",
+      "d) El 50%."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "80. Eficiencia Energética. ¿Sobre qué superficie se calcula actualmente la citada en la pregunta anterior?",
+    "opciones": [
+      "a) Sobre la superficie total de los edificios con superficie útil total de más de 1000 m2 que el 1 de enero de cada año no cumpla los requisitos nacionales de rendimiento energético mínimo.",
+      "b) Sobre la superficie total de los edificios con superficie útil total de más de 750 m2 que el 1 de enero de cada año no cumpla los requisitos nacionales de rendimiento energético mínimo.",
+      "c) Sobre la superficie total de los edificios con superficie útil total de más de 500 m2 que el 1 de enero de cada año no cumpla los requisitos nacionales de rendimiento energético mínimo.",
+      "d) Sobre la superficie total de los edificios con superficie útil total de más de 250 m2 que el 1 de enero de cada año no cumpla los requisitos nacionales de rendimiento energético mínimo."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "81. Eficiencia Energética. ¿Cuándo exigirán los Estados, al aplicar las medidas de eficiencia energética, que se dé prioridad a los edificios con peor rendimiento energético?",
+    "opciones": [
+      "a) En todos los casos.",
+      "b) Cuando sea rentable y técnicamente viable.",
+      "c) Cuando dichos ejercicios sean de construcción anterior a 1999.",
+      "d) Cuando todo o parte de los mismos no esté sometida a las medidas mínimas de eficiencia energética."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "82. Eficiencia Energética. ¿A qué edificios pueden los Estados no aplicarles los requisitos de eficiencia energética?",
+    "opciones": [
+      "a) A los que sean propiedad de la Administración Central y se usen para fines de defensa nacional.",
+      "b) Edificios utilizados para actividades religiosas.",
+      "c) Edificios protegidos oficialmente por ser parte de un entorno declarado de valor histórico, si el cumplimiento de ciertas medidas energéticas puede alterar de manera inaceptable su aspecto.",
+      "d) Todos los anteriores."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "83. Eficiencia Energética. ¿Qué deberá incluir el inventario de edificios con calefacción y/o refrigeración que deben elaborar los Estados miembro?",
+    "opciones": [
+      "a) El lugar de ubicación.",
+      "b) El precio de la energía consumida.",
+      "c) La superficie en metros cuadrados.",
+      "d) Las medidas adoptada para el ahorro energético."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "84. Eficiencia Energética. ¿A qué animarán los Estados miembro a sus organismos públicos? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Implanten un sistema de gestión energética, que incluya auditorías energéticas dentro de la aplicación de su plan.",
+      "b) Elaboren planes de renovación energética acorde con la implantación de medidas progresivas.",
+      "c) Recurran a empresas de servicios energéticos y a contratos de rendimiento energético para financiar las renovaciones y ejecutar los planes para mantener o mejorar la eficiencia energética a largo plazo.",
+      "d) Adopten un plan de eficiencia energética, independiente o dentro de un plan medioambiental más amplio."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "85. Eficiencia Energética. ¿Qué tipo de servicio garantizarán los Estados miembros que adquieran sus Administraciones Centrales?",
+    "opciones": [
+      "a) Los que tengan un alto rendimiento energético.",
+      "b) Los que conlleven sl uso renovado de la energía.",
+      "c) Los que utilicen medos no fósiles para su consumo energético.",
+      "d) Los que garanticen la renovación energética es más del 50%."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "86. Eficiencia Energética. ¿Qué ahorro energético debe lograr Malta cada año?",
+    "opciones": [
+      "a) Un nuevo ahorro equivalente al 0,20%.",
+      "b) Un nuevo ahorro equivalente al 0,22%.",
+      "c) Un nuevo ahorro equivalente al 0,24%.",
+      "d) Un nuevo ahorro equivalente al 0,25%."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "87. Eficiencia Energética. ¿Qué deben tener en cuenta los Estados miembros al concebir las medidas de actuación para cumplir su obligación de obtener ahorro de energía?",
+    "opciones": [
+      "a) La necesidad de aliviar la pobreza energética.",
+      "b) Las obligaciones impuestas por la Comisión.",
+      "c) Los principios de reciprocidad e igualdad.",
+      "d) La vulnerabilidad de los entes sociales afectados."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "88. Eficiencia Energética. ¿Qué deben demostrar los Estados miembros en caso de solapamiento de las medidas de actuación citadas en la pregunta anterior?",
+    "opciones": [
+      "a) Que se están llevando a cabo acorde con la normativa del Estado del que se trate.",
+      "b) Que suponen un ahorro de, al menos, el 50%.",
+      "c) Que los entes implicados con su función pública.",
+      "d) Que el ahorro de energía no se contabilice dos veces."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "89. Eficiencia Energética. ¿Cada cuánto tiempo publicarán los Estados el ahorro de energía obtenido por cada parte obligada?",
+    "opciones": [
+      "a) Semestralmente.",
+      "b) Anualmente.",
+      "c) Trimestralmente.",
+      "d) Mensualmente."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "90. Eficiencia Energética. Auditorías energéticas. Señala la INCORRECTA:",
+    "opciones": [
+      "a) No contendrán cláusulas que impidan trasmitir sus conclusiones a los proveedores de servicios cualificados, a condición de que el cliente no se oponga.",
+      "b) Podrán ser ejecutadas por autoridades independientes.",
+      "c) Deben ser anuales.",
+      "d) Podrán ser efectuadas por auditores energéticos."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "91. Eficiencia Energética. ¿Cuándo se proporcionarán contadores individuales de gas natural?",
+    "opciones": [
+      "a) En todos los casos.",
+      "b) Siempre que se sustituya un contador existente.",
+      "c) Cuando se realicen obras importantes de reforma.",
+      "d) Cuando se realice una nueva conexión a un edificio antiguo."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "92. Eficiencia Energética. ¿Qué deben reflejar con precisión los contadores de agua caliente sanitaria urbana de uso doméstico?",
+    "opciones": [
+      "a) El consumo real de energía.",
+      "b) El precio exacto del consumo de energía.",
+      "c) La variación por tiempos y consumos de energía.",
+      "d) El equivalente energético al Sistema Europea de energía."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "93. Eficiencia Energética. ¿Cuándo se instalarán contadores individuales en edificios polivalentes abastecidos a partir de una red urbana de refrigeración?",
+    "opciones": [
+      "a) Cuando sean edificios de más de diez viviendas.",
+      "b) En todos los casos.",
+      "c) Siempre que sea solicitado por la comunidad del mismo y no incumpla la normativa energética.",
+      "d) Cuando sea técnicamente viable y rentable."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "94. Eficiencia Energética. ¿Cómo serán los repartidores de costes de calefacción instalados después del 25 de octubre de 2020?",
+    "opciones": [
+      "a) Dispositivos analógicos con direccionalidad asistida.",
+      "b) Dispositivos conectados al hogar y cobertura por punto.",
+      "c) Dispositivos de lectura remota.",
+      "d) Dispositivos adaptados a la norma EEE 120."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "95. Eficiencia Energética. ¿Qué incluirá la información complementaria sobre el consumo histórico de los contadores? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Datos acumulados, como mínimo de los 4 años anteriores.",
+      "b) Información pormenorizada en función del tiempo de uso diario.",
+      "c) Datos del periodo abierto al iniciarse el contrato de suministro, si es menor de 3 años.",
+      "d) Información pormenorizada en función del tiempo de uso semanal."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "96. Eficiencia Energética. ¿Qué información de los contadores que se instalen deben asegurar los Estados miembros que es fiable?",
+    "opciones": [
+      "a) La de gasto y consumo.",
+      "b) La de consumo y facturación.",
+      "c) La de etiquetado y revisión.",
+      "d) La de fabricación y revisiones."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "97. Eficiencia Energética. ¿En qué se basará la facturación cuando el usuario final no haya facilitado la lectura del contador para un intervalo de facturación determinado?",
+    "opciones": [
+      "a) En la lectura del periodo anterior.",
+      "b) En la media de los periodos anteriores facturados.",
+      "c) En una estimación del consumo.",
+      "d) En una media ponderada de los consumos totales."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "98. Eficiencia Energética. Dentro de las medidas para promover y facilitar el uso eficiente de la energía en los hogares, ¿cuál corresponde a una política dirigida a promover un cambio de hábitos?",
+    "opciones": [
+      "a) El cambio rentable y de fácil introducción en el uso de la energía.",
+      "b) El acceso a subvenciones.",
+      "c) Las medidas de eficiencia energética.",
+      "d) Las sanciones pecuniarias."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "99. Eficiencia Energética. ¿Cómo deberán ser las sanciones impuestas en materia de eficiencia energética?",
+    "opciones": [
+      "a) Eficientes.",
+      "b) Disuasorias.",
+      "c) Retroactivas.",
+      "d) Todas son correctas."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "100. Eficiencia Energética. ¿A quién notificarán los Estados las disposiciones sobre las sanciones y medidas de seguridad en el ámbito de la eficiencia energética?",
+    "opciones": [
+      "a) A sus parlamento nacionales.",
+      "b) Al Parlamento Europeo.",
+      "c) A las Cortes Generales.",
+      "d) A la Comisión Europea."
+    ],
+    "respuesta": "D"
+  }
+  ,{
+    "pregunta": "101. Protección Civil. Según la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, ¿qué se entiende por Protección Civil?",
+    "opciones": [
+      "a) La Protección Civil, como instrumento de la política de seguridad pública, es el servicio público que protege a las personas y bienes garantizando una respuesta adecuada ante los distintos tipos de emergencias y catástrofes originadas por causas naturales o derivadas de la acción humana, sea ésta accidental o intencionada.",
+      "b) La Protección Civil es el sistema por el que cada país proporciona la protección y la asistencia para todos ante cualquier tipo de catástrofe o accidente relacionado con esto, así como la salvaguarda de los bienes del conglomerado y del medio ambiente.",
+      "c) La Protección Civil, como instrumento de la política de seguridad ciudadana, es el servicio público que protege a las personas garantizando una respuesta adecuada ante los distintos tipos de emergencias y catástrofes originadas por causas naturales o derivadas de la acción humana, sea ésta accidental o intencionada.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "102. Protección Civil. ¿Cuál es el objeto de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil?",
+    "opciones": [
+      "a) Establecer el Sistema Nacional de Protección Civil como instrumento esencial para asegurar la coordinación, la cohesión y la eficacia de las políticas públicas de protección civil.",
+      "b) Regular las competencias de la Administración General del Estado en materia de protección civil.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "103. Protección Civil. A efectos de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil ¿qué se entenderá por peligro?",
+    "opciones": [
+      "a) Situación en la que personas y bienes preservados por la protección civil están expuestos en mayor o menor medida a un peligro inminente o latente.",
+      "b) Es la posibilidad de que una amenaza llegue a afectar a colectivos de personas o a bienes.",
+      "c) Potencial de ocasionar daño en determinadas situaciones a colectivos de personas o bienes que deben ser preservados por la protección civil.",
+      "d) Es una situación que produce un nivel de amenaza a la vida, la salud, la propiedad o el medio ambiente, que se caracteriza por la viabilidad de ocurrencia de un incidente potencialmente dañino, es decir, un suceso apto para crear daño sobre bienes jurídicos protegidos."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "104. Protección Civil. A efectos de la Ley 17/2015, la situación en la que personas y bienes preservados por la protección civil están expuestos en mayor o menor medida a un peligro inminente o latente se define como...",
+    "opciones": [
+      "a) Vulnerabilidad.",
+      "b) Amenaza.",
+      "c) Peligro.",
+      "d) Catástrofe."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "105. Protección Civil. A efectos de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, ¿qué son los Servicios Esenciales?",
+    "opciones": [
+      "a) Son los servicios necesarios para el mantenimiento de las instituciones, la salud, la seguridad, el bienestar social y económico de los Ciudadanos.",
+      "b) Son los servicios necesarios para el mantenimiento de las funciones sociales básicas, la salud y la seguridad, de los Ciudadanos, o el eficaz funcionamiento de las instituciones del Estado.",
+      "c) Son los servicios necesarios para el mantenimiento de las funciones sociales básicas, la salud, la seguridad, el bienestar social y económico de los ciudadanos, o el eficaz funcionamiento de las instituciones del Estado y las Administraciones Públicas.",
+      "d) Todas son incorrectas."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "106. Protección Civil. ¿Qué actuaciones desarrolla el Sistema Nacional de Protección Civil con el fin de garantizar una respuesta coordinada entre todas las Administraciones Públicas? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Prever los riesgos colectivos mediante acciones dirigidas a conocerlos anticipadamente y evitar que se produzcan o, en su caso, reducir los daños que de ellos puedan derivarse.",
+      "b) Planificar los medios y medidas necesarias para afrontar las situaciones de riesgo.",
+      "c) Llevar a cabo la intervención operativa de respuesta inmediata en caso de emergencia.",
+      "d) Otorgar ayudas económicas a los ciudadanos que se hayan visto vulnerados por cualquier catástrofe en materia de protección civil."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "107. Protección Civil. ¿Por qué principios se regirán las actuaciones del Sistema Nacional de Protección Civil? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Accesibilidad universal de las personas con discapacidad.",
+      "b) Solidaridad interterritorial.",
+      "c) Subsidiariedad.",
+      "d) Eficacia."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "108. Protección Civil. ¿Quiénes participarán en el Sistema Nacional de Protección Civil en los términos establecidos en la Ley 17/2015?",
+    "opciones": [
+      "a) Los ciudadanos.",
+      "b) Las personas jurídicas.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "109. Protección Civil. ¿Quién aprobará las líneas básicas de la Estrategia del Sistema Nacional de Protección Civil y las directrices para su implantación, seguimiento y evaluación periódica?",
+    "opciones": [
+      "a) El Consejo Nacional de Protección Civil.",
+      "b) El Gobierno.",
+      "c) Las Cortes Generales.",
+      "d) El Consejo de Seguridad Nacional."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "110. Protección Civil. Derecho a la protección en caso de catástrofe. Señala la INCORRECTA:",
+    "opciones": [
+      "a) Todos los residentes en el territorio español tienen derecho a ser atendidos por las administraciones públicas en caso de catástrofe.",
+      "b) Los poderes públicos velarán por que la atención de los ciudadanos en caso de catástrofe sea equivalente cualquiera que sea el lugar de su residencia.",
+      "c) Los servicios públicos competentes identificarán lo más rápidamente posible a las víctimas en caso de emergencias y ofrecerán información precisa a sus familiares o personas allegadas.",
+      "d) Los poderes públicos velarán para que se adopten medidas específicas que garanticen que las personas con discapacidad conozcan los riesgos y las medidas de autoprotección y prevención, sean atendidas e informadas en casos de emergencia, aunque no participen en los planes de protección civil"
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "111. Protección Civil. Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil. ¿Cuál de las siguientes NO es una fase en la que se estructuran las actuaciones del Sistema Nacional de Protección Civil?",
+    "opciones": [
+      "a) Prevención.",
+      "b) Recuperación.",
+      "c) Respuesta inmediata a las emergencias.",
+      "d) Sanción."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "112. Protección Civil. A efectos de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, ¿cuál es el objeto de la anticipación, como primera fase de actuación del Sistema Nacional de Protección Civil?",
+    "opciones": [
+      "a) La anticipación tiene por objeto determinar los riesgos en un territorio basándose en las condiciones de vulnerabilidad y las posibles amenazas.",
+      "b) La anticipación tiene por objeto evitar o mitigar los daños producidos a consecuencia de la emergencias de generadas de forma accidental o por la acción humana.",
+      "c) La anticipación tiene por objeto determinar los riesgos en un territorio basándose en los análisis previos realizados.",
+      "d) La anticipación tiene por objeto evitar o mitigar los posibles impactos adversos de los riesgos y amenazas de emergencia."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "113. Protección Civil. ¿Cuál es la finalidad de la creación de la Red Nacional de Información sobre Protección Civil?",
+    "opciones": [
+      "a) Contribuir a la prevención de los riesgos.",
+      "b) Facilitar una respuesta eficaz ante cualquier situación que lo precise.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "114. Protección Civil. ¿Qué contendrá la Red Nacional de Información sobre Protección Civil? Señala la INCORRECTA:",
+    "opciones": [
+      "a) El mapa nacional de riesgos de protección civil.",
+      "b) Los catálogos oficiales de actividades que puedan originar una emergencia de protección civil.",
+      "c) El registro internacional de datos sobre emergencias y catástrofes.",
+      "d) El registro informatizado de los planes de protección civil."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "115. Protección Civil. ¿Qué incluirá el Registro Nacional de Datos sobre Emergencias y Catástrofes?",
+    "opciones": [
+      "a) Información sobre las emergencias y catástrofes que se produzcan, consecuencias y pérdidas ocasionadas.",
+      "b) Información sobre los medios y procedimientos utilizados para paliar las emergencias y catástrofes.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "116. Protección Civil. A efectos de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, ¿qué se entiende como el conjunto de medidas y acciones encaminadas a evitar o mitigar los posibles impactos adversos de los riesgos y amenazas de emergencia?",
+    "opciones": [
+      "a) Anticipación.",
+      "b) Planificación.",
+      "c) Prevención.",
+      "d) Precaución."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "117. Protección Civil. ¿Qué tipo de programas promoverán las Administraciones Públicas en materia de Protección Civil?",
+    "opciones": [
+      "a) Programas de sensibilización e información preventiva a los ciudadanos.",
+      "b) Programas de educación para la prevención en centros escolares.",
+      "c) a) y b) son correctas.",
+      "d) a) y b) son incorrectas."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "118. Protección Civil. ¿Quién gestiona el Fondo de Prevención de Emergencias?",
+    "opciones": [
+      "a) El Centro Nacional de Seguimiento y Coordinación de Emergencias de Protección Civil.",
+      "b) El Ministerio del Interior.",
+      "c) El Gobierno.",
+      "d) El Consejo Nacional de Protección Civil."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "119. Protección Civil. ¿Qué actividades preventivas serán financiadas por el Fondo de Prevención de Emergencias? Señala la INCORRECTA:",
+    "opciones": [
+      "a) Análisis de peligrosidad, vulnerabilidad y riesgos.",
+      "b) Programas de sensibilización e información preventiva a los ciudadanos.",
+      "c) Programas de educación para la prevención en centros escolares.",
+      "d) Programas de formación a personal vinculado con la protección civil."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "120. Protección Civil. ¿A quién corresponderá la gestión de la Red de Alerta Nacional de Protección Civil?",
+    "opciones": [
+      "a) Al Ministerio del Interior a través del Centro Nacional de Seguimiento y Coordinación de Emergencias de Protección Civil.",
+      "b) Al Centro Nacional de Seguimiento y Coordinación de Emergencias de Protección Civil a través del Ministerio del Interior.",
+      "c) Al Gobierno a través del Centro Nacional de Seguimiento y Coordinación de Emergencias de Protección Civil a través del Ministerio del Interior.",
+      "d) Al Gobierno a través del Ministerio del Interior."
+    ],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "121. Desarrollo Sostenible. Señala la INCORRECTA. La Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, tiene por objeto establecer el régimen jurídico básico de:",
+    "opciones": [
+      "a) Uso sostenible del patrimonio natural y de la biodiversidad.",
+      "b) Rehabilitación del patrimonio natural y de la biodiversidad.",
+      "c) Conservación del patrimonio natural y de la biodiversidad.",
+      "d) Mejora del patrimonio natural y de la biodiversidad."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "122. Desarrollo Sostenible. ¿En qué artículo de la Constitución Española se establece el deber de conservar y el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona?",
+    "opciones": [
+      "a) En el artículo 42.1.",
+      "b) En el artículo 14.",
+      "c) En el artículo 15.2.",
+      "d) En el artículo 45.2."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "123. Desarrollo Sostenible. ¿A quién corresponde el ejercicio de las funciones con respecto a todas las especies, espacios, hábitats o áreas críticas situados en el medio marino?",
+    "opciones": [
+      "a) Siempre a la Administración General del Estado.",
+      "b) A la Administración General del Estado a través del Ministerio para la Transición Ecológica y el Reto Demográfico.",
+      "c) A la Administración General del Estado sin perjuicio de las competencias de las Comunidades Autónomas del litoral.",
+      "d) Al Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "124. Desarrollo Sostenible. ¿En qué caso corresponde a las Comunidades Autónomas el ejercicio de las funciones con respecto a especies y espacios, hábitats o áreas críticas situados en el medio marino?",
+    "opciones": [
+      "a) Cuando no exista continuidad ecológica del ecosistema marino con el espacio natural terrestre objeto de protección, previo informe favorable de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad.",
+      "b) Cuando exista discontinuidad ecológica del ecosistema marino con el espacio natural terrestre objeto de protección, avalada por la mejor evidencia científica existente.",
+      "c) Cuando exista discontinuidad ecológica del ecosistema marino con el espacio natural terrestre objeto de protección, previo informe favorable de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad.",
+      "d) Cuando exista continuidad ecológica del ecosistema marino con el espacio natural terrestre objeto de protección, avalada por la mejor evidencia científica existente."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "125. Desarrollo Sostenible. La Comisión Estatal para el Patrimonio Natural y la Biodiversidad:",
+    "opciones": [
+      "a) Se crea como un órgano operativo y de coordinación entre el Estado y las Comunidades Autónomas.",
+      "b) Se crea como un órgano de participación entre el Estado y las Comunidades Autónomas.",
+      "c) Se crea como un órgano consultivo y cooperación entre el Estado y las Comunidades Autónomas.",
+      "d) Se crea como un órgano de definición de políticas entre el Estado y las Comunidades Autónomas."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "126. Desarrollo Sostenible. Señala la INCORRECTA. El Consejo Estatal para el Patrimonio Natural y la Biodiversidad:",
+    "opciones": [
+      "a) Se crea como un órgano de participación pública en el ámbito de la conservación y el uso sostenible del Patrimonio Natural y la Biodiversidad.",
+      "b) Se integrarán, con voz y voto, las comunidades autónomas y una representación de las entidades locales.",
+      "c) Informará, entre otros, las normas y planes de ámbito estatal relativo al patrimonio natural y la biodiversidad.",
+      "d) Su composición y funciones se determinarán reglamentariamente, previa consulta con las comunidades autónomas."
+    ],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "127. Desarrollo Sostenible. Señala la INCORRECTA. Tendrán la consideración de Espacios Naturales Protegidos:",
+    "opciones": [
+      "a) Los espacios del territorio nacional, incluidas las aguas continentales.",
+      "b) Los espacios del territorio nacional, incluido el medio marino.",
+      "c) Los espacios del territorio nacional, incluida la plataforma continental.",
+      "d) Los espacios del territorio nacional, incluida la zona demográfica exclusiva."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "128. Desarrollo Sostenible. Los Espacios Naturales Protegidos podrán abarcar en su perímetro:",
+    "opciones": [
+      "a) Exclusivamente terrestres.",
+      "b) Exclusivamente marinos.",
+      "c) Simultáneamente terrestres y marinos.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "respuesta": "D"
+  },
+  {
+    "pregunta": "129. Desarrollo Sostenible. Señala la INCORRECTA. Las normas reguladoras de los Espacios Protegidos, así como sus mecanismos de planificación de la gestión, determinarán:",
+    "opciones": [
+      "a) Los Instrumentos materiales.",
+      "b) Los instrumentos jurídicos.",
+      "c) Los instrumentos técnicos.",
+      "d) Los instrumentos financieros."
+    ],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "130. Desarrollo Sostenible. Si se solapan en un mismo lugar distintas figuras de espacios protegidos, las normas reguladoras de los mismos así como los mecanismos de planificación deberán:",
+    "opciones": [
+      "a) Ser coordinados para unificarse en un único documento integrado, al objeto de que los diferentes regímenes aplicables en función de cada categoría conformen un todo coherente.",
+      "b) Ser estudiados para establecer varios documentos, al objeto de que los diferentes regímenes aplicables en función de cada categoría conformen un todo coherente.",
+      "c) Ser coordinados para establecer varios documentos, al objeto de que los diferentes regímenes aplicables en función de cada categoría conformen un todo coherente.",
+      "d) Ninguna es correcta."
+    ],
+    "respuesta": "A"
+  }
+]
