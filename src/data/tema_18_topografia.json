@@ -7,7 +7,7 @@
       "c) Estuario.",
       "d) Río."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "2. Topografía. El ángulo horizontal que forma el Norte geográfico o verdadero con una dirección AB, medido en el sentido de las agujas del reloj y comprendido entre 0 y 360o, es el:",
@@ -17,7 +17,7 @@
       "c) Acimut.",
       "d) Cenit."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "3. Topografía. Coordenadas geográficas. Señala la INCORRECTA:",
@@ -27,7 +27,7 @@
       "c) Los puntos situados en el hemisferio norte, por encima del Ecuador tienen latitud positiva, los que están en el hemisferio Sur, por debajo del Ecuador tienen latitud negativa.",
       "d) La longitud se mide de 0o a 90o."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "4. Topografía. Línea ideal del terreno que separa las aguas hacia una u otra ladera:",
@@ -37,7 +37,7 @@
       "c) Vertiente.",
       "d) Hoya."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "5. Topografía. Paralelo que pasa por el centro de la Tierra determinando una circunferencia de radio máximo y divide la superficie terrestre en dos hemisferios:",
@@ -47,7 +47,7 @@
       "c) Meridiano de Greenwich.",
       "d) Ecuador."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "6. Topografía. En relación con los elementos geográficos, las líneas de longitud son semicircunferencias máximas que pasan por los polos y se denominan:",
@@ -57,7 +57,7 @@
       "c) Perpendiculares.",
       "d) Meridianos."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "7. Topografía. ¿Cómo se denomina a la diferencia de cota entre dos curvas de nivel consecutivas?",
@@ -67,7 +67,7 @@
       "c) Desnivel.",
       "d) Escala."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "8. Topografía. ¿Cómo se denomina el ángulo que forma el norte magnético con una dirección, medido en sentido de las agujas del reloj?",
@@ -77,7 +77,7 @@
       "c) La longitud de una dirección.",
       "d) El ángulo centesimal de esa dirección."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "9. Topografía. Dentro de las unidades geométricas de medida, en la graduación centesimal, se considera dividida la circunferencia, ¿en cuántos grados centesimales?",
@@ -87,7 +87,7 @@
       "c) En 100.",
       "d) En 400."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "10. Topografía. Toda línea perpendicular a la meridiana nos da la dirección:",
@@ -97,7 +97,7 @@
       "c) Norte-sur.",
       "d) Acimutal."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "11. Topografía. Las líneas de intersección con la superficie terrestre de todo plano perpendicular al eje terrestre se denominan:",
@@ -107,7 +107,7 @@
       "c) Paralelos.",
       "d) Hemisferios."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "12. Topografía. Las coordenadas geográficas son el sistema de ubicación terrestre, el cual se mide por la latitud y la longitud. En este sentido, la latitud se suele expresar:",
@@ -117,7 +117,7 @@
       "c) En grados decimales.",
       "d) En radianes."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "13. Topografía. Señale la proposición CORRECTA:",
@@ -127,7 +127,7 @@
       "c) El rumbo inverso se puede calcular sumando 180 grados al rumbo de la dirección inicial.",
       "d) Acimut inverso es el ángulo que forma el Norte magnético con la dirección contraria, medido en el sentido contrario al de las agujas del reloj."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "14. Topografía. En las coordenadas geográficas, el ángulo cuyo arco es la separación que existe entre dicho punto y el Ecuador, medido sobre el meridiano del lugar, se denomina:",
@@ -137,7 +137,7 @@
       "c) Latitud.",
       "d) Acimut."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "15. Topografía. ¿A qué se denomina equidistancia?",
@@ -147,7 +147,7 @@
       "c) A la distancia entre las superficies de nivel de referencia y la superficie de nivel que contiene al punto que nos interesa.",
       "d) A la proyección horizontal de la distancia geométrica."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "16. Topografía. La _____ de un punto de la superficie terrestre es el valor del arco de Ecuador comprendido entre el meridiano que pasa por el punto y otro meridiano fijo que se adopta como origen de longitudes:",
@@ -157,7 +157,7 @@
       "c) Escala.",
       "d) Longitud."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "17. Topografía. El ángulo comprendido entre el norte magnético local y el norte verdadero o geográfico se llama:",
@@ -167,7 +167,7 @@
       "c) Acimut.",
       "d) Acimut inverso."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "18. Topografía. ¿Cuál es el punto de referencia aceptado para la longitud por la mayoría de las sociedades modernas?",
@@ -177,7 +177,7 @@
       "c) Trópico de Capricornio.",
       "d) El Ecuador."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "19. Topografía. Parte de la topografía que comprende los métodos y procedimientos empleados para determinar y representar la altitud o cota de cada uno de los puntos del terreno respecto de un plano de referencia:",
@@ -187,7 +187,7 @@
       "c) Planimetría.",
       "d) Altimetría."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "20. Topografía. Curvas de nivel. Señala la INCORRECTA:",
@@ -197,7 +197,7 @@
       "c) En las hoyas, depresiones o entrantes las curvas de menor altitud envuelven a las de mayor altitud.",
       "d) Las curvas de nivel nos indican que existe una divisoria cuando aparecen como un conjunto de «uves» que apuntan hacia abajo de la montaña donde las curvas de cota menor envuelven a las de cota mayor."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "21. Topografía. Sobre la latitud, podemos decir:",
@@ -207,7 +207,7 @@
       "c) Los polos Norte y Sur tienen latitud 90 o N y 90 o S respectivamente.",
       "d) Todas las respuestas son falsas."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "22. Topografía. ¿Qué es el septentrión?",
@@ -217,7 +217,7 @@
       "c) El oeste.",
       "d) El sur."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "23. Topografía. Los acimuts son los ángulos medidos en sentido de las agujas del reloj a partir...",
@@ -227,7 +227,7 @@
       "c) Del Norte verdadero y comprendidos entre 0 y 360o.",
       "d) Del Norte geográfico y comprendidos entre 0 y 90o."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   }
   ,{
     "pregunta": "24. Topografía. ¿Cuál de las siguientes condiciones NO se pueden dar en las curvas de nivel?",
@@ -237,7 +237,7 @@
       "c) Las curvas pueden ser tangentes y cuando son varias forman un tajo o acantilado, que suele representarse por un signo convencional.",
       "d) El número de extremos libres que cortan el recuadro de un mapa es siempre impar."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "25. Topografía. ¿Qué es un mogote?",
@@ -247,7 +247,7 @@
       "c) Es lo mismo que vertiente, es la superficie que une la divisoria con la vaguada. +uando se aproximan a la vertical se denomina escarpados o paredes.",
       "d) Es una pequeña elevación del terreno respecto al que le rodea y de forma aproximadamente troncocónica; si es de forma alargada se llama loma."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "26. Topografía. ¿Cuál es una parte del valle?",
@@ -257,7 +257,7 @@
       "c) Las vertientes.",
       "d) Todas son correctas."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "27. Topografía. ¿Qué son antiguas llanuras de inundación de un río, que en la actualidad tienen forma de escalera sobre la ladera del valle y están cubiertas por sedimentos aluviales de gravas, arenas y arcillas?",
@@ -267,7 +267,7 @@
       "c) Hoya.",
       "d) Delta."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "28. Topografía. ¿Cuáles son las coordenadas geográficas?",
@@ -277,7 +277,7 @@
       "c) Longitud y latitud.",
       "d) Norte, Sur, Este y Oeste."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "29. Topografía. ¿Cuál es el ángulo que forma una dirección cualquiera con el Norte Magnético?",
@@ -287,7 +287,7 @@
       "c) Latitud.",
       "d) Longitud."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "30. Topografía. La “Graduación sexagesimal” pertenece a las unidades...",
@@ -297,7 +297,7 @@
       "c) Angulares.",
       "d) De superficie."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "31. Topografía. ¿A qué se refiere la representación gráfica de un terreno sin tener en cuenta el relieve?",
@@ -317,7 +317,7 @@
       "c) Mediante el símbolo (oo).",
       "d) Mediante el símbolo (g)."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "33. Topografía. Grupo de montes:",
@@ -327,7 +327,7 @@
       "c) Macizo.",
       "d) Meseta."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "34. Topografía. ¿A qué se refiere una pequeña elevación del terreno, generalmente desprovista de árboles o arbustos?",
@@ -337,7 +337,7 @@
       "c) Cumbre.",
       "d) Monte."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "35. Topografía. El Ecuador es:",
@@ -357,7 +357,7 @@
       "c) Polo Norte.",
       "d) Meridiano de Alaska."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "37. Topografía. Unión de dos entrantes y dos salientes:",
@@ -367,7 +367,7 @@
       "c) Cauce.",
       "d) Divisoria."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "38. Topografía. Parte más elevada de un monte cuando es ancha y plana:",
@@ -377,7 +377,7 @@
       "c) Ibón.",
       "d) Lecho."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "39. Topografía. ¿Con qué procedimiento se consigue el relieve del terreno?",
@@ -387,7 +387,7 @@
       "c) Altimetría.",
       "d) Geodesia."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "40. Topografía. ¿Cómo se denomina el segmento situado a la izquierda del “0” en la escala gráfica?",
@@ -397,7 +397,7 @@
       "c) Uso.",
       "d) Talón."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "41. Topografía. ¿Qué latitud tienen los puntos que se encuentran en el hemisferio Norte?",
@@ -407,7 +407,7 @@
       "c) Latitud positiva.",
       "d) Todas son correctas."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "42. Topografía. ¿Qué latitud puede tener 100o?",
@@ -417,7 +417,7 @@
       "c) Las del hemisferio norte.",
       "d) Las del hemisferio sur."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "43. Topografía. Puntos por donde el eje terrestre atraviesa la superficie terrestre:",
@@ -427,7 +427,7 @@
       "c) Paralelos.",
       "d) Rumbos."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "44. Topografía. ¿A qué nos referimos con escala gráfica?",
@@ -437,7 +437,7 @@
       "c) a) y b) son correctas.",
       "d) A la representación topográfica de una escala numérica."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "45. Topografía. Según su estructura, ¿cómo se denomina al terreno donde las vertientes tienen mayor pendiente y la diferencia de altura entre la divisoria y las vaguadas se hace notoria, dificultando el acceso?",
@@ -447,7 +447,7 @@
       "c) Terreno montañoso.",
       "d) Terreno ondulado."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "46. Topografía. ¿Dónde se sitúa la cota 0 en España?",
@@ -457,7 +457,7 @@
       "c) En el nivel medio de las aguas del mar de Murcia.",
       "d) En el nivel medio de las aguas del mar de Cádiz."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "47. Topografía. ¿Cómo se denomina a la distancia constante entre dos isohipsas?",
@@ -467,7 +467,7 @@
       "c) Curva de nivel.",
       "d) Distancia reducida."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "48. Topografía. Croquis realizado de la zona que tenemos en frente y desde un solo punto:",
@@ -477,7 +477,7 @@
       "c) Croquis panorámico.",
       "d) Croquis itinerario."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "49. Topografía. ¿Cómo se denomina al ángulo que forma el norte magnético, con una dirección determinada en el sentido de las agujas del reloj?",
@@ -487,7 +487,7 @@
       "c) Norte.",
       "d) Norte magnético."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "50. Topografía. ¿Cómo se denomina a la línea que une puntos de una misma cota?",
@@ -497,7 +497,7 @@
       "c) Curva representativa.",
       "d) Curva directriz."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   }
   ,{
     "pregunta": "51. Topografía. ¿Qué constituyen un grupo de montañas que se alinean en todas las direcciones?",
@@ -507,7 +507,7 @@
       "c) Un macizo.",
       "d) Una sierra."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "52. Topografía. El sistema de graduación angular que divide el minuto en 100 partes iguales, es el sistema:",
@@ -517,7 +517,7 @@
       "c) Angular.",
       "d) Centesimal."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "53. Topografía. La relación que existe entre la medida de un segmento en el plano y la medida de su homólogo en la realidad, se llama:",
@@ -527,7 +527,7 @@
       "c) Escala.",
       "d) Relación."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "54. Topografía. La distancia que existe entre cualquier punto de la superficie terrestre y el Ecuador, recibe el nombre de:",
@@ -537,7 +537,7 @@
       "c) Latitud.",
       "d) Coordenadas."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "55. Topografía. ¿Cómo se denominan a las líneas de intersección de todo plano perpendicular al eje con la superficie terrestre?",
@@ -547,7 +547,7 @@
       "c) Meridianos.",
       "d) Paralelos."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "56. Topografía. Recta ideal alrededor de la cual gira la Tierra en su movimiento de rotación:",
@@ -557,7 +557,7 @@
       "c) Meridiano.",
       "d) Ecuador."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "57. Topografía. ¿Cuál es la unidad lineal en topografía?",
@@ -567,7 +567,7 @@
       "c) El metro.",
       "d) Ninguna es correcta."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "58. Topografía. ¿Cuál es la unidad de superficie en topografía?",
@@ -577,7 +577,7 @@
       "c) El metro cuadrado.",
       "d) a) y b) son correctas."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "59. Topografía. En la escala numérica, ¿qué diferencia existe entre el mapa o plano y la realidad?",
@@ -587,7 +587,7 @@
       "c) Que en el plano hay distancia real o topográfica y en la realidad no.",
       "d) Que en el plano solo se puede considerar una medida y en la realidad dos (natural y geométrica)."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "60. Topografía. ¿Qué nombre recibe la distancia existente en el terreno medida sobre el plano?",
@@ -597,7 +597,7 @@
       "c) Distancia vertical.",
       "d) Distancia geométrica."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "61. Topografía. La precisión de los detalles en los mapas a escala, como pueden ser los puentes, carreteras, ríos..., ¿cambia?",
@@ -607,7 +607,7 @@
       "c) Depende de la escala utilizada.",
       "d) La precisión y los detalles siempre son los mimos independientemente de la escala."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "62. Topografía. ¿Cómo se conoce al cerro asilado desde el que se domina un llano?",
@@ -617,7 +617,7 @@
       "c) Monte.",
       "d) Macizo."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "63. Topografía. ¿A qué llamamos Planimetría?",
@@ -627,7 +627,7 @@
       "c) La proyección topográfica sobre un plano que representa un terreno determinado.",
       "d) a) y c) definen la planimetría."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "64. Topografía. La desviación que existe entre el Norte magnético con respecto al Norte geográfico, recibe el nombre de:",
@@ -637,7 +637,7 @@
       "c) Desviación magnética.",
       "d) Declinación magnética."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "65. Topografía. La garganta o collado franqueado por laderas escarpadas y de gran pendiente:",
@@ -647,7 +647,7 @@
       "c) Garganta.",
       "d) Puerto."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "66. Topografía. ¿Qué es el azimut?",
@@ -657,7 +657,7 @@
       "c) El ángulo formado por una dirección cualquiera con el norte magnético en el sentido de las agujas del reloj.",
       "d) Todas son incorrectas."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "67. Topografía. Depresión del terreno con agua en zona de montaña:",
@@ -667,7 +667,7 @@
       "c) Ibón.",
       "d) Hoya."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "68. Topografía. Representación gráfica de una pequeña extensión del terreno con arreglo a una escala:",
@@ -677,7 +677,7 @@
       "c) Plano.",
       "d) Croquis."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "69. Topografía. Los puntos A y B ubicados sobre una montaña están separados por una distancia geométrica de 500 m y una distancia reducida 400 m. ¿Cuál es la diferencia de nivel entre ambos puntos?:",
@@ -687,7 +687,7 @@
       "c) 340 m.",
       "d) 410 m."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "70. Topografía. En relación con las unidades lineales de medida, ¿cuántos metros habrá en una distancia de 30 000 milímetros?",
@@ -697,7 +697,7 @@
       "c) 3 metros.",
       "d) 0,3 metros."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "71. Topografía. ¿Cuál es la escala de un plano si en él se pueden medir 20,00 mm de distancia entre los ejes de dos postes eléctricos y dicha distancia representa 100,00 m en el terreno?",
@@ -707,7 +707,7 @@
       "c) 5000 : 1.",
       "d) 1 : 5000."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "72. Topografía. ¿Cuál será la escala de un plano si se quieren representar 4500 m de un tramo recto de carretera con 22,50 cm?",
@@ -717,7 +717,7 @@
       "c) 1 : 200.",
       "d) 1 : 50000."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "73. Topografía. El primer, segundo, tercer y cuarto tramo de autopista, miden respectivamente 500 m, 700 m, 250 m y 1100 m. ¿Cuál de las siguientes longitudes representa alguno de esos tramos en un plano de escala 1 : 25 000?",
@@ -727,7 +727,7 @@
       "c) 10,00 mm.",
       "d) 44,00 cm."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "74. Topografía. ¿A qué equivale un kilómetro cuadrado?",
@@ -737,7 +737,7 @@
       "c) 1 000 000 metros cuadrados.",
       "d) A y C son correctas."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "75. Topografía. ¿Cuál es la distancia entre dos puntos en un plano si sabemos que su distancia reducida en el terreno es de 6500 m? La escala del plano es 1 / 250 000:",
@@ -747,7 +747,7 @@
       "c) 26 mm.",
       "d) 162,5 mm."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   }
   ,{
     "pregunta": "76. Topografía. Cuál es la distancia geométrica entre dos puntos A y B, si sabemos que la distancia AB, medida en un plano a escala E = 1/2000 es de 24 mm y que el desnivel entre los puntos en el terreno es de 20 metros:",
@@ -757,7 +757,7 @@
       "c) 48 m.",
       "d) 46 m."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "77. Topografía. Dos puntos A y B con un desnivel de 40 m, se hallan separados por una distancia reducida de 120 m. Un punto P, situado entre ambos está separado del punto B 30 m en horizontal. ¿Cuál es la cota del punto P si las cotas de A y B son de 780 m y 820 m respectivamente?",
@@ -767,7 +767,7 @@
       "c) 810 m",
       "d) 830,30 m"
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "78. Topografía. La «milésima artillera» es la unidad angular que resulta de dividir la circunferencia, ¿en cuántas partes iguales?",
@@ -777,7 +777,7 @@
       "c) En 1600 partes iguales.",
       "d) En 6400 partes iguales."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "79. Topografía. ¿A cuánto equivale un miriámetro?",
@@ -787,7 +787,7 @@
       "c) 100 metros.",
       "d) 10 metros."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "80. Topografía. Calcula la distancia geométrica que hay entre dos puntos del terreno situados en dos curvas de nivel consecutivas cuya equidistancia es de 2 m y cuya separación en un plano a escala 1:2000 es de 0,15 cm:",
@@ -797,7 +797,7 @@
       "c) 3,6 m.",
       "d) 4 m."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "81. Topografía. ¿Qué es una elevación del terreno natural respecto del que le rodea?",
@@ -807,7 +807,7 @@
       "c) Montaña.",
       "d) Cordillera."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "82. Topografía. Las latitudes se cuenta de...",
@@ -817,7 +817,7 @@
       "c) 0o a 180o.",
       "d) 0o a 360o."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "83. Topografía. ¿Cuántos metros hay en una distancia de 10 000 milímetros?",
@@ -827,7 +827,7 @@
       "c) 100 metros.",
       "d) Todas las respuestas son incorrectas."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "84. Topografía. ¿Cuántos grados sexagesimales son 800 milésimas artilleras?",
@@ -837,7 +837,7 @@
       "c) 9o.",
       "d) 45o."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "85. Topografía. Hallar la pendiente en %, sabiendo que el punto más alto mide 75m, el más bajo 7 000 cm y la distancia horizontal es de 100 dm:",
@@ -847,7 +847,7 @@
       "c) 0,5%.",
       "d) 5%."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "86. Topografía. ¿A cuánto equivalen en el terreno, 2 cm medidos en un plano de escala 1:20 000?",
@@ -857,7 +857,7 @@
       "c) 40 metros.",
       "d) 4 hectómetros."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "87. Topografía. Hallar cuanto mide en un plano a escala 1:30 000 una carretera de 3km:",
@@ -867,7 +867,7 @@
       "c) 3 cm.",
       "d) 1 cm."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "88. Topografía. Hallar la escala de un plano donde un puente de 4 dam de longitud está representado por 2 mm:",
@@ -877,7 +877,7 @@
       "c) 1:800 000.",
       "d) 1:20 000."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "89. Topografía. Hallar la máxima precisión apreciable en una plano a escala 1:50 000:",
@@ -887,7 +887,7 @@
       "c) 100 m.",
       "d) 1000 m."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "90. Topografía. ¿Cuántos segundos contiene un grado centesimal?",
@@ -897,7 +897,7 @@
       "c) 60 segundos.",
       "d) 3600 segundos."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "91. Topografía. La escala de un mapa 1:10000 y la distancia real que existe entre dos mogotes es de 10 km y 500 dam. Calcular su distancia horizontal:",
@@ -907,7 +907,7 @@
       "c) 1,5 km.",
       "d) 150 dm."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "92. Topografía. ¿Qué separación tendrán dos puntos en un plano de E=1/200000, si en el terreno distan 12700 m?",
@@ -917,7 +917,7 @@
       "c) 0,635 dm.",
       "d) Todas son correctas."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "93. Topografía. Expresar en sistema centesimal el siguiente ángulo sexagesimal 80o 11’ 50’’.",
@@ -927,7 +927,7 @@
       "c) 95g 10m 35,111seg.",
       "d) 81g 89m 47,247seg."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "94. Topografía. ¿A qué escala está representado un plano en el que la separación entre dos puntos es 10 cm y esa distancia en la realidad es de 8 km y 500 m?",
@@ -937,7 +937,7 @@
       "c) 1:50000.",
       "d) 1:25000."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "95. Topografía. La distancia entre dos puntos de un plano (E=1:50000) es 10 cm. Determinar su distancia en el terreno:",
@@ -947,7 +947,7 @@
       "c) 500 m.",
       "d) 50000 cm."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "96. Topografía. Expresar en sistema sexagesimal el siguiente ángulo centesimal 35g 48m 62seg.",
@@ -957,7 +957,7 @@
       "c) 31o 32’ 37,5288’’.",
       "d) Todas son incorrectas."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "97. Topografía. ¿Cuál será la cota del punto más alto, si la pendiente es del 5%, la distancia reducida es de 500 cm, y el punto más bajo es de 20 m?",
@@ -967,7 +967,7 @@
       "c) 45 m.",
       "d) 25,20 m."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "98. Topografía. ¿Cuántas milésimas artilleras son 20o 12’?",
@@ -977,7 +977,7 @@
       "c) 245,3453 00.",
       "d) 359,111 00."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "99. Topografía. ¿Cómo se cuenta la longitud?",
@@ -987,7 +987,7 @@
       "c) De 0o a 180o a uno y otro lado del Ecuador.",
       "d) De 0o a 90o a uno y otro lado del meridiano de origen."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "100. Topografía. ¿Por qué medida estaría representado un puente en un plano a escala 1:10000, si su medida en la realidad es de 450 m?",
@@ -997,7 +997,7 @@
       "c) 45 mm.",
       "d) 450 cm."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   }
   ,{
     "pregunta": "101. Topografía. ¿Cuál de las siguientes es la definición más exacta de Topografía?",
@@ -1007,7 +1007,7 @@
       "c) La ciencia que se ocupa de la medida y representación gráfica de la Tierra en su totalidad, ocupándose de detalles de la hidrosfera y la litosfera.",
       "d) La ciencia que se ocupa de la medida y representación gráfica de la Tierra en su totalidad, ocupándose de detalles de planimetría y altitud."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "102. Topografía. Eje Terrestre y Polos. Señala la INCORRECTA:",
@@ -1017,7 +1017,7 @@
       "c) La superficie de la Tierra es atravesada por el Eje en 2 zonas o puntos denominados Polos.",
       "d) El Polo Norte está ubicado en la Zona Polar Antártica y el Polo Sur está ubicado en la Zona Polar Ártica"
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "103. Topografía. ¿Qué son los meridianos?",
@@ -1027,7 +1027,7 @@
       "c) Los meridianos son la intersección de los planos meridianos con el meridiano de Greenwich.",
       "d) Los meridianos son la intersección de los planos meridianos con los polos."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "104. Topografía. Meridianos y Meridiano de Greenwich. Señala la INCORRECTA:",
@@ -1037,7 +1037,7 @@
       "c) Son círculos máximos paralelos al Ecuador, que pasan por los polos, y dividen la Tierra en dos hemisferios, el occidental y el oriental.",
       "d) La longitud del meridiano terrestre es de 40.000 km."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "105. Topografía. Meridianos y Meridiano de Greenwich. ¿Cuál de las siguientes afirmaciones es correcta?",
@@ -1047,7 +1047,7 @@
       "c) Todos los puntos de un círculo meridiano tienen igual latitud o difieren en 180 grados.",
       "d) Todos los puntos de un círculo meridiano tienen distinta latitud o difieren en 180 grados."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "106. Topografía. Paralelo y Ecuador. Señala la INCORRECTA:",
@@ -1057,7 +1057,7 @@
       "c) Todas las zonas que están en un mismo paralelo tienen igual longitud.",
       "d) Existen gran infinidad de paralelos, pero los más relevantes y conocidos son: Trópico de Cáncer, situado a 23o 27 ́ de latitud norte, y Trópico de Capricornio, situado a 23o 27 ́ de latitud sur."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "107. Topografía. Coordenadas Geográficas. Longitud. ¿Cuál de las siguientes definiciones es correcta?",
@@ -1067,7 +1067,7 @@
       "c) La longitud de un punto es la medida del arco del Meridiano de Greenwich entre el meridiano que pasa por el Ecuador y el meridiano elegido como origen.",
       "d) La longitud de un punto es la medida del arco del Ecuador entre el meridiano que pasa por el punto y el meridiano elegido como origen."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "108. Topografía. Coordenadas Geográficas. Longitud.",
@@ -1077,7 +1077,7 @@
       "c) La longitud está íntimamente relacionada con la hora, puesto que cada meridiano tiene una hora diferente.",
       "d) Todas son correctas."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "109. Topografía. Coordenadas Geográficas. Latitud. ¿Cuál de las siguientes definiciones es correcta?",
@@ -1087,7 +1087,7 @@
       "c) La latitud de un punto es la distancia angular que hay desde un punto de la superficie de la tierra hasta el Meridiano de Greenwich.",
       "d) Todas son incorrectas."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "110. Topografía. Coordenadas Geográficas. Latitud. Señala la INCORRECTA:",
@@ -1097,7 +1097,7 @@
       "c) Fruto de la combinación longitud y latitud, podemos definir la posición de un punto.",
       "d) Dados dos puntos, uno al norte del Ecuador y otro al sur, pueden tener igual latitud pero distinta longitud."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "111. Topografía. ¿Qué tipos de Nortes existen en topografía?",
@@ -1107,7 +1107,7 @@
       "c) Norte Boreal.",
       "d) Todas son correctas."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "112. Topografía. ¿Cómo viene representado en los mapas el Norte Geográfico?",
@@ -1117,7 +1117,7 @@
       "c) Con una estrella.",
       "d) Con una hoz."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "113. Topografía. ¿Qué es la declinación magnética?",
@@ -1127,7 +1127,7 @@
       "c) Es la diferencia angular entre el Norte Geográfico y el Norte Magnético.",
       "d) Todas son incorrectas."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "114. Topografía. ¿Cuántos grados sexagesimales son 48 grados centesimales?",
@@ -1137,7 +1137,7 @@
       "c) 51o 6’.",
       "d) 432o."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "115. Topografía. ¿Qué otro nombre reciben las curvas de nivel?",
@@ -1147,7 +1147,7 @@
       "c) Isótopos.",
       "d) Equanimus level curves."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "116. Topografía. ¿Cómo viene representando en el mapa un entrante en el terreno?",
@@ -1157,7 +1157,7 @@
       "c) Viene representado por los meridianos que presentan su concavidad en el sentido de las altitudes decrecientes.",
       "d) Viene representado por una serie de curvas que presentan su concavidad en el sentido de las altitudes decrecientes."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "117. Topografía. ¿Cuál es la máxima precisión apreciable en un plano a escala 1:2000?",
@@ -1167,7 +1167,7 @@
       "c) 4 metros.",
       "d) 2 metros."
     ],
-    "respuesta": "B"
+    "respuesta": "b"
   },
   {
     "pregunta": "118. Topografía. ¿A qué llamamos distancia horizontal o reducida?",
@@ -1177,7 +1177,7 @@
       "c) A la distancia medida entre dos puntos del terreno, siguiendo las sinuosidades del mismo.",
       "d) Todas son incorrectas."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "119. Topografía. Dos puntos de cota A (625m) y B (710m) se encuentran separados en un plano a escala 1:5000 por una distancia de 2,5cm. ¿Cuál es su pendiente?",
@@ -1187,7 +1187,7 @@
       "c) 24%.",
       "d) 12,5%."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "120. Topografía. Hallar la diferencia de nivel entre dos puntos a los que les separa en un plano a escala 1:1000 una distancia reducida de 0,02m y en el terreno una distancia geométrica de 25m:",
@@ -1197,7 +1197,7 @@
       "c) 230 mm.",
       "d) 15 metros."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "121. Topografía. ¿Cómo se denomina al terreno que en cuanto a su estructura presenta laderas abruptas y a veces casi inaccesibles?",
@@ -1207,7 +1207,7 @@
       "c) Abruptoso.",
       "d) Pedregoso."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "122. Topografía. ¿Qué es la longitud de un punto?",
@@ -1217,7 +1217,7 @@
       "c) Es el ángulo que forma el meridiano que pasa por ese punto y el meridiano de origen.",
       "d) a) y b) son correctas."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "123. Topografía. ¿Cuántos metros cuadrados tiene una hectárea?",
@@ -1227,7 +1227,7 @@
       "c) 1000.",
       "d) 10000."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "124. Topografía. Escalas. Sabiendo que un plano está a escala 1:9000, ¿qué representación tiene en el plano una distancia horizontal medida en el propio terreno de 270 metros?",
@@ -1237,7 +1237,7 @@
       "c) 3 cm.",
       "d) 3,33 cm."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "125. Topografía. ¿Cómo se denomina la diferencia constante de nivel entre dos curvas consecutivas?",
@@ -1247,7 +1247,7 @@
       "c) Equidistancia de nivel.",
       "d) Equidistancia de superficie."
     ],
-    "respuesta": "A"
+    "respuesta": "a"
   },
   {
     "pregunta": "126. Topografía. Escalas. La distancia horizontal entre dos puntos de un terreno es de 120 metros. Si esa distancia está representada en un plano por una longitud de 8 milímetros, ¿cuál es la escala del plano?",
@@ -1257,7 +1257,7 @@
       "c) 1:2000.",
       "d) 1:15000."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "127. Topografía. Escalas. Si la distancia entre dos puntos A y B en un plano es de 80 milímetros, y su distancia horizontal en el terreno es de 4000 metros, ¿cuál es la escala del plano?",
@@ -1267,7 +1267,7 @@
       "c) 1:50000.",
       "d) 1:500000."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "128. Topografía. ¿Cómo se llama al punto más bajo de una cresta, flanqueado por laderas escarpadas y de gran pendiente?",
@@ -1277,7 +1277,7 @@
       "c) Ibón.",
       "d) Desfiladero."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   },
   {
     "pregunta": "129. Topografía. ¿Cuál de las siguientes es una forma topográfica compuesta?",
@@ -1287,7 +1287,7 @@
       "c) Collado.",
       "d) a) y b) son correctas."
     ],
-    "respuesta": "C"
+    "respuesta": "c"
   },
   {
     "pregunta": "130. Topografía. ¿En cuántos grados se divide la graduación sexagesimal?",
@@ -1297,6 +1297,6 @@
       "c) 180.",
       "d) 360."
     ],
-    "respuesta": "D"
+    "respuesta": "d"
   }
 ]
