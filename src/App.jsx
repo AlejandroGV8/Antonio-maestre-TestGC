@@ -27,6 +27,7 @@ import fuerzasCuerposSeguridadData from './data/fuerzas_cuerpos_seguridad.json';
 import tema17TicData from './data/tema_17_tic.json';
 import tema18TopografiaData from './data/tema_18_topografia.json';
 import tema16ProteccionCivilDesarrolloSostenibleEficienciaEnergeticaData from './data/tema_16_proteccion_civil_desarrollo_sostenible_eficiencia_energetica.json';
+import tema22ArmasExplosivosData from './data/tema_22_armas_explosivos.json';
 import modelo1A2025Data from './data/examen_oficial_modelo_1a_2025';
 import modeloB2025Data from './data/examen_oficial_modelo_b_2025';
 import TEMA_12_EXTRANJERIA from './data/tema_12_extranjeria';
@@ -62,6 +63,7 @@ function App() {
     tema_19_deontologia_profesional: 19,
     tema_20_responsabilidad_penal_menores: 20,
     viogen: 21,
+    tema_22_armas_explosivos: 22,
     tema_23_derecho_fiscal: 23
   };
 
@@ -227,6 +229,12 @@ function App() {
         nombre: 'TEMA 21. VIOGEN',
         tipo: 'general',
         preguntas: viogenData
+      },
+      {
+        id: 'tema_22_armas_explosivos',
+        nombre: 'TEMA 22. Armas y Explosivos',
+        tipo: 'general',
+        preguntas: tema22ArmasExplosivosData
       },
       {
         id: 'tema_23_derecho_fiscal',
