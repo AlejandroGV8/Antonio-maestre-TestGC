@@ -38,6 +38,14 @@ import TEMA_23_DERECHO_FISCAL from './data/tema_23_derecho_fiscal';
 function App() {
   const API_BASE_URL = 'https://o190h5xj5e.execute-api.eu-west-1.amazonaws.com';
   const MONOGRAFICO_THEME_ID = 'onu_monograficos';
+  const GUEST_VISIBLE_THEME_IDS = new Set([
+    'derechos_humanos',
+    'igualdad',
+    'prl',
+    'derecho_constitucional',
+    'ue',
+    'viogen'
+  ]);
   const SYLLABUS_ORDER = {
     derechos_humanos: 1,
     igualdad: 2,
@@ -457,6 +465,10 @@ function App() {
       if (homeMode === 'oficial') return theme.tipo === 'oficial';
       return theme.tipo !== 'monografico' && theme.tipo !== 'oficial';
     })
+    .filter((theme) => {
+      if (isLoggedIn) return true;
+      return GUEST_VISIBLE_THEME_IDS.has(theme.id);
+    })
     .sort((a, b) => {
       const orderDiff = getThemeOrder(a.id) - getThemeOrder(b.id);
       if (orderDiff !== 0) return orderDiff;
@@ -467,18 +479,23 @@ function App() {
     .filter(theme => selectedThemes.includes(theme.id) && visibleThemes.some(visible => visible.id === theme.id))
     .reduce((sum, theme) => sum + theme.preguntas.length, 0);
 
-  const answersViewerThemes = [...themes].sort((a, b) => {
-    const aIsOfficial = a.tipo === 'oficial';
-    const bIsOfficial = b.tipo === 'oficial';
+  const answersViewerThemes = [...themes]
+    .filter((theme) => {
+      if (isLoggedIn) return true;
+      return GUEST_VISIBLE_THEME_IDS.has(theme.id);
+    })
+    .sort((a, b) => {
+      const aIsOfficial = a.tipo === 'oficial';
+      const bIsOfficial = b.tipo === 'oficial';
 
-    if (aIsOfficial !== bIsOfficial) {
-      return aIsOfficial ? 1 : -1;
-    }
+      if (aIsOfficial !== bIsOfficial) {
+        return aIsOfficial ? 1 : -1;
+      }
 
-    const orderDiff = getThemeOrder(a.id) - getThemeOrder(b.id);
-    if (orderDiff !== 0) return orderDiff;
-    return a.nombre.localeCompare(b.nombre, 'es');
-  });
+      const orderDiff = getThemeOrder(a.id) - getThemeOrder(b.id);
+      if (orderDiff !== 0) return orderDiff;
+      return a.nombre.localeCompare(b.nombre, 'es');
+    });
 
   return (
     <>
